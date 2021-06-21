@@ -7,7 +7,7 @@ blurb:
     text: "Young kids easily pickup new languages, Italian in particular connects them to art, history, literature and cuisine. They can then proceed to earn credits for High School and College requirements."
 intro:
     heading: "Classes"
-    text: "Classes are 2 hours per week, for 9 months, from the beginning of September to the end of May, they are organized in 2 tracks:"
+    text: "Classes are 2 hours per week in the afternoon, for 9 months, from the beginning of September to the end of May, they are organized in 2 tracks:"
 products:
     - image: img/illustrations-coffee.svg
       text: "Italian-learners classes are grouped by age and level, they are focused on learning the basis of the Italian language from scratch, once the basis are covered, the students are also introduced to Italian costumes and culture."
