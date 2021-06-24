@@ -9,9 +9,9 @@ intro:
     heading: "Classes 2021/2022"
     text: "Classes are 2 hours per week in the afternoon in person in University City, from the beginning of September to the end of May, they are organized in 2 tracks:"
 products:
-    - image: img/illustrations-coffee.svg
+    - image: img/italian-learners-classes.svg
       text: "Italian-learners classes are grouped by age and level, they are focused on learning the basis of the Italian language from scratch, once the basis are covered, the students are also introduced to Italian costumes and culture."
-    - image: /img/illustrations-coffee-gear.svg
+    - image: /img/italian-school-classes.svg
       text: "Italian-school classes are targeted at students already fluent in Italian, they focus on teaching topics as taught in Elementary and Middle schools in Italy like Grammar, History, Geography and Literature."
 values:
     heading: About
