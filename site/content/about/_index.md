@@ -5,5 +5,5 @@ values:
   - heading: "About"
     text: >
       About the Italian school text
-    imageUrl: "img/home-about-section.jpg"
+    imageUrl: "img/italian_blackboard.jpg"
 ---
