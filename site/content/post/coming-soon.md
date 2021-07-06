@@ -1,6 +1,6 @@
 ---
 title: Coming soon
-date: 2021-07-06T15:04:10.000Z
+date: 2021-07-05T15:04:10.000Z
 description: Getting ready to start in September 2021
 ---
 
