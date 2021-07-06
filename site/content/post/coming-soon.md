@@ -1,8 +1,7 @@
 ---
 title: Coming soon
 date: 2021-07-06T15:04:10.000Z
-description: >-
-  Coming soon
+description: Getting ready to start in September 2021
 ---
 
 The Italian school of San Diego is getting everything ready to start
