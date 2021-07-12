@@ -12,7 +12,7 @@ products:
     - image: img/italian-learners-classes.svg
       text: "Italian-learners classes are grouped by age and level, they are focused on learning the basis of the Italian language from scratch, once the basis are covered, the students are also introduced to Italian costumes and culture."
     - image: /img/italian-school-classes.svg
-      text: "Italian-school classes are targeted at students already fluent in Italian, they focus on teaching topics as taught in Elementary and Middle schools in Italy like Grammar, History, Geography and Literature."
+      text: "Italian-heritage classes are targeted at students already fluent in Italian, they focus on teaching topics as taught in Elementary and Middle schools in Italy like Grammar, History, Geography and Literature."
 values:
     heading: About
     text: Our instructors are all mother-tongue Italian, they are experienced and passionate about teaching kids their own language and culture.
