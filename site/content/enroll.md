@@ -1,6 +1,6 @@
 ---
 title: Pre-enrollment
-image: /img/milan.jpg
+image: /img/lastsupper.jpg
 subtitle: Pre-enroll to classes for the academic year 2021-2022
 ---
 

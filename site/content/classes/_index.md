@@ -1,6 +1,6 @@
 ---
 title: Italian classes in San Diego
-image: /img/lastsupper.jpg
+image: /img/milan.jpg
 subtitle: Classes for the academic year 2021-2022
 ---
 
