@@ -7,7 +7,7 @@ subtitle: Classes for the academic year 2021-2022
 ## Italian-heritage classes for kids K-6
 
 Italian-heritage classes allow kids that are already advanced or fluent in Italian, not necessarily mother-tongue, to deepen their knowledge of the
-Italian language and learn many of the topics taught to their peers in Italy. The instructors are all mother-tongue and will teach in Italian.
+Italian language and learn many of the topics taught to their peers in Italy, starting from the four baic language skills: comprehension, reading , writing and oral production. Starting from 3rd grade, the program will be enriched with the study of history and geography topics present in the Italian public school program. The instructors are all mother-tongue and they will teach in Italian.
 
 The classes initially will follow programs similar to those already offered by the Italian American Academy of San Diego.
 
@@ -18,7 +18,6 @@ we are planning to start soon the certification process with the San Diego Unifi
 ### Location
 
 Classrooms of the *Our Mother of Confidence* church, at [3131 Governor Dr in San Diego](https://goo.gl/maps/JZ8NLksf8FQvDPGu6).
-Adult classes will most probably be online via Zoom.
 
 ### Calendar
 
