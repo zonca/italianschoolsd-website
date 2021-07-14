@@ -37,13 +37,22 @@ through language-reinforcing activities.
 
 Classes will have between 4 and 8 students.
 
-For kids aged K-8 we can offer both 2-hour/week in-person classes at the same location and schedule of the Italian-heritage classes above
-or online classes via Zoom on Monday between 4pm and 5:30pm (first class on September 6th) or on Wednesday, still 4-5:30pm (first class on September 8th), please specify your preference at pre-enrollment.
+For **kids in grade K to 8** we offer 2-hours classes once a week:
 
-For older kids and adults, we offer 1 hour and 30 minutes Zoom classes once a week on Tuesday either from 9am to 10:30am or from 6:30pm to 8pm (first class on September 7th), alternatively we can offer an in-person class at *Our Mother of Confidence* on Thursdays overlapping with the kids between 4:30pm and 6pm.
+* in-person classes at the same location and schedule of the Italian-heritage classes above
+* online classes via Zoom on Monday between 4pm and 5:30pm (first class on September 6th)
+* online classes via Zoom on Wednesday, still 4-5:30pm (first class on September 8th)
+
+For **older kids and adults**, we offer 1 hour and 30 minutes classes once a week:
+
+* online via Zoom on Tuesday morning from 9am to 10:30am (first class on September 7th)
+* online via Zoom on Tuesday from 6:30pm to 8pm (first class on September 7th)
+* in-person class at *Our Mother of Confidence* on Thursdays overlapping with the kids between 4:30pm and 6pm.
+
+please specify your preference at pre-enrollment.
+
 Once we receive all pre-enrollments, we will group the students by age, assign a teacher, decide the most suitable time-slot and notify the students, they will then have
 until August 25th to confirm their enrollment by paying the invoice.
-
 
 <div class="tc">
 <a href="/enroll" class="btn raise">Learn more about pre-enrollment</a>
