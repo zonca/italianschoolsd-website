@@ -1,7 +1,6 @@
 ---
 title: Enrollment is open
 date: 2021-07-15T15:04:10.000Z
-description: Pre-enroll in 2021-2022 Italian language classes
 ---
 
 Pre-enrollment is now open for the 2021-2022 academic year.
