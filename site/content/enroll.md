@@ -35,6 +35,10 @@ Tuition for 9 months of instruction at 1 hour and 30 minutes once a week:
 * **$900** via Zoom
 * **$1100** in-person
 
+<div class="tc">
+<a href="https://forms.gle/ESaASFqNxkq27KCz7" class="btn raise">Fill the pre-enrollment form</a>
+</div>
+
 ## Payment
 
 Tuition can be paid in 2 installments: half by August 25th and half by January 15th.
