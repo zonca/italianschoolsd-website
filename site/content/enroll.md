@@ -40,7 +40,7 @@ Tuition for 9 months of instruction at 1 hour and 30 minutes once a week:
 Tuition can be paid in 2 installments: half by August 25th and half by January 15th.
 Alternatively, a monthly payment plan incurs in a fee of 10%, 2/9 of the amount is due September 1st, then 1/9 is due each 1st of the month October to April.
 
-Payments by credit card incur a 3% gateway processing fee, absent for payments via [**Zelle** (free and supported by most US banks)](https://www.zellepay.com/get-started) or by check. We do not accept checks for the monthly payments, except for the first payment.
+Payments by credit card incur a 3% gateway processing fee, absent for payments via [**Zelle** (free and supported by most US banks)](https://www.zellepay.com/get-started) or by check. We do not accept checks for the monthly payment plan, except for the first payment.
 Payments sent more than 10 days late incur a $30 administrative fee.
 
 ## Cancellation

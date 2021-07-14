@@ -32,10 +32,9 @@ last class on June 2nd for a total of 34 weeks of instruction.
 ## Italian-learners classes for kids (K-8) and adults
 
 Italian-learners classes are devoted to prospective students which haven't started to learn Italian yet or are beginners.
-Instruction will first cover the basics of Italian, using a conversation-first approach and engaging the students
-through language-reinforcing activities.
+Instruction will be in English, it will first cover the basics of Italian, using a conversation-first approach and engaging the students through language-reinforcing activities.
 
-Classes will have between 4 and 8 students.
+Classes will have between 4 and 8 students online, 5-10 in-person.
 
 For **kids in grade K to 8** we offer 2-hours classes once a week:
 
