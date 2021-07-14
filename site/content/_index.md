@@ -4,7 +4,7 @@ subtitle: Italian classes for kids and adults in San Diego
 image: /img/rome-4282499.jpg
 blurb:
     heading: Why learn Italian?
-    text: "Young kids easily pickup new languages, Italian in particular connects them to art, history, literature and cuisine. They can then proceed to earn credits for High School and College requirements."
+    text: "Young kids easily pickup new languages, Italian in particular connects them to art, history, literature and cuisine."
 intro:
     heading: "Classes 2021/2022"
     text: "Classes are 2 hours per week in the afternoon in person in University City, from the beginning of September to the end of May, they are organized in 2 tracks:"
