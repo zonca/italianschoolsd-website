@@ -10,7 +10,7 @@ intro:
     text: "Classes are 2 hours per week in the afternoon in person in University City, from the beginning of September to the end of May, they are organized in 2 tracks:"
 products:
     - image: img/italian-learners-classes.svg
-      text: "Italian-learners classes are grouped by age and level, they are focused on learning the basis of the Italian language from scratch, once the basis are covered, the students are also introduced to Italian costumes and culture."
+      text: "Italian-learners classes are grouped by age and level. They are focused on learning the basics of the Italian language from scratch. Once the basics are covered, the students are also introduced to Italian costums and culture."
     - image: /img/italian-school-classes.svg
       text: "Italian-heritage classes are targeted at students already fluent in Italian, they focus on teaching topics as taught in Elementary and Middle schools in Italy like history, geography, culture and lifestyle."
 values:
