@@ -11,7 +11,7 @@ Italian language and learn many of the topics taught to their peers in Italy, st
 
 Classes initially will follow programs based on those previously offered by the Italian American Academy of San Diego.
 
-Classes will have between 5 and 10 kids and held in person.
+Classes will have between 5 and 10 students and held in person.
 Our classes are suitable to prepare the students for Accredited Classes, however we are unable to offer them ourselves for this academic year, please check the [IAASD](https://iaasd.org) website for more information.
 We are planning to work with the San Diego Unified School district this fall to begin the certification process so that we might be able to offer Accredited classes in the future.
 
