@@ -7,13 +7,13 @@ subtitle: Classes for the academic year 2021-2022
 ## Italian-heritage classes for kids K-6
 
 Italian-heritage classes allow kids that are already advanced or fluent in Italian, not necessarily mother-tongue, to deepen their knowledge of the
-Italian language and learn many of the topics taught to their peers in Italy, starting from the four baic language skills: comprehension, reading , writing and oral production. Starting from 3rd grade, the program will be enriched with the study of history and geography topics present in the Italian public school program. The instructors are all mother-tongue and they will teach in Italian.
+Italian language and learn many of the topics taught to their peers in Italy, starting from the four baic language skills: comprehension, reading , writing and oral production. Beginning in 3rd grade, the program will be enriched with the study of history and geography topics from the Italian public school curriculum. All classes are taught in Italian by a mother-tongue Italian instructor.
 
-The classes initially will follow programs similar to those already offered by the Italian American Academy of San Diego.
+Classes initially will follow programs based on those previously offered by the Italian American Academy of San Diego.
 
-Classes will have between 5 and 10 kids and be in person.
-Our classes are suitable to prepare the students for Certified Classes but we are not able this year to offer Certified Classes,
-we are planning to start soon the certification process with the San Diego Unified School district to be ready in 1 or 2 years.
+Classes will have between 5 and 10 kids and held in person.
+Our classes are suitable to prepare the students for Accredited Classes, however we are unable to offer them ourselves for this academic year, please check the [IAASD](https://iaasd.org) website for more information.
+We are planning to work with the San Diego Unified School district this fall to begin the certification process so that we might be able to offer Accredited classes in the future.
 
 ### Location
 
