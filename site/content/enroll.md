@@ -8,8 +8,7 @@ Enrollment for the 2021-2022 classes starting on September 9th is open.
 See more information about [all the classes we offer](/classes) before pre-enrolling.
 
 Please **pre-enroll by August 15th** to secure a spot, later enrollments will be considered if space allows.
-No payment is needed at the time of pre-enrollment, we will email you a confirmation of pre-enrollment with all details
-about the proposed class within a week.
+No payment is needed at the time of pre-enrollment, we will email you a confirmation of pre-enrollment with all details about the proposed class within a week.
 
 You will need to pay the invoice attached to the confirmation email by August 25th to finalize enrollment, pre-enrollment itself is not binding.
 

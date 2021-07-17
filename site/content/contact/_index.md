@@ -15,3 +15,5 @@ contact_entries:
 Make sure you register to our newsletter in the website footer to receive latest news for us.
 
 You can also find us on Instagram, Twitter and Facebook at `italianschoolsd`.
+
+Email us at *info* on our domain `italianschoolsd.com`.
