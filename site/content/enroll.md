@@ -41,7 +41,7 @@ Tuition for 9 months of instruction at 1 hour and 30 minutes once a week:
 
 ## Payment
 
-Tuition is due in 2 equal payments (on August 25th and January 15th), and the preferred payment method is [**Zelle** (free and supported by most US banks)](https://www.zellepay.com/get-started), we also accept checks and credit cards.
+Tuition is due in 2 equal payments (on August 25th and January 15th), the preferred payment method is [**Zelle** (free and supported by most US banks)](https://www.zellepay.com/get-started), we also accept checks and credit cards.
 
 Alternatively, we offer a monthly payment plan:
 
