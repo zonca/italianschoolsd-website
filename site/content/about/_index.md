@@ -1,6 +1,6 @@
 ---
 title: "About"
-image: /img/rome-4282499.jpg
+image: /img/firenze.jpg
 values:
   - heading: "About"
     text: >
