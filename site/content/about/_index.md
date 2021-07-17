@@ -52,10 +52,16 @@ Andrea moonlights to handle business operations, accounting and web development 
 
 He also loves learning languages as a hobby: he speaks Italian, English, Spanish, some French, some Russian and started studying Chinese.
 
+## Our instructors
+
+Coming soon!
+
 ## Our staff
 
 ### Iris Zonca - Social media manager
 
+![Iris Zonca](/img/iris_zonca.jpg)
+
 Iris, Maura and Andrea's daughter, is Italian-English bilingual, she attended Italian classes at the Italian American Academy of San Diego and attended 4th grade in Italy.
 
-She gained experience on Instagram during the pandemic posting photos of her guinea pigs and growing her audience organically to 3000 followers. Iris manages the Twitter, Instagram and Facebook accounts for the Italian school of San Diego.
+She gained experience on Instagram during the pandemic growing her audience organically to 3000 followers. Iris manages the Twitter, Instagram and Facebook accounts for the Italian school of San Diego.
