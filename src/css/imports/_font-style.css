@@ -1,6 +1,8 @@
 .i         { font-style: italic; }
 .fs-normal { font-style: normal; }
 
+code { font-family: monospace; }
+
 @media (--breakpoint-not-small) {
   .i-ns       { font-style: italic; }
   .fs-normal-ns     { font-style: normal; }

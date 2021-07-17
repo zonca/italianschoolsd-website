@@ -11,3 +11,7 @@ disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
 [permalinks]
   news = "/news/:year/:month/:title/"
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
