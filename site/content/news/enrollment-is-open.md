@@ -13,3 +13,5 @@ accepted if space allows.
 Pre-enrollment itself is free and not binding, enrollment will be finalized at payment.
 
 Don't miss the info night on Zoom on August 23rd, subscribe to our announcement list in the website footer to be notified.
+
+Please [contact us](/contact) if you have any questions or doubts.
