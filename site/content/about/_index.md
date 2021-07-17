@@ -11,7 +11,7 @@ values:
 
 ## Our founders
 
-### Maura D'Andrea - School director
+### Maura D'Andrea - School director and teacher
 
 ![Maura D'Andrea](/img/maura_dandrea.jpg)
 
@@ -30,7 +30,7 @@ With joy and enthusiasm she also organizes informal events for Italian families 
 
 In 2021 Maura decided to open the Italian school of San Diego to continue the mission undertaken by the Italian American Academy of San Diego of teaching Italian and Italy's culture.
 
-### Marilisa Dowling - Director of K-3 classes
+### Marilisa Dowling - Director of K-3 classes and teacher
 
 ![Marilisa Dowling](/img/marilisa_dowling.jpg)
 
@@ -51,3 +51,11 @@ He has a PhD in Astrophysics and works as a computational scientist at the Unive
 Andrea moonlights to handle business operations, accounting and web development for the Italian school of San Diego.
 
 He also loves learning languages as a hobby: he speaks Italian, English, Spanish, some French, some Russian and started studying Chinese.
+
+## Our staff
+
+### Iris Zonca - Social media manager
+
+Iris, Maura and Andrea's daughter, is Italian-English bilingual, she attended Italian classes at the Italian American Academy of San Diego and attended 4th grade in Italy.
+
+She gained experience on Instagram during the pandemic posting photos of her guinea pigs and growing her audience organically to 3000 followers. Iris manages the Twitter, Instagram and Facebook accounts for the Italian school of San Diego.
