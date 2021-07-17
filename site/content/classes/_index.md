@@ -18,6 +18,7 @@ We are planning to work with the San Diego Unified School district this fall to 
 ### Location
 
 Classrooms of the *Our Mother of Confidence* church, at [3131 Governor Dr in San Diego](https://goo.gl/maps/JZ8NLksf8FQvDPGu6).
+All in-person classes require both students and instructors to wear masks, independently of vaccination status, see [more details about our COVID-19 protocol](/covid19).
 
 ### Calendar
 
@@ -34,6 +35,7 @@ Italian-learners classes are devoted to prospective students which haven't start
 Instruction will be in English, it will first cover the basics of Italian, using a conversation-first approach and engaging the students through language-reinforcing activities.
 
 Classes will have between 4 and 8 students online, 5-10 in-person.
+All in-person classes require both students and instructors to wear masks, independently of vaccination status, see [more details about our COVID-19 protocol](/covid19).
 
 For **kids in grade K to 8** we offer 2-hours classes once a week:
 
