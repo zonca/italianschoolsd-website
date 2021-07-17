@@ -1,7 +1,7 @@
 ---
 title: "Italian School of San Diego"
 subtitle: Italian classes for kids and adults in San Diego
-image: /img/rome-4282499.jpg
+image: /img/colosseum.jpg
 blurb:
     heading: Why learn Italian?
     text: "Young kids easily pickup new languages, Italian in particular connects them to art, history, literature and cuisine."
