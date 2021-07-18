@@ -53,6 +53,8 @@ please specify your preference at pre-enrollment.
 
 Once we receive all pre-enrollments, we will group the students by age, assign a teacher, decide the most suitable time-slot and notify the students, they will then have until August 25th to confirm their enrollment by paying the invoice.
 
+If none of the classes we offer suits your needs, please still submit the pre-enrollment form and specify in the last field named "Custom request" what your are looking for. We will contact you back to discuss solutions.
+
 <div class="tc">
 <a href="/enroll" class="btn raise">Tuition and pre-enrollment information</a>
 </div>
