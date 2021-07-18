@@ -26,7 +26,7 @@ In-person classes are 2 hours per week, 4-6pm on Thursdays, first class on Septe
 last class on June 2nd for a total of 34 weeks of instruction.
 
 <div class="tc">
-<a href="/enroll" class="btn raise">Learn more about pre-enrollment</a>
+<a href="/enroll" class="btn raise">Tuition and pre-enrollment information</a>
 </div>
 
 ## Italian-learners classes for kids (K-8) and adults
@@ -54,7 +54,7 @@ please specify your preference at pre-enrollment.
 Once we receive all pre-enrollments, we will group the students by age, assign a teacher, decide the most suitable time-slot and notify the students, they will then have until August 25th to confirm their enrollment by paying the invoice.
 
 <div class="tc">
-<a href="/enroll" class="btn raise">Learn more about pre-enrollment</a>
+<a href="/enroll" class="btn raise">Tuition and pre-enrollment information</a>
 </div>
 
 ## Custom group classes
