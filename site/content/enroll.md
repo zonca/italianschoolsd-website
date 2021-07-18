@@ -46,12 +46,12 @@ Tuition is due in 2 equal payments (on August 25th and January 15th), the prefer
 Alternatively, we offer a monthly payment plan:
 
 * additional administrative fee of 10%
-* 2/9 of tutition is due August 25th with any payment method
+* 2/9 of tuition is due August 25th with any payment method
 * 7 monthly payments October 1st to April 1st (no checks accepted for these monthly payments)
 
 ## Cancellation
 
-Enrollment in the Italian school can be cancelled with 30 day notice via email (to `admin` on our website domain `italianschoolsd.com`), tuition will be prorated (at the month-by-month rate in case of prepayment) and partially reimbursed if necessary, a $50 administrative fee will be added to the account. No cancellations are accepted after March 31st.
+Enrollment in the Italian school can be canceled with 30 day notice via email (to `admin` on our website domain `italianschoolsd.com`), tuition will be prorated (at the month-by-month rate in case of prepayment) and partially reimbursed if necessary, a $50 administrative fee will be added to the account. No cancellations are accepted after March 31st.
 
 Tuition will be fully reimbursed if cancellation is 2 weeks before school starts.
 
