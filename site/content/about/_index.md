@@ -54,6 +54,14 @@ He also loves learning languages as a hobby: he speaks Italian, English, Spanish
 
 ## Our instructors
 
+### Marina Johnson
+
+Marina was born and raised in Caserta, Italy, and obtained her Master Degree in English and French literature, specializing in history and cultural studies, at the Universita' L' Orientale in Naples. After graduation, she spent a period of study in England and of traveling to over 25 countries before settling down in San Diego with her family in 2019.
+
+Mother of three kids, she cultivated her interest in Education volunteering for her kids classes. Marina has been teaching Italian language, literature and writing to children and adults. She joined the Italian American Academy of San Diego faculty in 2019 and taught 1st and 2nd grade classes.
+
+Her focus is to make the class fun and interactive.
+
 ### Maria Luisa Sacchi
 
 ![Maria Luisa Sacchi](/img/maria_luisa_sacchi.jpg)
@@ -73,6 +81,10 @@ Born in Rome and raised both in the north and in the south of Italy, Cecilia has
 Soon after graduating in Electrical Engineering in Catania with honors, she moved to San Diego with her husband and started her family. Having children motivated her to strengthen her bonds to the Italian language and culture, in order to pass them onto her kids.
 
 In recent years she dedicated herself to figurative art, using traditional drawing and painting to capture the beauty of people and places.
+
+### Anna Quintini
+
+Bio coming soon.
 
 ## Our staff
 
