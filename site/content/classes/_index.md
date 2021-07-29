@@ -41,7 +41,7 @@ For **kids in grade K to 8** we offer 2-hour in-person classes or 1.5-hour Zoom 
 
 * in-person classes at the same location and schedule of the Italian-heritage classes above
 * online classes via Zoom on Monday between 4pm and 5:30pm (first class on September 6th)
-* online classes via Zoom on Wednesday, still 4-5:30pm (first class on September 8th)
+* online classes via Zoom on Tuesday, still 4-5:30pm (first class on September 7th)
 
 For **older kids and adults**, we offer 1 hour and 30 minutes classes once a week:
 
