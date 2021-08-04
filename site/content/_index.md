@@ -1,5 +1,5 @@
 ---
-title: "Italian School of San Diego"
+title: "Italian school of San Diego"
 subtitle: Italian classes for kids and adults in San Diego
 image: /img/colosseum.jpg
 blurb:
