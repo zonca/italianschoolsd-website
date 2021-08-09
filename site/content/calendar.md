@@ -3,7 +3,6 @@ title: Calendar
 image: /img/lastsupper.jpg
 subtitle: Calendar 2021-2022
 ---
-
 Calendar for the 2021-2022 year for the in-person heritage classes (Thursdays 4-6pm) is available via Google Calendar, click on the `+ Google Calendar` button at the bottom of the integrated calendar below to add it to your calendars.
 
 * [Full page web view of the calendar](https://calendar.google.com/calendar/embed?src=ftdcclbhb2376sq8hudue9nb50%40group.calendar.google.com)
