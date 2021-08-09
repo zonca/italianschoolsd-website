@@ -2,11 +2,16 @@ baseurl = "/"
 languageCode = "en-us"
 languageLang = "en"
 title = "Italian school of San Diego"
+copyright = 'This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.'
+rssLimit = 20
 
-# RSS, categories and tags disabled for an easy start
+# categories and tags disabled for an easy start
 # See configuration options for more details: 
 # https://gohugo.io/getting-started/configuration/#toml-configuration
-disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
+disableKinds = ["taxonomy", "taxonomyTerm"]
+
+[author]
+name = "Italian school of San Diego"
 
 [permalinks]
   news = "/news/:year/:month/:title/"
