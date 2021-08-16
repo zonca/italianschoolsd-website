@@ -56,6 +56,8 @@ He also loves learning languages as a hobby: he speaks Italian, English, Spanish
 
 ### Marina Johnson
 
+![Marina Johnson](/img/marina_johnson.jpg)
+
 Marina was born and raised in Caserta, Italy, and obtained her Master Degree in English and French literature, specializing in history and cultural studies, at the Universita' L' Orientale in Naples. After graduation, she spent a period of study in England and of traveling to over 25 countries before settling down in San Diego with her family in 2019.
 
 Mother of three kids, she cultivated her interest in Education volunteering for her kids classes. Marina has been teaching Italian language, literature and writing to children and adults. She joined the Italian American Academy of San Diego faculty in 2019 and taught 1st and 2nd grade classes.
