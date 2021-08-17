@@ -7,10 +7,10 @@ subtitle: Pre-enroll to classes for the academic year 2021-2022
 Enrollment for the 2021-2022 classes starting on September 9th is open.
 See more information about [all the classes we offer](/classes) before pre-enrolling.
 
-Please **pre-enroll by August 15th** to secure a spot, later enrollments will be considered if space allows.
-No payment is needed at the time of pre-enrollment, we will email you a confirmation of pre-enrollment with all details about the proposed class within a week.
+Please **pre-enroll by August 15th (extended to August 20th)** to secure a spot, later enrollments will be considered if space allows.
+No payment is needed at the time of pre-enrollment, we will email you a confirmation of pre-enrollment with all details about the proposed class on Saturday August 21st.
 
-You will need to pay the invoice attached to the confirmation email by August 25th to finalize enrollment, pre-enrollment itself is not binding.
+You will need to pay the invoice attached to the confirmation email by August 27th to finalize enrollment, pre-enrollment itself is not binding.
 
 ## Info night
 
@@ -41,12 +41,12 @@ Tuition for 9 months of instruction at 1 hour and 30 minutes once a week:
 
 ## Payment
 
-Tuition is due in 2 equal payments (on August 25th and January 15th), the preferred payment method is [**Zelle** (free and supported by most US banks)](https://www.zellepay.com/get-started), we also accept checks and credit cards.
+Tuition is due in 2 equal payments (on August 27th and January 15th), the preferred payment method is [**Zelle** (free and supported by most US banks)](https://www.zellepay.com/get-started), we also accept checks and credit cards.
 
 Alternatively, we offer a monthly payment plan:
 
 * additional administrative fee of 10%
-* 2/9 of tuition is due August 25th with any payment method
+* 2/9 of tuition is due August 27th with any payment method
 * 7 monthly payments October 1st to April 1st (no checks accepted for these monthly payments)
 
 ## Cancellation
