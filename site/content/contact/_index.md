@@ -4,8 +4,8 @@ logo: "/img/logo.svg"
 contact_entries:
   - heading: Classes location
     text: >
-      3131 Governor Dr (in University City) <br />
-      San Diego, 92122 <br />
+      3131 Governor Dr (in University City)
+      San Diego
       Please do not send mail
   - heading: Email address
     text: >
