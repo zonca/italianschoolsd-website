@@ -59,16 +59,6 @@
 		padding-left: var(--spacing-small);
 	}
 
-	& ul {
-		margin-left: 1.33rem;
-		& >li:before {
-			content: '✱';
-			left: -1.33rem;
-			position: absolute;
-			color: var(--primary);
-		}
-	}
-
 	& ol {
 		list-style: none;
 		margin-left: var(--spacing-medium);
