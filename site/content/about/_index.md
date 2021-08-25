@@ -84,19 +84,6 @@ Soon after graduating in Electrical Engineering in Catania with honors, she move
 
 In recent years she dedicated herself to figurative art, using traditional drawing and painting to capture the beauty of people and places.
 
-### Anna Quintini
-
-![Anna Quintini](/img/anna_quintini.jpg)
-
-Born and raised in Milan, she then moved with her family to Vetto (a small town in the appennino Tosco – Emiliano ) in the province of Emilia Romagna. Here she took her Teaching Diploma from Malaguzzi school, learning the method of Reggio Emilia Approach (focusing in preschool and primary education).
-
-She had been teaching in Italian public schools since 1986. In 1997 she moved to San Diego to become a business restaurant owner. She met her husband and had a baby girl. Her passion to teach was too strong and she went back to school in Mesa College where she received her Association Degree in Child Development.
-
-In 2009 Anna started working as a preschool teacher in Pacific Beach, specializing in teaching Pre-K and TK children. To keep her level of teaching and communication with kids and parents always up to date, she periodically takes Child Development workshops. Anna also received the NAEYC Accreditation (National Association from Education of Young Children). She speaks three languages (Italian, English, Spanish). She's a very active person.
-
-Since 2015 she has been teaching Italian language and culture for children aged 3 to 7 at IAASD.
-
-
 ## Our staff
 
 ### Iris Zonca - Social media manager
