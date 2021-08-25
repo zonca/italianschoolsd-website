@@ -48,6 +48,7 @@ Alternatively, we offer a monthly payment plan:
 * additional administrative fee of 10%
 * 2/9 of tuition is due August 27th with any payment method
 * 7 monthly payments October 1st to April 1st (no checks accepted for these monthly payments)
+* for example, an in-person heritage class with monthly payments costs a total of `$1489*1.1=1638`, it has 9 monthly payments of $182. Two of those payments (first and last month) are due at enrollment ($364), the other 7 monthly starting on October 1st and ending on April 1st (May was already paid at enrollment)
 
 ## Cancellation
 
