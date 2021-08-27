@@ -6,15 +6,34 @@ subtitle: Pandemic safety guidelines for the academic year 2021-2022
 
 ## Summary
 
-The California Department of Public Health (CDPH) requires all students and staff members in the school setting to wear masks when indoors, regardless of an individual's vaccination status.
+We give high priority to providing a safe environment for the kids and our teachers,
+we will follow a strict COVID-19 protocol informed by the California Department of Public Health
+and the policy of San Diego Unified School District.
 
-All students and staff will be required to wear masks indoors once school reopen on September 9.
+Here our main points:
 
-The latest CDPH rules clearly recognize the importance of universal masking at school. We understand there may be circumstances where a student may need a mask break and the teacher will take care of that. More details will be available during the info night on August 23.
-
-Masks will not be required for students or staff when outdoors. 
-
-Our policies will be updated based on the latest recommendations from the authorities.
+* **Vaccination**: All Italian school staff is vaccinated
+* **Masking**:
+	* Mandatory indoor for students and teachers (except medical condition)
+	* No eating or drinking indoor
+	* 10 min break outside for eating and drinking, 1 class at a time
+* **Distancing** ( > 3ft indoor):
+	* 8ft tables with just 2 students each
+	* No parents allowed indoor  (chairs available outside if parents prefer to stay at OMC)
+	* Classrooms oversized for number of students
+* **Cleaning**:
+	* Disinfection of tables before and after classes
+	* Bathroom has touchless soap / touchless paper towel
+* **Ventilation**:
+	* Room door open
+	* Emergency door on opposite side open
+	* Ceiling fan
+	* Ground fan (2 fans for room with no ceiling fan)
+* **Testing**:
+	* Please signup for the free COVID-19 tests at San Diego Unified schools
+* **Tracing**:
+	* Quarantined at school -> skip Italian school
+	* No symptoms checklist to bring at the school, we currently plan to take temperature with touchless thermometer at the entrance
 
 ## Detailed guidelines
 
