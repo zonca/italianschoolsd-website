@@ -42,6 +42,7 @@ Tuition for 9 months of instruction at 1 hour and 30 minutes once a week:
 ## Payment
 
 Tuition is due in 2 equal payments (on August 27th and January 15th), the preferred payment method is [**Zelle** (free and supported by most US banks)](https://www.zellepay.com/get-started), we also accept checks and credit cards.
+Please make the checks payable to `Italian school of San Diego LLC`, do not forget the LLC.
 
 Alternatively, we offer a monthly payment plan:
 
