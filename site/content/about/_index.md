@@ -54,6 +54,12 @@ He also loves learning languages as a hobby: he speaks Italian, English, Spanish
 
 ## Our instructors
 
+### Chiara Carnelos
+
+Chiara was born and raised in Gaiarine, Italy, forty-five minutes away from beautiful Venezia and obtained her Degree in Lettere e Filosofia in Padova. She spent one year in Paris, France studying the language, medieval literature and enjoying museums, gardens, and the architecture that the city offers.
+
+In 2009 she won a scholarship to attend for a month an intensive course for teachers of Italian at the Universita’ per Stranieri di Perugia. She came to San Diego in 2000 and in 2002 she started to teach at the University of California San Diego until 2018 when she decided to move back to Italy with her family for three years full of adventures. There she taught English in preschools, primary schools and to adults in collaboration with the Association: Fantasia dei Colori. While in Italy she enjoyed the delicious food and had one too many espressos! Her classes are students centered, most definitively interactive. Focus on learning and smile. She believes that children are amazing each in their own way. She embraces them all and together they learn in an atmosphere of kindness and collaboration. She is the mother of two vibrant, bilingual children of 6 and 8 who keep her busy and laughing. She loves to read, smile, art, history, nature, kindness, the smell of fresh bread, other cultures, and learn new things.
+
 ### Marina Johnson
 
 ![Marina Johnson](/img/marina_johnson.jpg)
@@ -70,7 +76,7 @@ Her focus is to make the class fun and interactive.
 
 Maria Luisa was born in the beautiful and vibrant Milan where she lived until she moved to California in 2012. She spent the first 6 years in Silicon Valley where her third son was born and then settled down in San Diego. After Liceo Classico (high school in Classical Studies) she earned her Bachelor and Master’s Degrees in Electronics Engineering at Politecnico di Milano. Few years later she obtained her Executive Master in Business Administration from Bocconi University in Milan.
 
-She worked for more than ten years in a semiconductor company in the field of business development and marketing and then she became an enterpreneur creating a website for parents (Whymum.it) and few e-commerce activities.
+She worked for more than ten years in a semiconductor company in the field of business development and marketing and then she became an entrepreneur creating a website for parents (Whymum.it) and few e-commerce activities.
 
 Becoming a mom let her realize her deep love for kids and education, that’s why she studied Child Development at the Foothills College in Palo Alto with the aim of becoming a preschool teacher. Her dream was to open an Italian school in Palo Alto. Her greatest passions are writing, reading, painting and playing piano and guitar. She regularly write on her website and she won several awards in Poetry competitions. She is in the process of getting the CEDILS certification to teach Italian as a foreign language. She feels blessed to be part of this fantastic project and team.
 
