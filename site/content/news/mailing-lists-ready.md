@@ -6,7 +6,7 @@ description: Information about the mailing lists
 
 After having issues with Google Groups emails going into spam,
 we created email lists directly on our domain `italianschoolsd.com`,
-in the form `classname@italianschoolsd.com`.
+in the form `classname@italianschoolsd.com` (or `classname@lists.italianschoolsd.com`, it is equivalent).
 
 We have 1 mailing list per class which includes the Maestra (teacher) and
 all the email addresses provided during pre-enrollment.
