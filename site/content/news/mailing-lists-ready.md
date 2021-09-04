@@ -1,6 +1,6 @@
 ---
 title: Classes mailing lists are ready
-date: 2021-09-03T15:04:10.000Z
+date: 2021-09-04T00:00:00.000Z
 description: Information about the mailing lists
 ---
 
