@@ -15,6 +15,10 @@ If you would like to unsubscribe your email address, the easiest way is
 to send an email to `classname-leave@italianschoolsd.com`, where `classname` is
 the name of the list (I won't list them here to avoid spam).
 
+### If you haven't received notice
+
+If there is nothing even in the Spam folder, [please contact us](/contact).
+
 ### Hotmail.com and Outlook.com users
 
 I noticed that Hotmail.com/Outlook.com tends to categorize emails from these lists as spam, please check the Spam folder, go to the advanced menu of that email and click on "Add to safe senders" and confirm. That will make sure that future emails won't go to spam.
