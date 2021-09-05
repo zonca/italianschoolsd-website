@@ -11,6 +11,12 @@ in the form `classname@italianschoolsd.com` (or `classname@lists.italianschoolsd
 We have 1 mailing list per class which includes the Maestra (teacher) and
 all the email addresses provided during pre-enrollment.
 
+The mailing list is the main method for the Maestra to communicate with the parents.
+Parents are very welcome to reply on the list or ask questions via the list for matters relevant
+to the whole class. Email directly the teacher for private matters.
+
+### Unsubscribe
+
 If you would like to unsubscribe your email address, the easiest way is
 to send an email to `classname-leave@italianschoolsd.com`, where `classname` is
 the name of the list (I won't list them here to avoid spam).
