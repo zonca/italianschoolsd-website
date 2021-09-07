@@ -3,16 +3,6 @@ title: How to access the Sorridoimparo books digital content
 date: 2021-09-06T00:00:00.000Z
 ---
 
-## Access the book in digital form
-
-* Go to <https://www.hubscuola.it>
-* Register an account as a student or a parent, specify "Provincia straniera", "USA"
-* Verify email
-* Click on "Attiva libro"
-* Insert the alphanumeric PIN written in red on the back of the front cover of the printed book
-* Click on "Vai alla libreria" to open the digital version of the book in your browser
-* Or follow the instructions in "Scarica l'App" if you wish to install the reader on a Smartphone or tablet
-
 ## Access audio content
 
 At the very beginning of each book, generally in the first page after the Index, at the top, there is a [QR scode](https://en.wikipedia.org/wiki/QR_code).
@@ -30,3 +20,13 @@ Usually 1 QR code covers 2 or 3 chapters, then at the beginning of the following
 At the moment a few clips are still missing, they are probably still in the process of uploading them.
 
 Trouble? [Email us](/contact)
+
+## Access the book in digital form
+
+* Go to <https://www.hubscuola.it>
+* Register an account as a student or a parent, specify "Provincia straniera", "USA"
+* Verify email
+* Click on "Attiva libro"
+* Insert the alphanumeric PIN written in red on the back of the front cover of the printed book
+* Click on "Vai alla libreria" to open the digital version of the book in your browser
+* Or follow the instructions in "Scarica l'App" if you wish to install the reader on a Smartphone or tablet
