@@ -5,7 +5,7 @@ date: 2021-09-06T00:00:00.000Z
 
 ## Access audio content
 
-At the very beginning of each book, generally in the first page after the Index, at the top, there is a [QR scode](https://en.wikipedia.org/wiki/QR_code).
+At the very beginning of each book, generally in the first page after the Index, at the top, there is a [QR code](https://en.wikipedia.org/wiki/QR_code).
 
 You need to scan the QR code with your smartphone, you have 3 options:
 
