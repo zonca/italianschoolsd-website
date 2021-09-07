@@ -1,7 +1,6 @@
 ---
 title: How to access the Sorridoimparo books digital content
 date: 2021-09-06T00:00:00.000Z
-description: How to listen to audio content
 ---
 
 ## Access the book in digital form
