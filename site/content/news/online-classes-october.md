@@ -29,4 +29,5 @@ The class will focus on the study of grammar, history or geography and fiction. 
 ## Enrollment and tuition
 
 Please fill the non-binding [pre-enrollment form](https://www.italianschoolsd.com/enroll/) specifying the italian level of your kid, we will then email you back to discuss if our class is suitable for them.
+
 The tuition of these online 1.5-hour classes once a week is $800 for 8 months of instruction.
