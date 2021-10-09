@@ -28,12 +28,11 @@ Returning students, previously enrolled in IAASD in 2019-2020 or 2020-2021, have
 
 The first additional family member enrolled has a 10% discount, the second 15% discount and so on (discounts are cumulative).
 
-## Tuition for online or in-person Italian-learners 1.5 hour classes
+## Tuition for online Italian-learners 1.5 hour classes
 
 Tuition for 9 months of instruction at 1 hour and 30 minutes once a week:
 
-* **$900** via Zoom
-* **$1100** in-person
+* **$1100** via Zoom
 
 <div class="tc">
 <a href="https://forms.gle/ESaASFqNxkq27KCz7" class="btn raise">Fill the pre-enrollment form</a>
