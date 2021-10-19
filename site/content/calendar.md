@@ -14,6 +14,8 @@ September 9th: first class, June 2nd: last class
 
 ## Days when the school is closed
 
+It is the same calendar of San Diego Unified, except we are closed 1 extra week for Winter break (Epifania!)
+
 * November: 11; 22-26
 * December: 20-31
 * January: 1-6
