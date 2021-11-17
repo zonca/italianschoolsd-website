@@ -14,12 +14,12 @@ Here our main points:
 
 * **Vaccination**: All Italian school staff is vaccinated
 * **Masking**:
-	* Mandatory indoor for students and teachers (except medical condition)
+	* Mandatory indoor for students, teachers and parents (except medical condition)
 	* No eating or drinking indoor
-	* 10 min break outside for eating and drinking, 1 class at a time
+	* 15 min break outside for eating and drinking, 2 classes at a time
 * **Distancing** ( > 3ft indoor):
-	* 8ft tables with just 2 students each
-	* No parents allowed indoor  (chairs available outside if parents prefer to stay at OMC)
+	* 8ft tables with distanced kids
+	* Parents allowed indoor only to dropoff and pickup K and 1st graders (chairs available outside if parents prefer to stay at OMC)
 	* Classrooms oversized for number of students
 * **Cleaning**:
 	* Disinfection of tables before and after classes
