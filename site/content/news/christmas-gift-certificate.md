@@ -12,4 +12,5 @@ See all the details at [italianschoolsd.com/natale](https://www.italianschoolsd.
 
 ![Flyer](/img/italianschoolsd-natale-flyer.png)
 
+* [Flyer image, ready to share](/img/italianschoolsd-natale-flyer.png)
 * [Flyer in PDF](/pdf/italianschoolsd-natale-flyer.pdf)
