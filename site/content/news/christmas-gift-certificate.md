@@ -10,7 +10,7 @@ for kids starting in January, both for beginners and intermediate.
 
 See all the details at [italianschoolsd.com/natale](https://www.italianschoolsd.com/natale).
 
-![Flyer](/img/italianschoolsd-natale-flyer.png)
+[![Flyer](/img/italianschoolsd-natale-flyer.png)](https://www.italianschoolsd.com/natale)
 
 * [Flyer image, ready to share](/img/italianschoolsd-natale-flyer.png)
 * [Flyer in PDF](/pdf/italianschoolsd-natale-flyer.pdf)
