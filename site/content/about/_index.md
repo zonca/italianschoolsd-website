@@ -54,12 +54,6 @@ He also loves learning languages as a hobby: he speaks Italian, English, Spanish
 
 ## Our instructors
 
-### Chiara Carnelos
-
-Chiara was born and raised in Gaiarine, Italy, forty-five minutes away from beautiful Venezia and obtained her Degree in Lettere e Filosofia in Padova. She spent one year in Paris, France studying the language, medieval literature and enjoying museums, gardens, and the architecture that the city offers.
-
-In 2009 she won a scholarship to attend for a month an intensive course for teachers of Italian at the Universita’ per Stranieri di Perugia. She came to San Diego in 2000 and in 2002 she started to teach at the University of California San Diego until 2018 when she decided to move back to Italy with her family for three years full of adventures. There she taught English in preschools, primary schools and to adults in collaboration with the Association: Fantasia dei Colori. While in Italy she enjoyed the delicious food and had one too many espressos! Her classes are students centered, most definitively interactive. Focus on learning and smile. She believes that children are amazing each in their own way. She embraces them all and together they learn in an atmosphere of kindness and collaboration. She is the mother of two vibrant, bilingual children of 6 and 8 who keep her busy and laughing. She loves to read, smile, art, history, nature, kindness, the smell of fresh bread, other cultures, and learn new things.
-
 ### Marina Johnson
 
 ![Marina Johnson](/img/marina_johnson.jpg)
