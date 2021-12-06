@@ -12,10 +12,6 @@ No payment is needed at the time of pre-enrollment, we will email you a confirma
 
 You will need to pay the invoice attached to the confirmation email by August 27th to finalize enrollment, pre-enrollment itself is not binding.
 
-## Info night
-
-On August 23rd we will have an info night via Zoom from 8pm to 9pm, make sure to subscribe to our announcement mailing list in the website footer to receive the Zoom link.
-
 ## Tuition for Italian-learners and Italian-heritage in-person 2-hour classes
 
 Tuition for 9 months of instruction is:
@@ -37,6 +33,17 @@ Tuition for 9 months of instruction at 1 hour and 30 minutes once a week:
 <div class="tc">
 <a href="https://forms.gle/ESaASFqNxkq27KCz7" class="btn raise">Fill the pre-enrollment form</a>
 </div>
+
+## Late enrollments
+
+Enrollments are open all year, pending availability of space in a class.
+Please first [contact us](/contact) so we can check if the age and the italian knowledge level of your kid are suitable for one of our in-person or online classes and that such class has avaiability.
+
+Later we will ask to comple the pre-enrollment form so we can get all the necessary personal information.
+
+Finally we will send an invoice pro-rated based on the number of remaining classes in the year, you can then choose to pay either monthly (with 10% admin fee) or in 2 payments.
+
+The due date of the invoice will be after the first 2 classes. If you decide not to finalize enrollment, contact us: we will cancel the invoice and nothing is due. Paying the invoice finalizes enrollment, after that the standard cancellation policy outlined below applies.
 
 ## Payment
 
