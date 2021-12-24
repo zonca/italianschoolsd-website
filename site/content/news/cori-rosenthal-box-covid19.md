@@ -26,7 +26,7 @@ here is the final product:
 
 There are several online videos, I [followed this one on Youtube](https://www.youtube.com/watch?v=aEn2xzlvrdo), and the [blog post by Jim Rosenthal](https://www.texairfilters.com/a-variation-on-the-box-fan-with-merv-13-filter-air-cleaner/).
 
-A few photos of the process, I also cut a small slit in the back of the fan to simplify contact with the filter.
+A few photos of the process, I also cut a small slit in the back of the fan for the power chord to improve contact with the filters.
 
 ![CR box process](/img/crbox_20211220_160527250.jpg)
 ![CR box process](/img/crbox_20211220_164051578.jpg)
