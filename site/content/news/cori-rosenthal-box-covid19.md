@@ -14,7 +14,7 @@ ventilation in that room using a Cori-Rosenthal box.
 In this post I'll share some images on how to build a Cori-Rosenthal filtration box,
 here is the final product:
 
-![Final product](/static/img/crbox_20211220_195430045.PORTRAIT.jpg)
+![Final product](/img/crbox_20211220_195430045.PORTRAIT.jpg)
 
 ## Shopping list
 
@@ -28,15 +28,15 @@ There are several online videos, I [followed this one on Youtube](https://www.yo
 
 A few photos of the process, I also cut a small slit in the back of the fan to simplify contact with the filter.
 
-![CR box process](/static/img/crbox_20211220_160527250.jpg)
-![CR box process](/static/img/crbox_20211220_164051578.jpg)
-![CR box process](/static/img/crbox_20211220_164422545.jpg)
-![CR box process](/static/img/crbox_20211220_164637609.jpg)
-![CR box process](/static/img/crbox_20211220_165104898.jpg)
-![CR box process](/static/img/crbox_20211220_165357048.jpg)
+![CR box process](/img/crbox_20211220_160527250.jpg)
+![CR box process](/img/crbox_20211220_164051578.jpg)
+![CR box process](/img/crbox_20211220_164422545.jpg)
+![CR box process](/img/crbox_20211220_164637609.jpg)
+![CR box process](/img/crbox_20211220_165104898.jpg)
+![CR box process](/img/crbox_20211220_165357048.jpg)
 
 ## Fan shroud
 Finally I added a fan shroud to improve efficiency, as [suggested by David Elfstrom](https://twitter.com/DavidElfstrom/status/1424069532117880841), the internal diameter of the shroud should be 13.5 inches with a Hurricane fan.
 
-![CR box process](/static/img/crbox_20211220_175830529.jpg)
-![CR box process](/static/img/crbox_20211220_180421046.jpg)
+![CR box process](/img/crbox_20211220_175830529.jpg)
+![CR box process](/img/crbox_20211220_180421046.jpg)
