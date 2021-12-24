@@ -1,17 +1,17 @@
 ---
-title: Build a Cori-Rosenthal filtration box for COVID-19
+title: Build a Corsi-Rosenthal filtration box for COVID-19
 date: 2021-12-23T00:00:00.000Z
 description: Home-built indoor air ventilation and filtration system
 ---
 
-Since COVID is airborne and the Omicron variant extremely contagious, indoor
+Since COVID is airborne and the Omicron variant extremely contageous, indoor
 air quality has never been more important.
 At the Italian school of San Diego, all classroom have very good ventilation thanks
 to having a door facing outside and a door facing the auditorium. Except one
 that has both doors facing the auditorium, so we felt the necessity to supplement
-ventilation in that room using a Cori-Rosenthal box.
+ventilation in that room using a Corsi-Rosenthal box.
 
-In this post I'll share some images on how to build a Cori-Rosenthal filtration box,
+In this post I'll share some images on how to build a Corsi-Rosenthal filtration box,
 here is the final product:
 
 ![Final product](/img/crbox_20211220_195430045.PORTRAIT.jpg)
