@@ -31,6 +31,7 @@ Here our main points:
 	* Emergency door on opposite side open
 	* Ceiling fan
 	* Ground fan (2 fans for room with no ceiling fan)
+        * [Corsi-Rosenthal filtration box](https://www.italianschoolsd.com/news/2021/12/build-a-corsi-rosenthal-filtration-box-for-covid-19/) for the room with no outside-facing door
 * **Testing**:
 	* Please signup for the free COVID-19 tests at San Diego Unified schools
 * **Tracing**:
