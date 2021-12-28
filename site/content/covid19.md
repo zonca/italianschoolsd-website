@@ -12,9 +12,11 @@ and the policy of San Diego Unified School District.
 
 Here our main points:
 
-* **Vaccination**: All Italian school staff is vaccinated
+* **Vaccination**: All Italian school staff is vaccinated and boosted
 * **Masking**:
 	* Mandatory indoor for students, teachers and parents (except medical condition)
+	* Teachers have N95 masks
+	* It is recommended for students to wear a N95, KN95 or KF94 mask
 	* No eating or drinking indoor
 	* 15 min break outside for eating and drinking, 2 classes at a time
 * **Distancing** ( > 3ft indoor):
@@ -33,7 +35,6 @@ Here our main points:
 	* Please signup for the free COVID-19 tests at San Diego Unified schools
 * **Tracing**:
 	* Quarantined at school -> skip Italian school
-	* No symptoms checklist to bring at the school, we currently plan to take temperature with touchless thermometer at the entrance
 
 ## Detailed guidelines
 
