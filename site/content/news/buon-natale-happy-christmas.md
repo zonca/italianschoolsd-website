@@ -1,6 +1,6 @@
 ---
 title: Buon Natale Happy Christmas from the Italian school
-date: 2021-12-25T00:00:0.000Z
+date: 2021-12-25T13:00:0.000Z
 description: Video of the Christmas singing performance of the Italian school of San Diego kids
 ---
 
