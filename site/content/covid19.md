@@ -14,7 +14,7 @@ Here our main points:
 
 * **Vaccination**: All Italian school staff is vaccinated and boosted
 * **Masking**:
-	* Mandatory indoor for students, teachers and parents (except medical condition)
+	* Mandatory indoor for students, teachers and parents (except medical condition). Starting **April 7th**, masks will be optional.
 	* Teachers have N95 masks
 	* It is recommended for students to wear a N95, KN95 or KF94 mask
 	* No eating or drinking indoor
