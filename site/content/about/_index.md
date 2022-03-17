@@ -84,6 +84,14 @@ Soon after graduating in Electrical Engineering in Catania with honors, she move
 
 In recent years she dedicated herself to figurative art, using traditional drawing and painting to capture the beauty of people and places.
 
+### Francesca Galimi
+
+![Francesca Galimi](/img/francesca_galimi.jpg)
+
+Francesca was born in San Diego, California, and grew up bilingual, speaking Italian at home with her parents and younger sister. She was a student at the Italian American Academy of San Diego for 8 years, from 4th to 11th grade, and took the AP Italian Language and Culture Exam in her last year. She graduated high school in 2021 and is now studying Biology in college, though she also loves anthropology and math.
+
+She loves learning new languages, and after having taken Spanish in high school she plans on learning French. Outside of academics, she enjoys reading, sewing, and trying new foods. She loves visiting her family in Italy and being able to experience the one of a kind culture. She hopes to inspire students to love learning and to love Italian language and culture as she does!
+
 ## Our staff
 
 ### Iris Zonca - Social media manager
