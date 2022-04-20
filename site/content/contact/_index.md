@@ -7,9 +7,11 @@ contact_entries:
       3131 Governor Dr (in University City)
       San Diego
       Please do not send mail
-  - heading: Email address
+  - heading: Contact information
     text: >
       info on our domain italianschoolsd.com
+      (619) 800-0797
+
 ---
 
 Make sure you register to our newsletter in the website footer to receive latest news for us.
