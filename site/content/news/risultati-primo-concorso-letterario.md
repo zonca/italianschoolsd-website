@@ -4,6 +4,8 @@ date: 2022-04-21T00:00:00.000Z
 description: Announcing the winners of the literary contest of the Italian school of San Diego
 ---
 
+You can checkout all the works produced by our students at the [Announcement page](https://www.italianschoolsd.com/news/2022/03/primo-concorso-letterario-dellitalian-school/).
+
 ## The winners
 
 ### Section "Libri di Classe"
@@ -20,8 +22,8 @@ In the "Opere Singole" book:
 
 The winners were:
 
-* Super Spaghetti by Isabella, starting at page 9
-* Avatar l'ultimo airbender by Liam, starting at page 23
+* "Super Spaghetti" by Isabella, starting at page 9
+* "Avatar l'ultimo airbender" by Liam, starting at page 23
 
 Both in the fifth grade class with teacher Maura.
 
