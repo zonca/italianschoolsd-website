@@ -32,6 +32,8 @@ Marcello Pizza Napoli will bring his mobile wood-fire pizza oven to the park and
 
 Please signup [on this Google Form](https://docs.google.com/forms/d/e/1FAIpQLSeGoqFhEoQo5OSNulVsao438dH31KZNIetU3qeRxfXka1V0iw/viewform?usp=sf_link), you will receive a confirmation email with the total amount and the coordinates for payment. Please finalize the payment by May 20th.
 
+<a class="f6 link dim ph3 pv2 mb2 dib white bg-dark-blue" href="https://docs.google.com/forms/d/e/1FAIpQLSeGoqFhEoQo5OSNulVsao438dH31KZNIetU3qeRxfXka1V0iw/viewform?usp=sf_link">Sign up</a>
+
 ## Contatto
 
 Email [andrea@italianschoolsd.com](mailto:andrea@italianschoolsd.com)
