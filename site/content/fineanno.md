@@ -22,12 +22,12 @@ Restrooms are located right in front of the parking lot.
 
 ## Cosa - What
 
-Marcello Pizza Napoli will bring his mobile wood-fire pizza oven to the park and will prepare delicious Italian-style pizzas for the group, each family will have to pay a fixed price per person directly to Marcello.
+Marcello Pizza Napoli will bring his mobile wood-fire pizza oven to the park and will prepare delicious Napoli-style pizzas for the group, each family will have to pay a fixed price per person directly to Marcello.
 
 * Appetizer with bruschetta, caprese (fresh tomato + mozzarella) and salad.
 * **Giropizza**: Marcello will prepare and cook different kind of pizzas, that will be served by the slice. The portable woodfire oven can only cook 3 pizzas at a time, so, depending on the number of attendees, there will be some wait time. He will give priority to the kids.
 * Pizza with Nutella as dessert
-* $25 for each person, $15 for kids aged 6-10, free 5 years old and below.
+* $20 for each person, $15 for kids aged 6-11, free 5 years old and below.
 * Drinks not included
 
 Please signup [on this Google Form](https://docs.google.com/forms/d/e/1FAIpQLSeGoqFhEoQo5OSNulVsao438dH31KZNIetU3qeRxfXka1V0iw/viewform?usp=sf_link), you will receive a confirmation email with the total amount and the coordinates for payment. Please finalize the payment by May 20th.
