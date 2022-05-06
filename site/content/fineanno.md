@@ -6,7 +6,7 @@ subtitle: Let's celebrate together the end of the school year after class on May
 
 ## Quando - When
 
-We would like to celebrate the year we spent together on **Thursday May 26th** just after class from `6:30pm` to `8:30pm`. Don't forget that there will be one more class the following Thursday.
+We would like to celebrate the year we spent together on **Thursday May 26th** just after class from `6:15pm` to `8:30pm`. Don't forget that there will be one more class the following Thursday.
 
 ## Chi - Who
 
