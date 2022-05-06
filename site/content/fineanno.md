@@ -10,7 +10,7 @@ We would like to celebrate the year we spent together on **Thursday May 26th** j
 
 ## Chi - Who
 
-All the families with kids enrolled at any Italian school class, of course this includes siblings. If you would like to bring other guests, please check with us first (see below).
+All the families with kids enrolled in any Italian school class, of course this includes siblings. If you would like to bring other guests, please check with us first (see below).
 
 ## Dove - Where
 
