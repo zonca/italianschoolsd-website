@@ -9,6 +9,10 @@ values:
     imageUrl: "img/italian_blackboard.jpg"
 ---
 
+## The legacy of IAASD
+
+[Learn more about the history of IAASD](./legacy-iaasd.md)
+
 ## Our founders
 
 ### Maura D'Andrea - School director and teacher
