@@ -11,7 +11,7 @@ values:
 
 ## The legacy of IAASD
 
-[Learn more about the history of IAASD](./legacy-iaasd.md)
+[Learn more about the history of IAASD]({{< ref "legacy-iaasd.md" >}})
 
 ## Our founders
 
