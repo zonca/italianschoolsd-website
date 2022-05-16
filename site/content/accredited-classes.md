@@ -9,6 +9,8 @@ subtitle: Classes for the academic year 2022-2023
 Italian school of San Diego LLC is accredited both with the San Diego Unified and the San Dieguito Union High School Districts as an "Independent World Language School".
 Therefore classes taken at the Italian school will give credit for the language requirement for High School graduation for all High Schools within one of the 2 districts, and will also satisfy the admission requirements for colleges. Grades obtained in the Italian classes will be added to the student's transcripts.
 
+The curriculum and the programs were created, implemented and district approved by our sister school IAASD, [learn more about their story](/about/legacy-iaasd).
+
 For more information, check:
 
 * [the page about world languages of the Office of Language Acquisition of San Diego Unified](https://sandiegounified.org/departments/ola/world_languages)
@@ -36,7 +38,6 @@ Moreover, we have modified programs for students, generally of Italian heritage,
 * Italian 5-6 for Italian speakers
 * Italian 7-8 and AP preparation for Italian speakers, [see the dedicated page about AP Italian](/ap-italian-san-diego)
 
-The curriculum and the programs were created, implemented and district approved by our sister school IAASD, [learn more about their story](/about/legacy-iaasd)
 
 ### When is best to start
 
