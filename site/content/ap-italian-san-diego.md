@@ -17,7 +17,7 @@ if the High School doesn't offer an AP Italian class.
 Most Colleges give credits for AP tests, for example [University of California grants 8 quarters for AP Italian](https://admission.universityofcalifornia.edu/admission-requirements/ap-exam-credits/ap-credits/) passed with a score of 3 or higher.
 
 Italian school of San Diego students which have reached year 4 of the
-[accredited classes]({{ ref "accredited-classes.md" }}) will have a wide
+[accredited classes](/accredited-classes) will have a wide
 knowledge of Italian that will allow them to take the exam with confidence.
 
 It is important to stress that it is the cumulative instructions from the 4 levels

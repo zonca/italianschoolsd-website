@@ -27,16 +27,16 @@ The Italian school offers 4 one-year classes targeted at students learning Itali
 * Italian 1-2, targeted at students starting to learn Italian
 * Italian 3-4
 * Italian 5-6
-* Italian 7-8 and AP preparation, [see the dedicated page about AP Italian]({{ ref "ap-italian-san-diego.md" }})
+* Italian 7-8 and AP preparation, [see the dedicated page about AP Italian](/ap-italian-san-diego)
 
 Moreover, we have modified programs for students, generally of Italian heritage, which already speak Italian fluently:
 
 * Italian 1-2 for Italian speakers
 * Italian 3-4 for Italian speakers
 * Italian 5-6 for Italian speakers
-* Italian 7-8 and AP preparation for Italian speakers, [see the dedicated page about AP Italian]({{ ref "ap-italian-san-diego.md" }})
+* Italian 7-8 and AP preparation for Italian speakers, [see the dedicated page about AP Italian](/ap-italian-san-diego)
 
-The curriculum and the programs were created, implemented and district approved by our sister school IAASD, [learn more about their story]({{ ref "about/legacy-of-iaasd.md" }})
+The curriculum and the programs were created, implemented and district approved by our sister school IAASD, [learn more about their story](/about/legacy-iaasd)
 
 ### When is best to start
 
