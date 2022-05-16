@@ -16,7 +16,7 @@ You will need to pay the invoice attached to the confirmation email by August 27
 
 Tuition for 9 months of instruction is:
 
-**$1489** ($165/month if paid annually)
+**$1490** ($165/month if paid annually)
 
 Returning students, previously enrolled in IAASD in 2019-2020 or 2020-2021, have a 10% discount (same price of last year):
 
