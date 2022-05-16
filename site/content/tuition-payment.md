@@ -25,6 +25,17 @@ In case of families with kids both in accredited and in non-accredited classes, 
 The preferred payment method is [**Zelle** (free and supported by most US banks)](https://www.zellepay.com/get-started), we also accept checks and credit cards.
 Please make the checks payable to `Italian school of San Diego LLC`, do not forget the LLC.
 
+## Late enrollments
+
+Enrollments are open all year, pending availability of space in a class. We won't be able to grant High School credits for late enrollments in accredited classes.
+Please first [contact us](/contact) so we can check if the age and the italian knowledge level of your kid are suitable for one of our in-person or online classes and that such class has avaiability.
+
+Later we will ask to comple the pre-enrollment form so we can get all the necessary personal information.
+
+Finally we will send an invoice pro-rated based on the number of remaining classes in the year, you can then choose to pay either monthly (with 10% admin fee) or in 2 payments.
+
+The due date of the invoice will be after the first 2 classes. If you decide not to finalize enrollment, contact us: we will cancel the invoice and nothing is due. Paying the invoice finalizes enrollment, after that the standard cancellation policy outlined below applies.
+
 ## Cancellation
 
 Enrollment in the Italian school can be canceled with 30 day notice via email (to `admin` on our website domain `italianschoolsd.com`), tuition will be prorated (at the month-by-month rate in case of prepayment) and partially reimbursed if necessary, a $50 administrative fee will be added to the account. No cancellations are accepted after March 31st.
