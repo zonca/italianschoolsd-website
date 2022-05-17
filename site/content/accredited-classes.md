@@ -7,7 +7,7 @@ subtitle: Classes for the academic year 2022-2023
 ## Accredited classes
 
 Italian school of San Diego LLC is accredited both with the San Diego Unified and the San Dieguito Union High School Districts as an "Independent World Language School".
-Therefore classes taken at the Italian school will give credit for the language requirement for High School graduation for all High Schools within one of the 2 districts, and will also satisfy the admission requirements for colleges. Grades obtained in the Italian classes will be added to the student's transcripts.
+Therefore classes taken at the Italian school will give credit for the language requirement for High School graduation for all public High Schools within the 2 districts, and will also satisfy the admission requirements for colleges. Grades obtained in the Italian classes will be added to the student's transcripts.
 
 The curriculum and the programs were created, implemented and district approved by our sister school IAASD, [learn more about their story](/about/legacy-iaasd).
 
@@ -42,15 +42,16 @@ Moreover, we have modified programs for students, generally of Italian heritage,
 ### When is best to start
 
 We recommend for kids to enroll in our Italian 1-2 class in 7th grade, this allows them to take Italian 1-2 and Italian 3-4 in middle school.
-Middle schools do not recognize external language classes for credit, however, this allows the kids to start Italian 5-6 in the first year of High School.
-Once the kids have successfully passed Italian 5-6 in 9th grade they will be granted 3 years of language, then they could continue with Italian 7-8 in 10th grade to get an additional year of language education for College admission and also prepare for AP Italian.
+High schools do not recognize language classes for credits taken in middle schools; however when starting in middle school students are given the advantage of satisfying their language requirements earlier. In fact once students have successfully passed Italian 5-6 in 9th grade, they will be granted 3 years of language.
+Then they could continue with Italian 7-8 in 10th grade to get an additional year of language education for College admission and also prepare for AP Italian.
+By 10th grade they have satisfied their language requirement and can focus on elective classes offered in the last 2 years of High School.
+
+Here is the standard academic path:
 
 * 7th grade: Italian 1-2
 * 8th grade: Italian 3-4
 * 9th grade: Italian 5-6, gets credit with High School for 2 semesters of coursework and 3 years of language education
 * 10th grade: Italian 7-8, gets credit with High School for 2 semesters of coursework and 4 years of language education, prepares for taking AP Italian
-
-By 10th grade they have satisfied their language requirement and can focus on elective classes offered in the last 2 years of High School.
 
 Students can also start accredited classes later in their academic career, the latest for reaching 3 years of language would be to start in 10th grade:
 
