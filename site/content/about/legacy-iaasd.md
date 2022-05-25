@@ -41,6 +41,7 @@ Born and raised in a little town outside Padua, Italy Nicoletta obtained her Lau
 ### Marianna Spinelli, Teacher and Board Member
 
 ![Marianna Spinelli](/img/marianna.jpg)
+
 Marianna Spinelli was born and raised in Naples, Italy, but she spent many years in France because she has also French origins.  She dedicated her life to education. She obtained her Master’s Degree and Bachelor’s Degree in Literature and Foreign Languages at the Universita' degli Studi L’Orientale of Naples.  Marianna is a credentialed language teacher in Italy, in Europe and California with over 20 years of hands-on teaching experience in international environments. Nine years ago she arrived in the United States of America and became a member of the Italian-American Academy of San Diego in 2013. Thanks to the IAASD, Marianna obtained a certification from Universita' per Stranieri di Siena, Italy, to administer Italian Citizenship's exams and Italian Language exams.  She currently teaches French Language and Francophone Literature at PLNU. She also teaches French at Grossmont College and Italian at the Italian Academy of San Diego. Her future objective is to create an Italian Language Program at Point Loma Nazarene University department of Literature, Journalism, Writing and Languages in order to continue serving the Italian community in San Diego. 
 
 ### Carol Gratzke, IAASD President
