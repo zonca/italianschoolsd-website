@@ -24,6 +24,8 @@ Marianna Spinelli has been offered the opportunity to open an Italian Language P
 
 After ten years of managing and teaching at IAASD, in 2020, Nicoletta and Rossella decided to retire and close the IAASD no-profit organization. At this point, Maura D’Andrea, already a teacher at IAASD, offered to continue and opened her own school based on IAASD programs and curriculum to carry on the academic activity with the common goal of continuing to offer this outstanding service to the City of San Diego. 
 
+We also host a static mirror of the IAASD website of Spring 2022 at <https://iaasd.italianschoolsd.com>.
+
 ## IAASD People
 
 ### Rossella Broglia, Managing Director of IAASD and co-founder
