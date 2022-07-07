@@ -77,6 +77,12 @@ If the student is in Middle School, the student can directly enroll with the Ita
 If the student in in High School, it is important to notify the school of the intent of the student to pursue language education in an external institution.
 Generally it is necessary to fill a form and send it to the counselor.
 
+See the tuition and submit a non-binding pre-enrollment clicking on the button below, it is the same enrollment form both for accredited and for non-accredited classes, based on the level of the student and their age, we will get back to you offering the most suitable class:
+
+<div class="tc">
+<a href="/enroll-accredited" class="btn raise">Tuition and pre-enrollment information</a>
+</div>
+
 ### Instructions for San Diego Unified School District
 
 Email us at `info` on the domain `italianschoolsd.com` with:
@@ -102,7 +108,3 @@ Download the form from:
 It says to attach evidence of accreditation, but it is not necessary, we are on the list of approved schools already.
 
 Submit the signed form to the counselor
-
-<div class="tc">
-<a href="/enroll-accredited" class="btn raise">Tuition and pre-enrollment information</a>
-</div>
