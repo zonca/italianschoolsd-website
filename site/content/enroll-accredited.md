@@ -14,7 +14,7 @@ You will need to pay the invoice attached to the confirmation email by August 27
 
 ## Tuition for accredited classes
 
-The total yearly tuition for 35 weeks of instruction is:
+The total yearly tuition for 35 weeks of instruction (2 hours of class and 2 hours of homework per week) is:
 
 **$2180**
 
