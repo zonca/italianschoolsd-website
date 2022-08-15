@@ -17,12 +17,12 @@ We are planning to work with the San Diego Unified School district this fall to 
 
 ### Location
 
-Classrooms of the *Our Mother of Confidence* church, at [3131 Governor Dr in San Diego](https://goo.gl/maps/JZ8NLksf8FQvDPGu6).
+Classrooms of the *Language Door* language school , at [7380 Clairemont Mesa Blvd in Kearny Mesa](https://goo.gl/maps/DLdWjeXqKPrEYyiH6), whose location we entirely sublease on Thursday afternoons.
 All in-person classes require both students and instructors to wear masks, independently of vaccination status, see [more details about our COVID-19 protocol](/covid19).
 
 ### Calendar
 
-In-person classes are 2 hours per week, 4-6pm on Thursdays, first class on September 9th,
+In-person classes are 2 hours per week, 4-6pm on Thursdays, first class on **September 8th**,
 last class on June 2nd for a total of 34 weeks of instruction.
 
 See the [Italian school of San Diego calendar](/calendar) for our Google Calendar schedule.

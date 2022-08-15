@@ -4,7 +4,8 @@ logo: "/img/logo.svg"
 contact_entries:
   - heading: Classes location
     text: >
-      3131 Governor Dr (in University City)
+      7380 Clairemont Mesa Blvd
+      hosted by Language Door
       San Diego
       Please do not send mail
   - heading: Contact information

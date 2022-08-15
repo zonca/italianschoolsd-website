@@ -25,7 +25,7 @@ She then moved, 12 years ago, to the United States, first to Santa Barbara then 
 
 Mother of two girls, she cultivated her interest in Education attending the Continuing Education "3-5 preschool experience" classes for 5 years. The courses focused on building social, emotional, physical, cognitive and language skills that prepare the preschooler for Kindergarten.
 
-Maura has been teaching Italian language, literature and writing to children and adults. She joined the Italian American Academy of San Diego faculty in 2019 and taught 2nd and 4th grade classes. 
+Maura has been teaching Italian language, literature and writing to children and adults. She joined the Italian American Academy of San Diego faculty in 2019 and taught 2nd and 4th grade classes.
 
 She specializes in maximizing interdisciplinary learning opportunities in different school settings. Creative and compassionate literature is always part of her curriculum. She emphasize dialogue, collaboration and innovation.
 
