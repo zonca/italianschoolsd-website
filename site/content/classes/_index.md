@@ -1,7 +1,7 @@
 ---
 title: Italian classes in San Diego
 image: /img/milan.jpg
-subtitle: Classes for the academic year 2021-2022
+subtitle: Classes for the academic year 2022-2023
 ---
 
 ## Italian-heritage classes for kids K-6
@@ -12,8 +12,7 @@ Italian language and learn many of the topics taught to their peers in Italy, st
 Classes initially will follow programs based on those previously offered by the Italian American Academy of San Diego.
 
 Classes will have between 5 and 10 students and held in person.
-Our classes are suitable to prepare the students for accredited classes, however we are unable to offer them ourselves for this academic year, please check the [IAASD](https://iaasd.org) website for more information.
-We are planning to work with the San Diego Unified School district this fall to begin the certification process so that we might be able to offer accredited classes in the future.
+Our classes are suitable to prepare the students for accredited classes, which generally start in 7th grade, see [the dedicated page on our website](https://www.italianschoolsd.com/accredited-classes/)
 
 ### Location
 
@@ -36,29 +35,21 @@ See the [Italian school of San Diego calendar](/calendar) for our Google Calenda
 Italian-learners classes are devoted to prospective students which haven't started to learn Italian yet or are beginners.
 Instruction will be in English, it will first cover the basics of Italian, using a conversation-first approach and engaging the students through language-reinforcing activities.
 
-Classes will have between 4 and 8 students online, 5-10 in-person.
-All in-person classes require both students and instructors to wear masks, independently of vaccination status, see [more details about our COVID-19 protocol](/covid19).
+Classes will have between 4 and 8 students online or in-person.
 
-For **kids in grade K to 8** we offer 2-hour in-person classes or 1.5-hour Zoom classes once a week:
-
-* in-person classes at the same location and schedule of the Italian-heritage classes above
-* online classes via Zoom on Monday between 4pm and 5:30pm (first class on September 6th)
-* online classes via Zoom on Tuesday, still 4-5:30pm (first class on September 7th)
-
-For **older kids and adults**, we offer 1 hour and 30 minutes classes once a week:
-
-* online via Zoom on Tuesday morning from 9am to 10:30am (first class on September 7th)
-* online via Zoom on Tuesday from 6:30pm to 8pm (first class on September 7th)
-* in-person class at *Our Mother of Confidence* on Thursdays overlapping with the kids between 4:30pm and 6pm.
-
-please specify your preference at pre-enrollment.
-
-Once we receive all pre-enrollments, we will group the students by age, assign a teacher, decide the most suitable time-slot and notify the students, they will then have until August 27th to confirm their enrollment by paying the invoice.
-
-If none of the classes we offer suits your needs, please still submit the pre-enrollment form and specify in the last field named "Custom request" what your are looking for. We will contact you back to discuss solutions.
+For **kids in grade K to 8** we offer 2-hour in-person classes or 1.5-hour Zoom classes once a week,
+please click the button below to submit a pre-enrollment, we will get back to you with more details.
 
 <div class="tc">
-<a href="/enroll" class="btn raise">Tuition and pre-enrollment information</a>
+<a href="/enroll" class="btn raise">Kids tuition and pre-enrollment information</a>
+</div>
+
+For **older kids and adults**, we offer 1 hour and 30 minutes classes once a week, we have classes starting
+based on requests, please fill in the "Adult Italian lesson interest form" clicking on the button below,
+we will get back to you once we have enough people to start a class:
+
+<div class="tc">
+<a href="https://forms.gle/LHR7Htpeb3mQzV838" class="btn raise">Adult Italian lesson interest form</a>
 </div>
 
 ## Custom group classes

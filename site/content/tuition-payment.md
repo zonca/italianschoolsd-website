@@ -4,16 +4,16 @@ image: /img/lastsupper.jpg
 subtitle: Details about paying for tuition for Italian classes
 ---
 
-Tuition payment is due in 2 equal payments (on August 27th and January 15th), unless you opt for the monthly plan.
+Tuition payment is due in 2 equal payments (on September 5th and January 15th), unless you opt for the monthly plan.
 
 ## Monthly plan
 
 Alternatively, we offer a monthly payment plan:
 
 * additional administrative fee of 10%
-* 2/9 of tuition is due August 27th with any payment method
+* 2/9 of tuition is due on September 5th with any payment method
 * 7 monthly payments October 1st to April 1st (no checks accepted for these monthly payments)
-* for example, an in-person heritage class with monthly payments costs a total of `$1555*1.1=1710`, it has 9 monthly payments of $190. Two of those payments (first and last month) are due at enrollment ($380), the other 7 monthly starting on October 1st and ending on April 1st (May was already paid at enrollment)
+* for example, an in-person heritage class with monthly payments costs a total of `$1655*1.1=1820`, it has 9 monthly payments of $202. Two of those payments (first and last month) are due at enrollment ($402), the other 7 monthly starting on October 1st and ending on April 1st (May was already paid at enrollment)
 
 ## Sibling discount
 
