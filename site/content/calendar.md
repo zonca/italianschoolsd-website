@@ -1,7 +1,7 @@
 ---
 title: Calendar
 image: /img/lastsupper.jpg
-subtitle: Academic calendar 2021-2022
+subtitle: Academic calendar 2022-2023
 ---
 Calendar for the 2022-2023 year for the in-person heritage classes (Thursdays 4-6pm) is available via Google Calendar, click on the `+ Google Calendar` button at the bottom of the integrated calendar below to add it to your calendars.
 

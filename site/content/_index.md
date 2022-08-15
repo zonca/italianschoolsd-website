@@ -6,8 +6,8 @@ blurb:
     heading: Why learn Italian?
     text: "Young kids easily pickup new languages, Italian in particular connects them to art, history, literature and cuisine. They can continue studying Italian for school credit either through the Advanced Placement program or in College. Adults instead can enjoy talking with locals when traveling to Italy, watch Italian movies and read Italian classic literature."
 intro:
-    heading: "Classes 2021/2022"
-    text: "Classes are 2 hours per week in the afternoon in person in University City, from the beginning of September to the end of May, they are organized in 2 tracks:"
+    heading: "Classes 2022/2023"
+    text: "Classes are 2 hours per week in the afternoon in person in Kearny Mesa, just out the 805, from the beginning of September to the end of May, they are organized in 2 tracks:"
 products:
     - image: img/italian-learners-classes.svg
       text: "Italian-learners classes are grouped by age and level. They are focused on learning the basics of the Italian language from scratch. Once the basics are covered, the students are also introduced to Italian customs and culture."

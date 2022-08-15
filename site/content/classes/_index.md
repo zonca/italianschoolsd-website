@@ -17,7 +17,7 @@ Our classes are suitable to prepare the students for accredited classes, which g
 ### Location
 
 Classrooms of the *Language Door* language school , at [7380 Clairemont Mesa Blvd in Kearny Mesa](https://goo.gl/maps/DLdWjeXqKPrEYyiH6), whose location we entirely sublease on Thursday afternoons.
-All in-person classes require both students and instructors to wear masks, independently of vaccination status, see [more details about our COVID-19 protocol](/covid19).
+As last year, we will follow the same COVID-19 precautions as San Diego Unified School district, we will update [our COVID-19 protocol](/covid19) page after August 29th with the latest guidelines.
 
 ### Calendar
 

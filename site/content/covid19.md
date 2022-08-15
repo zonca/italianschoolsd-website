@@ -6,6 +6,8 @@ subtitle: Pandemic safety guidelines for the academic year 2021-2022
 
 ## Summary
 
+**We will update our protocol once San Diego Unified finalizes theirs**
+
 We give high priority to providing a safe environment for the kids and our teachers,
 we will follow a strict COVID-19 protocol informed by the California Department of Public Health
 and the policy of San Diego Unified School District.
