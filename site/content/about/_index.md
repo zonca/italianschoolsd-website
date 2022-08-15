@@ -78,16 +78,6 @@ She worked for more than ten years in a semiconductor company in the field of bu
 
 Becoming a mom let her realize her deep love for kids and education, that’s why she studied Child Development at the Foothills College in Palo Alto with the aim of becoming a preschool teacher. Her dream was to open an Italian school in Palo Alto. Her greatest passions are writing, reading, painting and playing piano and guitar. She regularly write on her website and she won several awards in Poetry competitions. She is in the process of getting the CEDILS certification to teach Italian as a foreign language. She feels blessed to be part of this fantastic project and team.
 
-### Cecilia Stagni
-
-![Cecilia Stagni](/img/cecilia_stagni.jpg)
-
-Born in Rome and raised both in the north and in the south of Italy, Cecilia has always seen Italy as a whole in its beautiful extent, been able to appreciate the many differences as its true and unique value.
-
-Soon after graduating in Electrical Engineering in Catania with honors, she moved to San Diego with her husband and started her family. Having children motivated her to strengthen her bonds to the Italian language and culture, in order to pass them onto her kids.
-
-In recent years she dedicated herself to figurative art, using traditional drawing and painting to capture the beauty of people and places.
-
 ### Francesca Galimi
 
 ![Francesca Galimi](/img/francesca_galimi.jpg)
