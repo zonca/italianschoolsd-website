@@ -20,4 +20,6 @@ https://www.italianschoolsd.com/classes/
 
 ## Please share our flyer
 
+[Italian school flyer image](/img/italianschoolsd_flyer_22-23.png)
+
 ![Italian school flyer](/img/italianschoolsd_flyer_22-23.png)
