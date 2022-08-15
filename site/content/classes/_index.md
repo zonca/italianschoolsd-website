@@ -22,7 +22,7 @@ All in-person classes require both students and instructors to wear masks, indep
 ### Calendar
 
 In-person classes are 2 hours per week, 4-6pm on Thursdays, first class on **September 8th**,
-last class on June 2nd for a total of 34 weeks of instruction.
+last class on June 1st for a total of 34 weeks of instruction.
 
 See the [Italian school of San Diego calendar](/calendar) for our Google Calendar schedule.
 
