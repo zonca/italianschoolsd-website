@@ -2,6 +2,9 @@
 title: Subscribe
 image: /img/blog-index.jpg
 subtitle: Subscribe to the announcements mailing list
+aliases:
+    - /list
+    - /newsletter
 ---
 
 Please subscribe to the mailing list to be updated with the latest news from the Italian school of San Diego.
