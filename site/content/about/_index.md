@@ -86,6 +86,15 @@ Francesca was born in San Diego, California, and grew up bilingual, speaking Ita
 
 She loves learning new languages, and after having taken Spanish in high school she plans on learning French. Outside of academics, she enjoys reading, sewing, and trying new foods. She loves visiting her family in Italy and being able to experience the one of a kind culture. She hopes to inspire students to love learning and to love Italian language and culture as she does!
 
+### Stefania Candeliere
+
+![Stefania Candeliere](/img/stefania_candeliere.jpg)
+
+Stefania is a native speaker of Italian with a passion for teaching Italian as a second language. She worked at Italian Cultural Center in San Diego for 7 years. She taught at all levels, including beginner for children.
+Creativity is a character trait which she encourages in her teaching methodology.
+
+She graduated in Literature and Philosophy at the University of La Sapienza in Rome, attended an exchange program with the Ruprecht-Karl University in Heidelberg. She is currently in the process of obtaining a "Fine Arts" certificate at San Diego Mesa College.
+
 ## Our staff
 
 ### Iris Zonca - Social media manager
