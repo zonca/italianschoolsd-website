@@ -18,7 +18,7 @@ Alternatively, we offer a monthly payment plan:
 ## Sibling discount
 
 The first additional family member enrolled has a 10% discount, the second 15% discount and so on (discounts are cumulative).
-In case of families with kids both in accredited and in non-accredited classes, the higher discount applies to the lower tuition.
+In case of families with kids both in accredited and in non-accredited classes, the higher discount applies to the higher tuition.
 
 ## Payment method
 
