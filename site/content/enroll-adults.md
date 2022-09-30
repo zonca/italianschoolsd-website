@@ -8,7 +8,7 @@ This page lists the Adult classes currently open for enrollment
 
 ## Adult beginner, in-person, Fridays 6pm-7:30pm
 
-Italian class in person taught by Teacher Francesca and is targeted at beginners, no previous experience with Italian is required.
+Italian class in person taught by Teacher Mark and is targeted at beginners, no previous experience with Italian is required.
 
 The class is in-person at [Language Door, 7380 Clairemont Mesa Blvd, San Diego](https://goo.gl/maps/vCotwAoBbYNpx8vV9) on Fridays from 6pm to 7:30pm.
 

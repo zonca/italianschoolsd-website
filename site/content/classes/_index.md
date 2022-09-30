@@ -52,6 +52,8 @@ we will get back to you once we have enough people to start a class:
 <a href="https://forms.gle/LHR7Htpeb3mQzV838" class="btn raise">Adult Italian lesson interest form</a>
 </div>
 
+You can also check our [Adult enrollment page](https://www.italianschoolsd.com/enroll-adults/) for any class that is currently open for enrollment.
+
 ## Custom group classes
 
 Do you already have a group of people you like to hangout with interested in learning Italian?
