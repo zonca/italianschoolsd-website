@@ -22,7 +22,7 @@ For enrollment please pay via credit card clicking on the button below.
 <a href=" https://link.waveapps.com/nuj4na-44qfd3" class="btn raise">Pay and enroll</a>
 </div>
 
-The room will be equipped with a particulate filter, masks, in particular N95, are recommended, but not required.
+The room will be equipped with a particulate filter. Masks, in particular N95, are recommended, but not required.
 
 In case we do not have enough people to start the class, we will process full refunds to your credit card, including the credit card processing fee.
 
