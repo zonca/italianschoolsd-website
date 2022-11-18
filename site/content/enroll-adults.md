@@ -6,20 +6,20 @@ subtitle: Enrollment for adult classes
 
 This page lists the Adult classes currently open for enrollment
 
-## Adult beginner, in-person, Fridays 6pm-7:30pm
+## Adult beginner, in-person, Thursdays 6:15pm-7:45pm
 
-Italian class in person taught by Teacher Mark and is targeted at beginners, no previous experience with Italian is required.
+Italian class in person taught by Teacher Ilana and is targeted at beginners, no previous experience with Italian is required.
 
-The class is in-person at [Language Door, 7380 Clairemont Mesa Blvd, San Diego](https://goo.gl/maps/vCotwAoBbYNpx8vV9) on Fridays from 6pm to 7:30pm.
+The class is in-person at [Language Door, 7380 Clairemont Mesa Blvd, San Diego](https://goo.gl/maps/vCotwAoBbYNpx8vV9) on Thursdays from 6:15pm to 7:45pm.
 
-The class will run from October 7th to December 16th for a total of 10 classes, there will be no class on Black Friday.
+The class will start on December 1st, have 3 classes before the Christmas break, then start again on January 5th, the last class will be on February 16th.
 
-The cost for this quarter-long program is $250 per person, plus 3% credit card processing fee `$257.5`.
+The cost for this 10-classes program is $275 per person, plus 3% credit card processing fee `$283.25`.
 
 For enrollment please pay via credit card clicking on the button below.
 
 <div class="tc">
-<a href="https://link.waveapps.com/bnekjw-3kjd5d" class="btn raise">Pay and enroll</a>
+<a href=" https://link.waveapps.com/nuj4na-44qfd3" class="btn raise">Pay and enroll</a>
 </div>
 
 In case we do not have enough people to start the class, we will process full refunds to your credit card, including the credit card processing fee.
