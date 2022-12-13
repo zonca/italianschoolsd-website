@@ -12,7 +12,9 @@ This gift certificate grants access to 6 in-person group classes for adults with
 
 The cost of the gift certificate is **$165** (+3% credit card processing fee, the total is $169.95):
 
-* [Purchase the certificate](https://link.waveapps.com/pak5bh-rwqrf4)
+<div class="tc">
+<a href="https://link.waveapps.com/pak5bh-rwqrf4" class="btn raise">Purchase the certificate</a>
+</div>
 
 We will email you at the beginning of January to gather details about the enrolled student. There are no fees associated with enrollment.
 Once these lessons are over, we plan to start a "Beginner 2" class on February 23rd.
