@@ -54,7 +54,7 @@ He has a PhD in Astrophysics and works as a computational scientist at the Unive
 
 Andrea moonlights to handle business operations, accounting and web development for the Italian school of San Diego.
 
-He also loves learning languages as a hobby: he speaks Italian, English, Spanish, some French, some Russian and started studying Chinese.
+He also loves learning languages as a hobby: he speaks Italian, English, Spanish, some French, some Russian and is now studying Japanese.
 
 ## Our instructors
 
