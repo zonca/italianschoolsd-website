@@ -8,7 +8,7 @@ This page lists the Adult classes currently open for enrollment
 
 ## Adult beginner, in-person, Thursdays 6:15pm-7:45pm, starting January 12th
 
-Italian class in person taught by Teacher Ilana and is targeted at beginners, no previous experience with Italian is required.
+Italian class in person taught by our mother-tongue Teacher Emanuela and is targeted at beginners, no previous experience with Italian is required.
 
 The class is in-person at [Language Door, 7380 Clairemont Mesa Blvd, San Diego](https://goo.gl/maps/vCotwAoBbYNpx8vV9) on Thursdays from 6:15pm to 7:45pm.
 
@@ -30,7 +30,7 @@ The first additional family member enrolling will receive 10% discount, the seco
 
 ## Adult beginner, in-person, Thursdays 6:15pm-7:45pm, starting December 1st
 
-Italian class in person taught by Teacher Ilana and is targeted at beginners, no previous experience with Italian is required.
+Italian class in person taught by our mother-tongue Teacher Ilana and is targeted at beginners, no previous experience with Italian is required.
 
 The class is in-person at [Language Door, 7380 Clairemont Mesa Blvd, San Diego](https://goo.gl/maps/vCotwAoBbYNpx8vV9) on Thursdays from 6:15pm to 7:45pm.
 
