@@ -101,6 +101,18 @@ She graduated in Literature and Philosophy at the University of La Sapienza in R
 
 Mark was born and raised in Rome with an Italian father and an American mother. He grew up speaking both Italian and English and completed Liceo Scientifico (high school in scientific studies) in 2020 where he cultivated interests in languages and literature, philosophy, science, math, as well as theatre. His participation in a theatre program during high school has led Mark to choose acting and theatre studies as his major at the San Diego Mesa College, where he has been studying since 2021 and from which he plans to transfer to a four-year university. He comes to language teaching via his English language tutoring experience of his high school classmates. In his free time, he enjoys sports, the beach, and travelling. Mark is very excited to become part of the Italian School of San Diego team and share his love of the Italian language and culture.
 
+### Ilana Battaglia
+
+![Ilana Battaglia](/img/ilana_battaglia.jpg)
+
+Ilana was born and lived the first few years of her life in Catania, Italy. She was raised in a bilingual, multicultural family which helped her to develop an open mind and a love for the
+diversity in the world. She graduated from a performing arts high school, with honors in the arts and dance.
+
+Although being raised in San Diego, Italy was always in her heart. She moved back to Italy after finishing high school to rediscover her home town of Catania. While there, she discovered her love for teaching. She enjoys teaching languages because it gives her the opportunity to share not only the beauty and complexity of the language, but also its culture and traditions and the opportunity to continue to grow and learn from the experience of her students.
+
+Ilana has had the opportunity to work with both children and adults teaching English and Italian in the States and in Italy. She was able to enrich her skills by completing certificate courses with
+the Oxford Teacher’s Academy as well as The Canadian Institute of English and Applied Neuroscience. She enjoys learning languages, dancing, cooking, traveling, helping others and spending time with her family and friends. She is happy to embark on this journey with the Italian School of San Diego and looks forward to meeting you soon!
+
 ## Our staff
 
 ### Iris Zonca - Social media manager
