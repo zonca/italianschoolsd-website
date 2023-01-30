@@ -22,7 +22,7 @@ Returning students, previously enrolled in IAASD in 2019-2020 or 2020-2021, or t
 
 **$1490** ($165/month if paid annually)
 
-check [the dedicated page for details on payment methods, the monthly payment option and sibling discount](/tuition-payment)
+check [the dedicated page for details on payment methods, the 9-payments option and sibling discount](/tuition-payment)
 
 <div class="tc">
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSd4sac0Y2wdTd9gm2AF1Y9uuVPPyJzHfHEphJPA1iYPkrP43g/viewform?usp=sf_link" class="btn raise">Fill the pre-enrollment form</a>

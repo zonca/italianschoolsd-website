@@ -18,7 +18,7 @@ The total yearly tuition for 35 weeks of instruction (2 hours of class and 2 hou
 
 **$2180**
 
-check [the dedicated page for details on payment methods, the monthly payment option and sibling discount](/tuition-payment)
+check [the dedicated page for details on payment methods, the 9-payments option and sibling discount](/tuition-payment)
 
 <div class="tc">
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSd4sac0Y2wdTd9gm2AF1Y9uuVPPyJzHfHEphJPA1iYPkrP43g/viewform?usp=sf_link" class="btn raise">Fill the pre-enrollment form</a>
