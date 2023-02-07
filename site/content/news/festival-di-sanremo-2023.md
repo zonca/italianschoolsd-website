@@ -8,9 +8,12 @@ In Italy, when you say "Il Festival", it only means "Festival di Sanremo", the m
 
 It is a great opportunity to expose the kids to the Italian language and culture: whether you like it or not, Sanremo is iconic!
 
-The show streams on RAI 1 from February 7th to February 11th from 12pm to 4:30pm Pacific Standard Time, it should be available at either of this links (I'll update this post once I figured it out for sure):
+The show streams on RAI 1 from February 7th to February 11th from 12pm to 4:30pm Pacific Standard Time at:
 
 * [RAI 1 realtime streaming](https://www.raiplay.it/dirette/rai1)
+
+Moreover, RAI posts additional content, like recordings of previous nights, at:
+
 * [Page about the Festival of Sanremo on Raiplay](https://www.rai.it/programmi/sanremo/)
 
 If you would like to quickly add all the events to your calendar, you can checkout the [Italian school of San Diego Calendar](https://www.italianschoolsd.com/calendar/).
