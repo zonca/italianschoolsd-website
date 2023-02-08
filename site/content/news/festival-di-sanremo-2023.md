@@ -16,6 +16,8 @@ Moreover, RAI posts additional content, like recordings of previous nights, at:
 
 * [Page about the Festival of Sanremo on Raiplay](https://www.rai.it/programmi/sanremo/)
 
+
+
 If you would like to quickly add all the events to your calendar, you can checkout the [Italian school of San Diego Calendar](https://www.italianschoolsd.com/calendar/).
 
 Just for Sanremo the Italian television removes geographical restrictions, so you **do not need** a VPN.
@@ -23,3 +25,10 @@ Just for Sanremo the Italian television removes geographical restrictions, so yo
 You can watch it on a TV by installing the "Raiplay" app, opening a browser (for example Amazon Silk on Firestick), or by streaming it on your laptop and casting the tab to the TV.
 
 Buon ascolto!
+
+## Links to specific videos
+
+Consider that these links are generally disabled after a few weeks, so they will stop working at some point:
+
+* Best from the first night, the [talk of Roberto Benigni about the Italian Constitution](https://www.raiplay.it/video/2023/02/Sanremo-2023-prima-serata-Roberto-Benigni-mattatore-allAriston-09c6d8f8-0ae4-491f-b276-0e6c43ff2ab0.html)
+* [Recording of the first night](https://www.raiplay.it/programmi/festivaldisanremo/le-canzoni-in-gara/prima-serata)
