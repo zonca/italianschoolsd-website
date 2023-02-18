@@ -14,6 +14,8 @@ It will be hosted on our Zoom channel, which supports
 
 The cost for this 14-classes program is $350.00 per person, plus 3% credit card processing fee.
 
+The class will start on February 27th, the last class will be on May 29th.
+
 For enrollment please pay via credit card clicking on the button below.
 
 <div class="tc">
