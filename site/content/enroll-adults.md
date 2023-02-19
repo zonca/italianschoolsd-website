@@ -10,6 +10,8 @@ This page lists the Adult classes currently open for enrollment
 
 1-on-1 private class via Zoom with one of our mother-tongue instructors. The class will be tailored to your level, from absolute beginners to advanced. Once processed the payment, we will contact you for scheduling, we can organize classes any day of the week at any time.
 
+The cost is $55/hour + 3% credit card processing fee.
+
 <div class="tc">
 <a href="https://link.waveapps.com/d5wbga-jtfh9e" class="btn raise">Pay and enroll - private class - 5 classes of 1 hour ONLINE</a>
 </div>
