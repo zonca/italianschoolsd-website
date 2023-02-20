@@ -123,6 +123,12 @@ He lives in San Diego County with his family and returns to Italy every year for
 
 He started tutoring Italian during his years at CAL and found the experience of transferring his love for the Italian language to others very rewarding. Lately, taking advantage of the newfound spare time he has been able to return to this activity with new energy.
 
+### Emanuela Rossi
+
+![Emanuela Rossi](/img/emanuela_rossi.jpg)
+
+Emanuela was born in Milan and lived in various Italian regions. She is interested in foreign languages, neurolinguistic, anthropology and earned a Degree in Foreign Languages and a Master Degree in Foreign Languages for International Communication (Laurea Specialistica) at the University of Verona in Italy. She has lived, studied and worked in France, Spain, Greece, Australia and South Africa. In 2014, she moved to San Diego. She believes in continuous learning and takes advantage of all the opportunities to learn new skills. She is very active and has an enthusiastic personality. With hobbies like hiking, camping, woodworking and many others, she thinks that days are always too short.
+
 ## Our staff
 
 ### Iris Zonca - Social media manager
