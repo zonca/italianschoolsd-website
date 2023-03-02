@@ -85,7 +85,7 @@ See the tuition and submit a non-binding pre-enrollment clicking on the button b
 
 ### Instructions for San Diego Unified School District
 
-Email us at `info` on the domain `italianschoolsd.com` with:
+[Contact us](/contact) with:
 
 * Student name
 * Name of the High School

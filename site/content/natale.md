@@ -19,7 +19,7 @@ The cost of the gift certificate is **$165** (+3% credit card processing fee, th
 We will email you at the beginning of January to gather details about the enrolled student. There are no fees associated with enrollment.
 Once these lessons are over, we plan to start a "Beginner 2" class on February 23rd.
 
-The full amount of the gift certificate, including fees, is fully refundable until January 8th, just email `info@italianschoolsd.com`.
+The full amount of the gift certificate, including fees, is fully refundable until January 8th, just [contact us](/contact).
 
 [Download and print instantly the gift card certificate in PDF format](/pdf/italianschoolsd-gift-certificate.pdf), then customize it by completing the "From" and "To" fields.
 
