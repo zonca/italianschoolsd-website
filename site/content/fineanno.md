@@ -40,4 +40,4 @@ Please signup [on this Google Form](https://docs.google.com/forms/d/e/1FAIpQLSeG
 
 ## Contatto
 
-Email [andrea@italianschoolsd.com](mailto:andrea@italianschoolsd.com)
+See our [Contact page](/contact)

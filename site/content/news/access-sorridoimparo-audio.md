@@ -11,7 +11,7 @@ You need to scan the QR code with your smartphone, you have 3 options:
 
 * try first to point your phone's camera to the QR code, if a link pops up, click on it
 * if you already have Google Lens installed, open it, point to the QR code and click search and then on the link
-* download the [Hub Smart app](https://www.rizzolieducation.it/digitale/hub-smart-2/) on your phone, [for Android](https://play.google.com/store/apps/details?id=com.mondadori.hubsmart) or [for iOS](https://itunes.apple.com/it/app/hub-smart/id1404230827?mt=8). Click on the Hub Smart logo and point to the QR code
+* download the [Hub Smart app](https://www.hubscuola.it/download-app) on your phone, [for Android](https://play.google.com/store/apps/details?id=com.mondadori.hubsmart) or [for iOS](https://itunes.apple.com/it/app/hub-smart/id1404230827?mt=8). Click on the Hub Smart logo and point to the QR code
 
 In all 3 cases you should see a list of Audio clips with their relative page number in the book. No need to login or create an account.
 
