@@ -1,0 +1,24 @@
+name: Links
+
+on:
+  repository_dispatch:
+  workflow_dispatch:
+  schedule:
+    - cron: "00 18 * * *"
+
+jobs:
+  linkChecker:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Lychee Broken Link Checker
+        # You may pin to the exact commit or the version.
+        # uses: lycheeverse/lychee-action@9ace499fe66cee282a29eaa628fdac2c72fa087f
+        uses: lycheeverse/lychee-action@v1.6.1
+        with:
+          # Fail entire pipeline on error (i.e. when lychee exit code is not 0)
+          fail: true
+          # Summary output format (e.g. json)
+          format: markdown
+          # Write Github job summary at the end of the job (written on Markdown output only)
+          jobSummary: false
