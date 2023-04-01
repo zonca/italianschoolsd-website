@@ -13,7 +13,7 @@ The curriculum and the programs were created, implemented and district approved 
 
 For more information, check:
 
-* [the page about world languages of the Office of Language Acquisition of San Diego Unified](https://sandiegounified.org/departments/ola/world_languages)
+* [the page about world languages of the Multilingual Education Department of San Diego Unified](https://www.sdusdmed.org/projects/independent-world-languages-schools)
 * [the page about Off Campus World language courses at San Dieguito](https://www.sduhsd.net/Departments/Educational-Services/Specialized-Programs/Off-Campus-Courses/Off-Campus-World-Language-Courses/index.html)
 
 ### How many years
