@@ -6,40 +6,20 @@ subtitle: Enrollment for adult classes
 
 This page lists the Adult classes currently open for enrollment
 
-## Adult beginner, Online via Zoom, Mondays 6:15pm-7:45pm, starting February 27th
+## Adult beginner, in-person, Mondays 6pm-7:30pm, starting April 24th
 
-This Italian class is taught via Zoom by our mother-tongue Teacher Emanuela and is targeted at beginners, no previous experience with Italian is required.
+Italian class in-person taught by one of our mother-tongue teachers, targeted at beginners, no previous experience with Italian is required.
 
-It will be hosted on our Zoom channel, which supports 
+The class is in-person at [Language Door, 7380 Clairemont Mesa Blvd, San Diego](https://goo.gl/maps/vCotwAoBbYNpx8vV9) on Mondays from 6pm to 7:30pm.
 
-The cost for this 14-classes program is $350.00 per person, plus 3% credit card processing fee.
+This is a short session of only 5 classes, it will start on April 24th and the last class will be on May 22th. We plan to start the Summer session on June 5th.
 
-The class will start on February 27th, the last class will be on May 29th.
-
-For enrollment please pay via credit card clicking on the button below.
-
-<div class="tc">
-<a href="https://link.waveapps.com/sj89um-vsrka9" class="btn raise">Pay and enroll - Beginner class - ONLINE</a>
-</div>
-
-In case we do not have enough people to start the class, we will process full refunds to your credit card, including the credit card processing fee.
-
-The first additional family member enrolling will receive 10% discount, the second 15% discount, please pay the full amount, then [send an email](https://www.italianschoolsd.com/contact/) so we can process a partial refund.
-
-## Adult beginner, in-person, Thursdays 6:15pm-7:45pm, starting February 23rd
-
-Italian class in-person taught by our mother-tongue teachers Emanuela and Ilana, are targeted at beginners, no previous experience with Italian is required.
-
-The class is in-person at [Language Door, 7380 Clairemont Mesa Blvd, San Diego](https://goo.gl/maps/vCotwAoBbYNpx8vV9) on Thursdays from 6:15pm to 7:45pm.
-
-The class will start on February 23rd, the last class will be on May 25th.
-
-The cost for this 14-classes program is $385.00 per person, plus 3% credit card processing fee.
+The cost for this program is $145 per person, plus 3% credit card processing fee.
 
 For enrollment please pay via credit card clicking on the button below.
 
 <div class="tc">
-<a href="https://link.waveapps.com/4kvknf-vzt9z5" class="btn raise">Pay and enroll - Beginner class - In-person</a>
+<a href="https://link.waveapps.com/2abyp6-77zagt" class="btn raise">Pay and enroll - Beginner class - In-person</a>
 </div>
 
 The room will be equipped with a particulate filter (a [Corsi-Rosenthal box](https://en.wikipedia.org/wiki/Corsi%E2%80%93Rosenthal_Box)). Masks, in particular N95, are recommended, but not required.
