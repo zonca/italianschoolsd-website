@@ -19,3 +19,4 @@ Make sure you register to our newsletter in the website footer to receive latest
 
 You can also find us on Instagram, Twitter and Facebook at `italianschoolsd`.
 
+[Google Maps link to our location](https://goo.gl/maps/KqGhZAXJfkkLLsvYA)
