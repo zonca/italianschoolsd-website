@@ -10,7 +10,7 @@ We are happy to open pre-enrollment for our summer camp:
 * Daily program Monday to Friday from 9am to 3pm, drop-off 9am-9:15am, pickup at 3pm
 * Italian language classes focused on conversation, learn about Italian food, art and architecture, outdoor games in Italian, board-games, arts&crafts, music.
 * No previous knowledge of Italian required, depending on students enrolling, we could organize an additional class for kids that already speak Italian. We will send all details in the notice of acceptance into the program.
-* Hosted on the campus of "After School Learning Tree" at [11525 Sorrento Valley Rd STE A, San Diego, CA 92121](https://www.google.com/maps/place/After+School+Learning+Tree/@32.9113616,-117.2305672,15z/data=!4m6!3m5!1s0x80dc06f8b75cc61b:0x2f1f3cf711f6503b!8m2!3d32.9113616!4d-117.2305672!16s%2Fg%2F1tywy79h), close to the Sorrento Valley Coaster station just outside I-5.
+* Hosted on the campus of "After School Learning Tree" at [11525 Sorrento Valley Rd STE A, San Diego, CA 92121](https://www.google.com/maps/place/After+School+Learning+Tree/@32.9113616,-117.2305672,15z/data=!4m6!3m5!1s0x80dc06f8b75cc61b:0x2f1f3cf711f6503b!8m2!3d32.9113616!4d-117.2305672!16s%2Fg%2F1tywy79h), close to the Sorrento Valley Coaster station just outside I-5. The campus has a large outdoor play-area.
 * $450 for either week, $850 for both weeks, we will give precedence to students enrolling for both weeks
 * 10% discount to additional siblings
 * Small class sizes: 8-12 kids with a mother-tongue teacher and a teaching aide
