@@ -4,6 +4,8 @@ image: /img/isola_bella.jpg
 subtitle: A fun summer camp to learn Italian targeted at kids between 3rd grade and 8th grade with no previous knowledge of Italian
 ---
 
+[![Summer Camp flyer](/img/italian_summer_camp_flyer.png)](/img/italian_summer_camp_flyer.png)
+
 We are happy to open pre-enrollment for our summer camp:
 
 * 2 sessions, 1 week each, June 19th-23rd and June 26th-30th, the 2 sessions will have a different program
