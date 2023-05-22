@@ -9,7 +9,7 @@ We are happy to announce our summer term classes for adults, we offer 4 options:
 * In-person beginner level on Mondays at 6pm starting June 5th
 * In-person beginner level on Thursdays at 6pm starting June 8th 
 * In-person intermediate level level on Thursdays at 6pm starting June 8th 
-* Online beginner level starting June 5th 
+* Online beginner level starting on Mondays at 6pm June 5th
 
 See <https://www.italianschoolsd.com/enroll-adults/> for more details and to enroll.
 
