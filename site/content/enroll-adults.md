@@ -37,7 +37,7 @@ For enrollment please pay via credit card clicking on the button below.
 
 ## Adult intermediate, in-person, Thursdays 6pm-7:30pm, starting June 8th
 
-Italian class in-person taught by one of our mother-tongue teachers, targeted at students previously enrolled in the Thursday's class with Ilana and other students that had at least 6 months worth of classes at another language school and that can sustain simple conversations in Italian. Please [contact us](https://www.italianschoolsd.com/contact/) if you are not sure about your level.
+Italian class in-person taught by one of our mother-tongue teachers, targeted at students previously enrolled in the Thursday's class with Teacher Ilana and other students that had at least 6 months worth of classes at another language school and that can sustain simple conversations in Italian. Please [contact us](https://www.italianschoolsd.com/contact/) if you are not sure about your level.
 
 First class on June 8th, last class on July 27th
 
@@ -52,7 +52,7 @@ For enrollment please pay via credit card clicking on the button below.
 
 ## Adult beginner, online, Mondays 6pm-7:30pm, June 12th
 
-Italian class online taught by Emanuela, targeted at beginners, no previous experience with Italian is required. The class will be taught via Zoom.
+Italian class online taught by Teacher Emanuela, targeted at beginners, no previous experience with Italian is required. The class will be taught via Zoom.
 
 * First class on June 12th, no class June 19th for Juneteenth, last class on July 31st, 7 classes total.
 
