@@ -129,6 +129,18 @@ He started tutoring Italian during his years at CAL and found the experience of 
 
 Emanuela was born in Milan and lived in various Italian regions. She is interested in foreign languages, neurolinguistic, anthropology and earned a Degree in Foreign Languages and a Master Degree in Foreign Languages for International Communication (Laurea Specialistica) at the University of Verona in Italy. She has lived, studied and worked in France, Spain, Greece, Australia and South Africa. In 2014, she moved to San Diego. She believes in continuous learning and takes advantage of all the opportunities to learn new skills. She is very active and has an enthusiastic personality. With hobbies like hiking, camping, woodworking and many others, she thinks that days are always too short.
 
+### Daniela Gnerre
+
+![Daniela Gnerre](/img/daniela_gnerre.jpg)
+
+Daniela was born in Napoli, but grew up in Rovigo, Barcelona (Spain), and Rome. She moved to the US in 1998, and became an American citizen in 2012. Daniela’s native language is Italian, but she is fluent in Spanish and English, and has a scholastic knowledge of French.
+
+She obtained her Laurea in Economia at l’Università degli studi di Roma “La Sapienza”, and worked as a translator at the Ministero della Sanità.
+
+After a couple of years in Berkeley, where her two sons were born, her family moved to Massachusetts, then to the Silicon Valley, before finally settling in the San Diego area.
+
+She became involved in the schools to better understand the American school system. She started out as a volunteer, both in class and in after school programs, to later commit to a full time TA position. Daniela also taught Italian and Spanish in after school programs for both elementary school students and preschoolers, and at various adult enrichment classes.
+
 ## Our staff
 
 ### Iris Zonca - Social media manager
