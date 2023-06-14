@@ -95,12 +95,6 @@ Creativity is a character trait which she encourages in her teaching methodology
 
 She graduated in Literature and Philosophy at the University of La Sapienza in Rome, attended an exchange program with the Ruprecht-Karl University in Heidelberg. She is currently in the process of obtaining a "Fine Arts" certificate at San Diego Mesa College.
 
-### Mark de Caprariis
-
-![Mark de Caprariis](/img/mark_de_caprariis.jpg)
-
-Mark was born and raised in Rome with an Italian father and an American mother. He grew up speaking both Italian and English and completed Liceo Scientifico (high school in scientific studies) in 2020 where he cultivated interests in languages and literature, philosophy, science, math, as well as theatre. His participation in a theatre program during high school has led Mark to choose acting and theatre studies as his major at the San Diego Mesa College, where he has been studying since 2021 and from which he plans to transfer to a four-year university. He comes to language teaching via his English language tutoring experience of his high school classmates. In his free time, he enjoys sports, the beach, and travelling. Mark is very excited to become part of the Italian School of San Diego team and share his love of the Italian language and culture.
-
 ### Ilana Battaglia
 
 ![Ilana Battaglia](/img/ilana_battaglia.jpg)
