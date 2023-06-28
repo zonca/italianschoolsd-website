@@ -1,7 +1,7 @@
 ---
 title: Accredited Italian classes in San Diego
 image: /img/milan.jpg
-subtitle: Classes for the academic year 2022-2023
+subtitle: Classes for the academic year 2023-2024
 ---
 
 ## Accredited classes
@@ -9,12 +9,22 @@ subtitle: Classes for the academic year 2022-2023
 Italian school of San Diego LLC is accredited both with the San Diego Unified and the San Dieguito Union High School Districts as an "Independent World Language School".
 Therefore classes taken at the Italian school will give credit for the language requirement for High School graduation for all public High Schools within the 2 districts, and will also satisfy the admission requirements for colleges. Grades obtained in the Italian classes will be added to the student's transcripts.
 
-The curriculum and the programs were created, implemented and district approved by our sister school IAASD, [learn more about their story](/about/legacy-iaasd).
+The curriculum and the programs were created, implemented and district approved by our sister school IAASD, now closed, [learn more about their story](/about/legacy-iaasd).
 
 For more information, check:
 
 * [the page about world languages of the Multilingual Education Department of San Diego Unified](https://www.sdusdmed.org/projects/independent-world-languages-schools)
 * [the page about Off Campus World language courses at San Dieguito](https://www.sduhsd.net/Departments/Educational-Services/Specialized-Programs/Off-Campus-Courses/Off-Campus-World-Language-Courses/index.html)
+
+### The workload and grading
+
+Accredited classes require at least 2 hours of homework every week, compared to 30min-1hour that is usually expected at lower levels, therefore the students need to take this into account.
+
+Grading is also a lot more structured, students will signup to our Google Classroom and will submit weekly homework through the system that will be graded and assigned points. Tests will be performed via Google Forms during class with camera on.
+
+The complete grade of the student will be composed by the grading of homework, of tests and also of an evaluation of their participation in class.
+
+Parents will receive a grade report 4 times a year. If the students are in a public High School in San Diego Unified or San Dieguito, the January and the June grade reports will also be sent to their High School and added to their transcripts.
 
 ### How many years
 
@@ -50,7 +60,7 @@ Here is the standard academic path:
 
 * 7th grade: Italian 1-2
 * 8th grade: Italian 3-4
-* 9th grade: Italian 5-6, gets credit with High School for 2 semesters of coursework and 3 years of language education
+* 9th grade: Italian 5-6, gets credit with High School for 2 semesters of coursework and 3 years of language education, they can leave the program having satisfied 3 years of language education
 * 10th grade: Italian 7-8, gets credit with High School for 2 semesters of coursework and 4 years of language education, prepares for taking AP Italian
 
 Students can also start accredited classes later in their academic career, the latest for reaching 3 years of language would be to start in 10th grade:
@@ -58,6 +68,13 @@ Students can also start accredited classes later in their academic career, the l
 * 10th grade: Italian 1-2, 2 semesters of coursework, 1 year of language
 * 11th grade: Italian 3-4, 2 semesters of coursework, 2 years of language
 * 12th grade: Italian 5-6, 2 semesters of coursework, 3 years of language
+
+They could also start as early as 6th grade, this is beneficial because they can be done with language in the first year of High School:
+
+* 6th grade: Italian 1-2
+* 7th grade: Italian 3-4
+* 8th grade: Italian 5-6
+* 9th grade: Italian 7-8, gets credit with High School for 2 semesters of coursework and 4 years of language education, prepares for taking AP Italian, it is essential they take at least 1 class in High School to have the requirement of at least 3 years of language education satisfied.
 
 Students already fluent in Italian, with knowledge of grammar and familiarity with the Italian culture could also start directly at a level higher than Italian 1-2, after an evaluation.
 

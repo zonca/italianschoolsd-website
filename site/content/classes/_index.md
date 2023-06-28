@@ -1,7 +1,7 @@
 ---
 title: Italian classes in San Diego
 image: /img/milan.jpg
-subtitle: Classes for the academic year 2022-2023
+subtitle: Classes for the academic year 2023-2024
 ---
 
 ## Italian-heritage classes for kids K-6
@@ -12,20 +12,18 @@ subtitle: Classes for the academic year 2022-2023
 Italian-heritage classes allow kids that are already advanced or fluent in Italian, not necessarily mother-tongue, to deepen their knowledge of the
 Italian language and learn many of the topics taught to their peers in Italy, starting from the four basic language skills: comprehension, reading , writing and oral production. Beginning in 3rd grade, the program will be enriched with the study of history and geography topics from the Italian public school curriculum. All classes are taught in Italian by a mother-tongue Italian instructor.
 
-Classes initially will follow programs based on those previously offered by the Italian American Academy of San Diego.
-
 Classes will have between 5 and 10 students and held in person.
-Our classes are suitable to prepare the students for accredited classes, which generally start in 7th grade, see [the dedicated page on our website](https://www.italianschoolsd.com/accredited-classes/)
+Our classes are suitable to prepare the students for accredited classes, which generally start in 6th or 7th grade, see [the dedicated page on our website](https://www.italianschoolsd.com/accredited-classes/)
 
 ### Location
 
 Classrooms of the *Language Door* language school , at [7380 Clairemont Mesa Blvd in Kearny Mesa](https://goo.gl/maps/DLdWjeXqKPrEYyiH6), whose location we entirely sublease on Thursday afternoons.
-As last year, we will follow the same COVID-19 precautions as San Diego Unified School district, we will update [our COVID-19 protocol](/covid19) page after August 29th with the latest guidelines.
+As last year, we will follow the same COVID-19 precautions as San Diego Unified School district, see [our COVID-19 protocol](/covid19).
 
 ### Calendar
 
-In-person classes are 2 hours per week, 4-6pm on Thursdays, first class on **September 8th**,
-last class on June 1st for a total of 34 weeks of instruction.
+In-person classes are 2 hours per week, 4-6pm on Thursdays, first class on **September 7th**,
+last class on May 30th for a total of 33 weeks of instruction (+1 week for backup in case of cancellations).
 
 See the [Italian school of San Diego calendar](/calendar) for our Google Calendar schedule.
 
