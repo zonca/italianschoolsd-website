@@ -6,6 +6,9 @@ subtitle: Classes for the academic year 2022-2023
 
 ## Italian-heritage classes for kids K-6
 
+> La lingua e' l'ultima proprieta' di chi parte per sempre
+(Erri de Luca, I pesci non chiudono gli occhi)
+
 Italian-heritage classes allow kids that are already advanced or fluent in Italian, not necessarily mother-tongue, to deepen their knowledge of the
 Italian language and learn many of the topics taught to their peers in Italy, starting from the four basic language skills: comprehension, reading , writing and oral production. Beginning in 3rd grade, the program will be enriched with the study of history and geography topics from the Italian public school curriculum. All classes are taught in Italian by a mother-tongue Italian instructor.
 
