@@ -6,7 +6,7 @@ subtitle: Classes for the academic year 2022-2023
 
 ## Italian-heritage classes for kids K-6
 
-> “La lingua e' l'ultima proprieta' di chi parte per sempre”
+> “*La lingua e' l'ultima proprieta' di chi parte per sempre*”
 (Erri de Luca, I pesci non chiudono gli occhi)
 
 Italian-heritage classes allow kids that are already advanced or fluent in Italian, not necessarily mother-tongue, to deepen their knowledge of the
