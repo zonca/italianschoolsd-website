@@ -13,7 +13,7 @@ svg {
 
 a.resp-sharing-button__link {
   text-decoration: none;
-  color: #fff;
+  color: #fff !important;
   margin: 0.5em
 }
 
@@ -22,6 +22,10 @@ a.resp-sharing-button__link {
   transition: 25ms ease-out;
   padding: 0.5em 0.75em;
   font-family: Helvetica Neue,Helvetica,Arial,sans-serif
+}
+
+.resp-sharing-button__icon {
+  vertical-align: top !important;
 }
 
 .resp-sharing-button__icon svg {
