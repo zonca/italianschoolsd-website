@@ -1,7 +1,7 @@
 ---
 title: Covid 19 protocol
 image: /img/david-masked.jpg
-subtitle: Pandemic safety guidelines for the academic year 2022-2023
+subtitle: Pandemic safety guidelines for the academic year 2023-2024
 ---
 
 ## Summary

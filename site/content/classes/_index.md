@@ -4,6 +4,14 @@ image: /img/milan.jpg
 subtitle: Classes for the academic year 2023-2024
 ---
 
+## Please share our flyer
+
+We rely on word-of-mouth to get people to know our programs, please [help us by sharing our flyer]( {{< ref "news/italian-class-enrollment-2023-2024-open.md" >}} )
+
+## Accredited Italian classes for kids in 6th-12th grade
+
+We offer classes for kids between 6th grade and 12th grade that provide High School graduation credits for public High Schools in the San Dieguito and San Diego Unified districts. See [the dedicated page for more information](/accredited-classes)
+
 ## Italian-heritage classes for kids K-6
 
 > “*La lingua e' l'ultima proprieta' di chi parte per sempre*”
@@ -31,14 +39,14 @@ See the [Italian school of San Diego calendar](/calendar) for our Google Calenda
 <a href="/enroll" class="btn raise">Tuition and pre-enrollment information</a>
 </div>
 
-## Italian-learners classes for kids (K-8) and adults
+## Italian as a Foreign Language (IFL) classes for kids (K-12) and adults
 
-Italian-learners classes are devoted to prospective students which haven't started to learn Italian yet or are beginners.
+Italian as a Foreign Language (IFL) classes are devoted to prospective students which haven't started to learn Italian yet or are beginners.
 Instruction will be in English, it will first cover the basics of Italian, using a conversation-first approach and engaging the students through language-reinforcing activities.
 
 Classes will have between 4 and 8 students online or in-person.
 
-For **kids in grade K to 8** we offer 2-hour in-person classes or 1.5-hour Zoom classes once a week,
+For **kids in grade K to 12** we offer 2-hour in-person classes or 1.5-hour Zoom classes once a week,
 please click the button below to submit a pre-enrollment, we will get back to you with more details.
 
 <div class="tc">
