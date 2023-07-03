@@ -25,8 +25,12 @@ Our classes are suitable to prepare the students for accredited classes, which g
 
 ### Location
 
-Classrooms of the *Language Door* language school , at [7380 Clairemont Mesa Blvd in Kearny Mesa](https://goo.gl/maps/DLdWjeXqKPrEYyiH6), whose location we entirely sublease on Thursday afternoons.
-As last year, we will follow the same COVID-19 precautions as San Diego Unified School district, see [our COVID-19 protocol](/covid19).
+We have 2 options for a location:
+
+* Like last year, *Language Door*, [7380 Clairemont Mesa Blvd](https://goo.gl/maps/hoEvemZb1qsharaK7), Thursday 4pm-6pm
+* Near Sorrento Valley, has larger classrooms and outdoor blacktop space, *After School Learning Tree*, [11525 Sorrento Valley Rd](https://goo.gl/maps/y2M724uWRS7o3gwZ6), Thursday 4:15pm-6:15pm
+
+The pre-enrollment form contains a question about your preference, so we can better decide which option is best for the whole community.
 
 ### Calendar
 
