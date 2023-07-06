@@ -12,7 +12,7 @@ products:
     - image: img/italian-learners-classes.svg
       text: "Italian as a Foreign Language (IFL) classes are grouped by age and level. They are focused on learning the basics of the Italian language from scratch. Once the basics are covered, the students are also introduced to Italian lifestyle and culture."
     - image: /img/italian-school-classes.svg
-      text: "Italian-heritage classes are targeted at students already fluent in Italian, they focus on teaching topics as taught in Elementary and Middle schools in Italy like history, geography, culture and lifestyle."
+      text: "Italian Heritage classes (ITA) are targeted at students already fluent in Italian, they focus on teaching topics as taught in Elementary and Middle schools in Italy like history, geography, culture and lifestyle."
 values:
     heading: About
     text: Our instructors are all mother-tongue Italian, they are experienced and passionate about teaching kids their own language and culture.

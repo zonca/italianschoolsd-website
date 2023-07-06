@@ -12,12 +12,12 @@ We rely on word-of-mouth to get people to know our programs, please [help us by 
 
 We offer classes for kids between 6th grade and 12th grade that provide High School graduation credits for public High Schools in the San Dieguito and San Diego Unified districts. See [the dedicated page for more information](/accredited-classes)
 
-## Italian-heritage classes for kids K-6
+## Italian Heritage classes for kids K-6
 
 > “*La lingua e' l'ultima proprieta' di chi parte per sempre*”
 (Erri de Luca, I pesci non chiudono gli occhi)
 
-Italian-heritage classes allow kids that are already advanced or fluent in Italian, not necessarily mother-tongue, to deepen their knowledge of the
+Italian Heritage classes allow kids that are already advanced or fluent in Italian, not necessarily mother-tongue, to deepen their knowledge of the
 Italian language and learn many of the topics taught to their peers in Italy, starting from the four basic language skills: comprehension, reading , writing and oral production. Beginning in 3rd grade, the program will be enriched with the study of history and geography topics from the Italian public school curriculum. All classes are taught in Italian by a mother-tongue Italian instructor.
 
 Classes will have between 5 and 10 students and held in person.
