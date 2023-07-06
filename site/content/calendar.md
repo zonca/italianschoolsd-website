@@ -3,7 +3,8 @@ title: Calendar
 image: /img/lastsupper.jpg
 subtitle: Academic calendar
 ---
-Calendar for the academic year for the in-person heritage classes (Thursdays 4-6pm) is available via Google Calendar, click on the `+ Google Calendar` button at the bottom of the integrated calendar below to add it to your calendars. It is the same calendar we have been using since 2021, so no need to add it if you already did in the past.
+Calendar for the academic year for the in-person Heritage classes (Thursdays 4-6pm) is available via Google Calendar, click on the `+ Google Calendar` button at the bottom of the integrated calendar below to add it to your calendars. It is the same calendar we have been using since 2021, so no need to add it if you already did in the past.
+Other classes have their own event in Google Calendar, if you have not been invited yet, please email us.
 
 * [Full page web view of the calendar](https://calendar.google.com/calendar/embed?src=ftdcclbhb2376sq8hudue9nb50%40group.calendar.google.com)
 * [Calendar address in iCal format (.ics)](https://calendar.google.com/calendar/ical/ftdcclbhb2376sq8hudue9nb50%40group.calendar.google.com/public/basic.ics) to be added to calendar managers
