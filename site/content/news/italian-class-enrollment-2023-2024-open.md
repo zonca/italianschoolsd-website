@@ -21,8 +21,8 @@ We decided to keep the same tuition cost of last year for all parents that final
 
 Learn more and pre-enroll:
 
-* https://www.italianschoolsd.com/classes/
-* https://www.italianschoolsd.com/accredited-classes/
+* [Italian classes TK-6th grade](/classes)
+* [Accredited Italian classes 6th-12th grade](/accredited-classes)
 
 ## Please share our flyer
 
