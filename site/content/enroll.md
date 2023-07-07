@@ -37,6 +37,8 @@ The fee is due to the fact that lower levels do a lot of crafts and we need some
 
 check [the dedicated page for details on payment methods, cancellation policy, the 8-payments option and sibling discount](/tuition-payment)
 
+The pre-enrollment form is the same for TK-6th grade students and for certified classes.
+
 <div class="tc">
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSd4sac0Y2wdTd9gm2AF1Y9uuVPPyJzHfHEphJPA1iYPkrP43g/viewform?usp=sf_link" class="btn raise">Fill the pre-enrollment form</a>
 </div>
