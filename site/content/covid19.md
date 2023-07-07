@@ -1,12 +1,12 @@
 ---
 title: Covid 19 protocol
 image: /img/david-masked.jpg
-subtitle: Pandemic safety guidelines for the academic year 2022-2023
+subtitle: Pandemic safety guidelines for the academic year 2023-2024
 ---
 
 ## Summary
 
-**NOTE**: Updated for 2022-2023
+**NOTE**: Updated for 2023-2024
 
 We give high priority to providing a safe environment for the kids and our teachers,
 we will follow a strict COVID-19 protocol informed by the California Department of Public Health
@@ -20,10 +20,10 @@ Here our main points:
 	* As for San Diego Unified guidelines, masks are strongly recommended but not required
 	* Teachers have been provided N95 masks, they can wear them at their discretion
 	* It is recommended for students to wear a N95, KN95 or KF94 mask
-	* 15 min break outside for eating and drinking, 2 classes at a time
+	* 15 min break outside for eating and drinking
 * **Ventilation**:
 	* Air conditioning with filters set at higher speed
-        * [Corsi-Rosenthal filtration box](https://www.italianschoolsd.com/news/2021/12/build-a-corsi-rosenthal-filtration-box-for-covid-19/) fdin the central room
+    * [Corsi-Rosenthal filtration box](/news/2021/12/build-a-corsi-rosenthal-filtration-box-for-covid-19/) fdin the central room
 * **Testing**:
 	* Please signup for the free weekly COVID-19 tests at San Diego Unified schools
 * **Tracing**:
