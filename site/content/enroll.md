@@ -30,6 +30,11 @@ Returning students, enrolled last year (2022-2023) in Italian school of San Dieg
 
 **$1639**
 
+## Material fee
+
+Starting in 2023-2024, we are charging an additional $50 material fee for kids in the 3 lower levels (arcangeli, cherubini and principati, roughly TK to 3rd grade, but class assignment also depends on fluency).
+The fee is due to the fact that lower levels do a lot of crafts and we need some help covering expenses for office and craft supplies we purchase during the year.
+
 check [the dedicated page for details on payment methods, cancellation policy, the 8-payments option and sibling discount](/tuition-payment)
 
 <div class="tc">
