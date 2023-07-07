@@ -1,5 +1,5 @@
 ---
-title: Pre-enrollment is open for 2023-2023 Italian classes for kids
+title: Pre-enrollment is open for 2023-2024 Italian classes for kids
 date: 2023-07-03T00:00:00.000Z
 description: Academic year starts on September 7th
 ---
