@@ -80,12 +80,21 @@ Students already fluent in Italian, with knowledge of grammar and familiarity wi
 
 ### Location
 
-All classes will be held via Zoom, with occasional optional social gatherings in person.
+All classes will be held via Zoom, with occasional social gatherings in person.
+
+We already have a couple of events planned for all accredited class students (6th grade and up):
+
+* Back-to-school night Bonfire at La Jolla Shores on Friday August 25th, 2023 5-9pm
+* End-of-year get-together on Friday May 31st, 2024, time and location TBD
+
+### Books
+
+We will send information about the necessary books after we have assigned students to classes.
 
 ### Calendar
 
 * 35 weekly classes, 2 hours each, and 2 hours of independent studies
-* Classes start on the week of September 5th and end in mid-June
+* Classes start on the week of September 5th and end the first week of June
 * The schedule will be decided by each class based on the teacher's and students' needs, generally classes will be the same day each week between 4:30pm and 6:30pm, you will receive an email about it after pre-enrollment
 
 ## How to enroll

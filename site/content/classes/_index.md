@@ -39,6 +39,10 @@ last class on May 30th for a total of 33 weeks of instruction (+1 week for backu
 
 See the [Italian school of San Diego calendar](/calendar) for our Google Calendar schedule.
 
+### Books
+
+We will send information about the necessary books after we have assigned students to classes.
+
 <div class="tc">
 <a href="/enroll" class="btn raise">Tuition and pre-enrollment information</a>
 </div>
