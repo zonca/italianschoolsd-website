@@ -21,7 +21,7 @@ Italian Heritage classes allow kids that are already advanced or fluent in Itali
 Italian language and learn many of the topics taught to their peers in Italy, starting from the four basic language skills: comprehension, reading , writing and oral production. Beginning in 3rd grade, the program will be enriched with the study of history and geography topics from the Italian public school curriculum. All classes are taught in Italian by a mother-tongue Italian instructor.
 
 Classes will have between 5 and 10 students and held in person.
-Our classes are suitable to prepare the students for accredited classes, which generally start in 6th or 7th grade, see [the dedicated page on our website](https://www.italianschoolsd.com/accredited-classes/)
+Our classes are suitable to prepare the students for accredited classes, which generally start in 6th or 7th grade.
 
 ### Location
 
