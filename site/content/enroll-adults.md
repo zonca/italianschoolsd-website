@@ -14,52 +14,19 @@ The rooms will be equipped with a particulate filter (a [Corsi-Rosenthal box](ht
 
 The first additional family member enrolling will receive 10% discount, the second 15% discount, please pay the full amount, then [send an email](https://www.italianschoolsd.com/contact/) so we can process a partial refund.
 
-## Adult beginner, in-person, Mondays or Thursdays 6pm-7:30pm, June 5th/8th
+## Adult beginner, in-person, Mondays 6pm-7:30pm, August 7th-28th
 
-Italian class in-person taught by one of our mother-tongue teachers, targeted at beginners, no previous experience with Italian is required.
+Italian class in-person taught by Daniela, targeted at beginners and intermediate, no previous experience with Italian is required.
+This is a short summer session for the month of August, in September we will start classes both online and in-person on Mondays and Thursdays.
 
-The session is 8 classes each:
+The session is 4 classe each:
 
-* First class on June 5th, no class June 19th for Juneteenth, last class on July 31st
-* First class on June 8th, last class on July 27th
+* First class on August 7th, last class on August 28th
 
-The cost for this program is $232 per person, plus 3% credit card processing fee.
-
-For enrollment please pay via credit card clicking on the button below.
-
-<div class="tc">
-<a href="https://link.waveapps.com/2ktaag-fk2ugq" class="btn raise">Pay and enroll - Beginner class - In-person - Monday</a>
-</div>
-
-<div class="tc">
-<a href="https://link.waveapps.com/y6f3hk-8jsbpk" class="btn raise">Pay and enroll - Beginner class - In-person - Thursday</a>
-</div>
-
-## Adult intermediate, in-person, Thursdays 6pm-7:30pm, starting June 8th
-
-Italian class in-person taught by one of our mother-tongue teachers, targeted at students previously enrolled in the Thursday's class with Teacher Ilana and other students that had at least 6 months worth of classes at another language school and that can sustain simple conversations in Italian. Please [contact us](https://www.italianschoolsd.com/contact/) if you are not sure about your level.
-
-First class on June 8th, last class on July 27th
-
-The cost for this program is $232 per person, plus 3% credit card processing fee.
+The cost for this program is $116 per person, plus 3.6% credit card processing fee.
 
 For enrollment please pay via credit card clicking on the button below.
 
 <div class="tc">
-<a href="https://link.waveapps.com/9g944y-93w2bx" class="btn raise">Pay and enroll - Intermediate - In-person - Thursday</a>
-</div>
-
-
-## Adult beginner, online, Mondays 6pm-7:30pm, June 12th
-
-Italian class online taught by Teacher Emanuela, targeted at beginners, no previous experience with Italian is required. The class will be taught via Zoom.
-
-* First class on June 12th, no class June 19th for Juneteenth, last class on July 31st, 7 classes total.
-
-The cost for this program is $189 per person, plus 3% credit card processing fee.
-
-For enrollment please pay via credit card clicking on the button below.
-
-<div class="tc">
-<a href="https://link.waveapps.com/tenm4v-dtwqrm" class="btn raise">Pay and enroll - Beginner class - ONLINE - Monday</a>
+<a href="https://link.waveapps.com/cc3pyj-hhn3e6" class="btn raise">Pay and enroll - Italian class - In-person - Monday</a>
 </div>
