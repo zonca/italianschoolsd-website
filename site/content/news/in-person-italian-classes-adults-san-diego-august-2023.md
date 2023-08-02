@@ -1,5 +1,5 @@
 ---
-title: In-person Italian classes for adults in August`
+title: In-person Italian classes for adults in August
 date: 2023-08-02T00:00:00.000Z
 description: In Kearny Mesa
 ---
