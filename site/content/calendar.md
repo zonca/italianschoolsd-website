@@ -14,7 +14,7 @@ September 7th, 2023: first class, May 30th, 2024: last class
 * [Calendar address in iCal format (.ics)](https://calendar.google.com/calendar/ical/ftdcclbhb2376sq8hudue9nb50%40group.calendar.google.com/public/basic.ics) to be added to calendar apps
 
 
-<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FLos_Angeles&src=ZnRkY2NsYmhiMjM3NnNxOGh1ZHVlOW5iNTBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%23AD1457" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?ctz=America%2FLos_Angeles&src=ZnRkY2NsYmhiMjM3NnNxOGh1ZHVlOW5iNTBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%23AD1457" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 ## Sorrento Valley location
 
