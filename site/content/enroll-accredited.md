@@ -20,13 +20,9 @@ Therefore the workload for the students is signficantly higher and they need to 
 
 The cost of the accredited class reflects the larger effort from the teacher and also the reporting requirements of grades to the High Schools.
 
-The total yearly tuition for 35 weeks of instruction (2 hours of class and 2 hours of homework per week) for early enrollment (payment **before August 20th**) is:
+The total yearly tuition for 35 weeks of instruction (2 hours of class and 2 hours of homework per week) is:
 
 **$2180** (unchanged from last year **2022-2023**)
-
-Parents which pay the enrollment invoice **after August 20th** or that enroll during the school year, will have a tuition 10% higher:
-
-**$2398**
 
 check [the dedicated page for details on payment methods, cancellation policy, the 8-payments option and sibling discount](/tuition-payment)
 
