@@ -1,6 +1,6 @@
 ---
-title: After school Italian classes at Curie Elementary
-image: /img/lastsupper.jpg
+title: After school Italian at Curie
+image: /img/firenze.jpg
 aliases:
     - /curie
 subtitle: Enrollment open for Fall session
