@@ -1,7 +1,7 @@
 ---
 title: Italian classes accredited for San Diego Unified and San Dieguito High Schools
 date: 2023-08-20T00:00:00.000Z
-description: 2 hours per week instruction via Zoom
+description: by the Italian school of San Diego
 aliases:
     - /accredited
 ---
