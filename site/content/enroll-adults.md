@@ -14,19 +14,18 @@ The rooms will be equipped with a particulate filter (a [Corsi-Rosenthal box](ht
 
 The first additional family member enrolling will receive 10% discount, the second 15% discount, please pay the full amount, then [send an email](https://www.italianschoolsd.com/contact/) so we can process a partial refund.
 
-## Adult beginner, in-person, Mondays 6pm-7:30pm, August 7th-28th
+## Fall session - September to December 2023
 
-Italian class in-person taught by Daniela, targeted at beginners and intermediate, no previous experience with Italian is required.
-This is a short summer session for the month of August, in September we will start classes both online and in-person on Mondays and Thursdays.
+### Adult beginner
 
-The session is 4 classe each:
+Italian class targeted at beginners, no previous experience with Italian is required. Click on the desired session to pay and enroll:
 
-* First class on August 7th, last class on August 28th
+* [Monday 6pm-7:30pm - in person - first class September 11th, last class December 11th, 13 classes, $390](https://link.waveapps.com/th4cqv-bvjpv6)
+* [Monday 6:30pm-8pm - via Zoom - first class September 11th, last class December 11th, 13 classes, $370](https://link.waveapps.com/j6cuek-j2nx73)
+* [Thursday 6:15pm-7:45pm - in person - first class September 7th, last class December 14th, 14 classes, $420](https://link.waveapps.com/896j3k-k44p79)
 
-The cost for this program is $116 per person, plus 3.6% credit card processing fee.
+### Adult intermediate
 
-For enrollment please pay via credit card clicking on the button below.
+Italian class targeted at students that can sustain simple conversations in Italian, if not sure, please [contact us](/contact) before enrolling:
 
-<div class="tc">
-<a href="https://link.waveapps.com/cc3pyj-hhn3e6" class="btn raise">Pay and enroll - Italian class - In-person - Monday</a>
-</div>
+* [Monday 6pm-7:30pm Intermediate class - via Zoom - first class September 11th, last class December 11th, 13 classes, $370](https://link.waveapps.com/xf8zzz-mcjudg)
