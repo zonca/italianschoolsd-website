@@ -132,6 +132,6 @@ She became involved in the schools to better understand the American school syst
 
 ![Iris Zonca](/img/iris_zonca.jpg)
 
-Iris, Maura and Andrea's daughter, is Italian-English bilingual, she attended Italian classes at the Italian American Academy of San Diego and attended 4th grade in Italy.
+Iris, Maura and Andrea's daughter, is Italian-English bilingual, she attended Italian classes at the Italian American Academy of San Diego and attended 4th grade in Italy. She also took [Advanced Placement Italian](/ap-italian-san-diego) in May 2023 and passed it with a grade of 5/5.
 
 She gained experience on Instagram during the pandemic growing her audience organically to 3000 followers. Iris manages the Twitter, Instagram and Facebook accounts for the Italian school of San Diego.
