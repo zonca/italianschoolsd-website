@@ -6,6 +6,7 @@ aliases:
 subtitle: Enrollment open for Fall session
 ---
 
+**We will have a table at the Back-to-school night on Wednesday 30th, come say "Ciao" and ask for more information!**
 
 We are excited to launch our Italian classes for elementary school students at Curie Elementary in San Diego on Tuesdays 2:15-3:45pm starting October 3rd.
 Enrollment is open for the Fall session, we will later announce the Winter and Spring sessions.
