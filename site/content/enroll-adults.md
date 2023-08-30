@@ -1,6 +1,8 @@
 ---
 title: Enrollment for Adults
 image: /img/lastsupper.jpg
+aliases:
+    - /adults
 subtitle: Enrollment for adult classes
 ---
 
