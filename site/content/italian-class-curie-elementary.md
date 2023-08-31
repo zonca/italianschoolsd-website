@@ -11,7 +11,7 @@ subtitle: Enrollment open for Fall session
 We are excited to launch our Italian classes for elementary school students at Curie Elementary in San Diego on Tuesdays 2:15-3:45pm starting October 3rd.
 Enrollment is open for the Fall session, we will later announce the Winter and Spring sessions.
 
-Let your child learn basic Italian conversation and grammar through games, songs and language lessons. These lessons are tailored for children ranging from 2nd to 5th grade.
+Let your child learn basic Italian conversation and grammar through games, songs and language lessons. These lessons are tailored for children ranging **from TK** (new! initially it was 2nd grade) to 5th grade.
 
 ## Share information about our program
 
