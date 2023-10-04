@@ -126,6 +126,18 @@ After a couple of years in Berkeley, where her two sons were born, her family mo
 
 She became involved in the schools to better understand the American school system. She started out as a volunteer, both in class and in after school programs, to later commit to a full time TA position. Daniela also taught Italian and Spanish in after school programs for both elementary school students and preschoolers, and at various adult enrichment classes.
 
+### Viviana Maura Ferretto
+
+![Viviana Maura Ferretto](/img/viviana_ferretto.jpg)
+
+Viviana was born and raised in the province of Monza, Italy. Her dream as a teenager was to travel the world and for this reason she graduated at linguistic highschool and started discovering new places as soon as she had the occasion and still does the same.
+
+She obtained her Master Degree in Economics and International Finance at Università degli Studi di Milano and she immediately started her career in Investment Banking in downtown Milan. Thanks to her job, she had the opportunity to work and live in Portugal and Poland for a few months and she loved all the aspects of both countries, cultures and people.
+
+At the end of 2022 she moved to Southern California with her family and she immediately felt at home.
+
+During her youth Viviana has always had a passion for teaching kids and teenagers, tutoring during her university years. She is now very excited to teach her mother tongue and the culture of the most beautiful country in the world at the Italian School of San Diego.
+
 ## Our staff
 
 ### Iris Zonca - Social media manager
