@@ -123,7 +123,7 @@ We will prepare the "Intent to Undertake Independent Language Study" form, sign 
 
 ### Instructions for San Dieguito Union High School District
 
-Download the form from:
+Download the "SDUHSD Off-Campus Course Permission Form" at the bottom of the page:
 
 <https://www.sduhsd.net/Departments/Educational-Services/Specialized-Programs/Off-Campus-Courses/index.html>
 
