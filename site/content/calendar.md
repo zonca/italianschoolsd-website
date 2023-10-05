@@ -4,7 +4,7 @@ image: /img/lastsupper.jpg
 subtitle: Academic calendar
 ---
 Calendar for the academic year for the in-person Heritage classes (Thursdays 4-6pm) is available via Google Calendar, click on the `+ Google Calendar` button at the bottom of the integrated calendar below to add it to your calendars. It is the same calendar we have been using since 2021, so no need to add it if you already did in the past.
-Other classes have their own event in Google Calendar, if you have not been invited yet, please email us.
+All other classes have their own event in Google Calendar, if you have not been invited yet, please email us.
 
 September 7th, 2023: first class, May 30th, 2024: last class
 

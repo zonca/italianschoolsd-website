@@ -24,8 +24,6 @@ Here our main points:
 * **Ventilation**:
 	* Air conditioning with filters set at higher speed
     * [Corsi-Rosenthal filtration box](/news/2021/12/build-a-corsi-rosenthal-filtration-box-for-covid-19/) fdin the central room
-* **Testing**:
-	* Please signup for the free weekly COVID-19 tests at San Diego Unified schools
 * **Tracing**:
 	* Quarantined at school -> skip Italian school
 	* Same guidelines as San Diego Unified School District
