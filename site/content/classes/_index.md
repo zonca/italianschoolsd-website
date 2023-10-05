@@ -1,7 +1,7 @@
 ---
 title: Italian classes in San Diego
 image: /img/milan.jpg
-subtitle: Classes for the academic year 2023-2024
+subtitle: Children classes 2023-2024
 ---
 
 ## Please share our flyer
@@ -61,19 +61,8 @@ please click the button below to submit a pre-enrollment, we will get back to yo
 <a href="/enroll" class="btn raise">Kids tuition and pre-enrollment information</a>
 </div>
 
-For **older kids and adults**, we offer 1 hour and 30 minutes classes once a week, we have classes starting
-based on requests, please fill in the "Adult Italian lesson interest form" clicking on the button below,
-we will get back to you once we have enough people to start a class:
+## Italian classes for home-schooled kids
 
-<div class="tc">
-<a href="https://forms.gle/LHR7Htpeb3mQzV838" class="btn raise">Adult Italian lesson interest form</a>
-</div>
+We can organize Italian group classes in the morning for kids which are home-schooled or for preschoolers, either at our location or on-site. These classes use play time and games to introduce kids to a foreign language starting from 3 years old.
 
-You can also check our [Adult enrollment page](https://www.italianschoolsd.com/enroll-adults/) for any class that is currently open for enrollment.
-
-## Custom group classes
-
-Do you already have a group of people you like to hangout with interested in learning Italian?
-
-We can offer custom classes, more easily online via Zoom, for groups of 5+ people, customized
-to your level and to your interests, [contact us!](/contact).
+[Get in touch with us](/contact) to schedule a call to discuss the options.
