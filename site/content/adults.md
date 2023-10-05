@@ -1,9 +1,9 @@
 ---
-title: Enrollment for Adults
+title: Italian classes for adults in San Diego
 image: /img/lastsupper.jpg
 aliases:
     - /enroll-adults
-subtitle: Italian classes for adults
+subtitle: In-person and via Zoom
 ---
 
 We offer in-person classes at [Language Door, 7380 Clairemont Mesa Blvd, San Diego](https://goo.gl/maps/vCotwAoBbYNpx8vV9), online classes via Zoom, at beginner, intermediate and advanced level.
