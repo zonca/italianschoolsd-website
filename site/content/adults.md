@@ -40,7 +40,7 @@ Italian class targeted at beginners, no previous experience with Italian is requ
 
 This class is in-person at *After School Learning Tree*, [11525 Sorrento Valley Rd](https://goo.gl/maps/y2M724uWRS7o3gwZ6), colocated with our children class.
 
-* [Thursday 4:15pm-6:15pm - in person - first class October 12th, last class December 14th, 9 classes, $360](https://link.waveapps.com/h8r8mc-bsgy77)
+* [Thursday 4:15pm-6:15pm - in person - first class October 19th, last class December 14th, 8 classes, $320](https://link.waveapps.com/h8r8mc-bsgy77)
 
 ## Custom group classes for adults
 
