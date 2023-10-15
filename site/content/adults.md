@@ -36,12 +36,6 @@ Italian class targeted at beginners, no previous experience with Italian is requ
 * [Wednesday 6:30pm-8pm - via Zoom - first class October 11th, last class December 13th, 9 classes, $250](https://link.waveapps.com/8rm8a7-f4yvga)
 * [Thursday 6:15pm-7:45pm - in person - first class October 12th, last class December 14th, 9 classes, $270](https://link.waveapps.com/jm5x3d-raywnw)
 
-### Adult beginner in Sorrento Valley
-
-This class is in-person at *After School Learning Tree*, [11525 Sorrento Valley Rd](https://goo.gl/maps/y2M724uWRS7o3gwZ6), colocated with our children class.
-
-* [Thursday 4:15pm-6:15pm - in person - first class October 19th, last class December 14th, 8 classes, $320](https://link.waveapps.com/h8r8mc-bsgy77)
-
 ## Custom group classes for adults
 
 Do you already have a group of people you like to hangout with interested in learning Italian?
