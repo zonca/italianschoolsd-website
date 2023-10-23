@@ -36,6 +36,22 @@ Italian class targeted at beginners, no previous experience with Italian is requ
 * [Wednesday 6:30pm-8pm - via Zoom - first class October 11th, last class December 13th, 9 classes, $250](https://link.waveapps.com/8rm8a7-f4yvga)
 * [Thursday 6:15pm-7:45pm - in person - first class October 12th, last class December 14th, 9 classes, $270](https://link.waveapps.com/jm5x3d-raywnw)
 
+## Online private class for adults via Zoom
+
+1-on-1 private class via Zoom with one of our mother-tongue instructors. The class will be tailored to your level, from absolute beginners to advanced. Once processed the payment, we will contact you for scheduling, we can organize classes any day of the week at any time. Moreover, we can organize classes tailored to your interests, from tourism, to art, music or literature.
+
+The cost is $60/hour + 3.6% credit card processing fee.
+
+<div class="tc">
+<a href="https://link.waveapps.com/d5wbga-jtfh9e" class="btn raise">Pay and enroll - private class - 5 classes of 1 hour ONLINE</a>
+</div>
+
+<div class="tc">
+<a href="https://link.waveapps.com/6dc8zx-6szp39" class="btn raise">Pay and enroll - private class - 10 classes of 1 hour ONLINE (5% discount)</a>
+</div>
+
+If you are interested instead in classes for multiple students, or in in-person classes either at your home or at the school, please [contact us](https://www.italianschoolsd.com/contact/) to check if we have availability.
+
 ## Custom group classes for adults
 
 Do you already have a group of people you like to hangout with interested in learning Italian?
