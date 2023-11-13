@@ -25,16 +25,26 @@ The rooms will be equipped with a particulate filter (a [Corsi-Rosenthal box](ht
 
 The first additional family member enrolling will receive 10% discount, the second 15% discount, please pay the full amount, then [send an email](https://www.italianschoolsd.com/contact/) so we can process a partial refund.
 
-## Fall session - October to December 2023
+## Online classes
 
-All the following classes are planned, once we receive enough enrollments for a class we will send a confirmation email. If a class doesn't receive enough interest, we will propose enrolled students to switch to another class, or we will offer full refund.
+### Adult beginner
+
+Adult beginner class via Zoom, the class is suitable for people that have never studied Italian, or that have just studied independently for less than 1 year or that have taken less than 1 year of previous classes, or that took Italian a few years ago and didn't continue practicing the language.
+
+* [Wednesday 6:30pm-8pm - via Zoom - first class November 29th, last class February 7th (no class on Dec 27th), 10 classes, $280](https://link.waveapps.com/8rm8a7-f4yvga)
+
+## Short winter session
+
+The next quarter of in-person will start in January, so we would like to offer a short 4-classes session targeted at people that would like to see if an Italian class is suitable for them without committing to a full quarter of classes.
+This will be a great introduction to the Winter quarter starting in January.
 
 ### Adult beginner
 
 Italian class targeted at beginners, no previous experience with Italian is required. Click on the desired session to pay and enroll:
 
-* [Wednesday 6:30pm-8pm - via Zoom - first class October 11th, last class December 13th, 9 classes, $250](https://link.waveapps.com/8rm8a7-f4yvga)
-* [Thursday 6:15pm-7:45pm - in person - first class October 12th, last class December 14th, 9 classes, $270](https://link.waveapps.com/jm5x3d-raywnw)
+* [Thursday 6:15pm-7:45pm - in person - first class November 30th, last class December 21th, 4 classes, $130](https://link.waveapps.com/n2y5fb-62fyat)
+
+All the classes are planned, once we receive enough enrollments for a class we will send a confirmation email. If a class doesn't receive enough interest, we will propose enrolled students to switch to another class, or we will offer full refund.
 
 ## Online private class for adults via Zoom
 
