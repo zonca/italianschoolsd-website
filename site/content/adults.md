@@ -33,7 +33,7 @@ Adult beginner class via Zoom, the class is suitable for people that have never 
 
 * [Wednesday 6:30pm-8pm - via Zoom - first class November 29th, last class February 7th (no class on Dec 27th), 10 classes, $280](https://link.waveapps.com/8rm8a7-f4yvga)
 
-## Short winter session
+## Short December session
 
 The next quarter of in-person will start in January, so we would like to offer a short 4-classes session targeted at people that would like to see if an Italian class is suitable for them without committing to a full quarter of classes.
 This will be a great introduction to the Winter quarter starting in January.
