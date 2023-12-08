@@ -7,7 +7,7 @@ export default async (
 
   const referer = request.headers.get("referer");
     const prodRegex = /^https?:\/\/(.*\.)?italianschoolsd\.com(\/.*)?$/;
-const devRegex = /^https?:\/\/(.*\--)?italianschoolsd-com\.netlify\.app(\/.*)?$/;
+const devRegex = /^https?:\/\/(.*\--)?italianschoolsd\.netlify\.app(\/.*)?$/;
 
 if (
   !referer ||
