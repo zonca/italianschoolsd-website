@@ -28,30 +28,30 @@ We are at the second floor, make sure you go to building 4550.
 
 Italian class targeted at beginners, no previous experience with Italian is required. Click on the desired session to pay and enroll:
 
-* [Monday 6pm-7:30pm - in person - first class January 22th, no class on February 19th, last class April 1st, 10 classes, $310]()
-* [Wednesday 4:15pm-5:45pm - in person - first class January 24th, last class March 27th, 10 classes, $310]() - this class is at the same time and location of our "Italian learners classes" for kids.
-* [Wednesday 6:15pm-7:45pm - in person - first class January 24th, last class March 27th, 10 classes, $310]()
-* [Thursday 6:15pm-7:45pm - in person - first class January 25th, last class March 28th, 10 classes, $310]()
-* [Saturday 9:30am-11am - in person - first class January 27th, no class on February 17th, last class March 30th, 9 classes, $279]()
+* [Monday 6pm-7:30pm - in person - first class January 22th, no class on February 19th, last class April 1st, 10 classes, $310](https://link.waveapps.com/x89kfp-gy6avd)
+* [Wednesday 4:15pm-5:45pm - in person - first class January 24th, last class March 27th, 10 classes, $310](https://link.waveapps.com/tej3aw-28dcxw) - this class is at the same time and location of our ["Italian as a Foreign Language" classes for kids](news/italian-class-kids-sandiego-2024.md)
+* [Wednesday 6:15pm-7:45pm - in person - first class January 24th, last class March 27th, 10 classes, $310](https://link.waveapps.com/kp4ygy-3569za)
+* [Thursday 6:15pm-7:45pm - in person - first class January 25th, last class March 28th, 10 classes, $310](https://link.waveapps.com/uybrud-mce334)
+* [Saturday 9:30am-11am - in person - first class January 27th, no class on February 17th, last class March 30th, 9 classes, $279](https://link.waveapps.com/jbs3ye-mtddhr)
 
 ### Beginner-intermediate level
 
 Italian class targeted at students that have had already at least 1 year of classes or equivalent self-study, please [contact us!](/contact) if you are not sure about your level, we can schedule a free Italian level evaluation:
 
-* [Monday 6pm-7:30pm - in person - first class January 22th, no class on February 19th, last class April 1st, 10 classes, $310]()
-* [Thursday 6:15pm-7:45pm - in person - first class January 25th, last class March 28th, 10 classes, $310]()
+* [Monday 6pm-7:30pm - in person - first class January 22th, no class on February 19th, last class April 1st, 10 classes, $310](https://link.waveapps.com/u2kdfe-fd7esr)
+* [Thursday 6:15pm-7:45pm - in person - first class January 25th, last class March 28th, 10 classes, $310](https://link.waveapps.com/xqucsa-yb967r)
 
 ### Intermediate level
 
 Italian classes targeted at students that have studied Italian more than 3 years and can sustain simple conversations:
 
-* [Thursday 6:15pm-7:45pm - in person - first class January 25th, last class March 28th, 10 classes, $310]()
+* [Thursday 6:15pm-7:45pm - in person - first class January 25th, last class March 28th, 10 classes, $310](https://link.waveapps.com/ekrkq9-fbtt2n)
 
 ### Advanced level - conversation
 
 Conversation only classes for students that have a good knowledge of the language but need more practice speaking, minimal grammar. The class is at the same time and location of our heritage kids classes:
 
-* [Thursday 4:15pm-5:45pm - in person - first class January 25th, last class March 28th, 10 classes, $310]()
+* [Thursday 4:15pm-5:45pm - in person - first class January 25th, last class March 28th, 10 classes, $310](https://link.waveapps.com/y6c7dx-xwyyfc)
 
 ## In-person or online private class for adults via Zoom
 
@@ -83,4 +83,3 @@ Refund requests need to be sent via email to `admin` on our website domain `ital
 ### Family discount
 
 The first additional family member enrolling will receive 10% discount, the second 15% discount, please pay the full amount, then [send an email](https://www.italianschoolsd.com/contact/) so we can process a partial refund.
-
