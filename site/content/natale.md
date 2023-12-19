@@ -6,10 +6,10 @@ subtitle: For Christmas, give the gift of learning Italian
 
 This Christmas you can gift a beginner class of Italian to a loved one.
 
-This gift certificate grants access to a full quarter of Italian group classes, 13 lessons of 1 hours and a half each, for kids, teens or adults, at beginner or intermediate level, online or in-person in Kearny Mesa. The certificate can be used either for the Winter quarter, from the 2nd week of January to the end of March, or the Spring quarter, from April to June.
+This gift certificate grants access to a full quarter of Italian group classes, 10 lessons of 1 hours and a half each, for kids, teens or adults, at beginner or intermediate level, online or in-person in Kearny Mesa. The certificate can be used either for the Winter quarter, from the 3nd week of January to the end of March, or the Spring quarter, from April to June.
 The class schedule will be announced at the end of December for the Winter quarter and in mid-March for the Spring quarter, we will process a full refund for the gift certificate if for any reason we offer no classes suitable for the student.
 
-The cost of the gift certificate is **$299**, with a discount of $91 compared to our usual rate:
+The cost of the gift certificate is **$240**, with a discount of $70 compared to our usual rate:
 
 <div class="tc">
 <a href="https://link.waveapps.com/hgsapx-tyece7" class="btn raise">Purchase the certificate</a>
