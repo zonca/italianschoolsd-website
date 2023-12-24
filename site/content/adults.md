@@ -29,6 +29,7 @@ We are at the second floor, make sure you go to building 4550.
 Italian class targeted at beginners, no previous experience with Italian is required. Click on the desired session to pay and enroll:
 
 * [Monday 6pm-7:30pm - in person - first class January 22th, no class on February 19th, last class April 1st, 10 classes, $310](https://link.waveapps.com/x89kfp-gy6avd)
+* [Tuesday 6:30pm-8pm - ONLINE - first class January 23th, last class March 26th, 10 classes, $278](https://link.waveapps.com/6z3nzq-qx7ejg)
 * [Wednesday 4:15pm-5:45pm - in person - first class January 24th, last class March 27th, 10 classes, $310](https://link.waveapps.com/tej3aw-28dcxw) - this class is at the same time and location of our ["Italian as a Foreign Language" classes for kids](news/italian-class-kids-sandiego-2024.md)
 * [Wednesday 6:15pm-7:45pm - in person - first class January 24th, last class March 27th, 10 classes, $310](https://link.waveapps.com/kp4ygy-3569za)
 * [Thursday 6:15pm-7:45pm - in person - first class January 25th, last class March 28th, 10 classes, $310](https://link.waveapps.com/uybrud-mce334)
