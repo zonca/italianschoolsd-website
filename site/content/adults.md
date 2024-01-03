@@ -46,6 +46,7 @@ Italian class targeted at students that have had already at least 1 year of clas
 
 Italian classes targeted at students that have studied Italian more than 3 years and can sustain simple conversations:
 
+* [Monday 6:30pm-8pm - ONLINE - first class January 22th, no class on February 19th, last class April 1st, 10 classes, $278](https://link.waveapps.com/wmxn7w-kgb7nd)
 * [Thursday 6:15pm-7:45pm - in person - first class January 25th, last class March 28th, 10 classes, $310](https://link.waveapps.com/ekrkq9-fbtt2n)
 
 ### Advanced level - conversation
