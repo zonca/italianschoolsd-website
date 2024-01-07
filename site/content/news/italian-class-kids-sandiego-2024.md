@@ -12,7 +12,7 @@ We are at the second floor, make sure you go to building 4550.
 
 We will have 2 hour classes from 4pm to 6pm, with a 15 minutes break, we plan to split the kids by age in 3 or 4 groups, depending on the number of kids enrolled.
 
-Our program will teach the kids the basics of the Italian language through fun activities, songs, crafts and drawing using visual aids and age-appropriate games.
+Our program will teach the kids the basics of the Italian language through fun activities, songs, crafts and drawing using visual aids and age-appropriate games. No previous knowledge of Italian is required.
 
 Middle-schoolers can then enroll in our [certified program](/accredited-classes/) that satisfies High School graduation and college admission requirements.
 
