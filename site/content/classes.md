@@ -49,7 +49,7 @@ We will send information about the necessary books after we have assigned studen
 
 ## Italian as a Foreign Language (IFL) classes for kids (K-12) and adults
 
-Classes open for enrollment: **Wednesday 4pm-6pm - in person - first class January 24th, last class March 27th**, 10 classes, see  ["Italian as a Foreign Language" classes for kids](./news/italian-class-kids-sandiego-2024.md)
+Classes open for enrollment: **Wednesday 4pm-6pm - in person - first class January 24th, last class March 27th**, 10 classes, see  ["Italian as a Foreign Language" classes for kids](https://www.italianschoolsd.com/news/2023/12/italian-as-a-foreign-language-for-kids/)
 
 Italian as a Foreign Language (IFL) classes are devoted to prospective students which haven't started to learn Italian yet or are beginners.
 Instruction will be in English, it will first cover the basics of Italian, using a conversation-first approach and engaging the students through language-reinforcing activities.
