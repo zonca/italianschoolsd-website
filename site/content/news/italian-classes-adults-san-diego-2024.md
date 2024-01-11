@@ -8,6 +8,6 @@ Buon Anno! (Happy [New] Year!)
 
 Our Winter 2024 classes from January to March are accepting enrollment:
 
-![Italian classes Adults 2024 flyer](/img/italian-classes-adults-san-diego-2024.png)
+![Italian classes Adults 2024 flyer](/img/italianschoolsd-adults-2024-flyer.png)
 
 [Check this link the full schedule!](/adults)
