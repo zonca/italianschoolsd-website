@@ -1,6 +1,8 @@
 ---
 title: Italian as a Foreign Language for kids
 date: 2023-12-18T00:00:00.000Z
+aliases:
+     - /ifl24
 description: Targeted at kids Kindergarten to 8th grade
 ---
 
