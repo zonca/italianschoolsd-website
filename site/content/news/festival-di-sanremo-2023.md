@@ -25,9 +25,3 @@ Just for Sanremo the Italian television removes geographical restrictions, so yo
 You can watch it on a TV by installing the "Raiplay" app, opening a browser (for example Amazon Silk on Firestick), or by streaming it on your laptop and casting the tab to the TV.
 
 Buon ascolto!
-
-## Links to specific videos
-
-Consider that these links are generally disabled after a few weeks, so they will stop working at some point:
-
-* [Recording of the first night](https://www.raiplay.it/programmi/festivaldisanremo/le-canzoni-in-gara/prima-serata)
