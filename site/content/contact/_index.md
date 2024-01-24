@@ -4,8 +4,7 @@ logo: "/img/logo.svg"
 contact_entries:
   - heading: Classes location
     text: >
-      7380 Clairemont Mesa Blvd
-      hosted by Language Door
+      4550 Kearny Villa Rd Suite 202
       San Diego
       Please do not send mail
   - heading: Contact information
