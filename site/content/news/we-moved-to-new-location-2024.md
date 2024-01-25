@@ -1,6 +1,6 @@
 ---
 title: All classes moved to new location starting January 22nd
-date: 2024-01-22:00:00.000Z
+date: 2024-01-22T00:00:00.000Z
 description: At 4550 Kearny Villa Rd
 ---
 
