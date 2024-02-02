@@ -4,7 +4,6 @@ image: /img/garda-spring.jpg
 subtitle: An engaging Spring Break camp to learn Italian targeted at kids age 4 and above
 ---
 
-![Spring Camp flyer](/img/italian-spring-camp-2024.png)
 
 We are happy to open pre-enrollment for our Spring Break camp:
 
