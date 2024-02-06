@@ -51,6 +51,7 @@ We propose 2 sessions:
 * Both (10% discount on second session), 13 classes, $504
 
 Please fill the pre-enrollment form (not binding), we will then send an invoice as soon as the class is confirmed, pay the invoice to confirm enrollment.
+This program is also offered to students of Pacific Coast Academy.
 
 <div class="tc">
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSd4sac0Y2wdTd9gm2AF1Y9uuVPPyJzHfHEphJPA1iYPkrP43g/viewform?usp=sf_link" class="btn raise">Fill the pre-enrollment form</a>
