@@ -6,7 +6,7 @@ aliases:
 description: Targeted at kids Kindergarten to 8th grade
 ---
 
-![Italian as a Foreign Language for kids flyer](/img/italianschoolsd-italian-foreign-language-kids-2024.png)
+![Italian as a Foreign Language for kids flyer](/img/italianschoolsd-italian-foreign-language-kids-2024-2.png)
 
 Please help us share the word:
 
@@ -44,7 +44,13 @@ Middle-schoolers can then enroll in our [certified program](/accredited-classes/
 
 We also have [an adult class for beginners](/adults) at the same time and same location, so that parents can take a separate Italian class.
 
-First class January 24th, last class March 27th, 10 classes, the tuition is $415, please fill the pre-enrollment form (not binding), we will then send an invoice as soon as the class is confirmed, pay the invoice to confirm enrollment.
+We propose 2 sessions:
+
+* 28 February to 27 March, Wednesdays 4pm-6pm, 6 classes, $246
+* 10 April to 22 May, Wednesdays 4pm-6pm, 7 classes, $287
+* Both (10% discount on second session), 13 classes, $504
+
+Please fill the pre-enrollment form (not binding), we will then send an invoice as soon as the class is confirmed, pay the invoice to confirm enrollment.
 
 <div class="tc">
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSd4sac0Y2wdTd9gm2AF1Y9uuVPPyJzHfHEphJPA1iYPkrP43g/viewform?usp=sf_link" class="btn raise">Fill the pre-enrollment form</a>

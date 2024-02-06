@@ -22,6 +22,13 @@ Starting in January, we will have our own location, still in Kearny Mesa, just a
 The address is [4550 Kearny Villa Rd STE 202](https://maps.app.goo.gl/DSmbWhhoeKjhL1mo8), at the crossing of Balboa Avenue and Freeway 163, close to In-and-Out.
 We are at the second floor, make sure you go to building 4550.
 
+## Wednesday classes at the same time of kids classes
+
+Beginner classes at the same time and location of our [Italian as a Foreign Language classes for kids](https://www.italianschoolsd.com/ifl24):
+
+* [Wednesday 4:15pm-5:45pm - in person - first class February 28th, last class March 27th, 6 classes, $198](https://next.waveapps.com/checkouts/a2885be80f084a2ba9f39a10b9f1a018)
+* [Wednesday 4:15pm-5:45pm - in person - first class April 10th, last class May 22th, 7 classes, $231](https://next.waveapps.com/checkouts/9a644573d0e3428fb6ce01c11869f10b)
+
 ## Winter 2024 Quarter (January-March)
 
 ### Beginner level
