@@ -1,7 +1,7 @@
 ---
 title: The Festival just started
 date: 2024-02-06T00:00:00.000Z
-description: How to watch the Italian song contest Festival di Sanremo
+description: How to watch the Italian song contest Festival di Sanremo for free
 ---
 
 In Italy, when you say "Il Festival", it only means "Festival di Sanremo", the most popular song contest in Italy. The winner of the Festival is going to represent Italy to Eurovision.
