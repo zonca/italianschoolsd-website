@@ -1,0 +1,24 @@
+---
+title: The Festival just started
+date: 2024-02-06T00:00:00.000Z
+description: How to watch the Italian song contest Festival di Sanremo
+---
+
+In Italy, when you say "Il Festival", it only means "Festival di Sanremo", the most popular song contest in Italy. The winner of the Festival is going to represent Italy to Eurovision.
+
+It is a great opportunity to expose the kids to the Italian language and culture: whether you like it or not, Sanremo is iconic!
+
+The show streams on RAI 1 from today February 6th to February 10th from 12pm to 4:30pm Pacific Standard Time at:
+
+* [RAI 1 realtime streaming](https://www.raiplay.it/dirette/rai1)
+
+Moreover, RAI posts additional content, like recordings of previous nights, at:
+
+* [Page about the Festival of Sanremo on Raiplay](https://www.rai.it/programmi/sanremo/)
+
+Just for Sanremo the Italian television removes geographical restrictions, so you **do not need** a VPN.
+
+You can watch it on a TV or smartphone by installing the "Raiplay" app, opening a browser (for example Amazon Silk on Firestick), or by streaming it on your laptop and casting the tab to the TV.
+If you own a Chromecast, the easiest option is to install the Raiplay app on your phone and then "cast" it to the Chromecast to watch it on a TV.
+
+Buon ascolto!
