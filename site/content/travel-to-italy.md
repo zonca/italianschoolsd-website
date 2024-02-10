@@ -5,15 +5,13 @@ subtitle: Travel to Tuscany and Sicily with native Italian tour guides
 ---
 
 Italian school of San Diego has partnered with [Vero Viaggio](https://www.veroviaggio.com/about) to offer trips to Italy where the language experience is first.
-The "Italian immersion experiences" organized by Vero Viaggio feature Italian group classes with native instructors, small-group semi-private classes (split by fluency) and more traditional guided tours and experiences like cooking classes or wine tasting, all in Italian. Their destinations are off the beaten path, with the purpose of providing a more genuine experience of life in Italy.
+The "Italian immersion experiences" organized by Vero Viaggio feature Italian group classes with native instructors, small-group semi-private classes (split by fluency) over a meal and more traditional guided tours and experiences like cooking classes or wine tasting, all in Italian. Their destinations are off the beaten path, with the purpose of providing a more genuine experience of life in Italy.
 
 Vero Viaggio's trips are for groups of adults up to 10 travelers to maintain a personal, small-group environment.
 
 All students of Italian school have a 10% discount on all "Italian immersion experiences" by Vero Viaggio.
 
 Vero Viaggio welcomes all levels of Italian learners, even beginners. Italian school will also launch a set of intensive classes starting in March specifically dedicated to people travelling to Italy, to help you make the most of your trip.
-
-During the "Italian immersion experiences" there will be the opportunity to have Italian classes both in group and semi-private classes where participants are grouped by level and practice their Italian over a meal.
 
 Here are the tours currently available:
 
