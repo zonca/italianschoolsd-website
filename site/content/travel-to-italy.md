@@ -12,7 +12,7 @@ Vero Viaggio’s trips are designed for groups of up to 10 adults to maintain a 
 
 All students of the Italian of San Diego will enjoy a 10% discount on all “Italian immersion experiences” by Vero Viaggio.
 
-Vero Viaggio welcomes all levels of Italian learners, even beginners. ISSD will also launch a set of intensive classes starting in March specifically dedicated to people traveling to Italy, to help you make the most of your trip.
+Vero Viaggio welcomes all levels of Italian learners, even beginners. Italian school will also launch a set of intensive classes starting in March specifically dedicated to people traveling to Italy, to help you make the most of your trip.
 
 Here are the tours currently available:
 
