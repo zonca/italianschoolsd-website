@@ -1,6 +1,8 @@
 ---
 title: Italian language immersion trips to Italy
 image: /img/cefalu.jpg
+aliases:
+    - /travel
 subtitle: Travel to Tuscany and Sicily with native Italian tour guides
 ---
 
