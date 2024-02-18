@@ -3,16 +3,16 @@ title: Parents' Night out at Italian school
 date: 2024-02-16T00:00:00.000Z
 aliases:
     - /pno-march
-description: March 1st 6-9:30pm in Kearny Mesa in San Diego
+description: March 2nd 6-9:30pm in Kearny Mesa in San Diego
 ---
 
 Parents, book your favorite restaurant, Italian school of San Diego is organizing:
 
 **Parents Night out... It's a pajama party!**
 
-* Friday March 1st, 2024
+* Friday **March 2nd**, 2024
 * 6pm-9:30pm
-* 4550 Kearny Villa Rd, Suite 202, see [photos of our school]({{< ref "photos-new-location.md" >}})
+* `4550 Kearny Villa Rd, Suite 202`, see [photos of our school]({{< ref "photos-new-location.md" >}})
 
 Games, movie, story, snacks.
 
