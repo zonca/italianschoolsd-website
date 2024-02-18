@@ -10,7 +10,7 @@ Parents, book your favorite restaurant, Italian school of San Diego is organizin
 
 **Parents Night out... It's a pajama party!**
 
-* Friday **March 2nd**, 2024
+* Saturday **March 2nd**, 2024
 * 6pm-9:30pm
 * `4550 Kearny Villa Rd, Suite 202`, see [photos of our school]({{< ref "photos-new-location.md" >}})
 
