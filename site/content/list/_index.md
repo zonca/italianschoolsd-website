@@ -20,6 +20,7 @@ We won't use your address for any other purpose and we won't share it with anyon
     <label for="mce-EMAIL">Your email</label>
   </fieldset>
 
-  <button class="btn mb3 w-100 w-auto-ns mb0-ns raise" type="submit">Submit</button>
+  <button class="btn mb3 w-100 w-auto-ns mb0-ns raise" name="submit" type="submit">Subscribe</button>
+  <button class="btn mb3 w-100 w-auto-ns mb0-ns raise" name="unsub" type="submit">Unsubscribe</button>
 
 </form>
