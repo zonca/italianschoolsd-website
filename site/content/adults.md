@@ -15,12 +15,30 @@ we will get back to you as soon as we announce a new class:
 <a href="https://forms.gle/LHR7Htpeb3mQzV838" class="btn raise">Adult Italian lesson interest form</a>
 </div>
 
-## New year, new location!
+## March 2024 intersession
 
-Starting in January, we will have our own location, still in Kearny Mesa, just about a mile for our 2023 location.
+Our next full session of classes will start in April, for March we are launching a short "intersession" of just 1 month of classes, which ends right before the start of the next session.
 
-The address is [4550 Kearny Villa Rd STE 202](https://maps.app.goo.gl/DSmbWhhoeKjhL1mo8), at the crossing of Balboa Avenue and Freeway 163, close to In-and-Out.
-We are at the second floor, make sure you go to building 4550.
+### Beginner level
+
+Italian class targeted at beginners, no previous experience with Italian is required. Click on the desired session to pay and enroll:
+
+* In-person: [Thursday 6:15pm-7:45pm 7 March - 4 April, 5 classes, $155](https://link.waveapps.com/7je37j-u4s976)
+* Online: [Saturday morning beginner 10am-11:30am 9 March - 18 May, 11 classes, $308](https://link.waveapps.com/ms52c8-f5dwbg)
+
+### Beginner-intermediate
+
+Italian class targeted at students that have had already at least 1 year of classes or equivalent self-study, please [contact us!](/contact) if you are not sure about your level, we can schedule a free Italian level evaluation:
+
+* In-person: [Monday 6pm-7:30pm 4 March-1st April 5 classes $155](https://link.waveapps.com/f9b664-pbgrkd)
+* In-person: [Thursday 6:15pm-7:45pm 7 March - 4 April, 5 classes, $155](https://link.waveapps.com/efc24z-pattxm)
+* Online: [Tuesday 6:30pm-8pm Beginner-Intermediate 5 March - 26 March $120](https://link.waveapps.com/jb2tpz-3vtm6c)
+
+### Intermediate
+
+Italian classes targeted at students that have studied Italian more than 3 years and can sustain simple conversations:
+
+* In-person: [Thursday 6:15pm-7:45pm 7 March - 4 April, 5 classes, $155](https://link.waveapps.com/hk759j-z853jw)
 
 ## Wednesday classes at the same time of kids classes
 
@@ -29,30 +47,9 @@ Beginner classes at the same time and location of our [Italian as a Foreign Lang
 * [Wednesday 4:15pm-5:45pm - in person - first class February 28th, last class March 27th, 6 classes, $198](https://next.waveapps.com/checkouts/a2885be80f084a2ba9f39a10b9f1a018)
 * [Wednesday 4:15pm-5:45pm - in person - first class April 10th, last class May 22th, 7 classes, $231](https://next.waveapps.com/checkouts/9a644573d0e3428fb6ce01c11869f10b)
 
-## Winter 2024 Quarter (January-March)
+## Previous sessions
 
-### Beginner level
-
-Italian class targeted at beginners, no previous experience with Italian is required. Click on the desired session to pay and enroll:
-
-* [Monday 6pm-7:30pm - in person - first class January 22th, no class on February 19th, last class April 1st, 10 classes, $310](https://link.waveapps.com/x89kfp-gy6avd)
-* [Tuesday 6:30pm-8pm - ONLINE - first class January 23th, last class March 26th, 10 classes, $278](https://link.waveapps.com/6z3nzq-qx7ejg)
-* [Thursday 6:15pm-7:45pm - in person - first class January 25th, last class March 28th, 10 classes, $310](https://link.waveapps.com/uybrud-mce334)
-* [Saturday 9:30am-11am - in person - first class January 27th, no class on February 17th, last class March 30th, 9 classes, $279](https://link.waveapps.com/jbs3ye-mtddhr)
-
-### Beginner-intermediate level
-
-Italian class targeted at students that have had already at least 1 year of classes or equivalent self-study, please [contact us!](/contact) if you are not sure about your level, we can schedule a free Italian level evaluation:
-
-* [Monday 6pm-7:30pm - in person - first class January 22th, no class on February 19th, last class April 1st, 10 classes, $310](https://link.waveapps.com/u2kdfe-fd7esr)
-* [Monday 6:30pm-8pm - ONLINE - first class January 22th, no class on February 19th, last class April 1st, 10 classes, $278](https://link.waveapps.com/y4jjjh-3vq2wj)
-
-### Intermediate level
-
-Italian classes targeted at students that have studied Italian more than 3 years and can sustain simple conversations:
-
-* [Monday 6:30pm-8pm - ONLINE - first class January 22th, no class on February 19th, last class April 1st, 10 classes, $278](https://link.waveapps.com/wmxn7w-kgb7nd)
-* [Thursday 6:15pm-7:45pm - in person - first class January 25th, last class March 28th, 10 classes, $310](https://link.waveapps.com/ekrkq9-fbtt2n)
+* [January-March 2024]( {{< ref "news/italian-adult-classes-january-2024.md" >}} )
 
 ## In-person or online private class for adults via Zoom
 
