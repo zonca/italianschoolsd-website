@@ -25,12 +25,10 @@ Our classes are suitable to prepare the students for accredited classes, which g
 
 ### Location
 
-We have 2 options for a location:
+We have 2 locations:
 
-* Like last year, *Language Door*, [7380 Clairemont Mesa Blvd](https://goo.gl/maps/hoEvemZb1qsharaK7), Thursday 4pm-6pm
-* Near Sorrento Valley, has larger classrooms and outdoor blacktop space, *After School Learning Tree*, [11525 Sorrento Valley Rd](https://goo.gl/maps/y2M724uWRS7o3gwZ6), Thursday 4:15pm-6:15pm
-
-The pre-enrollment form contains a question about your preference, so we can better decide which option is best for the whole community.
+* Our main location is at 4550 Kearny Villa Rd Suite 202, this is where all kids classes are held, Thursday 4pm-6pm
+* Near Sorrento Valley, has larger classrooms and outdoor blacktop space, *After School Learning Tree*, [11525 Sorrento Valley Rd](https://goo.gl/maps/y2M724uWRS7o3gwZ6), Thursday 4:15pm-6:15pm, 1 class of kids aged 5 to 10 that already know some Italian.
 
 ### Calendar
 
