@@ -17,6 +17,12 @@ we will get back to you as soon as we announce a new class:
 
 ## Spring 2024 Quarter (April-May 2024)
 
+### Italian for travelers
+
+Our program designed specifically to teach useful Italian phrases for people travelling to Italy in Summer 2024, it includes a session dedicated to family travelling with kids:
+
+[See more details about our April and May Italian for travelers program]({{< ref "/news/italian-for-travelers-san-diego.md" >}})
+
 ### Beginner level
 
 Italian class targeted at beginners, no previous experience with Italian is required. Click on the desired session to pay and enroll:
