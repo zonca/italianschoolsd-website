@@ -5,7 +5,7 @@ date: 2024-03-12T00:00:00.000Z
 
 Over the course of 2019 6 million Americans travelled to Italy, that is a tenth of the entire population of Italy itself!
 
-I'm sure you would like to go prepared, at least with basic survival phrases that can help you go outside of the beaten path where Italians could not speak English, and some extra confidence in using Google Translate or a "Italian phrases for travelers" book!
+I'm sure you would like to go prepared, at least with basic phrases that can help you go outside of the beaten path where Italians rarely speak English, and some extra confidence in using Google Translate or a "Italian phrases for travelers" book!
 
 We will be covering basic phrases at the airport, hotel, restaurant, emergency room, pharmacy, beach and all details about coffee and pizza that only Italians know. No previous knowledge of Italian necessary, however you are very welcome if you already know some Italian and want to strenghten your travel-related vocabulary.
 
