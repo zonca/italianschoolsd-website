@@ -20,7 +20,7 @@ Both programs run in April and May:
 * May session, May 8th - May 29th
 
 The price for one 4-week program is $120 for the first adult signing up, $80 for additional adults in the same family and $50 for kids.
-As you add more adults to your cart in our shop (powered by [Square](https://squareup.com)), the additional adults discount will show up.
+As you add more adults to your cart in our shop, the additional adults discount will apply in all 4 programs (even if it only shows up in one of them).
 
 <div class="tc">
 <a href="https://italianschoolsd.square.site/shop/italian-for-travelers/HIZJQCNGIMD7FJ26PVOPURRQ" class="btn raise">Enroll now via our shop</a>
