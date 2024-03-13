@@ -7,7 +7,7 @@ Over the course of 2019 6 million Americans travelled to Italy, that is a tenth 
 
 I'm sure you would like to go prepared, at least with basic phrases that can help you go outside of the beaten path where Italians rarely speak English, and some extra confidence in using Google Translate or a "Italian phrases for travelers" book!
 
-We will be covering basic phrases at the airport, hotel, restaurant, emergency room, pharmacy, beach and all details about coffee and pizza that only Italians know. No previous knowledge of Italian necessary, however you are very welcome if you already know some Italian and want to strenghten your travel-related vocabulary.
+We will be covering basic phrases at the airport, hotel, restaurant, retail store, emergency room, pharmacy, beach and all details about coffee and pizza that only Italians know. No previous knowledge of Italian necessary, however you are very welcome if you already know some Italian and want to strenghten your travel-related vocabulary.
 
 We are excited to offer a 4-week "Italian for travelers" program, with a session focused on the entire family, so you can bring your kids (8 years old and above) with you and a session for adults only:
 
