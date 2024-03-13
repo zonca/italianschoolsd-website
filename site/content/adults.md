@@ -32,7 +32,7 @@ Italian class targeted at students that have had already at least 1 year of clas
 
 * [Monday 6pm-7:30pm - in person - first class April 8th, last class May 27th, 8 classes, $248 (+ 3.6% credit card processing fees)](https://link.waveapps.com/y3g9dj-rx9uyy)
 * [Tuesday 6:30pm-8pm - ONLINE - first class April 9th, last class May 28th, 8 classes, $248 (+ 3.6% credit card processing fees)](https://link.waveapps.com/f3bydp-w8szmp)
-* [Thursday 6:15pm-7:45pm - in person - first class April 11th, last class March 30th, 8 classes, $248 (+ 3.6% credit card processing fees)](https://link.waveapps.com/9hten6-cwn32a)
+* [Thursday 6:15pm-7:45pm - in person - first class April 11th, last class March 30th, 8 classes, $248 (+ 3.6% credit card processing fees)](https://link.waveapps.com/m8zuzx-sa7mm9)
 * [Saturday 9:30am-11am - in person - first class April 13th, last class June 1st, no class on May 25th, 7 classes, $217 (+ 3.6% credit card processing fees)](https://link.waveapps.com/7g27sx-fz6794)
 
 ### Intermediate level
