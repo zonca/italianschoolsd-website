@@ -1,6 +1,6 @@
 ---
 title: Parents' Night out at Italian school
-date: 2024-02-16T00:00:00.000Z
+date: 2024-02-01T00:00:00.000Z
 aliases:
     - /pno-march
 description: March 2nd 6-9:30pm in Kearny Mesa in San Diego

@@ -1,6 +1,6 @@
 ---
 title: Italian classes for adults in San Diego in March 2024
-date: 2024-02-22T00:00:00.000Z
+date: 2024-02-02T00:00:00.000Z
 ---
 
 Italian school is announcing a new set of classes for the month of March, in April, we will launch the new quarter, but if you want a warm-up, here it is!
