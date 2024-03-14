@@ -12,8 +12,8 @@ We are happy to open pre-enrollment for our Spring Break camp:
 * We will have 2 separate tracks for students that are already familiar with Italian and for students with minimal or no experience with Italian.
 * Italian language classes focused on conversation, learn about Italian food, art and architecture, board-games and other activities in Italian, arts&crafts.
 * Hosted at Italian school, our recently acquired 1500 square feet location featuring a large open-space room and 3 enclosed classrooms.
-* Cost for new students: $210 half day, $375 full day
-* Cost for students already enrolled in our Italian program: $175 half day, $300 full day
+* Cost for new students: $210 half day, $375 full day (+ 3.6% credit card processing fee, no fees for payments via Zelle)
+* Cost for students already enrolled in our Italian program: $175 half day, $300 full day (+ 3.6% credit card processing fee, no fees for payments via Zelle)
 * 10% discount to additional siblings
 
 <div class="tc">
@@ -28,6 +28,5 @@ We are happy to open pre-enrollment for our Spring Break camp:
 ### Terms and conditions
 
 * After pre-enrollment, the parent will receive notice of acceptance with an invoice, paying the invoice finalizes enrollment
-* Payment via Zelle with a 5% discount or payment via Credit Cards
 * Refund except a $50 administrative fee until March 15th. No refunds after March 15th.
 * No credit or rescheduling for missed classes, including classes missed due to illness.
