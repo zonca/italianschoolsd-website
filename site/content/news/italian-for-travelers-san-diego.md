@@ -26,6 +26,14 @@ As you add more adults to your cart in our shop, the additional adults discount 
 <a href="https://italianschoolsd.square.site/shop/italian-for-travelers/HIZJQCNGIMD7FJ26PVOPURRQ" class="btn raise">Enroll now via our shop</a>
 </div>
 
+### Tips and tricks for travelling to Italy
+
+As part of this program, we will also offer a 1-hour presentation free for all Italian school students, on April 17th and May 29th, about:
+
+"Planning a trip to Italy this year? Learn some practical tips and tricks to make your Italian vacation smoother and more enjoyable"
+
+Presented by Jean Rivaldi of [Vero Viaggio](https://veroviaggio.com).
+
 ### Cancellation policy
 
 Full refund 1 week before the first class, just [contact us](/contact), no refunds afterwards.
