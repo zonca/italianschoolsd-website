@@ -28,7 +28,7 @@ Our program designed specifically to teach useful Italian phrases for people tra
 Italian class targeted at beginners, no previous experience with Italian is required. Click on the desired session to pay and enroll:
 
 * [Monday 6pm-7:30pm - in person - first class April 8th, last class May 27th, 8 classes, $248 (+ 3.6% credit card processing fees)](https://link.waveapps.com/yuy6wm-58drtp)
-* [Tuesday 6:30pm-8pm - ONLINE - first class April 9th, last class May 28th, 8 classes, $248 (+ 3.6% credit card processing fees)](https://link.waveapps.com/hxm5vx-nhafk2)
+* [Wednesday 6:30pm-8pm - ONLINE - first class April 9th, last class May 28th, 8 classes, $248 (+ 3.6% credit card processing fees)](https://link.waveapps.com/hxm5vx-nhafk2)
 * [Thursday 6:15pm-7:45pm - in person - first class April 11th, last class March 30th, 8 classes, $248 (+ 3.6% credit card processing fees)](https://link.waveapps.com/9hten6-cwn32a)
 * [Saturday 9:30am-11am - in person - first class April 13th, last class June 1st, no class on May 25th, 7 classes, $217 (+ 3.6% credit card processing fees)](https://link.waveapps.com/v5fznp-8d9a6h)
 
