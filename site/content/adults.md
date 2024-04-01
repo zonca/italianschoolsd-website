@@ -49,6 +49,12 @@ Italian classes targeted at students that have studied Italian more than 3 years
 * [Monday 6:30pm-8pm - ONLINE - first class April 8th, last class May 27th, 8 classes, $248 (+ 3.6% credit card processing fees)](https://link.waveapps.com/gfwc7c-jxn26h)
 * [Thursday 6:15pm-7:45pm - in person - first class April 11th, last class March 30th, 8 classes, $248 (+ 3.6% credit card processing fees)](https://link.waveapps.com/xv6hxk-f3cyma)
 
+### Advanced level - conversation only
+
+Advanced class focused on increasing fluency and building vocabulary through conversation, minimal study of grammar:
+
+* [Monday 4:15pm-5:45pm - in person - first class April 8th, last class May 27th, 8 classes, $248 (+ 3.6% credit card processing fees)](https://link.waveapps.com/kq6vw2-248jb9)
+
 ## Previous sessions
 
 * [March 2024 intersession]( {{< ref "news/italian-adult-classes-march-2024.md" >}} )
