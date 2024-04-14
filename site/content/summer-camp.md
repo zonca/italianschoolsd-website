@@ -11,7 +11,7 @@ We are happy to open pre-enrollment for our Summer Camps:
 * Accepting students in grade TK to 8th, all activities are designed to challenge the kids at different levels based on their age and inclinations, with staff and peer-to-peer support
 * Bilingual camp where each activity will involve elements of the Italian language and kids will be encouraged to learn and speak Italian words as part of the activity
 * Ice cream party on Wednesdays!
-* Hosted at Italian school, our [recently acquired 1500 square feet location]({{ ref news/photos-new-location.md }}) featuring a large open-space room and 3 enclosed classrooms.
+* Hosted at Italian school, our [recently acquired 1500 square feet location]({{< ref news/photos-new-location.md >}}) featuring a large open-space room and 3 enclosed classrooms.
 * Cost for new students: $210 half day, $375 full day (+ 3.6% credit card processing fee, no fees for payments via Zelle)
 * Cost for students already enrolled in our Italian program: $175 half day, $300 full day (+ 3.6% credit card processing fee, no fees for payments via Zelle)
 * 10% discount to additional siblings
