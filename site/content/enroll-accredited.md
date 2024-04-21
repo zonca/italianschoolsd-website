@@ -1,10 +1,10 @@
 ---
-title: Pre-enrollment 2023-2024 for accredited classes
+title: Pre-enrollment 2024-2025 for accredited classes
 image: /img/lastsupper.jpg
-subtitle: Pre-enroll to accredited classes for the academic year 2023-2024
+subtitle: Pre-enroll to accredited classes for the academic year 2024-2025
 ---
 
-Pre-Enrollment for the 2023-2024 accredited classes starting on the week of September 5th is open (September 4th is Labor day).
+Pre-Enrollment for the 2024-2025 accredited classes starting on the week of September 5th is open (September 4th is Labor day).
 See [more information about accredited classes](/accredited-classes) before pre-enrolling and make sure you follow the instructions on that page to notify the High School counselor to have credits properly recognized.
 
 Please **pre-enroll by August 5th** to secure a spot, later enrollments will be considered if space allows.
