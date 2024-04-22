@@ -44,10 +44,6 @@ See the [Italian school of San Diego calendar](/calendar) for our Google Calenda
 * Our main location is at 4550 Kearny Villa Rd Suite 202, this is where all kids classes are held, see our [dedicated page about our school](/location)
 * The only exception is 1 class near Sorrento Valley, inside *After School Learning Tree*, [11525 Sorrento Valley Rd](https://goo.gl/maps/y2M724uWRS7o3gwZ6), Thursday 4:15pm-6:15pm, for kids K to 3rd grade, either Heritage or IFL, please specify in the "Other request" field in the pre-enrollment form if you are interested in our Sorrento Valley class.
 
-## Books
-
-We will send information about the necessary books after we have assigned students to classes.
-
 ## Pre-enrollment for both Heritage and Foreign Language classes
 
 <div class="tc">

@@ -46,5 +46,5 @@ Please help other people know about our programs by sharing it
     </div>Share on Twitter</div>
 </a>
 
-* [Italian school flyer image](/img/italianschoolsd-flyer-24-25.png)
+* [Italian school flyer image](/img/italianschoolsd-flyer-24-25.png) [(PDF)](/img/italianschoolsd-flyer-24-25.pdf)
 ![Italian school flyer image](/img/italianschoolsd-flyer-24-25.png)
