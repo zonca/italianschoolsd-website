@@ -1,6 +1,6 @@
 ---
 title: Italian classes in San Diego
-image: /img/milan.jpg
+image: /img/isola_bella.jpg
 subtitle: Children classes 2024-2025
 ---
 
