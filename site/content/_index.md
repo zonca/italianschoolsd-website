@@ -9,6 +9,9 @@ intro:
     heading: "Classes 2024/2025 for kids and teens"
     text: "Classes are 2 hours per week in the afternoon from the beginning of September to the end of May, they are organized in 2 tracks:"
 products:
+    - image: img/italian-adult-classes.svg
+      text: "Italian as a Foreign Language (IFL) classes are grouped by age and level. They are focused on learning the basics of the Italian language from scratch. Once the basics are covered, the students are also introduced to Italian lifestyle and culture."
+      link: /adults
     - image: img/italian-learners-classes.svg
       text: "Italian as a Foreign Language (IFL) classes are grouped by age and level. They are focused on learning the basics of the Italian language from scratch. Once the basics are covered, the students are also introduced to Italian lifestyle and culture."
       link: /classes
