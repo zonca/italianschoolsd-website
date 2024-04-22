@@ -20,8 +20,8 @@ For more information, check:
 
 The Italian school offers 4 one-year classes targeted at students learning Italian as a Foreign Language:
 
-* `ifl1-2` Italian 1-2, targeted at students starting to learn Italian, Monday 5pm-7pm, first class on August 26th
-* `ifl3-4` Italian 3-4, TBD
+* `ifl1-2` Italian 1-2, targeted at students starting to learn Italian, online class, Monday 5pm-7pm, first class on August 26th, if students prefer, we could offer instead an in-person class, please specify in the pre-enrollment form.
+* `ifl3-4` Italian 3-4, online class, schedule TBD
 * `ifl5-6` Italian 5-6, online on Tuesdays 5pm-7pm, first class on August 27th
 * `ifl7-8` Italian 7-8 and AP preparation, [see the dedicated page about AP Italian](/ap-italian-san-diego), online on Mondays 4:30pm-6:30pm, first class on August 26th
 
