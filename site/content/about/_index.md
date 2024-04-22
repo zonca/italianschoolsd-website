@@ -13,6 +13,10 @@ values:
 
 [Learn more about the history of IAASD](/about/legacy-iaasd)
 
+## Our location
+
+[See the dedicated space about the space that hosts our school](/location)
+
 ## Our founders
 
 ### Maura D'Andrea - School director and teacher
