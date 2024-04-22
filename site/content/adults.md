@@ -1,9 +1,9 @@
 ---
-title: Italian classes for adults in San Diego
+title: Adult classes
 image: /img/lastsupper.jpg
 aliases:
     - /enroll-adults
-subtitle: In-person and via Zoom
+subtitle: Italian classes In-person in San Diego & via Zoom
 ---
 
 See below for classes open for enrollment, if you do not find any suitable class, please fill the "Adult Italian lesson interest form" clicking on the button below,
