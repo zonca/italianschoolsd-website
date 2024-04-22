@@ -4,6 +4,8 @@ image: /img/milan.jpg
 subtitle: Children classes 2024-2025
 ---
 
+This is the page for students TK-6th grade, for teens see [the accredited classes](/accredited-classes).
+
 ## Please share our flyer
 
 We rely on word-of-mouth to get people to know our programs, please [help us by sharing our flyer]( {{< ref "news/italian-class-enrollment-2024-2025-open.md" >}} )
