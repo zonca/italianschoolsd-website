@@ -22,12 +22,18 @@ The cost of the accredited class reflects the larger effort from the teacher and
 
 The total yearly tuition for 35 weeks of instruction (2 hours of class and 2 hours of homework per week) is:
 
-**$2180** (unchanged from last year **2022-2023**)
+**$2422**
+
+Students already enrolled in Italian school in 2023-2024 receive a 10% discount:
+
+**$2180** (unchanged for the last 2 years - academic year **2022-2023**)
+
+Moreover, at enrollment there is an additional **$100** Enrollment fee - **waived** for families paying tuition by July 15th.
 
 check [the dedicated page for details on payment methods, cancellation policy, the 8-payments option and sibling discount](/tuition-payment)
 
 The pre-enrollment form is the same for TK-6th grade students and for certified classes.
 
 <div class="tc">
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSd4sac0Y2wdTd9gm2AF1Y9uuVPPyJzHfHEphJPA1iYPkrP43g/viewform?usp=sf_link" class="btn raise">Fill the pre-enrollment form</a>
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSd4sac0Y2wdTd9gm2AF1Y9uuVPPyJzHfHEphJPA1iYPkrP43g/viewform?usp=sf_link" class="btn raise">Fill the universal pre-enrollment form</a>
 </div>

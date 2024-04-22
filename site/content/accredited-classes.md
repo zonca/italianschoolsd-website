@@ -16,22 +16,23 @@ For more information, check:
 * [the page about world languages of the Multilingual Education Department of San Diego Unified](https://www.sdusdmed.org/projects/independent-world-languages-schools)
 * [the page about Off Campus World language courses at San Dieguito](https://www.sduhsd.net/Departments/Educational-Services/Specialized-Programs/Off-Campus-Courses/Off-Campus-World-Language-Courses/index.html)
 
-
-### Offered classes
+### Class level and schedule
 
 The Italian school offers 4 one-year classes targeted at students learning Italian as a Foreign Language:
 
-* `ifl1-2` Italian 1-2, targeted at students starting to learn Italian
-* `ifl3-4` Italian 3-4
-* `ifl5-6` Italian 5-6
-* `ifl7-8` Italian 7-8 and AP preparation, [see the dedicated page about AP Italian](/ap-italian-san-diego)
+* `ifl1-2` Italian 1-2, targeted at students starting to learn Italian, Monday 5pm-7pm, first class on August 26th
+* `ifl3-4` Italian 3-4, TBD
+* `ifl5-6` Italian 5-6, online on Tuesdays 5pm-7pm, first class on August 27th
+* `ifl7-8` Italian 7-8 and AP preparation, [see the dedicated page about AP Italian](/ap-italian-san-diego), online on Mondays 4:30pm-6:30pm, first class on August 26th
 
-Moreover, we have modified programs for students, generally of Italian heritage, which already speak Italian fluently:
+Moreover, we have modified programs for students, generally of Italian heritage, which already speak Italian:
 
-* `ita1-2` Italian 1-2 for Italian speakers
-* `ita3-4` Italian 3-4 for Italian speakers
-* `ita5-6` Italian 5-6 for Italian speakers
-* `ita7-8` Italian 7-8 and AP preparation for Italian speakers, [see the dedicated page about AP Italian](/ap-italian-san-diego)
+* `ita1-2` Italian 1-2 for Italian speakers, in-person on Thursdays 4pm-6pm, first class on August 29th
+* `ita3-4` Italian 3-4 for Italian speakers, in-person on Thursdays 4pm-6pm, first class on August 29th
+* `ita5-6` Italian 5-6 for Italian speakers, online on Mondays 4:30pm-6:30pm, first class on August 26th
+* `ita7-8` Italian 7-8 and AP preparation for Italian speakers, [see the dedicated page about AP Italian](/ap-italian-san-diego), TBD
+
+Students that studied Italian before can also test into a higher level than 1-2, please specify this in the pre-enrollment form or contact us in advance.
 
 ### Location
 
@@ -45,7 +46,7 @@ We already have an event planned for all accredited class students (6th grade an
 
 * 35 weekly classes, 2 hours each, and 2 hours of independent studies
 * Classes start on the week of September 5th and end the first week of June
-* The schedule will be decided by each class based on the teacher's and students' needs, generally classes will be the same day each week between 4:30pm and 6:30pm, you will receive an email about it after pre-enrollment
+* Most classes have an already setup schedule, see above, for classes TBD,  schedule will be decided by the class based on the teacher's and students' needs, generally classes will be the same day each week between 4:30pm and 6:30pm, you will receive an email about it after pre-enrollment
 
 ### Books
 
