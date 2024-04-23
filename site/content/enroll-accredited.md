@@ -1,10 +1,10 @@
 ---
-title: Pre-enrollment 2023-2024 for accredited classes
+title: Pre-enrollment 2024-2025 for accredited classes
 image: /img/lastsupper.jpg
-subtitle: Pre-enroll to accredited classes for the academic year 2023-2024
+subtitle: Pre-enroll to accredited classes for the academic year 2024-2025
 ---
 
-Pre-Enrollment for the 2023-2024 accredited classes starting on the week of September 5th is open (September 4th is Labor day).
+Pre-Enrollment for the 2024-2025 accredited classes starting on the week of September 5th is open (September 4th is Labor day).
 See [more information about accredited classes](/accredited-classes) before pre-enrolling and make sure you follow the instructions on that page to notify the High School counselor to have credits properly recognized.
 
 Please **pre-enroll by August 5th** to secure a spot, later enrollments will be considered if space allows.
@@ -22,12 +22,18 @@ The cost of the accredited class reflects the larger effort from the teacher and
 
 The total yearly tuition for 35 weeks of instruction (2 hours of class and 2 hours of homework per week) is:
 
-**$2180** (unchanged from last year **2022-2023**)
+**$2422**
+
+Students already enrolled in Italian school in 2023-2024 receive a 10% discount:
+
+**$2180** (unchanged for the last 2 years - academic year **2022-2023**)
+
+Moreover, at enrollment there is an additional **$100** Enrollment fee - **waived** for families paying tuition by July 15th.
 
 check [the dedicated page for details on payment methods, cancellation policy, the 8-payments option and sibling discount](/tuition-payment)
 
 The pre-enrollment form is the same for TK-6th grade students and for certified classes.
 
 <div class="tc">
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSd4sac0Y2wdTd9gm2AF1Y9uuVPPyJzHfHEphJPA1iYPkrP43g/viewform?usp=sf_link" class="btn raise">Fill the pre-enrollment form</a>
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSd4sac0Y2wdTd9gm2AF1Y9uuVPPyJzHfHEphJPA1iYPkrP43g/viewform?usp=sf_link" class="btn raise">Fill the universal pre-enrollment form</a>
 </div>

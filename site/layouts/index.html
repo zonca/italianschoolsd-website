@@ -4,9 +4,9 @@
 
 {{ partial "short-text" .Params.blurb}}
 
-{{ partial "blog" . }}
-
 {{ partial "2-up" .Params }}
+
+{{ partial "blog" . }}
 
 {{ partial "text-and-image" (dict "heading" .Params.values.heading "text" .Params.values.text "buttonText" "About the Italian school" "buttonLink" "/about") }}
 

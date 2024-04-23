@@ -1,13 +1,13 @@
 ---
 title: Accredited Italian classes in San Diego
 image: /img/milan.jpg
-subtitle: Classes for the academic year 2023-2024
+subtitle: Classes for the academic year 2024-2025
 ---
 
-## Accredited classes
+## Accredited Italian classes for Middle and High School students
 
 Italian school of San Diego LLC is accredited both with the San Diego Unified and the San Dieguito Union High School Districts as an "Independent World Language School".
-Therefore classes taken at the Italian school will give credit for the language requirement for High School graduation for all public High Schools within the 2 districts, and will also satisfy the admission requirements for colleges. Grades obtained in the Italian classes will be added to the student's transcripts.
+Therefore classes taken at the Italian school will give credit for the language requirement for High School graduation for all public High Schools within the 2 districts, and will also satisfy the admission requirements for colleges. Grades obtained in the Italian classes will be added to the student's High School transcripts.
 
 The curriculum and the programs were created, implemented and district approved by our sister school IAASD, now closed, [learn more about their story](/about/legacy-iaasd).
 
@@ -16,42 +16,41 @@ For more information, check:
 * [the page about world languages of the Multilingual Education Department of San Diego Unified](https://www.sdusdmed.org/projects/independent-world-languages-schools)
 * [the page about Off Campus World language courses at San Dieguito](https://www.sduhsd.net/Departments/Educational-Services/Specialized-Programs/Off-Campus-Courses/Off-Campus-World-Language-Courses/index.html)
 
-
-### Offered classes
+### Class level and schedule
 
 The Italian school offers 4 one-year classes targeted at students learning Italian as a Foreign Language:
 
-* Italian 1-2, targeted at students starting to learn Italian
-* Italian 3-4
-* Italian 5-6
-* Italian 7-8 and AP preparation, [see the dedicated page about AP Italian](/ap-italian-san-diego)
+* `ifl1-2` Italian 1-2, targeted at students starting to learn Italian, online class, Monday 5pm-7pm, first class on August 26th, if students prefer, we could offer instead an in-person class, please specify in the pre-enrollment form.
+* `ifl3-4` Italian 3-4, online class, schedule TBD
+* `ifl5-6` Italian 5-6, online on Tuesdays 5pm-7pm, first class on August 27th
+* `ifl7-8` Italian 7-8 and AP preparation, [see the dedicated page about AP Italian](/ap-italian-san-diego), online on Mondays 4:30pm-6:30pm, first class on August 26th
 
-Moreover, we have modified programs for students, generally of Italian heritage, which already speak Italian fluently:
+Moreover, we have modified programs for students, generally of Italian heritage, which already speak Italian:
 
-* Italian 1-2 for Italian speakers
-* Italian 3-4 for Italian speakers
-* Italian 5-6 for Italian speakers
-* Italian 7-8 and AP preparation for Italian speakers, [see the dedicated page about AP Italian](/ap-italian-san-diego)
+* `ita1-2` Italian 1-2 for Italian speakers, in-person on Thursdays 4pm-6pm, first class on August 29th
+* `ita3-4` Italian 3-4 for Italian speakers, in-person on Thursdays 4pm-6pm, first class on August 29th
+* `ita5-6` Italian 5-6 for Italian speakers, online on Mondays 4:30pm-6:30pm, first class on August 26th
+* `ita7-8` Italian 7-8 and AP preparation for Italian speakers, [see the dedicated page about AP Italian](/ap-italian-san-diego), TBD
+
+Students that studied Italian before can also test into a higher level than 1-2, please specify this in the pre-enrollment form or contact us in advance.
 
 ### Location
 
 All classes will be held via Zoom, with occasional social gatherings in person.
 
-We already have a couple of events planned for all accredited class students (6th grade and up):
+We already have an event planned for all accredited class students (6th grade and up):
 
-* Back-to-school night Bonfire at La Jolla Shores on Friday August 25th, 2023 5-9pm
-* End-of-year get-together on Friday May 31st, 2024, time and location TBD
+* Back-to-school night Bonfire at La Jolla Shores on Friday August 30th, 2024 5-9pm
 
 ### Calendar
 
 * 35 weekly classes, 2 hours each, and 2 hours of independent studies
 * Classes start on the week of September 5th and end the first week of June
-* The schedule will be decided by each class based on the teacher's and students' needs, generally classes will be the same day each week between 4:30pm and 6:30pm, you will receive an email about it after pre-enrollment
+* Most classes have an already setup schedule, see above, for classes TBD,  schedule will be decided by the class based on the teacher's and students' needs, generally classes will be the same day each week between 4:30pm and 6:30pm, you will receive an email about it after pre-enrollment
 
 ### Books
 
 We will send information about the necessary books after we have assigned students to classes.
-
 
 ## How to enroll
 
@@ -81,6 +80,7 @@ Parents will receive a grade report 4 times a year. If the students are in a pub
 High school graduation and college admission require 2 years of a foreign language, but most colleges recommend 3 years, and some Ivy league colleges, like Harvard, recommend 4. See for example the [E) requirement for admission to University of California](https://admission.universityofcalifornia.edu/admission-requirements/freshman-requirements/subject-requirement-a-g.html), quoted here for reference:
 
 > Two years, or equivalent to the 2nd level of high school instruction, of the same language other than English are required. (Three years/3rd level of high school instruction recommended). Courses should emphasize speaking and understanding, and include instruction in grammar, vocabulary, reading, composition and culture. [..]. Courses taken in the seventh and eighth grades may be used to fulfill part or all of this requirement if the high school accepts them as equivalent to its own courses.
+
 ### When is best to start
 
 We recommend for kids to enroll in our Italian 1-2 class in 7th grade, this allows them to take Italian 1-2 and Italian 3-4 in middle school.

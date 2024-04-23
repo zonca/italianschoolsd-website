@@ -1,62 +1,48 @@
 ---
-title: Italian classes for adults in San Diego
+title: Adult classes
 image: /img/lastsupper.jpg
 aliases:
     - /enroll-adults
-subtitle: In-person and via Zoom
+subtitle: Italian classes In-person in San Diego & via Zoom
 ---
 
-If you are not sure about your level, please [contact us](/contact) with details about your previous experience with Italian, we will then recommend either to try a class or to do an assessment with one of our teachers.
-
 See below for classes open for enrollment, if you do not find any suitable class, please fill the "Adult Italian lesson interest form" clicking on the button below,
-we will get back to you as soon as we announce a new class:
+we will get back to you within a couple of days to let you know what we can offer:
 
 <div class="tc">
 <a href="https://forms.gle/LHR7Htpeb3mQzV838" class="btn raise">Adult Italian lesson interest form</a>
 </div>
 
-## Spring 2024 Quarter (April-May 2024)
+## Italian for travelers
 
-### Italian for travelers
-
-Our program designed specifically to teach useful Italian phrases for people travelling to Italy in Summer 2024, it includes a session dedicated to family travelling with kids:
+Our program designed specifically to teach useful Italian phrases for people travelling to Italy in 2024, it includes a session dedicated to family travelling with kids:
 
 [See more details about our April and May Italian for travelers program]({{< ref "/news/italian-for-travelers-san-diego.md" >}})
 
-### Beginner level
 
-Italian class targeted at beginners, no previous experience with Italian is required. Click on the desired session to pay and enroll:
+## May 2024 intersession
 
-* [Monday 6pm-7:30pm - in person - first class April 8th, last class May 27th, 8 classes, $248 (+ 3.6% credit card processing fees)](https://link.waveapps.com/yuy6wm-58drtp)
-* [Wednesday 6pm-7:30pm - ONLINE - first class April 10th, last class May 29th, 8 classes, $248 (+ 3.6% credit card processing fees)](https://link.waveapps.com/hxm5vx-nhafk2)
-* [Thursday 6:15pm-7:45pm - in person - first class April 11th, last class March 30th, 8 classes, $248 (+ 3.6% credit card processing fees)](https://link.waveapps.com/9hten6-cwn32a)
-* [Saturday 9:30am-11am - in person - first class April 13th, last class June 1st, no class on May 25th, 7 classes, $217 (+ 3.6% credit card processing fees)](https://link.waveapps.com/v5fznp-8d9a6h)
+An intersession is a short set of classes launched between 2 of our quarters, in May 2024 we do not plan to launch any beginner class (we will launch them in June), however we accept enrollments anytime at the Beginner-intermediate and Intermediate levels.
+
+Check the available classes below and [contact us](/contact) telling us what you are interested in.
 
 ### Beginner-intermediate level
 
 Italian class targeted at students that have had already at least 1 year of classes or equivalent self-study, please [contact us](/contact) if you are not sure about your level, we can schedule a free Italian level evaluation:
 
-* [Monday 6pm-7:30pm - in person - first class April 8th, last class May 27th, 8 classes, $248 (+ 3.6% credit card processing fees)](https://link.waveapps.com/y3g9dj-rx9uyy)
-* [Tuesday 6:30pm-8pm - ONLINE - first class April 9th, last class May 28th, 8 classes, $248 (+ 3.6% credit card processing fees)](https://link.waveapps.com/f3bydp-w8szmp)
-* [Thursday 6:15pm-7:45pm - in person - first class April 11th, last class March 30th, 8 classes, $248 (+ 3.6% credit card processing fees)](https://link.waveapps.com/m8zuzx-sa7mm9)
-* [Saturday 9:30am-11am - in person - first class April 13th, last class June 1st, no class on May 25th, 7 classes, $217 (+ 3.6% credit card processing fees)](https://link.waveapps.com/7g27sx-fz6794)
+* Monday 6pm-7:30pm - in person - last class of the current quarter May 27th, $31 per class
+* Thursday 6:15pm-7:45pm - in person - last class of the quarter May 30th, $31 per class
 
 ### Intermediate level
 
 Italian classes targeted at students that have studied Italian more than 3 years and can sustain simple conversations:
 
-* [Monday 6pm-7:30pm - in person - first class April 8th, last class May 27th, 8 classes, $248 (+ 3.6% credit card processing fees)](https://link.waveapps.com/x95fvx-fspqr8)
-* [Monday 6:30pm-8pm - ONLINE - first class April 8th, last class May 27th, 8 classes, $248 (+ 3.6% credit card processing fees)](https://link.waveapps.com/gfwc7c-jxn26h)
-* [Thursday 6:15pm-7:45pm - in person - first class April 11th, last class March 30th, 8 classes, $248 (+ 3.6% credit card processing fees)](https://link.waveapps.com/xv6hxk-f3cyma)
-
-### Advanced level - conversation only
-
-Advanced class focused on increasing fluency and building vocabulary through conversation, minimal study of grammar:
-
-* [Monday 4:15pm-5:45pm - in person - first class April 8th, last class May 27th, 8 classes, $248 (+ 3.6% credit card processing fees)](https://link.waveapps.com/kq6vw2-248jb9)
+* Monday 6pm-7:30pm - in person - last class of the current quarter May 27th, $31 per class
+* Thursday 6:15pm-7:45pm - in person - last class of the quarter May 30th, $31 per class
 
 ## Previous sessions
 
+* [April 2024 Spring Quarter session]( {{< ref "news/italian-adult-classes-april-2024.md" >}} )
 * [March 2024 intersession]( {{< ref "news/italian-adult-classes-march-2024.md" >}} )
 * [January-March 2024]( {{< ref "news/italian-adult-classes-january-2024.md" >}} )
 
