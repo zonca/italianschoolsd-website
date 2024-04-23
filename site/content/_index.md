@@ -21,7 +21,7 @@ products2:
     - image: img/italian-adult-classes.svg
       title: "Italian for adults"
       text: "Italian group and private classes in-person in Kearny Mesa and online for all levels of proficiency, we also organize custom classes for groups or businesses. We focus on a conversation-first approach with highly interactive classes, highlight cultural aspects of life and tourism in Italy, and include insights into the history and geography of Italy."
-      link: /adult
+      link: /adults
     - image: img/italian-summer-camp.svg
       title: "Italian Summer Camp"
       text: "Bilingual camp where kids will learn and use Italian sentences as part of fun activities like games, crafts and physical exercise. 3 weeks starting on June 10th (enrollment is week-by-week), 9am-3pm, in-person at our school in Kearny Mesa."
