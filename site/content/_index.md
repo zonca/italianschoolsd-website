@@ -14,7 +14,7 @@ products:
       text: "2-hour-a-week year-long program in-person at our school in Kearny Mesa, Wednesdays 4-6pm for novice or beginner students and Thursdays 4-6pm for kids with previous knowledge of the language."
       link: /classes
     - image: /img/italian-school-classes.svg
-      title: "Accredited Italian classes for teens 6th-12th grade"
+      title: "Accredited Italian for 6-12th graders"
       text: "Italian program for middle and high schoolers certified by San Diego Unified and San Dieguito Districts for High School Graduation credit (class is registered to the student's High School transcript) and College admission. Classes are 2 hours of synchronous lesson in-person or via Zoom and 2 hours of independent study per week. We offer 4 levels starting from novice level up to preparation for the AP Italian exam."
       link: /accredited-classes
 products2:
