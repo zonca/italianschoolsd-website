@@ -10,7 +10,7 @@ This is the page for students TK-6th grade, for teens see [the accredited classe
 
 We rely on word-of-mouth to get people to know our programs, please [help us by sharing our flyer]( {{< ref "news/italian-class-enrollment-2024-2025-open.md" >}} )
 
-## Italian Heritage classes for kids K-6
+## Italian Heritage classes for kids TK-6
 
 > “*La lingua e' l'ultima proprieta' di chi parte per sempre*”
 (Erri de Luca, I pesci non chiudono gli occhi)
@@ -26,7 +26,7 @@ last class on May 29th for a total of 33 weeks of instruction (+1 week for backu
 
 See the [Italian school of San Diego calendar](/calendar) for our Google Calendar schedule.
 
-## Italian as a Foreign Language (IFL) classes for kids (K-6)
+## Italian as a Foreign Language (IFL) classes for kids (TK-6)
 
 Italian as a Foreign Language (IFL) classes are devoted to prospective students which haven't started to learn Italian yet or are beginners.
 Instruction will be in English, it will first cover the basics of Italian, using a conversation-first approach and engaging the students through language-reinforcing activities.
