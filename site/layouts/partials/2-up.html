@@ -11,6 +11,14 @@
       </div>
       {{ end }}
     </div>
+    <div class="flex-ns mhn2-ns mb3">
+      {{ range .products2 }}
+      <div class="ph2-ns w-50-ns">
+        <img src="{{.image}}" alt="" class="center db mb3" style="width: 240px">
+        <p>{{.text}}</p>
+      </div>
+      {{ end }}
+    </div>
 
     <div class="tc">
       <a href="/classes" class="btn raise">See all classes</a>
