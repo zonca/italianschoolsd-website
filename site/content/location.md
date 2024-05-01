@@ -21,4 +21,4 @@ When you enter the parking lot, find a parking spot just after the first corner 
 
 ## Organize your events at Italian school
 
-We are interested in partnerships with other schools, other businesses or individuals to organize classes, meetings, parties in our space, please [contact us!](/contact). We can provide a music system, microphone, projector and more.
+We are interested in partnerships with other schools, other businesses or individuals to organize classes, meetings, parties in our space, please [contact us!](/contact). We can provide a music system, microphone, projector, very fast wifi and more.
