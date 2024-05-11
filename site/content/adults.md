@@ -27,6 +27,7 @@ Our program designed specifically to teach useful Italian phrases for people tra
 Italian class targeted at beginners, no previous experience with Italian is required. Click on the desired session to pay and enroll:
 
 * [Wednesday 6pm-7:30pm - in person - first class June 12th, last class July 17th, 6 classes, $186 (+ 3.6% credit card processing fees)](https://link.waveapps.com/m2gd3a-hx2te4)
+* [Monday 6pm-7:30pm - ONLINE - first class June 12th, last class July 17th, 6 classes, $186 (+ 3.6% credit card processing fees)](https://link.waveapps.com/mf9pe5-u9at97)
 
 ### Beginner-intermediate level
 
