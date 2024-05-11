@@ -13,6 +13,13 @@ we will get back to you within a couple of days to let you know what we can offe
 <a href="https://forms.gle/LHR7Htpeb3mQzV838" class="btn raise">Adult Italian lesson interest form</a>
 </div>
 
+## Italian for travelers
+
+Our program designed specifically to teach useful Italian phrases for people travelling to Italy in 2024, it includes a session dedicated to family travelling with kids:
+
+[See more details about our April and May Italian for travelers program]({{< ref "/news/italian-for-travelers-san-diego.md" >}})
+
+
 ## Summer 2024 quarter
 
 ### Beginner level
