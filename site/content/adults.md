@@ -20,31 +20,44 @@ Our program designed specifically to teach useful Italian phrases for people tra
 [See more details about our April and May Italian for travelers program]({{< ref "/news/italian-for-travelers-san-diego.md" >}})
 
 
-## May 2024 intersession
+## Summer 2024 quarter
 
-An intersession is a short set of classes launched between 2 of our quarters, in May 2024 we do not plan to launch any beginner class (we will launch them in June), however we accept enrollments anytime at the Beginner-intermediate and Intermediate levels.
+### Beginner level
 
-Check the available classes below and [contact us](/contact) telling us what you are interested in.
+Italian class targeted at beginners, no previous experience with Italian is required. Click on the desired session to pay and enroll:
+
+* [Wednesday 6pm-7:30pm - in person - first class June 12th, last class July 17th, 6 classes, $186 (+ 3.6% credit card processing fees)](https://link.waveapps.com/m2gd3a-hx2te4)
 
 ### Beginner-intermediate level
 
 Italian class targeted at students that have had already at least 1 year of classes or equivalent self-study, please [contact us](/contact) if you are not sure about your level, we can schedule a free Italian level evaluation:
 
-* Monday 6pm-7:30pm - in person - last class of the current quarter May 27th, $31 per class
-* Thursday 6:15pm-7:45pm - in person - last class of the quarter May 30th, $31 per class
+* [Monday 6pm-7:30pm - in person - first class June 10th, last class July 15th, 6 classes, $186 (+ 3.6% credit card processing fees)](https://link.waveapps.com/u3zuh7-g7znk6)
+* [Thursday 6pm-7:30pm - in person - first class June 13th, last class July 18th, 6 classes, $186 (+ 3.6% credit card processing fees)](https://link.waveapps.com/ptgubr-dpuav6)
 
 ### Intermediate level
 
 Italian classes targeted at students that have studied Italian more than 3 years and can sustain simple conversations:
 
-* Monday 6pm-7:30pm - in person - last class of the current quarter May 27th, $31 per class
-* Thursday 6:15pm-7:45pm - in person - last class of the quarter May 30th, $31 per class
+* [Monday 6pm-7:30pm - in person - first class June 10th, last class July 15th, 6 classes, $186 (+ 3.6% credit card processing fees)](https://link.waveapps.com/ezs7ua-76yfej)
+* [Thursday 6pm-7:30pm - in person - first class June 13th, last class July 18th, 6 classes, $186 (+ 3.6% credit card processing fees)](https://link.waveapps.com/37gu34-x3jpdn)
+
+### Quattro chiacchiere e un caffe'
+
+Translated literally to "4 chats", "quattro chiacchiere" is an idiomatic expression meaning "some chatting".
+
+Conversation-only class, our school director Maura will notify in advance the attendees of the a topic for each class, for example an Italian news article, or a specific Italian culture topic, or an Italian movie, the class will be a free ranging chat about that topic, all in Italian.
+
+This class requires a level of fluency at intermediate level, (B2 level or above), you should be able to converse in Italian with a native speaker.
+
+Attendees will also have a choice of coffee (K-cups) and a selection of tea.
+
+* [Tuesday 6pm-7pm - in person - first class June 10th, last class July 15th, 6 classes, $150 (+ 3.6% credit card processing fees)](https://link.waveapps.com/5n46q7-4qqy48)
 
 ## Previous sessions
 
+* [May 2024 intersession]( {{< ref "news/italian-adult-classes-may-2024.md" >}} )
 * [April 2024 Spring Quarter session]( {{< ref "news/italian-adult-classes-april-2024.md" >}} )
-* [March 2024 intersession]( {{< ref "news/italian-adult-classes-march-2024.md" >}} )
-* [January-March 2024]( {{< ref "news/italian-adult-classes-january-2024.md" >}} )
 
 ## In-person or online private class for adults via Zoom
 
