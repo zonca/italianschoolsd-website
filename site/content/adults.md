@@ -17,7 +17,7 @@ we will get back to you within a couple of days to let you know what we can offe
 
 Our program designed specifically to teach useful Italian phrases for people travelling to Italy in 2024, dedicated to family travelling with kids:
 
-[See more details about our June Italian for travelers program](/travelers)
+[See more details about our Italian for travelers program](/travelers)
 
 
 ## Summer 2024 quarter
