@@ -43,12 +43,22 @@ Students will be organized in classes based on their age.
 
 See the [Italian school of San Diego calendar](/calendar) for our Google Calendar schedule.
 
+## Italian for Spanish speakers (TK-6)
+
+Italian classes for Spanish speakers are designed for kids who already speak Spanish and want to learn Italian. These classes will leverage the similarities between the two languages to facilitate the learning process.
+
+Instruction will be provided in both English and Spanish, allowing students to understand and practice Italian using their existing knowledge of Spanish. The classes will focus on building vocabulary, improving pronunciation, and developing conversational skills.
+
+* **4-6pm on Wednesday**, first class on **September 4th**, last class on May 28th
+
+See the [Italian school of San Diego calendar](/calendar) for our Google Calendar schedule.
+
 ## Location
 
 * Our main location is at 4550 Kearny Villa Rd Suite 202, this is where all kids classes are held, see our [dedicated page about our school](/location)
 * The only exception is 1 class near Sorrento Valley, inside *After School Learning Tree*, [11525 Sorrento Valley Rd](https://goo.gl/maps/y2M724uWRS7o3gwZ6), Thursday 4:15pm-6:15pm, for kids K to 3rd grade, either Heritage or IFL, please specify in the "Other request" field in the pre-enrollment form if you are interested in our Sorrento Valley class.
 
-## Pre-enrollment for both Heritage and Foreign Language classes
+## Pre-enrollment for all of our programs
 
 <div class="tc">
 <a href="/enroll" class="btn raise">Tuition and pre-enrollment information</a>
