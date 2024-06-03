@@ -20,6 +20,8 @@ For more information, check:
 
 Program from June 24th to August 24th, each week 3 synchronous classes of 2 hours each either in person or online via Zoom. The students will be expected to do 6 hours of homework per week on top of the 6 hours of classes. At the end of the class, the students will have had 70 hours of live classes and worked for 70 hours on their homework.
 
+No previous knowledge of Italian is required.
+
 The schedule and whether the class will be in-person or online will be decided based on the preferences of the enrolled students.
 
 Italian 1-2 will then be registered on the students' transcript at the end of the first quarter in January 2025 and will count as language credit both for High School graduation and to satisfy college admission requirements.
