@@ -1,6 +1,8 @@
 ---
 title: Spanish classes for kids 2nd to 6th grade
 date: 2024-06-02T00:00:00.000Z
+aliases:
+    /spanish
 ---
 
 Italian school of San Diego is excited to announce that we will be expanding our children program to also include Spanish classes for the 2024-2025 academic year.

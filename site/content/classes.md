@@ -10,6 +10,12 @@ This is the page for students TK-6th grade, for teens see [the accredited classe
 
 We rely on word-of-mouth to get people to know our programs, please [help us by sharing our flyer]( {{< ref "news/italian-class-enrollment-2024-2025-open.md" >}} )
 
+## (New!) Spanish classes for kids 2nd-6th grade
+
+We are excited to announce that we now offer Spanish classes for kids in grades 2nd-6th. These classes are designed for children who want to learn Spanish as a second language. Instruction will be provided in a fun and interactive way, focusing on vocabulary building, pronunciation, and conversational skills, getting the students ready to successfully transition to Spanish classes in middle school. No previous knowledge of Spanish necessary.
+
+For more information and to enroll, please visit our [Spanish classes page](/spanish).
+
 ## Italian Heritage classes for kids TK-6
 
 > “*La lingua e' l'ultima proprieta' di chi parte per sempre*”
