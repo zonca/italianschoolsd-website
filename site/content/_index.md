@@ -9,6 +9,10 @@ intro:
     heading: "Italian school programs"
     text: "Italian school offers Italian programs targeted at multiple audiences, our teachers are all Italian mother-tongue and our classes are 5 to 8 students:"
 products:
+    - image: img/italian-summer-camp.svg
+      title: "Italian 1-2 certified class Summer Intensive"
+      text: "Take 1 full year of classes during the Summer, this program is recognized by San Diego Unified and San Dieguito districts and will be added to the students' transcript in January 2025, students can take Italian 1-2 in the summer then start Italian 3-4 in the Fall."
+      link: /accredited-classes
     - image: img/italian-learners-classes.svg
       title: "Italian for kids TK-6th grade"
       text: "2-hour-a-week year-long program in-person at our school in Kearny Mesa, Wednesdays 4-6pm for novice or beginner students and Thursdays 4-6pm for kids with previous knowledge of the language."
@@ -22,10 +26,6 @@ products2:
       title: "Italian for adults"
       text: "Italian group and private classes in-person in Kearny Mesa and online for all levels of proficiency, we also organize custom classes for groups or businesses. We focus on a conversation-first approach with highly interactive classes, highlight cultural aspects of life and tourism in Italy, and include insights into the history and geography of Italy."
       link: /adults
-    - image: img/italian-summer-camp.svg
-      title: "Italian Summer Camp (TK-8th grade)"
-      text: "Bilingual camp where kids will learn and use Italian sentences as part of fun activities like games, crafts and physical exercise. 3 weeks starting on June 10th (enrollment is week-by-week), 9am-3pm, in-person at our school in Kearny Mesa."
-      link: /summer-camp
 values:
     heading: About
     text: Our instructors are all mother-tongue Italian, they are experienced and passionate about teaching kids their own language and culture. Maura D'Andrea is the Italian school Director and CEO, she founded Italian school of San Diego in 2021.
