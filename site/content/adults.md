@@ -42,7 +42,7 @@ Italian classes targeted at students that have studied Italian more than 3 years
 
 * [Monday 6pm-7:30pm - in person - first class June 10th, last class July 15th, 6 classes, $186 (+ 3.6% credit card processing fees)](https://link.waveapps.com/ezs7ua-76yfej)
 * [Thursday 6:15pm-7:45pm - in person - first class June 13th, no class July 4th, last class July 25th, 6 classes, $186 (+ 3.6% credit card processing fees)](https://link.waveapps.com/37gu34-x3jpdn)
-* [Monday 6pm-7:30pm - ONLINE - first class June 24th, last class August 26th, 10 classes, $278 (+ 3.6% credit card processing fees)](https://link.waveapps.com/tdpneh-8mtb5c)
+* [Monday 6pm-7:30pm - ONLINE - first class July 1st, last class September 9th, no class on September 2nd, 10 classes, $278 (+ 3.6% credit card processing fees)](https://link.waveapps.com/tdpneh-8mtb5c)
 
 ### Quattro chiacchiere e un caffe'
 
