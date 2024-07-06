@@ -28,7 +28,7 @@ Students already enrolled in Italian school in 2023-2024 receive a 10% discount:
 
 **$2180** (unchanged for the last 2 years - academic year **2022-2023**)
 
-Moreover, at enrollment there is an additional **$100** Enrollment fee - **waived** for families paying tuition by July 15th.
+Moreover, at enrollment there is an additional **$100** Enrollment fee - **waived** for families paying tuition by July 31th.
 
 check [the dedicated page for details on payment methods, cancellation policy, the 8-payments option and sibling discount](/tuition-payment)
 
