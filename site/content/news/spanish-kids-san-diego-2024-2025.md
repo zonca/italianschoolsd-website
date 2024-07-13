@@ -21,7 +21,7 @@ Wednesdays 3pm-4:30pm, first class September 4th, last class May 29th for a tota
 
 ## Tuition
 
-Tuition for 9 months of instruction for early enrollment (payment **before July 15th**), is:
+Tuition for 9 months of instruction for early enrollment (payment **before July 31th**), is:
 
 **$1242**
 
