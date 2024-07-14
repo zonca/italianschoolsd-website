@@ -13,7 +13,7 @@ The class is targeted to beginners and requires no previous experience in music 
 
 * Breathing Techniques: Learn the foundation of singing with proper breathing methods to support and enhance your voice.
 * Intonation Practice: Develop a keen sense of pitch and melody to sing in tune with confidence.
-* Song Selection: Enjoy singing popular songs chosen by the kids, ensuring an exciting and personalized experience.
+* Song Selection: Enjoy singing popular songs chosen by the kids, ensuring an exciting and personalized experience. Based on the interest of the kids they could also learn songs in Italian.
 
 The class will be taught in English by Antonella Calabrese, an accomplished Italian singer, and vocal teacher, see more details below.
 
