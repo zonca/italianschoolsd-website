@@ -1,5 +1,5 @@
 ---
-title: Singing classes in English for kids TK to 6th grade
+title: Singing classes in English for kids 1st to 8th grade
 date: 2024-07-13T00:00:00.000Z
 aliases:
     /sing
@@ -7,13 +7,15 @@ aliases:
 
 Italian school of San Diego is excited to announce that we will be expanding our children program to also include Singing classes for the 2024-2025 academic year.
 
-We offer a fun and engaging environment where children can explore the joy of singing while developing their musical talents. Our classes are designed for kids of all ages and skill levels, ensuring that every child receives personalized attention and guidance.
+We offer a fun and engaging environment where children can explore the joy of singing while developing their musical talents. Our classes are designed for kids from 1st grade to 8th grade split in 2 classes by age, ensuring that every child receives personalized attention and guidance.
+
+The class is targeted to beginners and requires no previous experience in music theory or singing, it will focus on:
+
+* Breathing Techniques: Learn the foundation of singing with proper breathing methods to support and enhance your voice.
+* Intonation Practice: Develop a keen sense of pitch and melody to sing in tune with confidence.
+* Song Selection: Enjoy singing popular songs chosen by the kids, ensuring an exciting and personalized experience.
 
 The class will be taught in English by Antonella Calabrese, an accomplished Italian singer, and vocal teacher, see more details below.
-
-
-
-
 
 ## Antonella's bio
 
@@ -26,14 +28,16 @@ Antonella's diverse career includes notable achievements as a finalist on the Na
 She also served as an Italian teacher for foster kids in a project called "La Città dei Ragazzi," helping children aged 5 to 14 years old.
 She has opened for some of Italy’s most popular singers and TV personalities, such as Umberto Tozzi, Marco Ferradini, and in theatres with Pippo Franco, and Maurizio Mattioli, and has performed at major events like the Apple Concert during their Inclusion and Diversity week at the presence of Tim Cook.
 
-In addition to her performances, Antonella has been a prominent radio speaker, working with several networks including “Radio Queen,” “RLB,” and “RADIO SOUND.” 
+In addition to her performances, Antonella has been a prominent radio speaker, working with several networks including “Radio Queen”, “RLB,” and “RADIO SOUND.” 
 
 She has also been a TV presenter and a lead singer for various bands, including a Laura Pausini tribute band and "Antonella Calabrese's Trio." Since 2022, Antonella has been living in San Diego, California, where she continues to perform her solo show and teach singing. She is passionate about music, voices, and song lyrics, and loves to share her knowledge with her students.
 
 ## Schedule
 
-Wednesdays 3pm-4:30pm, first class September 4th, last class May 29th for a total of 33 weeks for instruction (+1 backup in case of cancellations).
+* **Friday 5pm-6pm**, first class on **September 6th**, for 33 weeks of instructions and 1 backup
+* Morning program for home-schoolers - **11am-12pm on Tuesday**, first class on **August 20**, last class on May 27th, this program is also offered to students of Pacific Coast Academy and follows [their calendar](https://pacificcoastacademy.org/resources/school-calendar).
 
+Antonella is also available for private classes for kids and adults at any level [contact us](/contact) to know more.
 
 ## Location
 

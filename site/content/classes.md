@@ -10,6 +10,10 @@ This is the page for students TK-6th grade, for teens see [the accredited classe
 
 We rely on word-of-mouth to get people to know our programs, please [help us by sharing our flyer]( {{< ref "news/italian-class-enrollment-2024-2025-open.md" >}} )
 
+## (New!) Singing classes for kids 1st-8th grade
+
+Singing classes in English by professional singer Antonella Calabrese on Tuesday morning and Friday evening, [check details about our singing classes in the dedicated page](/sing)
+
 ## (New!) Spanish classes for kids 2nd-6th grade
 
 We are excited to announce that we now offer Spanish classes for kids in grades 2nd-6th. These classes are designed for children who want to learn Spanish as a second language. Instruction will be provided in a fun and interactive way, focusing on vocabulary building, pronunciation, and conversational skills, getting the students ready to successfully transition to Spanish classes in middle school. No previous knowledge of Spanish necessary.
@@ -42,7 +46,7 @@ Classes will have between 5 and 10 students.
 In-person classes are 2 hours per week:
 
 * Afternoon program - **4-6pm on Wednesday**, first class on **September 4th**, last class on May 28th
-* Morning program for home-schoolers - **9am-11pm on Tuesday**, first class on **August 20**, last class on May 27th, this program is also offered to students of Pacific Coast Academy and follows [their calendar](https://pacificcoastacademy.org/resources/school-calendar).
+* Morning program for home-schoolers - **9am-11am on Tuesday**, first class on **August 20**, last class on May 27th, this program is also offered to students of Pacific Coast Academy and follows [their calendar](https://pacificcoastacademy.org/resources/school-calendar). Notice we also offer a [singing class](/sing) at the same location just after the Italian classes, students can take both classes together.
 
 Both options have a total of 33 weeks of instruction (+1 week for backup in case of cancellations) and have the same cost.
 Students will be organized in classes based on their age.
