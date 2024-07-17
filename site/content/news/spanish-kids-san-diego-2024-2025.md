@@ -38,3 +38,10 @@ Check [the dedicated page for details on payment methods, cancellation policy, t
 <div class="tc">
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSd4sac0Y2wdTd9gm2AF1Y9uuVPPyJzHfHEphJPA1iYPkrP43g/viewform?usp=sf_link" class="btn raise">Fill the universal pre-enrollment form</a>
 </div>
+
+## Beginner Spanish class for adults
+
+We are also offering a Spanish class with a Spanish native speaker for adults at the same time and location of the class for kids. Click on the paragraph below to enroll.
+
+[Beginner Spanish - in-person - first class on September 4th, 16 classes, this covers the first semester until January, we will launch another class for the rest of the year. $496 + credit card processing fees](https://link.waveapps.com/9twdc8-bu2wun).
+[Contact us](/contact) if you have other family members at Italian school so we can apply the family discount by issuing a partial refund.
