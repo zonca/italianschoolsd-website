@@ -24,6 +24,10 @@ Our program designed specifically to teach useful Italian phrases for people tra
 
 Classes are organized by level below, click on the class and pay with your credit card to enroll.
 
+### (New!) Spanish classes for adults
+
+See the bottom of [our dedicated page for Spanish classes](/spanish)
+
 ### Beginner level
 
 Italian class targeted at beginners, no previous experience with Italian is required. Click on the desired session to pay and enroll:
