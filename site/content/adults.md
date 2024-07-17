@@ -30,6 +30,7 @@ Italian class targeted at beginners, no previous experience with Italian is requ
 
 * [Monday 6pm-7:30pm - in person - first class August 19th, last class Dec 16th, 15 classes, $465 (+ 3.6% credit card processing fees)](https://link.waveapps.com/bnkt8m-9njha3)
 * [Wednesday 4:15pm-5:45pm - in person - first class September 4th, last class Jan 29th, 16 classes, $496 (+ 3.6% credit card processing fees)](https://link.waveapps.com/4rrdfr-dnzxag), this class follows the exact schedule of our [Italian as a Foreign Language classes for kids](/classes), ideal for parents looking to bring their kids and stay for learnig Italian themselves!
+* [Saturday 4:30pm-6pm - in-person - first class August 24th, last class Dec 14th, 15 classes, $465 (+ 3.6% credit card processing fees)](https://link.waveapps.com/zdz8u5-5dksg8)
 * [Saturday 9:30am-11am - online - first class August 24th, last class Dec 14th, 15 classes, $465 (+ 3.6% credit card processing fees)](https://link.waveapps.com/crbnfg-khhhbs)
 
 ### Beginner-intermediate level
