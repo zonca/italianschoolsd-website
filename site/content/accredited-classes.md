@@ -32,7 +32,7 @@ Moreover, we have modified programs for students, generally of Italian heritage,
 * `ita5-6` Italian 5-6 for Italian speakers, online on Mondays 4:30pm-6:30pm, first class on August 26th
 * `ita7-8` Italian 7-8 and AP preparation for Italian speakers, [see the dedicated page about AP Italian](/ap-italian-san-diego), TBD
 
-Students that studied Italian before can also test into a higher level than 1-2, please specify this in the pre-enrollment form or contact us in advance.
+Students that studied Italian before can also test into a higher level than 1-2, please specify this in the pre-enrollment form or contact us in advance. Notice that if a student enrolls for example in `ifl5-6` during High School, they will receive 3 years of foreign language credit, credit is tied to the level of the class, not the number of years.
 
 ### Location
 
