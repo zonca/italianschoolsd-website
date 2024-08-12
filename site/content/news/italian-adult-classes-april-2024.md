@@ -15,30 +15,30 @@ Our program designed specifically to teach useful Italian phrases for people tra
 
 Italian class targeted at beginners, no previous experience with Italian is required. Click on the desired session to pay and enroll:
 
-* [Monday 6pm-7:30pm - in person - first class April 8th, last class May 27th, 8 classes, $248 (+ 3.6% credit card processing fees)](https://link.waveapps.com/yuy6wm-58drtp)
-* [Wednesday 6pm-7:30pm - ONLINE - first class April 10th, last class May 29th, 8 classes, $248 (+ 3.6% credit card processing fees)](https://link.waveapps.com/hxm5vx-nhafk2)
-* [Thursday 6:15pm-7:45pm - in person - first class April 11th, last class March 30th, 8 classes, $248 (+ 3.6% credit card processing fees)](https://link.waveapps.com/9hten6-cwn32a)
-* [Saturday 9:30am-11am - in person - first class April 13th, last class June 1st, no class on May 25th, 7 classes, $217 (+ 3.6% credit card processing fees)](https://link.waveapps.com/v5fznp-8d9a6h)
+* [Monday 6pm-7:30pm - in person - first class April 8th, last class May 27th, 8 classes, $248 (+ 3.6% credit card processing fees)](#)
+* [Wednesday 6pm-7:30pm - ONLINE - first class April 10th, last class May 29th, 8 classes, $248 (+ 3.6% credit card processing fees)](#)
+* [Thursday 6:15pm-7:45pm - in person - first class April 11th, last class March 30th, 8 classes, $248 (+ 3.6% credit card processing fees)](#)
+* [Saturday 9:30am-11am - in person - first class April 13th, last class June 1st, no class on May 25th, 7 classes, $217 (+ 3.6% credit card processing fees)](#)
 
 ### Beginner-intermediate level
 
 Italian class targeted at students that have had already at least 1 year of classes or equivalent self-study, please [contact us](/contact) if you are not sure about your level, we can schedule a free Italian level evaluation:
 
-* [Monday 6pm-7:30pm - in person - first class April 8th, last class May 27th, 8 classes, $248 (+ 3.6% credit card processing fees)](https://link.waveapps.com/y3g9dj-rx9uyy)
-* [Tuesday 6:30pm-8pm - ONLINE - first class April 9th, last class May 28th, 8 classes, $248 (+ 3.6% credit card processing fees)](https://link.waveapps.com/f3bydp-w8szmp)
-* [Thursday 6:15pm-7:45pm - in person - first class April 11th, last class March 30th, 8 classes, $248 (+ 3.6% credit card processing fees)](https://link.waveapps.com/m8zuzx-sa7mm9)
-* [Saturday 9:30am-11am - in person - first class April 13th, last class June 1st, no class on May 25th, 7 classes, $217 (+ 3.6% credit card processing fees)](https://link.waveapps.com/7g27sx-fz6794)
+* [Monday 6pm-7:30pm - in person - first class April 8th, last class May 27th, 8 classes, $248 (+ 3.6% credit card processing fees)](#)
+* [Tuesday 6:30pm-8pm - ONLINE - first class April 9th, last class May 28th, 8 classes, $248 (+ 3.6% credit card processing fees)](#)
+* [Thursday 6:15pm-7:45pm - in person - first class April 11th, last class March 30th, 8 classes, $248 (+ 3.6% credit card processing fees)](#)
+* [Saturday 9:30am-11am - in person - first class April 13th, last class June 1st, no class on May 25th, 7 classes, $217 (+ 3.6% credit card processing fees)](#)
 
 ### Intermediate level
 
 Italian classes targeted at students that have studied Italian more than 3 years and can sustain simple conversations:
 
-* [Monday 6pm-7:30pm - in person - first class April 8th, last class May 27th, 8 classes, $248 (+ 3.6% credit card processing fees)](https://link.waveapps.com/x95fvx-fspqr8)
-* [Monday 6:30pm-8pm - ONLINE - first class April 8th, last class May 27th, 8 classes, $248 (+ 3.6% credit card processing fees)](https://link.waveapps.com/gfwc7c-jxn26h)
-* [Thursday 6:15pm-7:45pm - in person - first class April 11th, last class March 30th, 8 classes, $248 (+ 3.6% credit card processing fees)](https://link.waveapps.com/xv6hxk-f3cyma)
+* [Monday 6pm-7:30pm - in person - first class April 8th, last class May 27th, 8 classes, $248 (+ 3.6% credit card processing fees)](#)
+* [Monday 6:30pm-8pm - ONLINE - first class April 8th, last class May 27th, 8 classes, $248 (+ 3.6% credit card processing fees)](#)
+* [Thursday 6:15pm-7:45pm - in person - first class April 11th, last class March 30th, 8 classes, $248 (+ 3.6% credit card processing fees)](#)
 
 ### Advanced level - conversation only
 
 Advanced class focused on increasing fluency and building vocabulary through conversation, minimal study of grammar:
 
-* [Monday 4:15pm-5:45pm - in person - first class April 8th, last class May 27th, 8 classes, $248 (+ 3.6% credit card processing fees)](https://link.waveapps.com/kq6vw2-248jb9)
+* [Monday 4:15pm-5:45pm - in person - first class April 8th, last class May 27th, 8 classes, $248 (+ 3.6% credit card processing fees)](#)

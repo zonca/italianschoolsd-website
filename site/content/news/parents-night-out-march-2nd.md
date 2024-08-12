@@ -52,8 +52,8 @@ After having filled the form, proceed to submit payment below. **Payment is due 
 
 Click on the links below to proceed to pay with your credit card, 1 separate payment for each child:
 
-* [$50 for one child](https://link.waveapps.com/zasbbr-yuu6ca), [$35 for each sibling](https://link.waveapps.com/9wwsmg-hb5t86)
-* Current Italian school students: [$40 for one child](https://link.waveapps.com/ky8zr2-7jdnr2), [$20 for each sibling](https://link.waveapps.com/pen9z4-2n2nkt)
+* [$50 for one child](#), [$35 for each sibling](#)
+* Current Italian school students: [$40 for one child](#), [$20 for each sibling](#)
 
 ## Logistics
 

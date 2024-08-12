@@ -28,7 +28,7 @@ The first additional family member enrolling will receive 10% discount, the seco
 
 Adult beginner class via Zoom, the class is suitable for people that have never studied Italian, or that have just studied independently for less than 1 year or that have taken less than 1 year of previous classes, or that took Italian a few years ago and didn't continue practicing the language.
 
-* [Wednesday 6:30pm-8pm - via Zoom - first class November 29th, last class February 7th (no class on Dec 27th), 10 classes, $280](https://link.waveapps.com/8rm8a7-f4yvga)
+* [Wednesday 6:30pm-8pm - via Zoom - first class November 29th, last class February 7th (no class on Dec 27th), 10 classes, $280](#)
 
 ## Short December session
 
@@ -39,7 +39,7 @@ This will be a great introduction to the Winter quarter starting in January.
 
 Italian class targeted at beginners, no previous experience with Italian is required. Click on the desired session to pay and enroll:
 
-* [Thursday 6:15pm-7:45pm - in person - first class November 30th, last class December 21th, 4 classes, $130](https://link.waveapps.com/n2y5fb-62fyat)
+* [Thursday 6:15pm-7:45pm - in person - first class November 30th, last class December 21th, 4 classes, $130](#)
 
 All the classes are planned, once we receive enough enrollments for a class we will send a confirmation email. If a class doesn't receive enough interest, we will propose enrolled students to switch to another class, or we will offer full refund.
 
