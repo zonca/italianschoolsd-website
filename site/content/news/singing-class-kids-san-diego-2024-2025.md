@@ -35,7 +35,7 @@ She has also been a TV presenter and a lead singer for various bands, including 
 ## Schedule
 
 * **Friday 5pm-6pm**, first class on **September 6th**, for 33 weeks of instructions and 1 backup
-* Morning program for home-schoolers - **11am-12pm on Tuesday**, first class on **August 20**, last class on May 27th, this program is also offered to students of Pacific Coast Academy and follows [their calendar](https://pacificcoastacademy.org/resources/school-calendar).
+* Morning program for home-schoolers - **11am-12pm on Tuesday**, first class on **August 20**, last class on May 27th, this program is also offered to students of Pacific Coast Academy and follows [their calendar](https://pacificcoastacademy.org/school-calendar).
 
 Antonella is also available for private classes for kids and adults at any level [contact us](/contact) to know more.
 
