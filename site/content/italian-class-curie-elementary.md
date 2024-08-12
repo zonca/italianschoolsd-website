@@ -47,7 +47,7 @@ Please fill the enrollment form linked here then use the Pay tuition button belo
 </div>
 
 <div class="tc">
-<a href="https://link.waveapps.com/3g3bmx-k43q8b" class="btn raise">Pay tuition</a>
+<a href="#" class="btn raise">Pay tuition</a>
 </div>
 
 ## Time and location
