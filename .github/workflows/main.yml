@@ -15,7 +15,7 @@ jobs:
         uses: lycheeverse/lychee-action@v1
         with:
           # Check all markdown files in repo
-          args: --verbose --no-progress './**/*.md'
+          args: --verbose --exclude waveapps\.com --no-progress './**/*.md'
           # Fail entire pipeline on error (i.e. when lychee exit code is not 0)
           fail: true
           # Summary output format (e.g. json)
