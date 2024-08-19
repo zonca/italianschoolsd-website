@@ -46,7 +46,7 @@ Classes will have between 5 and 10 students.
 In-person classes are 2 hours per week:
 
 * Afternoon program - **4-6pm on Wednesday**, first class on **September 4th**, last class on May 28th, [we also have a cuncurrent Italian class for beginners for the parents at the same time](https://www.italianschoolsd.com/adults/)
-* Morning program for home-schoolers - **9am-11am on Tuesday**, first class on **August 20**, last class on May 27th, this program is also offered to students of Pacific Coast Academy and follows [their calendar](https://pacificcoastacademy.org/resources/school-calendar). Notice we also offer a [singing class](/sing) at the same location just after the Italian classes, students can take both classes together.
+* Morning program for home-schoolers - **9am-11am on Tuesday**, first class on **August 20**, last class on May 27th, this program is also offered to students of Pacific Coast Academy and follows [their calendar](https://pacificcoastacademy.org/school-calendar). Notice we also offer a [singing class](/sing) at the same location just after the Italian classes, students can take both classes together.
 
 Both options have a total of 33 weeks of instruction (+1 week for backup in case of cancellations) and have the same cost.
 Students will be organized in classes based on their age.
