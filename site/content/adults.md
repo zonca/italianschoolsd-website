@@ -13,7 +13,7 @@ we will get back to you within a couple of days to let you know what we can offe
 <a href="https://forms.gle/LHR7Htpeb3mQzV838" class="btn raise">Adult Italian lesson interest form</a>
 </div>
 
-## Italian for travelers (August 2024)
+## Italian for travelers (September 2024)
 
 Our program designed specifically to teach useful Italian phrases for people travelling to Italy in 2024, dedicated to family travelling with kids:
 
@@ -32,28 +32,23 @@ See the bottom of [our dedicated page for Spanish classes](/spanish)
 
 Italian class targeted at beginners, no previous experience with Italian is required. Click on the desired session to pay and enroll:
 
-* [Monday 6pm-7:30pm - in person - first class August 19th, last class Dec 16th, 15 classes, $465 (+ 3.6% credit card processing fees)](https://link.waveapps.com/bnkt8m-9njha3)
+* [Thursday 6:15pm-7:45pm - in person - first class September 12th, last class Dec 19th, 13 classes, $403 (+ 3.6% credit card processing fees)](https://link.waveapps.com/zr3jb2-95asr8)
 * [Wednesday 4:15pm-5:45pm - in person - first class September 4th, last class Jan 29th, 16 classes, $496 (+ 3.6% credit card processing fees)](https://link.waveapps.com/4rrdfr-dnzxag), this class follows the exact schedule of our [Italian as a Foreign Language classes for kids](/classes), ideal for parents looking to bring their kids and stay for learnig Italian themselves!
-* [Saturday 4:30pm-6pm - in-person - first class August 24th, last class Dec 14th, 15 classes, $465 (+ 3.6% credit card processing fees)](https://link.waveapps.com/zdz8u5-5dksg8)
-* [Saturday 9:30am-11am - online - first class August 24th, last class Dec 14th, 15 classes, $465 (+ 3.6% credit card processing fees)](https://link.waveapps.com/crbnfg-khhhbs)
 
 ### Beginner-intermediate level
 
 Italian class targeted at students that have had already at least 1 year of classes or equivalent self-study, please [contact us](/contact) if you are not sure about your level, we can schedule a free Italian level evaluation:
 
-* [Monday 6pm-7:30pm - in person - first class August 19th, last class Dec 16th, 15 classes, $465 (+ 3.6% credit card processing fees)](https://link.waveapps.com/wy6mgn-m8cth9)
-* [Thursday 6:15pm-7:45pm - in person - first class August 22th, last class Dec 12th, 15 classes, $465 (+ 3.6% credit card processing fees)](https://link.waveapps.com/3tzexf-c2aakr)
+* [Monday 6pm-7:30pm - in person - first class September 9th, last class Dec 16th, 13 classes, $403 (+ 3.6% credit card processing fees)](https://link.waveapps.com/2pvhww-rx228k)
+* [Thursday 6:15pm-7:45pm - in person - first class September 12th, last class Dec 19th, 13 classes, $403 (+ 3.6% credit card processing fees)](https://link.waveapps.com/xxztya-xsvdax)
 
 ### Intermediate level
 
 Italian classes targeted at students that have studied Italian more than 3 years and can sustain simple conversations:
 
-* [Monday 6pm-7:30pm - in person - first class August 19th, last class Dec 16th, 15 classes, $465 (+ 3.6% credit card processing fees)](https://link.waveapps.com/qts5jd-2tmfym)
-* [Thursday 6:15pm-7:45pm - in person - first class August 22th, last class Dec 12th, 15 classes, $465 (+ 3.6% credit card processing fees)](https://link.waveapps.com/teusaj-wr4dcn)
+* [Monday 6pm-7:30pm - in person - first class September 9th, last class Dec 16th, 13 classes, $403 (+ 3.6% credit card processing fees)](https://link.waveapps.com/dkbkjs-c9mcqu)
+* [Thursday 6:15pm-7:45pm - in person - first class September 12th, last class Dec 19th, 13 classes, $403 (+ 3.6% credit card processing fees)](https://link.waveapps.com/eaqxrz-qtmtqp)
 
-### Intermediate-Advanced level
-
-* [Thursday 6:15pm-7:45pm - in person - first class August 22th, last class Dec 12th, 15 classes, $465 (+ 3.6% credit card processing fees)](https://link.waveapps.com/bzjnza-wfv9e2)
 
 ## Previous sessions
 
