@@ -33,7 +33,7 @@ See the bottom of [our dedicated page for Spanish classes](/spanish)
 Italian class targeted at beginners, no previous experience with Italian is required. Click on the desired session to pay and enroll:
 
 * [Thursday 6:15pm-7:45pm - in person - first class September 12th, last class Dec 19th, 13 classes, $403 (+ 3.6% credit card processing fees)](https://link.waveapps.com/zr3jb2-95asr8)
-* [Wednesday 4:15pm-5:45pm - in person - first class September 4th, last class Jan 29th, 16 classes, $496 (+ 3.6% credit card processing fees)](https://link.waveapps.com/4rrdfr-dnzxag), this class follows the exact schedule of our [Italian as a Foreign Language classes for kids](/classes), ideal for parents looking to bring their kids and stay for learnig Italian themselves!
+* [Wednesday 4:15pm-5:45pm - in person - first class September 4th, last class Jan 15th, 16 classes, $496 (+ 3.6% credit card processing fees)](https://link.waveapps.com/4rrdfr-dnzxag), this class follows the exact schedule of our [Italian as a Foreign Language classes for kids](/classes), ideal for parents looking to bring their kids and stay for learnig Italian themselves!
 
 ### Beginner-intermediate level
 
