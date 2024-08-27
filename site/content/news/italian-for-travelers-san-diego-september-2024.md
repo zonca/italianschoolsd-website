@@ -15,7 +15,7 @@ We are excited to offer a 4-week "Italian for travelers" program, with a session
 
 * "Italian for family travel" for adults and kids over 8 years old, Thursday **6:15pm-7:45pm**, please [contact us](/contact) if you would like to bring younger siblings, we can organize entertainment for them in our kids room during class
 
-The program runs **September 5th to September 26th**.
+The program runs **September 5th to October 3rd**, no class on September 12th due to the teacher being unavailable.
 
 The price for one 4-week program is $120 for the first adult signing up, $80 for additional adults in the same family and $50 for kids.
 As you add more adults to your cart in our shop, the additional adults discount will be applied automatically.
