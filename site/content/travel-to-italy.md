@@ -16,13 +16,6 @@ Vero Viaggio welcomes all levels of Italian learners, even beginners. Italian sc
 
 Here are the tours currently available:
 
-## Cefalù, Sicily, April 28 - May 4, 2024 
-
-![Cefalù](/img/cefalu_square.jpg)
-
-Cefalù is a beautiful medieval town in Sicily, less than 40 miles from Palermo. The experience includes accommodation in a 900-year old palace in the main square, wine-tasting, visit, tasting and aperitivo at olive mill, visit to Palermo and Monreale, meals in restaurants popular among locals and more.
-[See the full itinerary with pricing information for the "Italian immersion experience" in Cefalù on Vero Viaggio's website](https://www.veroviaggio.com/cefalu-april-2024-itinerary)
-
 ## Cefalù, Sicily, September 29 - October 6, 2024 
 
 This itinerary is similar to the April trip but has one extra day and night.
