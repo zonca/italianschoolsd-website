@@ -39,7 +39,6 @@ Italian class targeted at beginners, no previous experience with Italian is requ
 Italian class targeted at students that have had already at least 1 year of classes or equivalent self-study, please [contact us](/contact) if you are not sure about your level, we can schedule a free Italian level evaluation:
 
 * [Monday 6pm-7:30pm - in person - first class September 9th, last class Dec 16th, 13 classes, $403 (+ 3.6% credit card processing fees)](https://link.waveapps.com/2pvhww-rx228k)
-* [Thursday 6:15pm-7:45pm - in person - first class September 12th, last class Dec 19th, 13 classes, $403 (+ 3.6% credit card processing fees)](https://link.waveapps.com/xxztya-xsvdax)
 
 ### Intermediate level
 
