@@ -47,7 +47,7 @@ Italian classes targeted at students that have studied Italian more than 3 years
 
 * [Monday 6pm-7:30pm - in person - first class September 9th, last class Dec 16th, 13 classes, $403 (+ 3.6% credit card processing fees)](https://link.waveapps.com/dkbkjs-c9mcqu)
 * [Thursday 6:15pm-7:45pm - in person - first class September 12th, last class Dec 19th, 13 classes, $403 (+ 3.6% credit card processing fees)](https://link.waveapps.com/eaqxrz-qtmtqp)
-
+* [Monday 6pm-7:30pm - ONLINE - first class September 23rd, last class Dec 16th, 11 classes, $330 (+ 3.6% credit card processing fees)](https://link.waveapps.com/dznty9-nsgkc5)
 
 ## Previous sessions
 
