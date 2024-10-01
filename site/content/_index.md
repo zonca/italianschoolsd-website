@@ -9,9 +9,6 @@ intro:
     heading: "Italian school programs"
     text: "Italian school offers Italian programs targeted at multiple audiences, our teachers are all Italian mother-tongue and our classes are 5 to 8 students:"
 products:
-    - image: img/italian-summer-camp.svg
-      title: "Italian 1-2 certified class Summer Intensive"
-      text: "Take 1 full year of classes during the Summer, this program is recognized by San Diego Unified and San Dieguito districts and will be added to the students' transcript in January 2025, students can take Italian 1-2 in the summer then start Italian 3-4 in the Fall."
       link: /accredited-classes
     - image: img/italian-learners-classes.svg
       title: "Italian for kids TK-6th grade"
