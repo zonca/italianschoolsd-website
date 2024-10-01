@@ -72,16 +72,6 @@ Mother of three kids, she cultivated her interest in Education volunteering for 
 
 Her focus is to make the class fun and interactive.
 
-### Maria Luisa Sacchi
-
-![Maria Luisa Sacchi](/img/maria_luisa_sacchi.jpg)
-
-Maria Luisa was born in the beautiful and vibrant Milan where she lived until she moved to California in 2012. She spent the first 6 years in Silicon Valley where her third son was born and then settled down in San Diego. After Liceo Classico (high school in Classical Studies) she earned her Bachelor and Master’s Degrees in Electronics Engineering at Politecnico di Milano. Few years later she obtained her Executive Master in Business Administration from Bocconi University in Milan.
-
-She worked for more than ten years in a semiconductor company in the field of business development and marketing and then she became an entrepreneur creating a website for parents (Whymum.it) and few e-commerce activities.
-
-Becoming a mom let her realize her deep love for kids and education, that’s why she studied Child Development at the Foothills College in Palo Alto with the aim of becoming a preschool teacher. Her dream was to open an Italian school in Palo Alto. Her greatest passions are writing, reading, painting and playing piano and guitar. She regularly write on her website and she won several awards in Poetry competitions. She is in the process of getting the CEDILS certification to teach Italian as a foreign language. She feels blessed to be part of this fantastic project and team.
-
 ### Francesca Galimi
 
 ![Francesca Galimi](/img/francesca_galimi.jpg)
