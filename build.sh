@@ -1,1 +1,1 @@
-hugo serve -d ../dist -s site -v
+bin/hugo.linux serve -d ../dist -s site -v
