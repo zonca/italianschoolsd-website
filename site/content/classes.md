@@ -10,15 +10,9 @@ This is the page for students TK-6th grade, for teens see [the accredited classe
 
 We rely on word-of-mouth to get people to know our programs, please [help us by sharing our flyer]( {{< ref "news/italian-class-enrollment-2024-2025-open.md" >}} )
 
-## (New!) Singing classes for kids 1st-8th grade
+## (New!) Italian for Homeschoolers in the morning
 
-Singing classes in English by professional singer Antonella Calabrese on Tuesday morning and Friday evening, [check details about our singing classes in the dedicated page](/sing)
-
-## (New!) Spanish classes for kids 2nd-6th grade
-
-We are excited to announce that we now offer Spanish classes for kids in grades 2nd-6th. These classes are designed for children who want to learn Spanish as a second language. Instruction will be provided in a fun and interactive way, focusing on vocabulary building, pronunciation, and conversational skills, getting the students ready to successfully transition to Spanish classes in middle school. No previous knowledge of Spanish necessary.
-
-For more information and to enroll, please visit our [Spanish classes page](/spanish).
+[Starting in January 2025]( {{< ref "news/italian-for-homeschoolers-january-2025.md" >}} )
 
 ## Italian Heritage classes for kids TK-6
 
