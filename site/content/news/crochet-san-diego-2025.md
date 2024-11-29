@@ -16,4 +16,4 @@ Please [contact us](/contact) if you are interested in joining the class, we wil
 
 ## Location
 
-The class will be held at [Italian school in Kearny Mesa]( {{ ref "../location.md" }} )
+The class will be held at [Italian school in Kearny Mesa]( {{<ref "../location.md">}} )
