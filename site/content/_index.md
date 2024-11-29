@@ -14,9 +14,9 @@ products:
       text: "Italian group and private classes in-person in Kearny Mesa and online for all levels of proficiency, we also organize custom classes for groups or businesses. We focus on a conversation-first approach with highly interactive classes, highlight cultural aspects of life and tourism in Italy, and include insights into the history and geography of Italy."
       link: /adults
     - image: img/italian-learners-classes.svg
-      title: "Italian for kids TK-6th grade"
-      text: "2-hour-a-week year-long program in-person at our school in Kearny Mesa, Wednesdays 4-6pm for novice or beginner students and Thursdays 4-6pm for kids with previous knowledge of the language."
-      link: /classes
+      title: "Italian for homeschoolers in the morning"
+      text: "We offer a morning program dedicated to Homeschoolers, starting in January 2025. The program is available through the Pacific Coast Academy (PCA) and Dimensions programs, as well as directly through the Italian school of San Diego. We also offer private Italian classes."
+      link: /homeschool
 products2:
     - image: /img/italian-school-classes.svg
       title: "Accredited Italian for 6-12th graders"
