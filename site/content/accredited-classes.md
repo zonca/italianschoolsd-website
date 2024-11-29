@@ -6,7 +6,7 @@ subtitle: Classes for the academic year 2024-2025
 
 ## Accredited Italian classes for Middle and High School students
 
-**NEW** [see our AP preparation and Middle/High School Italian for Beginners classes]({{ref "news/ap-italian-preparation-and-middle-high-school.md"}}) starting in *January 2025*.
+**NEW** [see our AP preparation and Middle/High School Italian for Beginners classes]( {{ ref "news/ap-italian-preparation-and-middle-high-school.md" }} ) starting in *January 2025*.
 
 Italian school of San Diego LLC is accredited both with the San Diego Unified and the San Dieguito Union High School Districts as an "Independent World Language School".
 Therefore classes taken at the Italian school will give credit for the language requirement for High School graduation for all public High Schools within the 2 districts, and will also satisfy the admission requirements for colleges. Grades obtained in the Italian classes will be added to the student's High School transcripts.
