@@ -20,7 +20,7 @@ The students will be required to work on their homework for 2 hours per week, in
 
 The AP Italian exam is scheduled for 9th May 2025 at San Diego State University's Language Acquisition Resource Center, see [details on the San Diego Unified website](https://sites.google.com/sandi.net/sdusdap/ap-resources/italian-language)
 
-For more information about the AP Italian exam, see the [dedicated page on our website]({{< ref "../ap-preparation-san-diego.md" >}}).
+For more information about the AP Italian exam, see the [dedicated page on our website]({{< ref "../ap-italian-san-diego.md" >}}).
 
 This class is targeted at students that have studied Italian for more than 3 years and can sustain simple conversations. The course will focus on all sections of the AP Italian exam, including:
 
