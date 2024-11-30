@@ -27,10 +27,10 @@ Classes are organized by level below, click on the class and pay with your credi
 
 Italian class targeted at beginners, no previous experience with Italian is required. Click on the desired session to pay and enroll:
 
-* [Thursday 6:15pm-7:45pm - in person - first class January 9th, last class March 4th, 12 classes, $384 (already includes credit card processing fees)](https://link.waveapps.com/rs3cpy-9nf7jd)
-* [Tuesday 11:15am-12:45pm - in person - first class January 7th, last class March 2th, 12 classes, $384 (already includes credit card processing fees)](https://link.waveapps.com/ru7esm-5gpbhs)
-* [Wednesday 4:15pm-5:45pm - in person - first class January 22nd, last class May 21th, 17 classes, $544 (includes credit card processing fees)](https://link.waveapps.com/a79x8j-w79c4j), this class follows the exact schedule of our [Italian as a Foreign Language classes for kids](/classes), ideal for parents looking to bring their kids and stay for learnig Italian themselves! (family discount available, see below)
-* [Tuesday 6pm-7:30pm - ONLINE - first class January 7th, last class March 31st, 12 classes, $336 (already includes credit card processing fees)](https://link.waveapps.com/q2pesj-jyvcm7)
+* Thursday 6:15pm-7:45pm - in person - first class January 9th, last class March 4th, 12 classes, [$384 (already includes credit card processing fees)](https://link.waveapps.com/rs3cpy-9nf7jd)
+* Tuesday 11:15am-12:45pm - in person - first class January 7th, last class March 2th, 12 classes, [$384 (already includes credit card processing fees)](https://link.waveapps.com/ru7esm-5gpbhs)
+* Wednesday 4:15pm-5:45pm - in person - first class January 22nd, last class May 21th, 17 classes, [$544 (includes credit card processing fees)](https://link.waveapps.com/a79x8j-w79c4j), this class follows the exact schedule of our [Italian as a Foreign Language classes for kids](/classes), ideal for parents looking to bring their kids and stay for learnig Italian themselves! (family discount available, see below)
+* Tuesday 6pm-7:30pm - ONLINE - first class January 7th, last class March 31st, 12 classes, [$336 (already includes credit card processing fees)](https://link.waveapps.com/q2pesj-jyvcm7)
 
 ### Beginner-intermediate, Intermediate and Intermediate-advanced levels
 
@@ -47,7 +47,7 @@ If you know you'll miss the first class on January 13th, please contact us to sc
 
 Italian classes targeted at students that have studied Italian more than 3 years, can understand 80% of what a mother-tongue is saying and can sustain conversations:
 
-* [Thursday 6:15pm-7:45pm - in person - first class January 9th, last class March 4th, 12 classes, $384 (already includes credit card processing fees)](https://link.waveapps.com/m62u5y-rubnrc)
+* Thursday 6:15pm-7:45pm - in person - first class January 9th, last class March 4th, 12 classes, [$384 (already includes credit card processing fees)](https://link.waveapps.com/m62u5y-rubnrc)
 
 ## Previous sessions
 
