@@ -43,6 +43,8 @@ Given the long duration of the class, we also give the option of a monthly payme
 **Important notice**: We are taking a single enrollment for 3 levels, Beginner-intermediate, Intermediate and Intermediate-advanced. January 13th is "Enrollment date", we will evaluate the level of the students and split the class in 3 groups based on level, this class will be 2 hours instead of the usual 90 minutes. We will try to keep the groups from previous classes together, but we might need to move students around to balance the groups.
 If you know you'll miss the first class on January 13th, please contact us to schedule an online evaluation before the first class.
 
+* Wednesday 6pm-7:30pm - ONLINE - CONVERSATION class, the class will be focused on practicing dialogues live with the teacher, minimal grammar covered as needed to understand sentences, first class January 8th, last class March 3th, 12 classes, [$336 (already includes credit card processing fees)](https://link.waveapps.com/krbap6-8gtv92). This class is open to students with at least 1 year of Italian classes or equivalent self-study that can sustain simple conversations in slow Italian (Level A2-B1). We also offer a 30% discount for students that enroll in both a standard Italian class and this online conversation-first class.
+
 ### Advanced level
 
 Italian classes targeted at students that have studied Italian more than 3 years, can understand 80% of what a mother-tongue is saying and can sustain conversations:
