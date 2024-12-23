@@ -28,7 +28,7 @@ Classes are organized by level below, click on the class and pay with your credi
 Italian class targeted at beginners, no previous experience with Italian is required. Click on the desired session to pay and enroll:
 
 * Thursday 6:15pm-7:45pm - in person - first class January 9th, last class March 27th, 12 classes, [$384 (already includes credit card processing fees)](https://link.waveapps.com/rs3cpy-9nf7jd)
-* Tuesday 11:15am-12:45pm - in person - first class January 7th, last class March 25th, 12 classes, [$384 (already includes credit card processing fees)](https://link.waveapps.com/ru7esm-5gpbhs)
+* Tuesday 12pm-1:30pm - in person - first class January 7th, last class March 25th, 12 classes, [$384 (already includes credit card processing fees)](https://link.waveapps.com/ru7esm-5gpbhs)
 * Wednesday 4:15pm-5:45pm - in person - first class January 22nd, last class May 21th, 17 classes, [$544 (includes credit card processing fees)](https://link.waveapps.com/a79x8j-w79c4j), this class follows the exact schedule of our [Italian as a Foreign Language classes for kids](/classes), ideal for parents looking to bring their kids and stay for learnig Italian themselves! (family discount available, see below)
 * Tuesday 6pm-7:30pm - ONLINE - first class January 7th, last class March 25th, 12 classes, [$336 (already includes credit card processing fees)](https://link.waveapps.com/q2pesj-jyvcm7)
 
