@@ -4,8 +4,9 @@ image: /img/lastsupper.jpg
 subtitle: Starting January 22nd, Wednesdays 1:10pm-2:50pm
 ---
 
-We are excited to launch our Italian classes for elementary school students at Saint John School in Encinitas, the class is open only to current students of Saint John school from Kindergarten to 5th grade.
+We are excited to launch Italian classes for elementary school students at Saint John School in Encinitas, the class is open only to current students of Saint John school from Kindergarten to 5th grade.
 Children will learn basic Italian conversation and grammar through engaging games, songs, and language lessons.
+No previous experience with Italian is required.
 
 ## Enrollment
 
@@ -27,8 +28,11 @@ First class on **January 22nd, 2025**, 16 classes total, last class on May 14th,
 ## Tuition and cancellation policy
 
 **$660** for 16 classes of 1 hour and 40 minutes each, full refunds until January 20th, no refunds afterwards.
+
 Monthly payment plan (includes a 20% admin fee), 5 payments of $158 each, can be cancelled with 30 days notice ($50 admin fee applies).
+
 First enrolled sibling pays full tuition, second sibling gets a 10% discount, third sibling gets a 15% discount. Please pay in full and notify us so we can process the discount.
+
 In case of insufficient number of enrolled students, the class will be canceled and refunds automatically processed.
 
 <div class="tc">
