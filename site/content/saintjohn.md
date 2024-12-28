@@ -1,6 +1,6 @@
 ---
 title: After school Italian classes at Saint John School
-image: /img/lastsupper.jpg
+image: /img/stjohnlateranrome.jpg
 subtitle: Starting January 22nd, Wednesdays 1:10pm-2:50pm
 ---
 
