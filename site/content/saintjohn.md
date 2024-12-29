@@ -1,10 +1,10 @@
 ---
 title: After school Italian classes at Saint John School
 image: /img/stjohnlateranrome.jpg
-subtitle: Starting January 22nd, Wednesdays 1:10pm-2:50pm
+subtitle: Starting January 22nd, Wednesdays 1pm-2:50pm
 ---
 
-We are excited to launch Italian classes for elementary school students at Saint John School in Encinitas, the class is open only to current students of Saint John school from Kindergarten to 5th grade.
+We are excited to launch Italian classes for elementary school students at Saint John School in Encinitas, the class is open only to current students of Saint John school from Kindergarten to 2nd grade.
 Children will learn basic Italian conversation and grammar through engaging games, songs, and language lessons.
 No previous experience with Italian is required.
 
@@ -26,23 +26,17 @@ Later enrollments are still accepted if space permits, but please [contact us](/
 
 Classroom location will be communicated to enrolled students.
 
-Just after school on Wednesdays, 1:10pm-2:50pm (1 hour and 40 minutes)
-First class on **January 22nd, 2025**, 16 classes total, last class on May 14th, 2025, no class for Spring Break on April 23rd.
+Just after school on Wednesdays, 1pm-2:50pm (1 hour and 50 minutes)
+First class on **January 22nd, 2025**, 8 classes total, last class on March 12th, 2025.
 
 ## Tuition and cancellation policy
 
-**$660** for 16 classes of 1 hour and 40 minutes each, full refunds until January 20th, no refunds afterwards.
-
-Monthly payment plan (includes a 20% admin fee), 5 payments of $158 each, can be cancelled with 30 days notice ($50 admin fee applies).
+**$330** for 8 classes of 1 hour and 50 minutes each, full refunds until January 20th, no refunds afterwards.
 
 First enrolled sibling pays full tuition, second sibling gets a 10% discount, third sibling gets a 15% discount. Please pay in full and notify us so we can process the discount.
 
 In case of insufficient number of enrolled students, the class will be canceled and refunds automatically processed.
 
 <div class="tc">
-<a href="https://link.waveapps.com/hhq3p7-32s6xz" class="btn raise">Pay tuition in one solution ($660)</a>
-</div>
-
-<div class="tc">
-<a href="https://link.waveapps.com/r4jebm-99cqek" class="btn raise">Pay tuition in 5 installments ($158 each)</a>
+<a href="https://link.waveapps.com/hhq3p7-32s6xz" class="btn raise">Pay tuition</a>
 </div>
