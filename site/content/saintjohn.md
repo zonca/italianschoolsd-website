@@ -17,9 +17,8 @@ Please fill the enrollment form by January 17th then use the pay tuition button 
 Later enrollments are still accepted if space permits, but please [contact us](/contact) before enrolling.
 
 <div class="tc">
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSc7SJcn73M9mlf07YEgS0lmd4OnBLeqLKxUqOVqvZkEvdyYaw/viewform?usp=sf_link" class="btn raise">Fill the Universal enrollment form</a>
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSd4sac0Y2wdTd9gm2AF1Y9uuVPPyJzHfHEphJPA1iYPkrP43g/viewform?usp=sf_link" class="btn raise">Fill the universal pre-enrollment form</a>
 </div>
-
 
 
 ## Time and location
