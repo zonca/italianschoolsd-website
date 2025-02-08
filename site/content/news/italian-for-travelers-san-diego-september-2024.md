@@ -1,7 +1,5 @@
 ---
 title: Italian classes for travelers to Italy in September 2024
-aliases:
-    - /travelers
 date: 2024-08-21T00:00:00.000Z
 ---
 
