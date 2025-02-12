@@ -4,7 +4,7 @@ image: /img/milan.jpg
 subtitle: At 4550 Kearny Villa Rd
 ---
 
-We acquired a new 1500 square feet space in January 2024, it is located at 4550 Kearny Villa Rd Suite 202, it is composed of:
+We acquired a new 1500 square feet space in January 2024, it is located at [4550 Kearny Villa Rd Suite 202](https://maps.app.goo.gl/Cg14JWm1TJFK9rsN8), it is composed of:
 
 * 1 kids room with colored walls and mats
 * 1 enclosed room with a center table
