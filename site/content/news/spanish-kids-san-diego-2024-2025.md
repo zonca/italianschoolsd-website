@@ -13,7 +13,7 @@ No previous knowledge of Spanish is necessary, the class will start covering the
 
 ## Schedule
 
-Wednesdays 2:30pm-4pm, first class September 4th, last class May 29th for a total of 33 weeks for instruction (+1 backup in case of cancellations).
+Wednesdays 2:30pm-4pm, first class September 4th, last class May 21th for a total of 33 weeks for instruction (+1 backup in case of cancellations).
 
 ## Location
 
