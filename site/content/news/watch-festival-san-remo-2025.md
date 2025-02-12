@@ -1,7 +1,7 @@
 ---
 title: The Festival just started
 date: 2025-02-12T00:00:00.000Z
-alias:
+aliases:
     - /sanremo
 description: How to watch the Italian song contest Festival di Sanremo for free
 ---
