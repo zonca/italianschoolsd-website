@@ -20,6 +20,8 @@ Given that classes are at Italian school, it is useful to clarify that chess cla
 
 [Contact us](/contact) if you are interested in private classes.
 
+![/img/chess.webp](/img/chess.webp)
+
 ### Location
 
 Classes will be held at [Italian school of San Diego](/location)
