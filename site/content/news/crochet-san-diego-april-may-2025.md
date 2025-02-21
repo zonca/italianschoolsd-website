@@ -11,7 +11,7 @@ subtitle: Starts April 16th
 This is a class for adults who want to learn how to crochet. We will cover the basics of crochet, including how to hold the hook and yarn, how to make a slip knot, and how to make basic stitches. We will also work on 2 simple projects.
 We can accommodate both beginners and students with some previous experience.
 
-Please [contact us]( {{<ref "../contact.md">}} ) if you have a favorite project in mind. We will send more details about the projects 2 weeks before class starts.
+Please [contact us]( {{<ref "../contact/_index.md">}} ) if you have a favorite project in mind. We will send more details about the projects 2 weeks before class starts.
 
 The class is at Italian school but it's all in English!
 
