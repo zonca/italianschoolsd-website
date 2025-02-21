@@ -29,6 +29,7 @@ Italian class targeted at beginners, no previous experience with Italian is requ
 
 * Tuesday 5:30pm-7pm - in person - first class April 8th, last class May 27th, 8 classes, [$256 (already includes credit card processing fees)](https://link.waveapps.com/zd3gxq-4y9rns)
 * Tuesday 12pm-1:30pm - in person - first class April 8th, last class June 24th, 12 classes, [$384 (already includes credit card processing fees)](https://link.waveapps.com/ru7esm-5gpbhs)
+* Thursday 6pm-7:30pm - beginner- ONLINE - first class April 3rd, last class May 29th, 9 classes, [$270 (already includes credit card processing fees)](https://link.waveapps.com/5yxb67-bpzzsr)
 
 ### Beginner-intermediate, Intermediate and Intermediate-advanced levels
 
