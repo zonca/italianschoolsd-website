@@ -1,8 +1,6 @@
 ---
 title: Crochet classes for adults starting in early 2025
 date: 2024-11-29T00:00:00.000Z
-aliases:
-    - /crochet/
 subtitle: Still defining the program
 ---
 
