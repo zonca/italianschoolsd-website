@@ -132,6 +132,16 @@ At the end of 2022 she moved to Southern California with her family and she imme
 
 During her youth Viviana has always had a passion for teaching kids and teenagers, tutoring during her university years. She is now very excited to teach her mother tongue and the culture of the most beautiful country in the world at the Italian School of San Diego.
 
+### Luisa Vampore
+
+![Luisa Vampore](/img/luisa_vampore.jpg)
+
+Luisa was born in Naples, Italy, where she earned her degree in Architecture from the University of Naples "Federico II." She has extensive experience working as an architect, both independently and with various studios.
+
+A native Italian speaker, Luisa is also fluent in French, having lived and worked in Paris for seven years. Her passion for teaching children and teenagers emerged during her university years, when she tutored at summer camps.
+
+In 2022, Luisa relocated to San Diego with her husband. She enjoys cooking, especially baking, hiking, and spending time at the beach. Luisa is enthusiastic about teaching her native language and sharing the rich culture of Italy at the Italian School of San Diego.
+
 ## Our staff
 
 ### Iris Zonca - Social media manager
