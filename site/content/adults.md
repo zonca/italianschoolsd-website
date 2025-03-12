@@ -34,7 +34,7 @@ Italian class targeted at beginners, no previous experience with Italian is requ
 
 Italian class targeted at students that have had already at least 1 year of classes or equivalent self-study:
 
-* Tuesday 12pm-1:30pm - in person - first class April 8th, last class June 24th, 12 classes, [$384 (already includes credit card processing fees)](https://link.waveapps.com/ru7esm-5gpbhs)
+* Tuesday 12pm-1:30pm - in person - first class April 15th, last class June 3rd, 8 classes, [$256 (already includes credit card processing fees)](https://link.waveapps.com/87hhg8-grw3j3)
 * Thursday 6:15pm-7:45pm - in person - first class April 10th, last class May 22th, 7 classes, [$224 (already includes credit card processing fees)](https://link.waveapps.com/42reeg-z7c7xz)
 * Tuesday 6pm-7:30pm - beginner-intermediate - ONLINE - first class April 1st, last class June 17th, 12 classes, [$336 (already includes credit card processing fees)](https://link.waveapps.com/q2pesj-jyvcm7)
 * Wednesday 6pm-7:30pm - ONLINE - CONVERSATION class, the class will be focused on practicing dialogues live with the teacher, minimal grammar covered as needed to understand sentences, first class April 9th, last class June 25th, 12 classes, [$336 (already includes credit card processing fees)](https://link.waveapps.com/krbap6-8gtv92). This class is open to students with at least 1 year of Italian classes or equivalent self-study that can sustain simple conversations in slow Italian (Level A2-B1). We also offer a 30% discount for students that enroll in both a standard Italian class and this online conversation-first class.
