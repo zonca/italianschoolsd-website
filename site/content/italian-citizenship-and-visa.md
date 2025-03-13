@@ -1,5 +1,5 @@
 ---
-title: Italian Citizenship & Visa: Simplified.
+title: "Italian Citizenship & Visa: Simplified."
 image: /img/cefalu.jpg
 aliases:
     - /citizenship
