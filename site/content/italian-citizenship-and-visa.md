@@ -4,7 +4,7 @@ image: /img/cefalu.jpg
 aliases:
     - /citizenship
     - /italian-citizenship
-subtitle: Available for in-person meetings in San Diego
+subtitle: We are available for in-person meetings in San Diego
 ---
 
 **Is Italian citizenship or a life in Italy your goal?**
