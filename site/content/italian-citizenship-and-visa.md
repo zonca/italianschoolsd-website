@@ -34,6 +34,10 @@ Choose the service that fits your needs:
 
 ## About Max Manzoni, J.D.
 
-![Max Manzoni](/img/max_manzoni.jpg)
+Max is a dual-qualified attorney with degrees in both Italian and U.S. law. He holds a
+Juris Doctorate (J.D.) from DePaul University College of Law, Chicago, IL and a law
+degree from the Università Cattolica del Sacro Cuore, Italy. Before launching his own
+law firm, Max worked with the international law firm of Linklaters in Rome and London
+and in corporate compliance with JPMorgan Chase in New York City.
 
-Max is a dual-qualified attorney with degrees in both Italian and U.S. law. He holds a J.D. from the Depaul University College of Law, Chicago, IL and a Law Degree from the Universita' Cattolica del Sacro Cuore, Italy. On top of operating his own law firm, he also worked in the international law firm Linklaters in Rome and Milano and in Corporate Law for JPMorgan Chase in New York City.
+![Max Manzoni](/img/max_manzoni.jpg)
