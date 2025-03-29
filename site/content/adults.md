@@ -16,7 +16,10 @@ we will get back to you within a couple of days to let you know what we can offe
 ## Italian for travelers 2025 (Starts March 6th and April 10th)
 
 Our "Italian for travelers" 2025 program starts in March, with a 4-week session, and in April and May with a 7-week session. The program is suitable for the entire family, so you can bring your kids (8 years old and above) with you.
-[See more details about our Italian for travelers program](/travelers)
+
+<div class="tc">
+<a href="/travelers" class="btn raise">Learn more and enroll to "Italian for travelers"</a>
+</div>
 
 
 ## Spring 2025
