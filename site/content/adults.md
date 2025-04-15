@@ -13,7 +13,7 @@ we will get back to you within a couple of days to let you know what we can offe
 <a href="https://forms.gle/LHR7Htpeb3mQzV838" class="btn raise">Adult Italian lesson interest form</a>
 </div>
 
-## Italian for travelers 2025 (Starts May 1st!)
+## Italian for travelers 2025 (Starts May 8th!)
 
 Our 4-week "Italian for travelers" 2025 program starts in May. The program is suitable for the entire family, so you can bring your kids (8 years old and above) with you.
 

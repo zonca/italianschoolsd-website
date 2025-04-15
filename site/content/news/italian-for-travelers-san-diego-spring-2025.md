@@ -13,7 +13,7 @@ We will be covering basic phrases at the airport, hotel, restaurant, retail stor
 
 We are excited to offer a "Italian for travelers" program, focused on the entire family, so you can bring your kids (8 years old and above) with you, please [contact us](/contact) if you would like to bring younger siblings, we can organize entertainment for them in our kids room during class
 
-* "Italian for family travel May session", in-person, Thursday **6:15pm-7:45pm**, May 1st to May 22th, 4 classes, the cost is $160 for the first adult signing up, $120 for additional adults in the same family and $80 for kids under 18.
+* "Italian for family travel May session", in-person, Thursday **6:15pm-7:45pm**, May 8th to May 29th, 4 classes, the cost is $160 for the first adult signing up, $120 for additional adults in the same family and $80 for kids under 18.
 
 As you add more adults to your cart in our shop, the additional adults discount will be applied automatically.
 
