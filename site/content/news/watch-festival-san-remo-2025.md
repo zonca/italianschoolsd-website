@@ -17,7 +17,6 @@ The show streams on RAI 1 from today February 11th to February 15th from 12pm to
 Moreover, RAI posts additional content, like recordings of previous nights, at:
 
 * [Page about the Festival of Sanremo on Raiplay](https://www.rai.it/programmi/sanremo/)
-* [Page for the first night of the Festival](https://www.raiplay.it/video/2025/02/Sanremo-2025-75-Festival-della-Canzone-Italiana-Prima-serata-del-11022025-d6cc68b8-c90a-4e0b-8bf9-88ce0de3ce69.html)
 
 Just for Sanremo the Italian television removes geographical restrictions, so you **do not need** a VPN.
 

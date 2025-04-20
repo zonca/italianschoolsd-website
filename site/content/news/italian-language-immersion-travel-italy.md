@@ -18,7 +18,7 @@ Their next tour is to Sicily in Spring. Italian school students have a 10% disco
 
 During this immersive Italian language experience in medieval Cefalù, famous for its Norman cathedral and iconic beaches, you will have the opportunity to improve your language skills and speak Italian in real life settings each day with a Cefalù insider and native speaker by your side. All activities will be conducted in Italian by directors, teachers and guides who have experience with language learners.
 
-[See the full itinerary with pricing information for the "Italian immersion experience" in Cefalù on Vero Viaggio's website](https://www.veroviaggio.com/cefalu-april-2024-itinerary)
+[See the full itinerary with pricing information for the "Italian immersion experience" in Cefalù on Vero Viaggio's website](https://www.veroviaggio.com/)
 
 ## Other destinations
 
