@@ -58,7 +58,8 @@ For students with at least one year of Italian classes or equivalent self-study.
 For students with 3+ years of Italian, able to understand most spoken Italian and hold conversations.
 
 - **Thursday 6:15pm–7:45pm (In person)**  
-  May 29 – July 24 (9 classes)  
+  *Conversation-only class*, we will take a topic/news article/movie each week and discuss it in Italian.
+  May 29 – July 24 (9 classes)
   [$288 (includes credit card fees)]()
 
 ---

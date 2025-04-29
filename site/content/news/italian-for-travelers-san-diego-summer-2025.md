@@ -1,6 +1,8 @@
 ---
-title: Italian classes for travelers to Italy in Spring 2025
-date: 2025-02-04T00:00:00.000Z
+title: Italian classes for travelers to Italy in Summer 2025
+aliases:
+    - /travelers
+date: 2025-04-29T00:00:00.000Z
 ---
 
 Over the course of 2022 5.3 million Americans travelled to Italy, that is almost 10% of the entire population of Italy itself!
@@ -11,7 +13,19 @@ We will be covering basic phrases at the airport, hotel, restaurant, retail stor
 
 We are excited to offer a "Italian for travelers" program, focused on the entire family, so you can bring your kids (8 years old and above) with you, please [contact us](/contact) if you would like to bring younger siblings, we can organize entertainment for them in our kids room during class
 
-* "Italian for family travel May session", in-person, Thursday **6:15pm-7:45pm**, May 8th to May 29th, 4 classes, the cost is $160 for the first adult signing up, $120 for additional adults in the same family and $80 for kids under 18.
+**Italian for Family Travel – May Session**
+In-person, Thursdays **6:15pm–7:45pm**, May 8–29, 2025.
+
+**Italian for Family Travel – June Session**  
+In-person, Thursdays **6:15pm–7:45pm**, June 5–26, 2025.  
+
+**Italian for Family Travel – July Session**  
+In-person, Thursdays **6:15pm–7:45pm**, July 3–24, 2025.  
+
+**Italian for Family Travel – August Session**
+In-person, Thursdays **6:15pm–7:45pm**, August 7–28, 2025.
+
+Each session includes 4 classes. The cost is **$160** for the first adult, **$120** for each additional adult from the same family, and **$80** for children under 18.
 
 As you add more adults to your cart in our shop, the additional adults discount will be applied automatically.
 
