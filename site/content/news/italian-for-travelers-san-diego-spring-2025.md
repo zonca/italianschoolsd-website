@@ -1,7 +1,5 @@
 ---
 title: Italian classes for travelers to Italy in Spring 2025
-aliases:
-    - /travelers
 date: 2025-02-04T00:00:00.000Z
 ---
 
