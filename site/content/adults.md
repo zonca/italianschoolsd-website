@@ -32,35 +32,35 @@ Choose your level below and enroll online with your credit card.
 
 No prior Italian experience required.
 
-- **Thursday 6:15pm–7:45pm (In person)**  
-  May 15 – July 24 (11 classes)  
-  [$352 (includes credit card fees)](https://link.waveapps.com/3un73j-6b2the)
+**Thursday 6:15pm–7:45pm (In person)**  
+May 15 – July 24 (11 classes)  
+[$352 (includes credit card fees)](https://link.waveapps.com/3un73j-6b2the)
 
-- **Tuesday 6pm–7:30pm (Online)**  
-  June 3 – August 19 (12 classes)  
-  [$336 (includes credit card fees)](https://link.waveapps.com/rejt7q-hshycx)
+**Tuesday 6pm–7:30pm (Online)**  
+June 3 – August 19 (12 classes)  
+[$336 (includes credit card fees)](https://link.waveapps.com/rejt7q-hshycx)
 
 ### Beginner-Intermediate, Intermediate & Intermediate-Advanced
 
 For students with at least one year of Italian classes or equivalent self-study.
 
-- **Monday 6pm–7:30pm (In person)**  
-  June 2 – July 28 (9 classes)  
-  *June 2 is "Enrollment Day": we’ll assess new students and organize groups by level. We aim to keep previous groups together but may adjust for balance.*  
-  [$288 (includes credit card fees)](https://link.waveapps.com/vzkf75-5xbnxw)
+**Monday 6pm–7:30pm (In person)**  
+June 2 – July 28 (9 classes)  
+*June 2 is "Enrollment Day": we’ll assess new students and organize groups by level. We aim to keep previous groups together but may adjust for balance.*  
+[$288 (includes credit card fees)](https://link.waveapps.com/vzkf75-5xbnxw)
 
-- **Thursday 6pm–7:30pm (Online, Beginner-Intermediate)**  
-  June 26 – August 28 (10 classes)  
-  [$280 (includes credit card fees)](https://link.waveapps.com/w4a98h-enptde)
+**Thursday 6pm–7:30pm (Online, Beginner-Intermediate)**  
+June 26 – August 28 (10 classes)  
+[$280 (includes credit card fees)](https://link.waveapps.com/w4a98h-enptde)
 
 ### Advanced
 
 For students with 3+ years of Italian, able to understand most spoken Italian and hold conversations.
 
-- **Thursday 6:15pm–7:45pm (In person)**  
-  *Conversation-only class*, we will take a topic/news article/movie each week and discuss it in Italian.
-  May 29 – July 24 (9 classes)
-  [$288 (includes credit card fees)](https://link.waveapps.com/4jdwxu-yxt7c4)
+**Thursday 6:15pm–7:45pm (In person)**  
+*Conversation-only class*, we will take a topic/news article/movie each week and discuss it in Italian.
+May 29 – July 24 (9 classes)
+[$288 (includes credit card fees)](https://link.waveapps.com/4jdwxu-yxt7c4)
 
 ---
 
@@ -78,12 +78,12 @@ We offer custom classes online, at our location, or even at your home. [Contact 
 
 ---
 
-## Previous Sessions
+##-  Previous Sessions
 
-- [Spring 2025]( {{< ref "news/italian-adult-classes-spring-2025.md" >}} )
-- [Winter 2025]( {{< ref "news/italian-adult-classes-winter-2025.md" >}} )
-- [October 2024]( {{< ref "news/italian-adult-classes-october-2024.md" >}} )
-- [Fall 2024 quarter]( {{< ref "news/italian-adult-classes-fall-2024.md" >}} )
+- [Spring 2025]( {{< ref "news/italian-adult-classes-spri- ng-2025.md" >}} )
+- [Winter 2025]( {{< ref "news/italian-adult-classes-winter- -2025.md" >}} )
+- [October 2024]( {{< ref "news/italian-adult-classes-october-2- 024.md" >}} )
+- [Fall 2024 quarter]( {{< ref "news/italian-adult-classes-fall-202- 4.md" >}} )
 - [Summer 2024 session]( {{< ref "news/italian-adult-classes-summer-2024.md" >}} )
 
 ---
@@ -102,7 +102,7 @@ Classes are scheduled and confirmed once enough enrollments are received. If a c
 
 To request a refund, email `admin` at our domain `italianschoolsd.com`.
 
-### Family Discount
+### Family Di- scount
 
 - 10% off for the first additional family member
 - 15% off for the second additional family member  
