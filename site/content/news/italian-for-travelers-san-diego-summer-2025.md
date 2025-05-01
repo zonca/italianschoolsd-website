@@ -29,7 +29,7 @@ In-person, Wednesdays **6:00pm–7:30pm**, August 6–27, 2025.
 
 Each session includes 4 classes. The cost is **$160** for the first adult, **$120** for each additional adult from the same family, and **$80** for children under 18.
 
-As you add more adults to your cart in our shop, the additional adults discount will be applied automatically.
+When you add more adults from the same family to your cart in our shop, the discounted rate for additional adults will be applied automatically at checkout, even if the discount is not explicitly shown in the category view.
 
 <div class="tc">
 <a href="https://italianschoolsd.square.site/shop/italian-for-travelers/HIZJQCNGIMD7FJ26PVOPURRQ" class="btn raise">Enroll now via our shop</a>
