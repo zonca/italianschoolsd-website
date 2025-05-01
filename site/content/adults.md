@@ -34,7 +34,7 @@ No prior Italian experience required.
 
 - **Thursday 6:15pm–7:45pm (In person)**  
   May 15 – July 24 (11 classes)  
-  [$352 (includes credit card fees)]()
+  [$352 (includes credit card fees)](https://link.waveapps.com/3un73j-6b2the)
 
 - **Thursday 6pm–7:30pm (Online)**  
   April 3 – June 19 (12 classes)  
@@ -51,7 +51,7 @@ For students with at least one year of Italian classes or equivalent self-study.
 
 - **Thursday 6pm–7:30pm (Online, Beginner-Intermediate)**  
   June 26 – August 28 (10 classes)  
-  [$280 (includes credit card fees)]()
+  [$280 (includes credit card fees)](https://link.waveapps.com/w4a98h-enptde)
 
 ### Advanced
 
@@ -60,7 +60,7 @@ For students with 3+ years of Italian, able to understand most spoken Italian an
 - **Thursday 6:15pm–7:45pm (In person)**  
   *Conversation-only class*, we will take a topic/news article/movie each week and discuss it in Italian.
   May 29 – July 24 (9 classes)
-  [$288 (includes credit card fees)]()
+  [$288 (includes credit card fees)](https://link.waveapps.com/4jdwxu-yxt7c4)
 
 ---
 
