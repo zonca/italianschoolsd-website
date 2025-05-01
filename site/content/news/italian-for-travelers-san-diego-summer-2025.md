@@ -15,7 +15,7 @@ We are excited to offer a "Italian for travelers" program, focused on the entire
 
 Notice that our May session is on Thursdays, while all other sessions are on Wednesdays.
 
-**Italian for Family Travel – May Session**
+**Italian for Family Travel – May Session**  
 In-person, Thursdays **6:15pm–7:45pm**, May 8–29, 2025.
 
 **Italian for Family Travel – June Session**  
