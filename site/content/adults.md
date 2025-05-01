@@ -36,9 +36,9 @@ No prior Italian experience required.
   May 15 – July 24 (11 classes)  
   [$352 (includes credit card fees)](https://link.waveapps.com/3un73j-6b2the)
 
-- **Thursday 6pm–7:30pm (Online)**  
-  April 3 – June 19 (12 classes)  
-  [$336 (includes credit card fees)](https://link.waveapps.com/5yxb67-bpzzsr)
+- **Tuesday 6pm–7:30pm (Online)**  
+  June 3 – August 19 (12 classes)  
+  [$336 (includes credit card fees)](https://link.waveapps.com/rejt7q-hshycx)
 
 ### Beginner-Intermediate, Intermediate & Intermediate-Advanced
 
