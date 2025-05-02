@@ -33,8 +33,8 @@ Choose your level below and enroll online with your credit card.
 No prior Italian experience required.
 
 **Thursday 6:15pm–7:45pm (In person)**  
-May 15 – July 24 (11 classes)  
-[$352 (includes credit card fees)](https://link.waveapps.com/3un73j-6b2the)
+May 29 – July 24 (9 classes)  
+[$288 (includes credit card fees)](https://link.waveapps.com/3un73j-6b2the)
 
 **Tuesday 6pm–7:30pm (Online)**  
 June 3 – August 19 (12 classes)  
