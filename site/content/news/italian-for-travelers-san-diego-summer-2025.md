@@ -15,6 +15,10 @@ We are excited to offer a "Italian for travelers" program, focused on the entire
 
 Notice that our May session is on Thursdays, while all other sessions are on Wednesdays.
 
+**Location:**  
+Italian school of San Diego
+[4550 Kearny Villa Rd Suite 202](https://maps.app.goo.gl/Cg14JWm1TJFK9rsN8)
+
 **Italian for Family Travel – May Session**  
 In-person, Thursdays **6:15pm–7:45pm**, May 8–29, 2025.
 
