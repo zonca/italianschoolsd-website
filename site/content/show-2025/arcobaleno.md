@@ -23,6 +23,22 @@ date: 2025-05-08
 
     let visibleLines = 0;
     actorLines.forEach(line => {
+      // Skip <p> elements inside a div with class "cover"
+      let parent = line.parentElement;
+      let insideCover = false;
+      while (parent) {
+        if (parent.classList && parent.classList.contains('cover')) {
+          insideCover = true;
+          break;
+        }
+        parent = parent.parentElement;
+      }
+      if (insideCover) {
+        line.style.display = 'block';
+        visibleLines++;
+        return;
+      }
+
       const lineText = line.textContent.toLowerCase();
       if (lineText.includes(':')) {
         const actorMatch = lineText.match(/^(.*?):/);
