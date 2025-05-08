@@ -37,10 +37,10 @@ date: 2025-05-08
       const lineText = line.textContent.toLowerCase();
       
       // Check if this is an actor line (contains ** and :)
-      if (lineText.includes('**') && lineText.includes(':')) {
+      if (lineText.includes('strong') && lineText.includes(':')) {
         // Check if line contains the search text in the actor name portion
         // Extract the actor name from between ** and :
-        const actorMatch = lineText.match(/\*\*(.*?):/);
+        const actorMatch = lineText.match(/^(.*?):/);
         
         if (actorMatch && actorMatch[1]) {
           const actorName = actorMatch[1].toLowerCase();
