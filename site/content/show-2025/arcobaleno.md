@@ -24,7 +24,7 @@ date: 2025-05-08
     actorLines.forEach(line => {
       const lineText = line.textContent.toLowerCase();
       if (lineText.includes(':')) {
-        const actorMatch = lineText.match(/\*\*(.*?):/);
+        const actorMatch = lineText.match(/^(.*?):/);
         if (actorMatch && actorMatch[1]) {
           const actorName = actorMatch[1].toLowerCase();
           if (searchText === '' || actorName.includes(searchText)) {
