@@ -4,6 +4,94 @@ subtitle: "Il mondo dei colori"
 date: 2025-05-08
 ---
 
+<div style="margin-bottom: 20px;">
+  <label for="actorSearch" style="font-weight: bold; margin-right: 10px;">Cerca il tuo nome:</label>
+  <input type="text" id="actorSearch" placeholder="Scrivi il tuo nome..." style="padding: 8px; width: 250px; border-radius: 4px; border: 1px solid #ccc;">
+  <button onclick="clearSearch()" style="margin-left: 5px; padding: 8px; border-radius: 4px; background-color: #f0f0f0; border: 1px solid #ccc;">Cancella</button>
+</div>
+
+<script>
+  function filterScript() {
+    // Get the search input value
+    const searchText = document.getElementById('actorSearch').value.toLowerCase();
+    
+    // Get all actor lines (elements that start with ** and contain :)
+    const actorLines = document.querySelectorAll('p');
+    
+    // Get all section headers (h1 elements)
+    const sectionHeaders = document.querySelectorAll('h1');
+    const horizontalRules = document.querySelectorAll('hr');
+    
+    // Always keep section headers visible
+    sectionHeaders.forEach(header => {
+      header.style.display = 'block';
+    });
+    
+    horizontalRules.forEach(rule => {
+      rule.style.display = 'block';
+    });
+    
+    // Filter actor lines
+    let visibleLines = 0;
+    actorLines.forEach(line => {
+      const lineText = line.textContent.toLowerCase();
+      
+      // Check if this is an actor line (contains ** and :)
+      if (lineText.includes('**') && lineText.includes(':')) {
+        // Check if line contains the search text in the actor name portion
+        // Extract the actor name from between ** and :
+        const actorMatch = lineText.match(/\*\*(.*?):/);
+        
+        if (actorMatch && actorMatch[1]) {
+          const actorName = actorMatch[1].toLowerCase();
+          
+          if (searchText === '' || actorName.includes(searchText)) {
+            line.style.display = 'block';
+            visibleLines++;
+          } else {
+            line.style.display = 'none';
+          }
+        }
+      } else {
+        // Not an actor line, keep it visible if no search
+        if (searchText === '') {
+          line.style.display = 'block';
+        } else {
+          line.style.display = 'none';
+        }
+      }
+    });
+    
+    // Show message if no lines match
+    const noResultsMsg = document.getElementById('noResultsMsg');
+    if (searchText !== '' && visibleLines === 0) {
+      if (!noResultsMsg) {
+        const msg = document.createElement('p');
+        msg.id = 'noResultsMsg';
+        msg.style.color = 'red';
+        msg.style.fontWeight = 'bold';
+        msg.textContent = 'Nessuna battuta trovata per questo nome.';
+        document.getElementById('actorSearch').parentNode.appendChild(msg);
+      }
+    } else if (noResultsMsg) {
+      noResultsMsg.remove();
+    }
+  }
+  
+  function clearSearch() {
+    document.getElementById('actorSearch').value = '';
+    filterScript();
+  }
+  
+  // Add event listener to search input
+  document.addEventListener('DOMContentLoaded', function() {
+    document.getElementById('actorSearch').addEventListener('keyup', filterScript);
+    
+    // Initialize to show everything
+    filterScript();
+  });
+</script>
+
 # Atto I : in scena
 
 **Narratrice (Arielle):** Il Rosso era pieno di energia. <a href="https://translate.google.com/?sl=it&tl=en&text=Il%20Rosso%20era%20pieno%20di%20energia.&op=translate" target="_blank"><button>Ascolta 🎧</button></a><br />
