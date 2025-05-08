@@ -1,6 +1,7 @@
 ---
 title: "Arcobaleno"
 subtitle: "Il mondo dei colori"
+image: /img/Teatro_alla_Scala_interior_Milan_by_Wolfgang_Moroder.jpg
 date: 2025-05-08
 ---
 
