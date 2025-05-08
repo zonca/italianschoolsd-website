@@ -14,6 +14,7 @@ We will be covering basic phrases at the airport, hotel, restaurant, retail stor
 We are excited to offer a "Italian for travelers" program, focused on the entire family, so you can bring your kids (8 years old and above) with you, please [contact us](/contact) if you would like to bring younger siblings, we can organize entertainment for them in our kids room during class.
 
 Notice that our May session is on Thursdays, while all other sessions are on Wednesdays.
+Enrollment is open until the day of the second class of each session, but we recommend to enroll as soon as possible to secure your spot.
 
 **Location:**  
 Italian school of San Diego
