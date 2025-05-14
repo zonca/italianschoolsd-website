@@ -210,6 +210,72 @@ date: 2025-05-08
 
 **Carolina:** "Così il sole sembra in pigiama… ha bisogno dei suoi vestiti colorati per uscire!" e "Senza arancione, il cielo sembra triste… Dai, mettiamoci un po' di succo d'arancia!" <a href="https://translate.google.com/?sl=it&tl=en&text=%22Cos%C3%AC%20il%20sole%20sembra%20in%20pigiama%E2%80%A6%20ha%20bisogno%20dei%20suoi%20vestiti%20colorati%20per%20uscire!%22%20e%20%22Senza%20arancione%2C%20il%20cielo%20sembra%20triste%E2%80%A6%20Dai%2C%20mettiamoci%20un%20po%E2%80%99%20di%20succo%20d%E2%80%99arancia!%22&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
 
-**Carolina-Pittrice della vita:** La notte è bella… ma con stelle gialle è ancora più bella! "Così sembra la notte quando manca la corrente! Le stelle sono i sorrisi del cielo… qui manca qualche sorriso!" <a href="https://translate.google.com/?sl=it&tl=en&text=La%20notte%20%C3%A8%20bella%E2%80%A6%20ma%20con%20stelle%20gialle%20%C3%A8%20ancora%20pi%C3%B9%20bella!%20%22Cos%C3%AC%20sembra%20la%20notte%20quando%20manca%20la%20corrente!%20(guardando%20il%20pubblico)%20Le%20stelle%20sono%20i%20sorrisi%20del%20cielo%E2%80%A6%20qui%20manca%20qualche%20sorriso!%22&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
+**Carolina-Pittrice della vita:** La notte è bella… ma con stelle gialle è ancora più bella! "Così sembra la notte quando manca la corrente! Le stelle sono i sorrisi del cielo… qui manca qualche sorriso!" <a href="https://translate.google.com/?sl=it&tl=en&text=La%20notte%20%C3%A8%20bella%E2%80%A6%20ma%20con%20stelle%20gialle%20%C3%A8%20ancora%20pi%C3%B9%20bella!%20Cos%C3%AC%20sembra%20la%20notte%20quando%20manca%20la%20corrente!%20Le%20stelle%20sono%20i%20sorrisi%20del%20cielo%E2%80%A6%20qui%20manca%20qualche%20sorriso!&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
 
-**Carolina-Pittrice della vita:** Questo prato è perfetto… ma dov'e' il fiore rosso o quello giallo?"Le api mi hanno detto: 'Qui non c'e' niente di buono!'" <a href="https://translate.google.com/?sl=it&tl=en&text=Questo%20prato%20%C3%A8%20perfetto%E2%80%A6%20ma%20dov%E2%80%99e%E2%80%99%20il%20fiore%20rosso%20o%20quello%20giallo%3F%22Le%20api%20mi%20hanno%20detto%3A%20%E2%80%98Qui%20non%20c%E2%80%99e%E2%80%99%20niente%20di%20buono!%E2%80%99%22&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
+**Carolina-Pittrice della vita (guardando il quadro blu):** La notte è bella… ma con stelle gialle è ancora più bella! "Così sembra la notte quando manca la corrente! (guardando il pubblico) Le stelle sono i sorrisi del cielo… qui manca qualche sorriso!" <a href="https://translate.google.com/?sl=it&tl=en&text=La%20notte%20%C3%A8%20bella%E2%80%A6%20ma%20con%20stelle%20gialle%20%C3%A8%20ancora%20pi%C3%B9%20bella!%20Cos%C3%AC%20sembra%20la%20notte%20quando%20manca%20la%20corrente!%20Le%20stelle%20sono%20i%20sorrisi%20del%20cielo%E2%80%A6%20qui%20manca%20qualche%20sorriso!&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
+
+**Carolina-Pittrice della vita (guardando il quadro verde):** Questo prato è perfetto… ma dov’è il fiore rosso o quello giallo? "Le api mi hanno detto: ‘Qui non c’è niente di buono!’" <a href="https://translate.google.com/?sl=it&tl=en&text=Questo%20prato%20%C3%A8%20perfetto%E2%80%A6%20ma%20dov%E2%80%99%C3%A8%20il%20fiore%20rosso%20o%20quello%20giallo%3F%20Le%20api%20mi%20hanno%20detto%3A%20%E2%80%98Qui%20non%20c%E2%80%99%C3%A8%20niente%20di%20buono!%E2%80%99&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
+
+**Carolina-Pittrice della vita (guardando il quadro viola):** "È un quadro pieno di fantasia… ma forse manca un pizzico di realtà!" (guardando il pubblico) "Senza un tocco di rosso, sembra che il quadro abbia dimenticato di mettere il naso fuori di casa!" <a href="https://translate.google.com/?sl=it&tl=en&text=%C3%88%20un%20quadro%20pieno%20di%20fantasia%E2%80%A6%20ma%20forse%20manca%20un%20pizzico%20di%20realt%C3%A0!%20Senza%20un%20tocco%20di%20rosso%2C%20sembra%20che%20il%20quadro%20abbia%20dimenticato%20di%20mettere%20il%20naso%20fuori%20di%20casa!&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
+
+**Tutti fermi** <a href="https://translate.google.com/?sl=it&tl=en&text=Tutti%20fermi&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
+
+**Arielle-Narratrice:** I colori ascoltano in silenzio. Il pittore ha fatto pensare tutti. <a href="https://translate.google.com/?sl=it&tl=en&text=I%20colori%20ascoltano%20in%20silenzio.%20Il%20pittore%20ha%20fatto%20pensare%20tutti.&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
+
+(Chiusura tende Maura e Arielle) <a href="https://translate.google.com/?sl=it&tl=en&text=Chiusura%20tende%20Maura%20e%20Arielle&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
+
+# Atto V: Gli anziani parlano del pittore
+
+**Arielle-Narratrice:** Ma gli anziani non erano contenti. Il pittore parlava di novità e cambiamento. <a href="https://translate.google.com/?sl=it&tl=en&text=Ma%20gli%20anziani%20non%20erano%20contenti.%20Il%20pittore%20parlava%20di%20novit%C3%A0%20e%20cambiamento.&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
+
+(Si apre la tenda Maura e Arielle) <a href="https://translate.google.com/?sl=it&tl=en&text=Si%20apre%20la%20tenda%20Maura%20e%20Arielle&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
+
+In scena solo Daisy, Alessandro, Andre`, Julia, Devon (Gli anziani parlano sottovoce, sembrano preoccupati) <a href="https://translate.google.com/?sl=it&tl=en&text=In%20scena%20solo%20Daisy%2C%20Alessandro%2C%20Andre%60%2C%20Julia%2C%20Devon%20(Gli%20anziani%20parlano%20sottovoce%2C%20sembrano%20preoccupati)&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
+
+## Scena V: Colori vs. pittore
+
+**Julia-Viola:** Non capisco come la tua sensibilità possa aiutare la mia creatività. Io sono perfetta cosi come sono! <a href="https://translate.google.com/?sl=it&tl=en&text=Non%20capisco%20come%20la%20tua%20sensibilit%C3%A0%20possa%20aiutare%20la%20mia%20creativit%C3%A0.%20Io%20sono%20perfetta%20cosi%20come%20sono!&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
+
+**Andre`-Blu:** Forse ci manca qualcosa a tutti… <a href="https://translate.google.com/?sl=it&tl=en&text=Forse%20ci%20manca%20qualcosa%20a%20tutti%E2%80%A6&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
+
+**Ale-Verde:** A volte penso troppo… e non faccio niente! <a href="https://translate.google.com/?sl=it&tl=en&text=A%20volte%20penso%20troppo%E2%80%A6%20e%20non%20faccio%20niente!&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
+
+**Daisy-Rosso:** Ma finora abbiamo vissuto da soli. Perché cambiare ora? Io non voglio cambiare! <a href="https://translate.google.com/?sl=it&tl=en&text=Ma%20finora%20abbiamo%20vissuto%20da%20soli.%20Perch%C3%A9%20cambiare%20ora%3F%20Io%20non%20voglio%20cambiare!&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
+
+**Andre`-Blu:** (al pittore) Tu pensi che possiamo cambiare? <a href="https://translate.google.com/?sl=it&tl=en&text=al%20pittore%20Tu%20pensi%20che%20possiamo%20cambiare%3F&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
+
+**Carolina-Pittrice della vita:** Sì! Voi siete tutti belli e speciali. Ma insieme potete essere ancora più belli! <a href="https://translate.google.com/?sl=it&tl=en&text=S%C3%AC!%20Voi%20siete%20tutti%20belli%20e%20speciali.%20Ma%20insieme%20potete%20essere%20ancora%20pi%C3%B9%20belli!&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
+
+**Carolina-Pittrice della vita:** Provate a mescolare i vostri colori. Aiutatevi. Ascoltatevi. Così la vostra vita sarà piena di luce! <a href="https://translate.google.com/?sl=it&tl=en&text=Provate%20a%20mescolare%20i%20vostri%20colori.%20Aiutatevi.%20Ascoltatevi.%20Cos%C3%AC%20la%20vostra%20vita%20sar%C3%A0%20piena%20di%20luce!&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
+
+**4 Piccolette:** (entrano correndo e fanno un giro attorno al tavolo poi si fermano davanti al pubblico e dicono.. ) "Col pennello sulla testa… facciamo festa, festa, festa!" <a href="https://translate.google.com/?sl=it&tl=en&text=Col%20pennello%20sulla%20testa%E2%80%A6%20facciamo%20festa%2C%20festa%2C%20festa!&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
+
+**Devon-Giallo:** (guardando i piccoli) Beh, a loro potremmo cambiare almeno la battuta! <a href="https://translate.google.com/?sl=it&tl=en&text=Beh%2C%20a%20loro%20potremmo%20cambiare%20almeno%20la%20battuta!&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
+
+(Il pittore dà loro un foglio bianco e esce.) <a href="https://translate.google.com/?sl=it&tl=en&text=Il%20pittore%20d%C3%A0%20loro%20un%20foglio%20bianco%20e%20esce.&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
+
+Entrano tutti gli altri e fanno finta di parlare tra loro poi si mettono tutti intorno al tavolo tondo e fanno finta di dipingere. (preparare disegno con le impronte colorate di tutti i bimbi) <a href="https://translate.google.com/?sl=it&tl=en&text=Entrano%20tutti%20gli%20altri%20e%20fanno%20finta%20di%20parlare%20tra%20loro%20poi%20si%20mettono%20tutti%20intorno%20al%20tavolo%20tondo%20e%20fanno%20finta%20di%20dipingere.%20(preparare%20disegno%20con%20le%20impronte%20colorate%20di%20tutti%20i%20bimbi)&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
+
+Silenzio parla la narratrice. <a href="https://translate.google.com/?sl=it&tl=en&text=Silenzio%20parla%20la%20narratrice.&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
+
+**Arielle-Narratrice:** Quanta verità nelle favole! E noi? Viviamo con un solo colore O vogliamo dipingere la vita con tutti i colori? <a href="https://translate.google.com/?sl=it&tl=en&text=Quanta%20verit%C3%A0%20nelle%20favole!%20E%20noi%3F%20Viviamo%20con%20un%20solo%20colore%20O%20vogliamo%20dipingere%20la%20vita%20con%20tutti%20i%20colori%3F&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
+
+Chiusura tenda <a href="https://translate.google.com/?sl=it&tl=en&text=Chiusura%20tenda&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
+
+# Scena Finale
+
+**Arielle-Narratrice:** I colori sono pieni di speranza. Hanno capito il messaggio. <a href="https://translate.google.com/?sl=it&tl=en&text=I%20colori%20sono%20pieni%20di%20speranza.%20Hanno%20capito%20il%20messaggio.&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
+
+Apertura tenda (Maura Arielle) <a href="https://translate.google.com/?sl=it&tl=en&text=Apertura%20tenda%20(Maura%20Arielle)&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
+
+**Pierce-Aria:** (entrano correndo e urlando) Pittore vieni! <a href="https://translate.google.com/?sl=it&tl=en&text=entrano%20correndo%20e%20urlando%20Pittore%20vieni!&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
+
+(Il pittore torna per salutare tutti.) <a href="https://translate.google.com/?sl=it&tl=en&text=Il%20pittore%20torna%20per%20salutare%20tutti.&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
+
+**Victoria -Eva:** (mostrando il nuovo quadro al pittore): Guarda! Abbiamo imparato! <a href="https://translate.google.com/?sl=it&tl=en&text=mostrando%20il%20nuovo%20quadro%20al%20pittore%20Guarda!%20Abbiamo%20imparato!&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
+
+**Carolina-Pittrice della vita:** Bravi, avete capito! Amicizia, rispetto e colori diversi… questo è il segreto! <a href="https://translate.google.com/?sl=it&tl=en&text=Bravi%2C%20avete%20capito!%20Amicizia%2C%20rispetto%20e%20colori%20diversi%E2%80%A6%20questo%20%C3%A8%20il%20segreto!&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
+
+Tutti esultano per la gioia! Poi silenzio <a href="https://translate.google.com/?sl=it&tl=en&text=Tutti%20esultano%20per%20la%20gioia!%20Poi%20silenzio&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
+
+**Arielle-Narratrice:** La nostra favola è finita. Ma ora tocca a noi: coloriamo la nostra vita con mille colori! <a href="https://translate.google.com/?sl=it&tl=en&text=La%20nostra%20favola%20%C3%A8%20finita.%20Ma%20ora%20tocca%20a%20noi%3A%20coloriamo%20la%20nostra%20vita%20con%20mille%20colori!&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
