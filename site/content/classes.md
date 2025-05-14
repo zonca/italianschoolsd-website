@@ -6,13 +6,9 @@ subtitle: Children classes 2024-2025
 
 This is the page for students TK-6th grade, for teens see [the accredited classes](/accredited-classes).
 
-## Please share our flyer
+## (New!) Intro to Italian summer class for kids
 
-We rely on word-of-mouth to get people to know our programs, please [help us by sharing our flyer]( {{< ref "news/italian-class-enrollment-2024-2025-open.md" >}} )
-
-## (New!) Italian for Homeschoolers in the morning
-
-[Starting in January 2025]( {{< ref "news/italian-for-homeschoolers-january-2025.md" >}} )
+Find all the details and registration info for our ["Intro to Italian" summer 2025 class here]( {{< ref "news/italian-class-kids-summer-2025.md" >}} ).
 
 ## Italian Heritage classes for kids TK-6
 
