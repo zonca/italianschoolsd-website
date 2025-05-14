@@ -3,7 +3,7 @@ title: "Intro to Italian: Summer 2025"
 date: 2025-05-13
 ---
 
-![Italian Summer Program](/img/italian-summer-camp.svg)
+<img src="/img/italian-summer-camp.svg" alt="Italian Summer Program" style="max-width: 200px; display: block; margin-bottom: 1em;" />
 
 We are excited to announce a new Italian class for kids (ages 8-11) this summer!
 
