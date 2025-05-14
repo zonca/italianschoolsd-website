@@ -6,7 +6,7 @@ subtitle: Children classes 2024-2025
 
 This is the page for students TK-6th grade, for teens see [the accredited classes](/accredited-classes).
 
-## (New!) Intro to Italian summer class for kids
+## (New!) Intro to Italian summer class for kids 8-11 years old
 
 Find all the details and registration info for our ["Intro to Italian" summer 2025 class here]( {{< ref "news/italian-class-kids-summer-2025.md" >}} ).
 

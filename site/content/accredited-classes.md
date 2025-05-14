@@ -4,6 +4,10 @@ image: /img/milan.jpg
 subtitle: Classes for the academic year 2024-2025
 ---
 
+## (New!) Intro to Italian summer class for kids 8-11 years old
+
+Find all the details and registration info for our ["Intro to Italian" summer 2025 class here]( {{< ref "news/italian-class-kids-summer-2025.md" >}} ).
+
 ## Accredited Italian classes for Middle and High School students
 
 Italian school of San Diego LLC is accredited both with the San Diego Unified and the San Dieguito Union High School Districts as an "Independent World Language School".
