@@ -2,8 +2,9 @@
 title: "Spettacolo di fine anno 2025"
 subtitle: "At the Bridges Rancho Santa Fe"
 image: /img/Teatro_alla_Scala_interior_Milan_by_Wolfgang_Moroder.jpg
-date: 2025-05-08
+date: 2025-05-14
 ---
+
 Mi chiamo Maxen. Ho 5 anni. <a href="https://translate.google.com/?sl=it&tl=en&text=Mi%20chiamo%20Maxen.%20Ho%205%20anni.&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
 Mi chiamo Eleonor. Ho 5 anni <a href="https://translate.google.com/?sl=it&tl=en&text=Mi%20chiamo%20Eleonor.%20Ho%205%20anni&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
 Mi chiamo Milana. Ho 4 anni. <a href="https://translate.google.com/?sl=it&tl=en&text=Mi%20chiamo%20Milana.%20Ho%204%20anni.&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
