@@ -16,7 +16,7 @@ products:
     - image: /img/italian-summer-camp.svg
       title: "Intro to Italian: Summer 2025 (ages 8–11)"
       text: "A fun, in-person summer class for kids ages 8–11 with no previous Italian experience. Taught by a native Italian teacher, students learn the basics of spoken and written Italian, explore Italian culture, and build conversational skills. Wednesdays, June 11 – August 6, 2025, 4:00–5:30pm."
-      link: news/italian-class-kids-summer-2025/
+      link: news/2025/05/intro-to-italian-summer-2025/
 values:
     heading: About
     text: Our instructors are all native Italian speakers, experienced and passionate about sharing their language and culture with students of all ages. Led by Director and CEO Maura D'Andrea, who founded the Italian School of San Diego in 2021, our team is dedicated to providing an authentic and engaging learning experience.

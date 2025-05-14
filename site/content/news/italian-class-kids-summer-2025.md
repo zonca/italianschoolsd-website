@@ -3,14 +3,15 @@ title: "Intro to Italian: Summer 2025"
 date: 2025-05-13
 ---
 
+![Italian Summer Program](/img/italian-summer-camp.svg)
+
 We are excited to announce a new Italian class for kids (ages 8-11) this summer!
 
-**Location:** In-person at Italian school of San Diego, 4550 Kearny Villa Rd, Suite 202
-
-**Schedule:** Wednesdays, June 11 – August 6, 2025 (9 classes)
-**Time:** 4:00pm – 5:30pm
-**Cost:** $360  
-**Sibling Discount:** 10% off for each additional sibling (first child pays full price)
+- **Location:** In-person at Italian School of San Diego, 4550 Kearny Villa Rd, Suite 202
+- **Schedule:** Wednesdays, June 11 – August 6, 2025 (9 classes)
+- **Time:** 4:00pm – 5:30pm
+- **Cost:** $360  
+- **Sibling Discount:** 10% off for each additional sibling (first child pays full price)
 
 **Payment:** Please pay with credit card at [this link](https://link.waveapps.com/detm3v-95m7dr). You can specify the number of children you wish to enroll in a single transaction; we will issue a partial refund for the sibling discount after your payment.
 
