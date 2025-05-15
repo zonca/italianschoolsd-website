@@ -100,11 +100,11 @@ date: 2025-05-08
 
 **Ale-Verde:** Ehi tu, stai attenta! Guarda dove cammini! <a href="https://translate.google.com/?sl=it&tl=en&text=Ehi%20tu%2C%20stai%20attenta!%20Guarda%20dove%20cammini!&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
 
-**Daisy-Rosso:** Ma non fare sempre il tranquillone dai e divertiti un po'! <a href="https://translate.google.com/?sl=it&tl=en&text=Ma%20non%20fare%20sempre%20il%20tranquillone%20dai%20e%20divertiti%20un%20po%E2%80%99!&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
+**Daisy-Rosso:** Ma non fare sempre il tranquillone dai e divertiti un po’! <a href="https://translate.google.com/?sl=it&tl=en&text=Ma%20non%20fare%20sempre%20il%20tranquillone%20dai%20e%20divertiti%20un%20po%E2%80%99!&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
 
-**Aria-Rosso:** Si e vero, sempre! <a href="https://translate.google.com/?sl=it&tl=en&text=si%60%20e%60%20vero%2Csempre!&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
+**Aria-Rosso:** si` e` vero,sempre! <a href="https://translate.google.com/?sl=it&tl=en&text=si%60%20e%60%20vero%2Csempre!&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
 
-**Pierce-Rosso:** Tu non vedi niente, mai! <a href="https://translate.google.com/?sl=it&tl=en&text=Tu%20non%20vedi%20niente%2Cmai!&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
+**Pierce-Rosso:** Tu non vedi niente,mai! <a href="https://translate.google.com/?sl=it&tl=en&text=Tu%20non%20vedi%20niente%2Cmai!&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
 
 **Dante-Verde:** Calmatevi, dai! Fate i bravi! <a href="https://translate.google.com/?sl=it&tl=en&text=Calmatevi%2C%20dai!%20Fate%20i%20bravi!&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
 
@@ -114,9 +114,9 @@ date: 2025-05-08
 
 **Ben-Giallo:** Infatti ci siamo anche noi qui!! Il giallo si vede benissimo! <a href="https://translate.google.com/?sl=it&tl=en&text=Infatti%20ci%20siamo%20anche%20noi%20qui!!%20Il%20giallo%20si%20vede%20benissimo!&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
 
-**Damiano-Giallo:** È il momento per un po' di allegria! <a href="https://translate.google.com/?sl=it&tl=en&text=%C3%88%20il%20momento%20per%20un%20po%E2%80%99%20di%20allegria!&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
+**Damiano-Giallo:** È il momento per un po’ di allegria! <a href="https://translate.google.com/?sl=it&tl=en&text=%C3%88%20il%20momento%20per%20un%20po%E2%80%99%20di%20allegria!&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
 
-**Devon-Giallo:** Dai ragazzi, divertiamoci! Vi canto una bella canzone! <a href="https://translate.google.com/?sl=it&tl=en&text=Dai%20ragazzi%2Cdivertiamoci!%20Vi%20canto%20una%20bella%20canzone!&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
+**Devon-Giallo:** Dai ragazzi,divertiamoci! Vi canto una bella canzone! <a href="https://translate.google.com/?sl=it&tl=en&text=Dai%20ragazzi%2Cdivertiamoci!%20Vi%20canto%20una%20bella%20canzone!&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
 
 **Damiano-Giallo:** Ed io suono il tamburo! <a href="https://translate.google.com/?sl=it&tl=en&text=Ed%20io%20suono%20il%20tamburo!&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
 
@@ -126,13 +126,13 @@ date: 2025-05-08
 
 **Andre-Blu:** È vero! Non basta sentire il ritmo… <a href="https://translate.google.com/?sl=it&tl=en&text=%C3%88%20vero!%20Non%20basta%20sentire%20il%20ritmo%E2%80%A6&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
 
-**Lorenzo-Blu:** Dobbiamo sentire tutte le emozioni! <a href="https://translate.google.com/?sl=it&tl=en&text=dobbiamo%20sentire%20tutte%20le%20emozioni!&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
+**Lorenzo-Blu:** dobbiamo sentire tutte le emozioni! <a href="https://translate.google.com/?sl=it&tl=en&text=dobbiamo%20sentire%20tutte%20le%20emozioni!&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
 
 **Ben-Giallo:** Anche l’allegria è un’emozione! La più bella di tutte! <a href="https://translate.google.com/?sl=it&tl=en&text=Anche%20l%E2%80%99allegria%20%C3%A8%20un%E2%80%99emozione!%20La%20pi%C3%B9%20bella%20di%20tutte!&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
 
 **Damiano-Giallo:** Ed È molto importante! <a href="https://translate.google.com/?sl=it&tl=en&text=Ed%20%C3%88%20molto%20importante!&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
 
-**Devon-Giallo:** Importantissima! È il momento per la mia canzone! <a href="https://translate.google.com/?sl=it&tl=en&text=importantissima!%20E%E2%80%99%20il%20momento%20per%20la%20mia%20canzone!&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
+**Devon-Giallo:** importantissima! E’ il momento per la mia canzone! <a href="https://translate.google.com/?sl=it&tl=en&text=importantissima!%20E%E2%80%99%20il%20momento%20per%20la%20mia%20canzone!&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
 
 **Damiano-Giallo:** Aspetta che vado a prendere il tamburo! <a href="https://translate.google.com/?sl=it&tl=en&text=Aspetta%20che%20vado%20a%20prendere%20il%20tamburo!&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
 
@@ -146,11 +146,11 @@ date: 2025-05-08
 
 **Eva-Viola:** E tanti fiori colorati!! <a href="https://translate.google.com/?sl=it&tl=en&text=E%20tanti%20fiori%20colorati!!&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
 
-**Devon-Giallo:** E cantiamo una canzone! "Ogni favola e' un gioco, che si fa con il tempo.." <a href="https://translate.google.com/?sl=it&tl=en&text=E%20cantiamo%20una%20canzone!%20%E2%80%9COgni%20favola%20e%E2%80%99%20un%20gioco%2C%20che%20si%20fa%20con%20il%20tempo..%E2%80%9D&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
+**Devon-Giallo:** E cantiamo una canzone! “Ogni favola e’ un gioco, che si fa con il tempo..” <a href="https://translate.google.com/?sl=it&tl=en&text=E%20cantiamo%20una%20canzone!%20%E2%80%9COgni%20favola%20e%E2%80%99%20un%20gioco%2C%20che%20si%20fa%20con%20il%20tempo..%E2%80%9D&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
 
-**Ale-Verde:** Basta!Qui sono tutti matti! <a href="https://translate.google.com/?sl=it&tl=en&text=Basta!Qui%20sono%20tutti%20matti!&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
+**Ale-Verde:** Basta!Qui sono tutti matti!Me ne vado <a href="https://translate.google.com/?sl=it&tl=en&text=Basta!Qui%20sono%20tutti%20matti!&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
 
-**Dante-Verde:** Hai ragione! Non si capisce piu' niente.. <a href="https://translate.google.com/?sl=it&tl=en&text=Hai%20ragione!%20Non%20si%20capisce%20piu%E2%80%99%20niente..&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
+**Dante-Verde:** Hai ragione! Non si capisce piu’ niente.. <a href="https://translate.google.com/?sl=it&tl=en&text=Hai%20ragione!%20Non%20si%20capisce%20piu%E2%80%99%20niente..&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
 
 **Andre-Blu:** Si meglio chiudere e andare.. <a href="https://translate.google.com/?sl=it&tl=en&text=Si%20meglio%20chiudere%20e%20andare..&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
 
@@ -188,11 +188,13 @@ date: 2025-05-08
 
 **Dante-Verde:** Si, Il quadro più bello vince! Vincerò sicuramente io! <a href="https://translate.google.com/?sl=it&tl=en&text=Si%2C%20Il%20quadro%20pi%C3%B9%20bello%20vince!%20Vincer%C3%B2%20sicuramente%20io!&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
 
-**Lorenzo-Blu:** Non possiamo giudicare noi! Non e' giusto! <a href="https://translate.google.com/?sl=it&tl=en&text=Non%20possiamo%20giudicare%20noi!%20Non%20e%E2%80%99%20giusto!&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
+**Lorenzo-Blu:** Non possiamo giudicare noi! Non e’ giusto! <a href="https://translate.google.com/?sl=it&tl=en&text=Non%20possiamo%20giudicare%20noi!%20Non%20e%E2%80%99%20giusto!&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
 
-**Victoria-Viola:** C'e' una persona… <a href="https://translate.google.com/?sl=it&tl=en&text=C%E2%80%99e%E2%80%99%20una%20persona%E2%80%A6&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
+**Damiano-Giallo:** Noi potremmo suonare qualcosa! <a href="https://translate.google.com/?sl=it&tl=en&text=Noi%20potremmo%20suonare%20qualcosa!&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
 
-**Eva-Viola:** si chiama "il pittore della vita". <a href="https://translate.google.com/?sl=it&tl=en&text=si%20chiama%20%E2%80%9Cil%20pittore%20della%20vita%E2%80%9D.&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
+**Victoria-Viola:** C’e’ una persona… <a href="https://translate.google.com/?sl=it&tl=en&text=C%E2%80%99e%E2%80%99%20una%20persona%E2%80%A6&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
+
+**Eva-Viola:** si chiama “il pittore della vita”. <a href="https://translate.google.com/?sl=it&tl=en&text=si%20chiama%20%E2%80%9Cil%20pittore%20della%20vita%E2%80%9D.&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
 
 **Julia-Viola:** È la persona giusta! Io la conosco, eravamo in classe insieme! Era una chiacchierona.. <a href="https://translate.google.com/?sl=it&tl=en&text=%C3%88%20la%20persona%20giusta!%20Io%20la%20conosco%2C%20eravamo%20in%20classe%20insieme!%20Era%20una%20chiacchierona..&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
 
