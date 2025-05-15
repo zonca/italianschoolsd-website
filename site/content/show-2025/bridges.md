@@ -89,8 +89,6 @@ Micah: Il mio gelato preferito è alla menta. <a href="https://translate.google.
 
 ### Buongiorno
 
-Buongiorno <a href="https://translate.google.com/?sl=it&tl=en&text=Buongiorno&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
-
 Buongiorno con un mano. <a href="https://translate.google.com/?sl=it&tl=en&text=Buongiorno%20con%20un%20mano.&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
 
 Buongiorno con l’altra mano. <a href="https://translate.google.com/?sl=it&tl=en&text=Buongiorno%20con%20l%E2%80%99altra%20mano.&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
@@ -116,8 +114,6 @@ Testa, spalle, ginocchia e piedi <a href="https://translate.google.com/?sl=it&tl
 ginocchia e piedi. <a href="https://translate.google.com/?sl=it&tl=en&text=ginocchia%20e%20piedi.&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
 
 ### Nella vecchia fattoria
-
-Nella vecchia fattoria <a href="https://translate.google.com/?sl=it&tl=en&text=Nella%20vecchia%20fattoria&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
 
 Nella vecchia fattoria ia ia o <a href="https://translate.google.com/?sl=it&tl=en&text=Nella%20vecchia%20fattoria%20ia%20ia%20o&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
 
@@ -179,10 +175,6 @@ Se sei felice e tu lo sai fai tutti e tre. <a href="https://translate.google.com
 
 ### Arrivederci
 
-Arrivederci <a href="https://translate.google.com/?sl=it&tl=en&text=Arrivederci&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
-
 Arrivederci, arrivederci Maestra. <a href="https://translate.google.com/?sl=it&tl=en&text=Arrivederci%2C%20arrivederci%20Maestra.&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
 
 Arrivederci, arrivederci, ciao ciao! <a href="https://translate.google.com/?sl=it&tl=en&text=Arrivederci%2C%20arrivederci%2C%20ciao%20ciao!&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
-
-
