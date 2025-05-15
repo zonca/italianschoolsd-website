@@ -21,69 +21,69 @@ Mi chiamo Mia. Ho 9 anni. <a href="https://translate.google.com/?sl=it&tl=en&tex
 
 Mi chiamo Micah. Ho 7 anni. <a href="https://translate.google.com/?sl=it&tl=en&text=Mi%20chiamo%20Micah.%20Ho%207%20anni.&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
 
-Max - Ho i capelli marroni e corti, e gli occhi marroni. <a href="https://translate.google.com/?sl=it&tl=en&text=Max%20-%20Ho%20i%20capelli%20marroni%20e%20corti%2C%20e%20gli%20occhi%20marroni.&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
+Max: Ho i capelli marroni e corti, e gli occhi marroni. <a href="https://translate.google.com/?sl=it&tl=en&text=Ho%20i%20capelli%20marroni%20e%20corti%2C%20e%20gli%20occhi%20marroni.&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
 
-Eleonor - Ho i capelli marroni e medi, e gli occhi marroni. <a href="https://translate.google.com/?sl=it&tl=en&text=Eleonor%20-%20Ho%20i%20capelli%20marroni%20e%20medi%2C%20e%20gli%20occhi%20marroni.&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
+Eleonor: Ho i capelli marroni e medi, e gli occhi marroni. <a href="https://translate.google.com/?sl=it&tl=en&text=Ho%20i%20capelli%20marroni%20e%20medi%2C%20e%20gli%20occhi%20marroni.&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
 
-Milana - Ho i capelli marroni e lunghi, e gli occhi marroni. <a href="https://translate.google.com/?sl=it&tl=en&text=Milana%20-%20Ho%20i%20capelli%20marroni%20e%20lunghi%2C%20e%20gli%20occhi%20marroni.&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
+Milana: Ho i capelli marroni e lunghi, e gli occhi marroni. <a href="https://translate.google.com/?sl=it&tl=en&text=Ho%20i%20capelli%20marroni%20e%20lunghi%2C%20e%20gli%20occhi%20marroni.&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
 
-Eddie - Ho i capelli marroni e corti, e gli occhi marroni. <a href="https://translate.google.com/?sl=it&tl=en&text=Eddie%20-%20Ho%20i%20capelli%20marroni%20e%20corti%2C%20e%20gli%20occhi%20marroni.&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
+Eddie: Ho i capelli marroni e corti, e gli occhi marroni. <a href="https://translate.google.com/?sl=it&tl=en&text=Ho%20i%20capelli%20marroni%20e%20corti%2C%20e%20gli%20occhi%20marroni.&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
 
-Margot - Ho i capelli marroni e lunghi, e gli occhi marroni. <a href="https://translate.google.com/?sl=it&tl=en&text=Margot%20-%20Ho%20i%20capelli%20marroni%20e%20lunghi%2C%20e%20gli%20occhi%20marroni.&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
+Margot: Ho i capelli marroni e lunghi, e gli occhi marroni. <a href="https://translate.google.com/?sl=it&tl=en&text=Ho%20i%20capelli%20marroni%20e%20lunghi%2C%20e%20gli%20occhi%20marroni.&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
 
-Anna - Ho i capelli biondi e lunghi, e gli occhi blu. <a href="https://translate.google.com/?sl=it&tl=en&text=Anna%20-%20Ho%20i%20capelli%20biondi%20e%20lunghi%2C%20e%20gli%20occhi%20blu.&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
+Anna: Ho i capelli biondi e lunghi, e gli occhi blu. <a href="https://translate.google.com/?sl=it&tl=en&text=Ho%20i%20capelli%20biondi%20e%20lunghi%2C%20e%20gli%20occhi%20blu.&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
 
-Mia - Ho i capelli biondi e lunghi, e gli occhi marroni. <a href="https://translate.google.com/?sl=it&tl=en&text=Mia%20-%20Ho%20i%20capelli%20biondi%20e%20lunghi%2C%20e%20gli%20occhi%20marroni.&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
+Mia: Ho i capelli biondi e lunghi, e gli occhi marroni. <a href="https://translate.google.com/?sl=it&tl=en&text=Ho%20i%20capelli%20biondi%20e%20lunghi%2C%20e%20gli%20occhi%20marroni.&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
 
-Micah - Ho i capelli marroni e corti, e gli occhi marroni. <a href="https://translate.google.com/?sl=it&tl=en&text=Micah%20-%20Ho%20i%20capelli%20marroni%20e%20corti%2C%20e%20gli%20occhi%20marroni.&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
+Micah: Ho i capelli marroni e corti, e gli occhi marroni. <a href="https://translate.google.com/?sl=it&tl=en&text=Ho%20i%20capelli%20marroni%20e%20corti%2C%20e%20gli%20occhi%20marroni.&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
 
-Max - Il mio colore preferito è il verde. <a href="https://translate.google.com/?sl=it&tl=en&text=Max%20-%20Il%20mio%20colore%20preferito%20%C3%A8%20il%20verde.&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
+Max: Il mio colore preferito è il verde. <a href="https://translate.google.com/?sl=it&tl=en&text=Il%20mio%20colore%20preferito%20%C3%A8%20il%20verde.&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
 
-Eleonor - Il mio colore preferito è il viola. <a href="https://translate.google.com/?sl=it&tl=en&text=Eleonor%20-%20Il%20mio%20colore%20preferito%20%C3%A8%20il%20viola.&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
+Eleonor: Il mio colore preferito è il viola. <a href="https://translate.google.com/?sl=it&tl=en&text=Il%20mio%20colore%20preferito%20%C3%A8%20il%20viola.&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
 
-Milana -Il mio colore preferito è il rosso. <a href="https://translate.google.com/?sl=it&tl=en&text=Milana%20-Il%20mio%20colore%20preferito%20%C3%A8%20il%20rosso.&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
+Milana: Il mio colore preferito è il rosso. <a href="https://translate.google.com/?sl=it&tl=en&text=Il%20mio%20colore%20preferito%20%C3%A8%20il%20rosso.&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
 
-Eddie - Il mio colore preferito è il blu. <a href="https://translate.google.com/?sl=it&tl=en&text=Eddie%20-%20Il%20mio%20colore%20preferito%20%C3%A8%20il%20blu.&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
+Eddie: Il mio colore preferito è il blu. <a href="https://translate.google.com/?sl=it&tl=en&text=Il%20mio%20colore%20preferito%20%C3%A8%20il%20blu.&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
 
-Margot - Il mio colore preferito è il rosa. <a href="https://translate.google.com/?sl=it&tl=en&text=Margot%20-%20Il%20mio%20colore%20preferito%20%C3%A8%20il%20rosa.&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
+Margot: Il mio colore preferito è il rosa. <a href="https://translate.google.com/?sl=it&tl=en&text=Il%20mio%20colore%20preferito%20%C3%A8%20il%20rosa.&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
 
-Anna -Il mio colore preferito è il blu. <a href="https://translate.google.com/?sl=it&tl=en&text=Anna%20-Il%20mio%20colore%20preferito%20%C3%A8%20il%20blu.&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
+Anna: Il mio colore preferito è il blu. <a href="https://translate.google.com/?sl=it&tl=en&text=Il%20mio%20colore%20preferito%20%C3%A8%20il%20blu.&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
 
-Mia - Il mio colore preferito è il viola. <a href="https://translate.google.com/?sl=it&tl=en&text=Mia%20-%20Il%20mio%20colore%20preferito%20%C3%A8%20il%20viola.&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
+Mia: Il mio colore preferito è il viola. <a href="https://translate.google.com/?sl=it&tl=en&text=Il%20mio%20colore%20preferito%20%C3%A8%20il%20viola.&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
 
-Micah - Il mio colore preferito è il nero. <a href="https://translate.google.com/?sl=it&tl=en&text=Micah%20-%20Il%20mio%20colore%20preferito%20%C3%A8%20il%20nero.&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
+Micah: Il mio colore preferito è il nero. <a href="https://translate.google.com/?sl=it&tl=en&text=Il%20mio%20colore%20preferito%20%C3%A8%20il%20nero.&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
 
-Max - Il mio animale preferito è il gatto. <a href="https://translate.google.com/?sl=it&tl=en&text=Max%20-%20Il%20mio%20animale%20preferito%20%C3%A8%20il%20gatto.&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
+Max: Il mio animale preferito è il gatto. <a href="https://translate.google.com/?sl=it&tl=en&text=Il%20mio%20animale%20preferito%20%C3%A8%20il%20gatto.&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
 
-Eleonor - Il mio animale preferito è il pulcino. <a href="https://translate.google.com/?sl=it&tl=en&text=Eleonor%20-%20Il%20mio%20animale%20preferito%20%C3%A8%20il%20pulcino.&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
+Eleonor: Il mio animale preferito è il pulcino. <a href="https://translate.google.com/?sl=it&tl=en&text=Il%20mio%20animale%20preferito%20%C3%A8%20il%20pulcino.&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
 
-Milana - Il mio animale preferito è il pulcino. <a href="https://translate.google.com/?sl=it&tl=en&text=Milana%20-%20Il%20mio%20animale%20preferito%20%C3%A8%20il%20pulcino.&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
+Milana: Il mio animale preferito è il pulcino. <a href="https://translate.google.com/?sl=it&tl=en&text=Il%20mio%20animale%20preferito%20%C3%A8%20il%20pulcino.&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
 
-Eddie - Il mio animale preferito è il cane. <a href="https://translate.google.com/?sl=it&tl=en&text=Eddie%20-%20Il%20mio%20animale%20preferito%20%C3%A8%20il%20cane.&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
+Eddie: Il mio animale preferito è il cane. <a href="https://translate.google.com/?sl=it&tl=en&text=Il%20mio%20animale%20preferito%20%C3%A8%20il%20cane.&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
 
-Margot - Il mio animale preferito è il pulcino. <a href="https://translate.google.com/?sl=it&tl=en&text=Margot%20-%20Il%20mio%20animale%20preferito%20%C3%A8%20il%20pulcino.&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
+Margot: Il mio animale preferito è il pulcino. <a href="https://translate.google.com/?sl=it&tl=en&text=Il%20mio%20animale%20preferito%20%C3%A8%20il%20pulcino.&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
 
-Anna - Il mio animale preferito è il gatto. <a href="https://translate.google.com/?sl=it&tl=en&text=Anna%20-%20Il%20mio%20animale%20preferito%20%C3%A8%20il%20gatto.&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
+Anna: Il mio animale preferito è il gatto. <a href="https://translate.google.com/?sl=it&tl=en&text=Il%20mio%20animale%20preferito%20%C3%A8%20il%20gatto.&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
 
-Mia - Il mio animale preferito è il cane. <a href="https://translate.google.com/?sl=it&tl=en&text=Mia%20-%20Il%20mio%20animale%20preferito%20%C3%A8%20il%20cane.&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
+Mia: Il mio animale preferito è il cane. <a href="https://translate.google.com/?sl=it&tl=en&text=Il%20mio%20animale%20preferito%20%C3%A8%20il%20cane.&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
 
-Micah - Il mio animale preferito è il Gran Joha. <a href="https://translate.google.com/?sl=it&tl=en&text=Micah%20-%20Il%20mio%20animale%20preferito%20%C3%A8%20il%20Gran%20Joha.&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
+Micah: Il mio animale preferito è il Gran Joha. <a href="https://translate.google.com/?sl=it&tl=en&text=Il%20mio%20animale%20preferito%20%C3%A8%20il%20Gran%20Joha.&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
 
-Max - Il mio gelato preferito è alla vaniglia. <a href="https://translate.google.com/?sl=it&tl=en&text=Max%20-%20Il%20mio%20gelato%20preferito%20%C3%A8%20alla%20vaniglia.&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
+Max: Il mio gelato preferito è alla vaniglia. <a href="https://translate.google.com/?sl=it&tl=en&text=Il%20mio%20gelato%20preferito%20%C3%A8%20alla%20vaniglia.&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
 
-Eleonor - Il mio gelato preferito è alla menta. <a href="https://translate.google.com/?sl=it&tl=en&text=Eleonor%20-%20Il%20mio%20gelato%20preferito%20%C3%A8%20alla%20menta.&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
+Eleonor: Il mio gelato preferito è alla menta. <a href="https://translate.google.com/?sl=it&tl=en&text=Il%20mio%20gelato%20preferito%20%C3%A8%20alla%20menta.&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
 
-Milana - Il mio gelato preferito è al cioccolato. <a href="https://translate.google.com/?sl=it&tl=en&text=Milana%20-%20Il%20mio%20gelato%20preferito%20%C3%A8%20al%20cioccolato.&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
+Milana: Il mio gelato preferito è al cioccolato. <a href="https://translate.google.com/?sl=it&tl=en&text=Il%20mio%20gelato%20preferito%20%C3%A8%20al%20cioccolato.&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
 
-Eddie - Il mio gelato preferito è al caffè e alla menta. <a href="https://translate.google.com/?sl=it&tl=en&text=Eddie%20-%20Il%20mio%20gelato%20preferito%20%C3%A8%20al%20caff%C3%A8%20e%20alla%20menta.&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
+Eddie: Il mio gelato preferito è al caffè e alla menta. <a href="https://translate.google.com/?sl=it&tl=en&text=Il%20mio%20gelato%20preferito%20%C3%A8%20al%20caff%C3%A8%20e%20alla%20menta.&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
 
-Margot - Il mio gelato preferito è alla fragola. <a href="https://translate.google.com/?sl=it&tl=en&text=Margot%20-%20Il%20mio%20gelato%20preferito%20%C3%A8%20alla%20fragola.&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
+Margot: Il mio gelato preferito è alla fragola. <a href="https://translate.google.com/?sl=it&tl=en&text=Il%20mio%20gelato%20preferito%20%C3%A8%20alla%20fragola.&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
 
-Anna - Il mio gelato preferito è alla menta con pezzi di biscotti. <a href="https://translate.google.com/?sl=it&tl=en&text=Anna%20-%20Il%20mio%20gelato%20preferito%20%C3%A8%20alla%20menta%20con%20pezzi%20di%20biscotti.&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
+Anna: Il mio gelato preferito è alla menta con pezzi di biscotti. <a href="https://translate.google.com/?sl=it&tl=en&text=Il%20mio%20gelato%20preferito%20%C3%A8%20alla%20menta%20con%20pezzi%20di%20biscotti.&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
 
-Mia - Il mio gelato preferito è alla nuvola di zucchero. <a href="https://translate.google.com/?sl=it&tl=en&text=Mia%20-%20Il%20mio%20gelato%20preferito%20%C3%A8%20alla%20nuvola%20di%20zucchero.&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
+Mia: Il mio gelato preferito è alla nuvola di zucchero. <a href="https://translate.google.com/?sl=it&tl=en&text=Il%20mio%20gelato%20preferito%20%C3%A8%20alla%20nuvola%20di%20zucchero.&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
 
-Micah - Il mio gelato preferito è alla menta. <a href="https://translate.google.com/?sl=it&tl=en&text=Micah%20-%20Il%20mio%20gelato%20preferito%20%C3%A8%20alla%20menta.&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
+Micah: Il mio gelato preferito è alla menta. <a href="https://translate.google.com/?sl=it&tl=en&text=Il%20mio%20gelato%20preferito%20%C3%A8%20alla%20menta.&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
 
 ## Songs
 
@@ -105,19 +105,11 @@ Buongiorno e ci sediamo al nostro posto piano piano. <a href="https://translate.
 
 ### Testa, spalle, ginocchia e piedi
 
-Testa, spalle <a href="https://translate.google.com/?sl=it&tl=en&text=Testa%2C%20spalle&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
-
 Testa, spalle, ginocchia e piedi <a href="https://translate.google.com/?sl=it&tl=en&text=Testa%2C%20spalle%2C%20ginocchia%20e%20piedi&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
 
 ginocchia e piedi. <a href="https://translate.google.com/?sl=it&tl=en&text=ginocchia%20e%20piedi.&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
 
-Testa, spalle, ginocchia e piedi <a href="https://translate.google.com/?sl=it&tl=en&text=Testa%2C%20spalle%2C%20ginocchia%20e%20piedi&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
-
-ginocchia e piedi. <a href="https://translate.google.com/?sl=it&tl=en&text=ginocchia%20e%20piedi.&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
-
-Occhi, orecchie <a href="https://translate.google.com/?sl=it&tl=en&text=Occhi%2C%20orecchie&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
-
-bocca e naso. <a href="https://translate.google.com/?sl=it&tl=en&text=bocca%20e%20naso.&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
+Occhi, orecchie, bocca e naso. <a href="https://translate.google.com/?sl=it&tl=en&text=Occhi%2C%20orecchie%2C%20bocca%20e%20naso.&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
 
 Testa, spalle, ginocchia e piedi <a href="https://translate.google.com/?sl=it&tl=en&text=Testa%2C%20spalle%2C%20ginocchia%20e%20piedi&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
 
