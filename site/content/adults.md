@@ -46,6 +46,7 @@ For students with at least one year of Italian classes or equivalent self-study.
 
 **Monday 6pm–7:30pm (In person)**  
 June 2 – July 28 (9 classes)  
+* We plan to have either 2 or 3 classes on Mondays and we will split the students into groups based on their level.
 *June 2 is "Enrollment Day": we’ll assess new students and organize groups by level. We aim to keep previous groups together but may adjust for balance.*  
 [$288 (includes credit card fees)](https://link.waveapps.com/vzkf75-5xbnxw)
 
