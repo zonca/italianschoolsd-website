@@ -1,5 +1,7 @@
 ---
 title: "Intro to Italian: Summer 2025"
+aliases:
+    - /summer-2025
 date: 2025-05-13
 ---
 
