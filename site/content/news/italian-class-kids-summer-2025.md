@@ -7,7 +7,7 @@ date: 2025-05-13
 
 <img src="/img/italian-summer-camp.svg" alt="Italian Summer Program" style="max-width: 200px; display: block; margin-bottom: 1em;" />
 
-We are excited to announce a new Italian class for kids (ages 8-11) this summer!
+We are excited to announce a new Italian class for kids (ages 8-11, 3rd to 6th grade) this summer!
 
 - **Location:** In-person at Italian School of San Diego, 4550 Kearny Villa Rd, Suite 202
 - **Schedule:** Wednesdays, June 11 – August 6, 2025 (9 classes)
