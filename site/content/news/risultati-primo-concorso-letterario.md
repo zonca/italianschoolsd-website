@@ -12,13 +12,13 @@ You can checkout all the works produced by our students at the [Announcement pag
 
 The winner of the Class Book section were the second graders with teachers Cecilia and Francesca:
 
-* [La storia di tutto](https://issuu.com/italianschoolsd/docs/la_storia_di_tutto)
+* [La storia di tutto](https://drive.google.com/file/d/1anzPIE0FdT6m7jJOw7umDlJ9ODJcmj-3/view?usp=sharing)
 
 ### Section "Opere Singole"
 
 In the "Opere Singole" book:
 
-* [Opere singole](https://issuu.com/italianschoolsd/docs/opere_singole)
+* [Opere singole](https://drive.google.com/file/d/1UR_rr-YSy-QE3nikrqsg9YyQPolZTPJc/view?usp=sharing)
 
 The winners were:
 
