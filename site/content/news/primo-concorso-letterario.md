@@ -40,16 +40,16 @@ If you have an iPad or a smartphone you can flip the pages like a physical book.
 
 You will be asked to choose 2 of these 4 books produced by a class
 
-* [La storia di tutto](https://issuu.com/italianschoolsd/docs/la_storia_di_tutto)
-* [La cosa piu' bella che conosco](https://issuu.com/italianschoolsd/docs/la_cosa_piu_bella)
-* [Le avventure della famiglia Prosciutto](https://issuu.com/italianschoolsd/docs/le_avventure_della_famiglia_prosciutto)
-* [La fata Aurora aiuta gli amici](https://issuu.com/italianschoolsd/docs/fata_aurora)
+* [La storia di tutto](https://drive.google.com/file/d/1anzPIE0FdT6m7jJOw7umDlJ9ODJcmj-3/view?usp=sharing)
+* [La cosa piu' bella che conosco](https://drive.google.com/file/d/1QegloplHI7r9KU7TXEt5MDIiBmiOzVhF/view?usp=sharing)
+* [Le avventure della famiglia Prosciutto](https://drive.google.com/file/d/1h8dN2n6vK09ibsxzu2MbmbU-Q0ETX8Ab/view?usp=sharing)
+* [La fata Aurora aiuta gli amici](https://drive.google.com/file/d/1je8K01u8nYzA-YVlvr7YxJKtPVdSgfDv/view?usp=sharing)
 
 ### Section "Opere Singole"
 
 You will be asked to vote for 3 of these individual works:
 
-* [Opere singole](https://issuu.com/italianschoolsd/docs/opere_singole)
+* [Opere singole](https://drive.google.com/file/d/1UR_rr-YSy-QE3nikrqsg9YyQPolZTPJc/view?usp=sharing)
 
 ### Voting
 
