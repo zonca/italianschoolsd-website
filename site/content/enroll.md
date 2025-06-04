@@ -14,27 +14,23 @@ You will need to pay the invoice attached to the confirmation email to finalize 
 
 ## Tuition for Italian-heritage and for Italian as a Foreign language in-person 2-hour classes
 
-Tuition for 9 months of instruction for early enrollment (payment **before August 7th**), unchanged from 3 years ago 2022-2023, is:
+Tuition for 9 months of instruction for early enrollment (payment **before August 7th**):
 
-**$1656** (equivalent to $184/month if paid annually)
+**$1840** (new students)
 
-Returning students, enrolled last year (2024-2025) in Italian school of San Diego have a 10% discount:
+**$1656** (returning students, enrolled last year 2024-2025, this tuition is unchanged since 2022-2023)
 
-**$1490** (equivalent to $165/month if paid annually)
+**$1490** (legacy students, enrolled for 4 years or more)
 
 ## Late enrollment
 
-Parents which pay the enrollment invoice **after August 7th** or that enroll during the school year, will have a tuition 10% higher:
+Parents who pay the enrollment invoice **after August 7th** or enroll during the school year will have a tuition 5% higher and are not eligible for returning or legacy discounts:
 
-**$1822**
-
-Returning students, enrolled last year (2024-2025) in Italian school of San Diego have a 10% discount:
-
-**$1639**
+**$1932**
 
 ## Material fee
 
-We are charging an additional $100 material fee for all kids joining in-person classes, this covers office and craft supplies we purchase during the year.
+We are charging an additional $150 material fee for all kids joining in-person classes, this covers office and craft supplies we purchase during the year.
 
 Check [the dedicated page for details on payment methods, cancellation policy, the 8-payments option and sibling discount](/tuition-payment)
 
