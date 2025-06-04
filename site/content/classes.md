@@ -1,71 +1,66 @@
 ---
-title: Italian classes in San Diego
+title: Italian Classes in San Diego
 image: /img/isola_bella.jpg
-subtitle: Children classes 2024-2025
+subtitle: Children's Classes 2025–2026
 ---
 
-This is the page for students TK-6th grade, for teens see [the accredited classes](/accredited-classes).
+This page is for students in TK–6th grade. For teens, see our [accredited classes](/accredited-classes).
 
-## (New!) Intro to Italian summer class for kids 8-11 years old
+## (New!) Intro to Italian Summer Class for Kids (Ages 8–11)
 
-Find all the details and registration info for our ["Intro to Italian" summer 2025 class here]( {{< ref "news/italian-class-kids-summer-2025.md" >}} ).
+Find all the details and registration info for our ["Intro to Italian" summer 2025 class here]({{< ref "news/italian-class-kids-summer-2025.md" >}}).
 
-## Italian Heritage classes for kids TK-6
+## Italian Heritage Classes for Kids (TK–6)
 
-> “*La lingua e' l'ultima proprieta' di chi parte per sempre*”
+> “*La lingua è l'ultima proprietà di chi parte per sempre*”  
 (Erri de Luca, I pesci non chiudono gli occhi)
 
-Italian Heritage classes allow kids that are already advanced or fluent in Italian, not necessarily mother-tongue, to deepen their knowledge of the
-Italian language and learn many of the topics taught to their peers in Italy, starting from the four basic language skills: comprehension, reading , writing and oral production. Beginning in 3rd grade, the program will be enriched with the study of history and geography topics from the Italian public school curriculum. All classes are taught in Italian by a mother-tongue Italian instructor.
+Italian Heritage classes are designed for children who are already advanced or fluent in Italian, though not necessarily native speakers. These classes help deepen their knowledge of the Italian language and cover many topics taught to their peers in Italy, focusing on the four basic language skills: comprehension, reading, writing, and speaking. Starting in 3rd grade, the curriculum includes history and geography topics from the Italian public school program. All classes are taught in Italian by a native Italian instructor.
 
-Classes will have between 5 and 10 students and held in person.
-Our classes are suitable to prepare the students for [accredited classes](/accredited-classes), which generally start in 6th or 7th grade.
+Classes have 5–10 students and are held in person. Our program prepares students for [accredited classes](/accredited-classes), which typically begin in 6th or 7th grade.
 
-In-person classes are 2 hours per week, **4-6pm on Thursdays**, first class on **August 28th**,
-last class on May 21th for a total of 33 weeks of instruction (+1 week for backup in case of cancellations).
+In-person classes meet for 2 hours per week: **Thursdays, 4–6pm**. The first class is on **August 28th, 2025** and the last class is on **May 21st, 2026**, for a total of 33 weeks of instruction (+1 backup week in case of cancellations).
 
-See the [Italian school of San Diego calendar](/calendar) for our Google Calendar schedule.
+See the [Italian School of San Diego calendar](/calendar) for our Google Calendar schedule.
 
-## Italian as a Foreign Language (IFL) classes for kids (TK-6)
+## Italian as a Foreign Language (IFL) Classes for Kids (TK–6)
 
-Italian as a Foreign Language (IFL) classes are devoted to prospective students which haven't started to learn Italian yet or are beginners.
-Instruction will be in English, it will first cover the basics of Italian, using a conversation-first approach and engaging the students through language-reinforcing activities.
+Italian as a Foreign Language (IFL) classes are for students who are new to Italian or are beginners. Instruction is in English, starting with the basics of Italian using a conversation-first approach and engaging activities to reinforce language skills.
 
-Classes will have between 5 and 10 students.
+Classes have 5–10 students.
 
 In-person classes are 2 hours per week:
 
-* Afternoon program - **4-6pm on Wednesday**, first class on **August 27th**, 33 classes + 1 backup in case of cancellation, last class (backup) on May 20th
-* Morning program for home-schoolers - **10am-12pm on Wednesdays**, first class on **August 27th**, last class on May 27th, this program is also offered to students of Pacific Coast Academy and follows [their calendar](https://pacificcoastacademy.org/school-calendar). Notice we also offer a [singing class](/sing) at the same location just after the Italian classes, students can take both classes together.
+* Afternoon program: **Wednesdays, 4–6pm**. First class: **August 27th, 2025**. 33 classes + 1 backup in case of cancellation. Last class (backup): **May 20th, 2026**.
+* Morning program for home-schoolers: **Wednesdays, 10am–12pm**. First class: **August 27th, 2025**. Last class: **May 20th, 2026**. This program is also available to students of Pacific Coast Academy.
 
-Students will be organized in classes based on their age.
+Students are grouped by age.
 
-See the [Italian school of San Diego calendar](/calendar) for our Google Calendar schedule.
+See the [Italian School of San Diego calendar](/calendar) for our Google Calendar schedule.
 
-## Italian for Spanish speakers (TK-6)
+## Italian for Spanish Speakers (TK–6)
 
-Italian classes for Spanish speakers are designed for kids who already speak Spanish and want to learn Italian. These classes will leverage the similarities between the two languages to facilitate the learning process.
+These classes are for children who already speak Spanish and want to learn Italian. The curriculum leverages the similarities between the two languages to make learning easier.
 
-Instruction will be provided in both English and Spanish, allowing students to understand and practice Italian using their existing knowledge of Spanish. The classes will focus on building vocabulary, improving pronunciation, and developing conversational skills.
+Instruction is provided in both English and Spanish, helping students use their Spanish knowledge to learn Italian. The focus is on building vocabulary, improving pronunciation, and developing conversational skills.
 
-We do not plan to offer this program in 2025-2026. However, if you are interested, please [contact us](/contact) to express your interest. We may be able to arrange private or semi-private classes based on demand.
-
+We do not plan to offer this program in 2025–2026. However, if you are interested, please [contact us](/contact) to express your interest. We may be able to arrange private or semi-private classes based on demand.
 
 ## Location
 
-* Our main location is at 4550 Kearny Villa Rd Suite 202, this is where all kids classes are held, see our [dedicated page about our school](/location)
-* The only exception is 1 class near Sorrento Valley, inside *After School Learning Tree*, [11525 Sorrento Valley Rd](https://goo.gl/maps/y2M724uWRS7o3gwZ6), Thursday 4:15pm-6:15pm, for kids K to 3rd grade, either Heritage or IFL, please specify in the pre-enrollment form if you are interested in this class.
+* Our main location: 4550 Kearny Villa Rd, Suite 202. All kids' classes are held here. See our [dedicated page about our school](/location).
+* Exception: One class is held near Sorrento Valley, inside *After School Learning Tree*, [11525 Sorrento Valley Rd](https://goo.gl/maps/y2M724uWRS7o3gwZ6), Thursdays 4:15–6:15pm, for kids K–3rd grade (Heritage or IFL). Please specify in the pre-enrollment form if you are interested in this class.
 
-## Pre-enrollment for all of our programs
+## Pre-enrollment for All Programs
 
 <div class="tc">
 <a href="/enroll" class="btn raise">Tuition and pre-enrollment information</a>
 </div>
 
-## Italian classes for home-schooled kids
+## Italian Classes for Home-Schooled Kids
 
-We can organize Italian group classes in the morning for kids which are home-schooled or for preschoolers, either at our location or on-site. These classes use play time and games to introduce kids to a foreign language starting from 3 years old.
+We can organize Italian group classes in the morning for home-schooled children or preschoolers, either at our location or on-site. These classes use play and games to introduce children to Italian starting from age 3.
 
-[Get in touch with us](/contact) to schedule a call to discuss the options.
+[Contact us](/contact) to schedule a call and discuss options.
 
-Italian school is a vendor for [Pacific Coast Academy](https://pacificcoastacademy.org/), therefore you can use charter funds to pay for our classes. If your kid is enrolled in another Charter, please contact us, we can apply to be vendors.
+The Italian School is a vendor for [Pacific Coast Academy](https://pacificcoastacademy.org/), so you can use charter funds to pay for our classes. If your child is enrolled in another charter, please contact us—we can apply to become vendors.
