@@ -13,7 +13,7 @@ No previous knowledge of Spanish is required for the beginner class. We offer tw
 
 ## Schedule
 
-Wednesdays 2:30pm–4:00pm. First class: August 27th, last class: May 20th, for a total of 33 weeks of instruction (+1 backup week in case of cancellations).
+Wednesdays 2:30pm–4:00pm. First class: September 3rd, last class: May 20th, for a total of 33 weeks of instruction
 
 ## Location
 
