@@ -21,8 +21,8 @@ Italian language and learn many of the topics taught to their peers in Italy, st
 Classes will have between 5 and 10 students and held in person.
 Our classes are suitable to prepare the students for [accredited classes](/accredited-classes), which generally start in 6th or 7th grade.
 
-In-person classes are 2 hours per week, **4-6pm on Thursdays**, first class on **August 29th**,
-last class on May 29th for a total of 33 weeks of instruction (+1 week for backup in case of cancellations).
+In-person classes are 2 hours per week, **4-6pm on Thursdays**, first class on **August 28th**,
+last class on May 21th for a total of 33 weeks of instruction (+1 week for backup in case of cancellations).
 
 See the [Italian school of San Diego calendar](/calendar) for our Google Calendar schedule.
 
@@ -35,10 +35,9 @@ Classes will have between 5 and 10 students.
 
 In-person classes are 2 hours per week:
 
-* Afternoon program - **4-6pm on Wednesday**, first class on **September 4th**, last class on May 28th, [we also have a cuncurrent Italian class for beginners for the parents at the same time](https://www.italianschoolsd.com/adults/)
-* Morning program for home-schoolers - **9am-11am on Tuesday**, first class on **August 20**, last class on May 27th, this program is also offered to students of Pacific Coast Academy and follows [their calendar](https://pacificcoastacademy.org/school-calendar). Notice we also offer a [singing class](/sing) at the same location just after the Italian classes, students can take both classes together.
+* Afternoon program - **4-6pm on Wednesday**, first class on **August 27th**, 33 classes + 1 backup in case of cancellation, last class (backup) on May 20th
+* Morning program for home-schoolers - **10am-12pm on Wednesdays**, first class on **August 27th**, last class on May 27th, this program is also offered to students of Pacific Coast Academy and follows [their calendar](https://pacificcoastacademy.org/school-calendar). Notice we also offer a [singing class](/sing) at the same location just after the Italian classes, students can take both classes together.
 
-Both options have a total of 33 weeks of instruction (+1 week for backup in case of cancellations) and have the same cost.
 Students will be organized in classes based on their age.
 
 See the [Italian school of San Diego calendar](/calendar) for our Google Calendar schedule.
@@ -49,14 +48,13 @@ Italian classes for Spanish speakers are designed for kids who already speak Spa
 
 Instruction will be provided in both English and Spanish, allowing students to understand and practice Italian using their existing knowledge of Spanish. The classes will focus on building vocabulary, improving pronunciation, and developing conversational skills.
 
-* **4-6pm on Wednesday**, first class on **September 4th**, last class on May 28th
+We do not plan to offer this program in 2025-2026. However, if you are interested, please [contact us](/contact) to express your interest. We may be able to arrange private or semi-private classes based on demand.
 
-See the [Italian school of San Diego calendar](/calendar) for our Google Calendar schedule.
 
 ## Location
 
 * Our main location is at 4550 Kearny Villa Rd Suite 202, this is where all kids classes are held, see our [dedicated page about our school](/location)
-* The only exception is 1 class near Sorrento Valley, inside *After School Learning Tree*, [11525 Sorrento Valley Rd](https://goo.gl/maps/y2M724uWRS7o3gwZ6), Thursday 4:15pm-6:15pm, for kids K to 3rd grade, either Heritage or IFL, please specify in the "Other request" field in the pre-enrollment form if you are interested in our Sorrento Valley class.
+* The only exception is 1 class near Sorrento Valley, inside *After School Learning Tree*, [11525 Sorrento Valley Rd](https://goo.gl/maps/y2M724uWRS7o3gwZ6), Thursday 4:15pm-6:15pm, for kids K to 3rd grade, either Heritage or IFL, please specify in the pre-enrollment form if you are interested in this class.
 
 ## Pre-enrollment for all of our programs
 
