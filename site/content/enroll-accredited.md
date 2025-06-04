@@ -1,13 +1,12 @@
 ---
-title: Pre-enrollment 2024-2025 for accredited classes
+title: Pre-enrollment 2025-2026 for accredited classes
 image: /img/lastsupper.jpg
-subtitle: Pre-enroll to accredited classes for the academic year 2024-2025
+subtitle: Pre-enroll to accredited classes for the academic year 2025-2026
 ---
 
-Pre-Enrollment for the 2024-2025 accredited classes starting on the week of September 5th is open (September 4th is Labor day).
 See [more information about accredited classes](/accredited-classes) before pre-enrolling and make sure you follow the instructions on that page to notify the High School counselor to have credits properly recognized.
 
-Please **pre-enroll by August 5th** to secure a spot, later enrollments will be considered if space allows.
+Please **pre-enroll by July 31st** to secure a spot, later enrollments will be considered if space allows.
 No payment is needed at the time of pre-enrollment, we will email you a confirmation of pre-enrollment with all details about the proposed class 1 week after pre-enrollment closes.
 
 You will need to pay the invoice attached to the confirmation email by August 20th to finalize enrollment, pre-enrollment itself is not binding.
@@ -16,21 +15,33 @@ You will need to pay the invoice attached to the confirmation email by August 20
 
 Accredited classes have an extensive program, as approved by the school Districts, and they require significantly more effort than the non-accredited classes both for the teacher and for the students.
 The Districts require the students to have 140 hours of language education per year, where 2 are during class and 2 are of independent study each week.
-Therefore the workload for the students is signficantly higher and they need to expect that, the same workload also applies to the teacher that needs to prepare more material for homework and grade the submitted homework.
+Therefore the workload for the students is significantly higher and they need to expect that, the same workload also applies to the teacher that needs to prepare more material for homework and grade the submitted homework.
 
 The cost of the accredited class reflects the larger effort from the teacher and also the reporting requirements of grades to the High Schools.
 
 The total yearly tuition for 35 weeks of instruction (2 hours of class and 2 hours of homework per week) is:
 
-**$2422**
+**$2549** (new students)
 
-Students already enrolled in Italian school in 2023-2024 receive a 10% discount:
+**$2422** (10% discount for returning students, enrolled last year 2024-2025, this is the same tuition as last year)
 
-**$2180** (unchanged for the last 2 years - academic year **2022-2023**)
+Legacy students already enrolled in Italian school for 4 years receive another 10% discount:
 
-Moreover, at enrollment there is an additional **$100** Enrollment fee - **waived** for families paying tuition by July 31th.
+**$2180** (unchanged since academic year **2022-2023**)
 
-check [the dedicated page for details on payment methods, cancellation policy, the 8-payments option and sibling discount](/tuition-payment)
+## Material fee
+
+We are charging an additional $150 material fee for all in-person classes, this covers office and craft supplies we purchase during the year. This is not applied to online classes.
+
+## Late enrollment
+
+Parents who pay the enrollment invoice **after August 7th** or enroll during the school year will have a tuition 5% higher and are not eligible for returning or legacy discounts:
+
+**$2677**
+
+In case Italian school is late in confirming a specific class, the late enrollment fee won't apply, we will send invoices with the early enrollment discount and the parents will have 2 weeks to pay the invoice with the discounts applied.
+
+Check [the dedicated page for details on payment methods, cancellation policy, the 8-payments option and sibling discount](/tuition-payment)
 
 The pre-enrollment form is the same for TK-6th grade students and for certified classes.
 
