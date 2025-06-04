@@ -1,12 +1,8 @@
 ---
 title: Accredited Italian classes in San Diego
 image: /img/milan.jpg
-subtitle: Classes for the academic year 2024-2025
+subtitle: Classes for the academic year 2025-2026
 ---
-
-## (New!) Intro to Italian summer class for kids 8-11 years old
-
-Find all the details and registration info for our ["Intro to Italian" summer 2025 class here]( {{< ref "news/italian-class-kids-summer-2025.md" >}} ).
 
 ## Accredited Italian classes for Middle and High School students
 
@@ -24,17 +20,17 @@ For more information, check:
 
 The Italian school offers 4 one-year classes targeted at students learning Italian as a Foreign Language:
 
-* `ifl1-2` Italian 1-2, targeted at students starting to learn Italian, online class, Monday 5pm-7pm, first class on August 26th, if students prefer, we could offer instead an in-person class, please specify in the pre-enrollment form.
-* `ifl3-4` Italian 3-4, online class, schedule TBD
-* `ifl5-6` Italian 5-6, online on Tuesdays 5pm-7pm, first class on August 27th
-* `ifl7-8` Italian 7-8 and AP preparation, [see the dedicated page about AP Italian](/ap-italian-san-diego), online on Mondays 4:30pm-6:30pm, first class on August 26th
+* `ifl1-2` Italian 1-2, targeted at students starting to learn Italian, online or in-person class, schedule TBD
+* `ifl3-4` Italian 3-4, in-person class, Wednesdays 4pm-6pm, first class on August 27th.
+* `ifl5-6` Italian 5-6, online, schedule TBD
+* `ifl7-8` Italian 7-8 and AP preparation, [see the dedicated page about AP Italian](/ap-italian-san-diego), online on Mondays 5pm-7pm, first class on August 25th
 
 Moreover, we have modified programs for students, generally of Italian heritage, which already speak Italian:
 
-* `ita1-2` Italian 1-2 for Italian speakers, in-person on Thursdays 4pm-6pm, first class on August 29th
-* `ita3-4` Italian 3-4 for Italian speakers, in-person on Thursdays 4pm-6pm, first class on August 29th
-* `ita5-6` Italian 5-6 for Italian speakers, online on Mondays 4:30pm-6:30pm, first class on August 26th
-* `ita7-8` Italian 7-8 and AP preparation for Italian speakers, [see the dedicated page about AP Italian](/ap-italian-san-diego), TBD
+* `ita1-2` Italian 1-2 for Italian speakers, in-person on Thursdays 4pm-6pm, first class on August 28th
+* `ita3-4` Italian 3-4 for Italian speakers, in-person on Thursdays 4pm-6pm, first class on August 28th
+* `ita5-6` Italian 5-6 for Italian speakers, in-person on Thursdays 4pm-6pm, first class on August 28th
+* `ita7-8` Italian 7-8 and AP preparation for Italian speakers, [see the dedicated page about AP Italian](/ap-italian-san-diego), online on Mondays 4:30pm-6:30pm, first class on August 18th
 
 Students that studied Italian before can also test into a higher level than 1-2, please specify this in the pre-enrollment form or contact us in advance. Notice that if a student enrolls for example in `ifl5-6` during High School, they will receive 3 years of foreign language credit, credit is tied to the level of the class, not the number of years.
 
@@ -42,14 +38,10 @@ Students that studied Italian before can also test into a higher level than 1-2,
 
 All classes will be held via Zoom, with occasional social gatherings in person.
 
-We already have an event planned for all accredited class students (6th grade and up):
-
-* Back-to-school night Bonfire at La Jolla Shores on Friday August 30th, 2024 5-9pm
-
 ### Calendar
 
 * 35 weekly classes, 2 hours each, and 2 hours of independent studies
-* Classes start on the week of September 5th and end the first week of June
+* Classes start on the week of September 4th and end the first week of June
 * Most classes have an already setup schedule, see above, for classes TBD,  schedule will be decided by the class based on the teacher's and students' needs, generally classes will be the same day each week between 4:30pm and 6:30pm, you will receive an email about it after pre-enrollment
 
 ### Books
