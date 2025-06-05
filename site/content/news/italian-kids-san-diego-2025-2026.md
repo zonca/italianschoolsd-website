@@ -72,8 +72,12 @@ Help us spread the word about our Italian language programs:
     </div>Share on Twitter</div>
 </a>
 
-* [Italian school flyer image](/img/italianschoolsd-flyer-25-26.png) [(PDF)](/img/italianschoolsd-flyer-25-26.pdf)
-![Italian school flyer image](/img/italianschoolsd-flyer-25-26.png)
+* [Italian classes TK–6th grade flyer (PDF)](/flyers/italianschoolsd-flyer-italian-2025-2026-TK-6th.pdf)
+  ![Italian classes TK–6th grade flyer](/flyers/italianschoolsd-flyer-italian-2025-2026-TK-6th.jpg)
+* [Italian classes Middle School flyer (PDF)](/flyers/italianschoolsd-flyer-italian-2025-2026-middle-school.pdf)
+  ![Italian classes Middle School flyer](/flyers/italianschoolsd-flyer-italian-2025-2026-middle-school.jpg)
+* [Italian classes High School flyer (PDF)](/flyers/italianschoolsd-flyer-italian-2025-2026-high-school.pdf)
+  ![Italian classes High School flyer](/flyers/italianschoolsd-flyer-italian-2025-2026-high-school.jpg)
 
 ---
 
