@@ -1,7 +1,7 @@
 ---
 title: Pre-enrollment is open for 2025-2026 Italian classes for kids and teens
 date: 2025-06-04T00:00:00.000Z
-description: Academic year starts on August 28th, 2025
+description: Academic year starts on August 28th 2025
 ---
 
 **Secure your spot for the 2025–2026 school year!**
