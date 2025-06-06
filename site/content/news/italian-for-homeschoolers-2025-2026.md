@@ -27,7 +27,7 @@ The course introduces students to Italian language and culture, focusing on conv
 ## Tuition
 
 - **$890** for 16 classes
-- **10% discount** for returning students
+- **10% discount** for returning students (those who were enrolled in the 2024-2025 school year)
 - Monthly payment plan available (please specify in the pre-enrollment form)
 
 ## Second session
