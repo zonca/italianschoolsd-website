@@ -2,8 +2,6 @@
 title: Italian program for homeschoolers starting in January 2025
 date: 2024-11-28T00:00:00.000Z
 image: /img/school_athens.jpg
-aliases:
-    - /homeschool/
 subtitle: Available also through PCA and Dimensions homeschool programs
 ---
 
