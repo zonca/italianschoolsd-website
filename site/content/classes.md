@@ -6,10 +6,6 @@ subtitle: Children's Classes 2025–2026
 
 This page is for students in TK–6th grade. For teens, see our [accredited classes](/accredited-classes).
 
-## (New!) Intro to Italian Summer Class for Kids (Ages 8–11)
-
-Find all the details and registration info for our ["Intro to Italian" summer 2025 class here]({{< ref "news/italian-class-kids-summer-2025.md" >}}).
-
 ## Italian Heritage Classes for Kids (TK–6)
 
 > “*La lingua è l'ultima proprietà di chi parte per sempre*”  
