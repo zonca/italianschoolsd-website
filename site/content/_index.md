@@ -13,10 +13,10 @@ products:
       title: "Italian for adults"
       text: "Italian group and private classes in-person in Kearny Mesa and online for all levels of proficiency, we also organize custom classes for groups or businesses. We focus on a conversation-first approach with highly interactive classes, highlight cultural aspects of life and tourism in Italy, and include insights into the history and geography of Italy."
       link: /adults
-    - image: /img/italian-summer-camp.svg
-      title: "Intro to Italian: Summer 2025 (ages 8–11)"
-      text: "A fun, in-person summer class for kids ages 8–11 with no previous Italian experience. Taught by a native Italian teacher, students learn the basics of spoken and written Italian, explore Italian culture, and build conversational skills. Wednesdays, June 11 – August 6, 2025, 4:00–5:30pm."
-      link: news/2025/05/intro-to-italian-summer-2025/
+    - image: img/pythonai2_flyer_small.jpg
+      title: "Python + AI Summer Coding Camp (July 28–Aug 1, 2025)"
+      text: "A hands-on coding camp for Middle and High School students—no experience needed! Learn Python and AI, build a text-based game, and have fun. Morning and afternoon sessions in Kearny Mesa. Led by Dr. Andrea Zonca (UCSD)"
+      link: https://pythonai2.sandiegodata.science/
 values:
     heading: About
     text: Our instructors are all native Italian speakers, experienced and passionate about sharing their language and culture with students of all ages. Led by Director and CEO Maura D'Andrea, who founded the Italian School of San Diego in 2021, our team is dedicated to providing an authentic and engaging learning experience.
