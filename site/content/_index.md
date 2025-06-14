@@ -11,7 +11,7 @@ intro:
 products:
     - image: /flyers/italianschoolsd-flyer-italian-2025-2026-TK-6th.jpg
       title: "Italian for TK to 6th Graders"
-      text: "Our Italian classes for TK–6th grade are designed for both heritage speakers and beginners. Heritage classes (in Italian) deepen language skills and cover topics from Italian schools, including reading, writing, comprehension, and conversation, plus history and geography for older students. Italian as a Foreign Language (IFL) classes (in English) use a conversation-first approach and engaging activities to introduce Italian to new learners. Classes are grouped by age, meet weekly in-person, and are taught by native Italian instructors. Morning and afternoon options are available, including a program for homeschoolers.
+      text: "Our Italian classes for TK–6th grade are designed for both heritage speakers and beginners. Heritage classes (in Italian) deepen language skills and cover topics from Italian schools, including reading, writing, comprehension, and conversation, plus history and geography for older students. Italian as a Foreign Language (IFL) classes (in English) use a conversation-first approach and engaging activities to introduce Italian to new learners. Classes are grouped by age, meet weekly in-person, and are taught by native Italian instructors. Morning and afternoon options are available, including a program for homeschoolers."
       link: /classes
     - image: img/italian-adult-classes.svg
       title: "Italian for adults"
