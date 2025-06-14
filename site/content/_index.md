@@ -17,6 +17,7 @@ products:
       title: "Italian for adults"
       text: "Italian group and private classes in-person in Kearny Mesa and online for all levels of proficiency, we also organize custom classes for groups or businesses. We focus on a conversation-first approach with highly interactive classes, highlight cultural aspects of life and tourism in Italy, and include insights into the history and geography of Italy."
       link: /adults
+products2:
     - image: img/pythonai2_flyer_small.jpg
       title: "Python + AI Summer Coding Camp (July 28–Aug 1, 2025)"
       text: "A hands-on coding camp for Middle and High School students—no experience needed! Learn Python and AI, build a text-based game, and have fun. Morning and afternoon sessions in Kearny Mesa. Led by Dr. Andrea Zonca (UCSD)"
