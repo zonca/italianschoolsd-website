@@ -7,7 +7,7 @@ blurb:
     text: "Young children learn new languages quickly, and Italian opens the door to a rich world of art, history, literature, and cuisine. Studying Italian from an early age can lead to school credit through Advanced Placement or college programs. For adults, learning Italian means connecting more deeply with locals while traveling, enjoying Italian films, and reading classic literature in the original language."
 intro:
     heading: "Italian school programs"
-    text: "Italian school offers Italian programs targeted at multiple audiences, our teachers are all Italian mother-tongue and our classes are 5 to 8 students:"
+    text: "Unless noted otherwise, all our in-person programs are held at our main location at 4550 Kearny Villa Rd, Suite 202, San Diego, CA"
 products:
     - image: /flyers/italianschoolsd-flyer-italian-2025-2026-TK-6th.jpg
       title: "Italian for TK to 6th Graders"
