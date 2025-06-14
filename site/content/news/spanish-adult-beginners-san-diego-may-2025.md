@@ -22,13 +22,10 @@ This class is designed for those who want to start learning Spanish in a friendl
 ## Online instead of in-person
 
 If you are interested in taking this class online instead of in person, please [contact us](/contact). If there is enough interest, we may offer an online option as well.
----
 
 ## About the Instructor
 
 Our experienced native Spanish instructor will guide you through the basics and help you build confidence in speaking and understanding Spanish. No previous experience required!
-
----
 
 ## Questions?
 
