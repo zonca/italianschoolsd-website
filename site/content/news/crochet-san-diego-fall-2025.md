@@ -14,11 +14,19 @@ Classes are held at the Italian school, but instruction is entirely in English. 
 
 ## Example projects
 
-Possible projects for this session include:
+Here are a few examples of projects that we could work on during the class:
 
 * Cozy potholder
+
+![Potholder](/img/potholder.jpg)
+
 * Decorative trivet
-* Autumn-themed accessories
+
+![Trivet](/img/trivet.jpg)
+
+* Colorful crocheted doilies
+
+![Colorful crocheted doilies](/img/colorful-crocheted-doilies.jpg)
 
 ## Schedule
 
