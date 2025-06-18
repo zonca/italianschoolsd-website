@@ -14,9 +14,9 @@ Welcome! Below you’ll find all our current and upcoming Italian classes for ad
 
 ---
 
-## Italian for Travelers 2025 (Starts May 8th!)
+## Italian for Travelers 2025 (Starts July 2nd and August 6th)
 
-Our 4-week "Italian for Travelers" program begins in May 2025. This course is perfect for families—children 8 years and older are welcome to join!
+Our 4-week "Italian for Travelers" program runs monthly. This course is perfect for families—children 8 years and older are welcome to join!
 
 <div class="tc">
 <a href="/travelers" class="btn raise">Learn more and enroll to "Italian for travelers"</a>
