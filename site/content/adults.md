@@ -28,6 +28,8 @@ Our 4-week "Italian for Travelers" program runs monthly. This course is perfect 
 
 Choose your level below and enroll online with your credit card.
 
+Our next session will start in mid-August, 2025, the schedule will be available by the end of July.
+
 ### Beginner
 
 No prior Italian experience required.
