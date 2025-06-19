@@ -53,7 +53,7 @@ June 2 – July 28 (9 classes)
 [$288 (includes credit card fees)](https://link.waveapps.com/vzkf75-5xbnxw)
 
 **Thursday 6pm–7:30pm (Online, Beginner-Intermediate)**  
-June 26 – August 28 (10 classes)  
+July 3 – September 4 (10 classes)  
 [$280 (includes credit card fees)](https://link.waveapps.com/w4a98h-enptde)
 
 ### Advanced
