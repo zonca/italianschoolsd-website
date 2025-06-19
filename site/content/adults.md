@@ -60,10 +60,7 @@ June 26 – August 28 (10 classes)
 
 For students with 3+ years of Italian, able to understand most spoken Italian and hold conversations.
 
-**Thursday 6:15pm–7:45pm (In person)**  
-*Conversation-only class*, we will take a topic/news article/movie each week and discuss it in Italian.
-May 29 – July 24 (9 classes)
-[$288 (includes credit card fees)](https://link.waveapps.com/4jdwxu-yxt7c4)
+No classes scheduled during the summer quarter, we will resume in the fall.
 
 ---
 
