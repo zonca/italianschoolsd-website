@@ -39,7 +39,7 @@ We understand that everyone is at a different stage in their journey. Whether yo
 **What to expect**
 
 * Fill Out the Form: Begin by completing a simple form to help us understand your needs.  
-* Free Consultation: Schedule a complimentary 30-minute consultation with our team to discuss your options and receive personalized advice.  
+* Preliminary Consultation: Schedule a preliminary consultation with our attorney for a fixed fee. If you choose to proceed with our services, this fee will be credited toward your total costs.  
 * Tailored Solutions: Based on your goals, we will recommend the best path to Italian citizenship or residency and provide a detailed action plan.  
 * Transparent Pricing: We offer clear pricing once we have established a plan of action, ensuring there are no surprises along the way.
 
