@@ -181,8 +181,6 @@ Ready to experience the difference that professional Italian translation can mak
 
 - **Website**: [italianschoolsd.com/contact](https://www.italianschoolsd.com/contact/)
 
-For immediate assistance or to request a quote, please visit our [contact page](https://www.italianschoolsd.com/contact/) or fill out our interest form.
-
 ---
 
 *At Italian school of San Diego LLC, we believe that language is the bridge between cultures. Our professional Italian translation services ensure that this bridge is strong, accurate, and culturally sensitive. Whether you're preserving family history, pursuing Italian citizenship, or expanding your business into Italian markets, we're here to help you communicate effectively across languages and cultures.*
