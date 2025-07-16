@@ -64,7 +64,11 @@ July 3 – September 4 (10 classes)
 
 For students with 3+ years of Italian, able to understand most spoken Italian and hold conversations.
 
-No classes scheduled during the summer quarter, we will resume in the fall.
+**Thursday 6:15pm–7:45pm (In person)**  
+August 28 – December 11 (15 classes)  
+Class taught by Ilana. Please [contact us](/contact) if you are interested in monthly payments.
+*No class on Thanksgiving (Nov 27)*
+[Pay and enroll ($480)](https://link.waveapps.com/92wajv-dna4dr)
 
 ---
 
