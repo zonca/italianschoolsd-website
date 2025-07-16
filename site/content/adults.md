@@ -14,7 +14,7 @@ Welcome! Below you’ll find all our current and upcoming Italian classes for ad
 
 ---
 
-## Italian for Travelers 2025 (Starts July 2nd and August 6th)
+## Italian for Travelers 2025 (Starts August 6th)
 
 Our 4-week "Italian for Travelers" program runs monthly. This course is perfect for families—children 8 years and older are welcome to join!
 
@@ -24,7 +24,7 @@ Our 4-week "Italian for Travelers" program runs monthly. This course is perfect 
 
 ---
 
-## Summer 2025 Group Classes
+## Fall 2025 Group Classes
 
 Choose your level below and enroll online with your credit card.
 
@@ -47,10 +47,14 @@ June 3 – August 19 (12 classes)
 For students with at least one year of Italian classes or equivalent self-study.
 
 **Monday 6pm–7:30pm (In person)**  
-June 2 – July 28 (9 classes)  
-* We plan to have either 2 or 3 classes (Beginner-Intermediate, Intermediate and Intermediate-Advanced) on Mondays and we will split the students into groups based on their level.
-*June 2 is "Enrollment Day": we’ll assess new students and organize groups by level. We aim to keep previous groups together but may adjust for balance.*  
-[$288 (includes credit card fees)](https://link.waveapps.com/vzkf75-5xbnxw)
+August 18 – December 15 (14 classes)  
+*No class on Labor Day (Sep 1), Columbus/Indigenous Peoples’ Day (Oct 13), Veterans Day (Nov 10), and Thanksgiving break (Nov 24)*
+* We plan to have 3 classes (Beginner-Intermediate, Intermediate and Intermediate-Advanced) on Mondays and we will split the students into groups based on their level.
+*August 18th is "Enrollment Day": we’ll assess new students and organize groups by level. We aim to keep previous groups together but may adjust for balance.*  
+[Pay and enroll ($448)](https://link.waveapps.com/zacu6p-hj3uak)
+
+Given the long duration of the class, we also give the option of a monthly payment plan, with a 10% additional admin fee, it is $98 for 5 monthly installments, once you enroll and make the first payment, you will receive monthly invoices for the remaining 4 payments that you can pay manually or save your credit card for automatic payments. Notice you are still committing to continue the class until the end of the session.
+[Pay and enroll with 5 monthly payments of $98](https://link.waveapps.com/srjtdq-ce9m7x)
 
 **Thursday 6pm–7:30pm (Online, Beginner-Intermediate)**  
 July 3 – September 4 (10 classes)  
