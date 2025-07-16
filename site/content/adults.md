@@ -28,15 +28,16 @@ Our 4-week "Italian for Travelers" program runs monthly. This course is perfect 
 
 Choose your level below and enroll online with your credit card.
 
-Our next session will start in mid-August, 2025, the schedule will be available by the end of July.
-
 ### Beginner
 
 No prior Italian experience required.
 
 **Thursday 6:15pm–7:45pm (In person)**  
-May 29 – July 24 (9 classes)  
-[$288 (includes credit card fees)](https://link.waveapps.com/3un73j-6b2the)
+August 28 – December 11 (15 classes)  
+[Pay and enroll ($480)](https://link.waveapps.com/uwuwac-wxz4nz)
+
+Given the long duration of the class, we also give the option of a monthly payment plan, with a 10% additional admin fee, it is $98 for 5 monthly installments, once you enroll and make the first payment, you will receive monthly invoices for the remaining 4 payments that you can pay manually or save your credit card for automatic payments. Notice you are still committing to continue the class until the end of the session.
+[Pay and enroll with 5 monthly payments of $105](https://link.waveapps.com/kjuqf6-45azbs)
 
 **Tuesday 6pm–7:30pm (Online)**  
 June 3 – August 19 (12 classes)  
