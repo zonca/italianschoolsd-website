@@ -5,8 +5,6 @@ subtitle: Academic calendar
 ---
 Calendar for the academic year is available via Google Calendar, click on the `+ Google Calendar` button at the bottom of the integrated calendar below to add any of the Italian school calendars to your Google Calendar account.
 
-August 29th, 2024: first class, May 29th, 2025: last class
-
 ## Kearny Mesa location (Heritage class on Thursday)
 
 * [Full page web view of the calendar](https://calendar.google.com/calendar/embed?src=ftdcclbhb2376sq8hudue9nb50%40group.calendar.google.com)
