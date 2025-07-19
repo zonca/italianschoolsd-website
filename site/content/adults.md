@@ -42,7 +42,7 @@ Given the long duration of the class, we also give the option of a monthly payme
 **Monday 6pm–7:30pm (Online)**  
 August 18 – December 15 (14 classes)  
 *No class on Labor Day (Sep 1), Columbus/Indigenous Peoples’ Day (Oct 13), Veterans Day (Nov 10), and Thanksgiving break (Nov 24)*  
-[$392 (includes credit card fees)](https://link.waveapps.com/ekgakz-pqb3pm)
+[Pay and enroll ($392, includes credit card fees)](https://link.waveapps.com/ekgakz-pqb3pm)
 
 ### Beginner-Intermediate, Intermediate & Intermediate-Advanced
 
@@ -61,7 +61,7 @@ Given the long duration of the class, we also give the option of a monthly payme
 **Tuesday 6pm–7:30pm (Online, Beginner-Intermediate)**  
 September 2 – December 9 (12 classes)  
 *No class on Election Day (Nov 4), Veterans Day (Nov 11) and Thanksgiving week (Nov 25)*  
-[$336 (includes credit card fees)](https://link.waveapps.com/cyuts5-bj85ta)
+[Pay and enroll ($336, includes credit card fees)](https://link.waveapps.com/cyuts5-bj85ta)
 
 
 ### Advanced
