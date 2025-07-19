@@ -20,3 +20,11 @@ name = "Italian school of San Diego"
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+
+[outputs]
+  home = ["HTML", "RSS", "Algolia"]
+
+[outputFormats.Algolia]
+  baseName = "search"
+  isPlainText = true
+  mediaType = "application/json"
