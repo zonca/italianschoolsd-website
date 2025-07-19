@@ -14,6 +14,10 @@ atomic(index, {
     ...rest,
     content: content.substring(0, 5000),
   }),
-}).then(() => {
-  console.log("Finished indexing");
+}, (err, result) => {
+    if (err) {
+        console.error(err);
+        process.exit(1);
+    }
+    console.log("Finished indexing", result);
 });
