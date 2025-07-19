@@ -13,15 +13,15 @@
     {{ with $script.js }}
       <script src="{{ relURL . }}"></script>
     {{ end }}
-    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/@algolia/algoliasearch-netlify-frontend@1/dist/algoliasearchNetlify.js"></script>
-<script type="text/javascript">
-  algoliasearchNetlify({
-    appId: 'TPVVV4HW9C',
-    apiKey: '38df777d1e1eca13019e565f693d7b2a',
-    siteId: '188af8fb-aeab-4514-9937-3567ca350205',
-    branch: 'master',
-    selector: 'div#search',
-  });
-</script>
+    <!-- DocSearch JS -->
+    <script src="https://cdn.jsdelivr.net/npm/@docsearch/js@3"></script>
+    <script>
+      docsearch({
+        appId: 'TPVVV4HW9C',
+        apiKey: '38df777d1e1eca13019e565f693d7b2a',
+        indexName: 'netlify_188af8fb-aeab-4514-9937-3567ca350205_master_all',
+        container: '#search',
+      });
+    </script>
   </body>
 </html>
