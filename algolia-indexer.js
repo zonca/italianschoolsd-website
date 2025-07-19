@@ -8,7 +8,7 @@ const client = algoliasearch(
 );
 const index = client.initIndex(process.env.ALGOLIA_INDEX_NAME);
 
-const searchFile = path.join(__dirname, "dist", "search.json");
+const searchFile = path.join(__dirname, "..", "dist", "search.json");
 const records = JSON.parse(fs.readFileSync(searchFile, "utf8"));
 
 // atomic-algolia seems to be buggy, let's use the official client
