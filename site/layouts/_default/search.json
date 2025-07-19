@@ -1,0 +1,9 @@
+[
+  {{- $.Scratch.Add "index" slice -}}
+  {{- range .Site.RegularPages -}}
+      {{- if and (not .Params.private) (not .Params.hidden) -}}
+          {{- $.Scratch.Add "index" (dict "objectID" .UniqueID "date" .Date.UTC.Unix "description" .Description "dir" .Dir "expirydate" .ExpiryDate.UTC.Unix "fuzzywordcount" .FuzzyWordCount "keywords" .Keywords "kind" .Kind "lang" .Lang "lastmod" .Lastmod.UTC.Unix "permalink" .Permalink "publishdate" .PublishDate.UTC.Unix "readingtime" .ReadingTime "relpermalink" .RelPermalink "summary" .Summary "title" .Title "type" .Type "uri" .Permalink "wordcount" .WordCount "section" .Section "tags" .Params.tags "content" .Plain) -}}
+      {{- end -}}
+  {{- end -}}
+  {{- $.Scratch.Get "index" | jsonify -}}
+]
