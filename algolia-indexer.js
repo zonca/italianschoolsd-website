@@ -1,5 +1,6 @@
 const algoliasearch = require("algoliasearch");
 const fs = require("fs");
+const path = require("path");
 
 const client = algoliasearch(
   process.env.ALGOLIA_APP_ID,
@@ -7,7 +8,8 @@ const client = algoliasearch(
 );
 const index = client.initIndex(process.env.ALGOLIA_INDEX_NAME);
 
-const records = JSON.parse(fs.readFileSync("./dist/search.json", "utf8"));
+const searchFile = path.join(__dirname, "..", "dist", "search.json");
+const records = JSON.parse(fs.readFileSync(searchFile, "utf8"));
 
 // atomic-algolia seems to be buggy, let's use the official client
 index
