@@ -6,9 +6,7 @@ const client = algoliasearch(
   process.env.ALGOLIA_ADMIN_KEY
 );
 
-const index = client.initIndex(process.env.ALGOLIA_INDEX_NAME);
-
-atomic(index, {
+atomic(client, process.env.ALGOLIA_INDEX_NAME, {
   files: "./dist/search.json",
   transform: ({ content, ...rest }) => ({
     ...rest,
