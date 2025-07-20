@@ -9,7 +9,19 @@ const client = algoliasearch(
 const index = client.initIndex(process.env.ALGOLIA_INDEX_NAME);
 
 const searchFile = path.join(__dirname, "dist", "search.json");
-const records = JSON.parse(fs.readFileSync(searchFile, "utf8"));
+let records = JSON.parse(fs.readFileSync(searchFile, "utf8"));
+
+// Add DocSearch hierarchy fields to each record
+records = records.map((record) => ({
+  ...record,
+  lvl0: record.title || "",
+  lvl1: "",
+  lvl2: "",
+  lvl3: "",
+  lvl4: "",
+  lvl5: "",
+  lvl6: ""
+}));
 
 // atomic-algolia seems to be buggy, let's use the official client
 index
