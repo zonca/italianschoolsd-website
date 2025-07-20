@@ -64,7 +64,6 @@
     "webpack-merge": "^4.1.4"
   },
   "dependencies": {
-    "algoliasearch": "^4.2.0",
-    "atomic-algolia": "^0.3.1"
+    "algoliasearch": "^4.2.0"
   }
 }
