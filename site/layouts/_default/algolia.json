@@ -1,2 +1,2 @@
-{{- $dict := dict "objectID" .UniqueID "url" .Permalink "title" .Title "content" .Plain "tags" .Params.tags "date" (.Date.Format "2006-01-02") -}}
+{{- $dict := dict "objectID" .UniqueID "url" .Permalink "title" .Title "content" .Plain "tags" .Params.tags "date" (.Date.Format "2006-01-02") "lvl0" .Title "lvl1" "" "lvl2" "" "lvl3" "" "lvl4" "" "lvl5" "" "lvl6" "" -}}
 {{- $dict | jsonify -}}
