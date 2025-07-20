@@ -26,6 +26,11 @@
             ...item,
             lvl0: item.lvl0 || "Untitled"
           }));
+        },
+        hitComponent({ hit, children }) {
+          const title = hit.lvl0 || "Untitled";
+          // Basic rendering, adjust as needed for your UI
+          return document.createElement('div').appendChild(document.createTextNode(title));
         }
       });
     </script>
