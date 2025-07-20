@@ -21,6 +21,12 @@
         apiKey: '38df777d1e1eca13019e565f693d7b2a',
         indexName: 'italianschoolsd_index',
         container: '#search',
+        transformItems(items) {
+          return items.map(item => ({
+            ...item,
+            lvl0: item.lvl0 || "Untitled"
+          }));
+        }
       });
     </script>
   </body>
