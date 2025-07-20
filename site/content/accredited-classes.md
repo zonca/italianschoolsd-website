@@ -68,7 +68,7 @@ Parents receive grade reports four times a year. For public high school students
 
 ### How Many Years Are Needed?
 
-High school graduation and college admission require two years of a foreign language, but most colleges recommend three years, and some Ivy League schools (e.g., Harvard) recommend four. See the [E) requirement for admission to the University of California](https://admission.universityofcalifornia.edu/admission-requirements/freshman-requirements/subject-requirement-a-g.html):
+High school graduation and college admission require two years of a foreign language, but most colleges recommend three years, and some Ivy League schools (e.g., Harvard) recommend four. See the [E) requirement for admission to the University of California](https://admission.universityofcalifornia.edu/admission-requirements/first-year-requirements/subject-requirement-a-g.html):
 
 > Two years, or equivalent to the 2nd level of high school instruction, of the same language other than English are required. (Three years/3rd level of high school instruction recommended). Courses should emphasize speaking and understanding, and include instruction in grammar, vocabulary, reading, composition, and culture. [...] Courses taken in the seventh and eighth grades may be used to fulfill part or all of this requirement if the high school accepts them as equivalent to its own courses.
 
