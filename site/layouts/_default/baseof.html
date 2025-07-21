@@ -21,12 +21,12 @@
         apiKey: '38df777d1e1eca13019e565f693d7b2a',
         indexName: 'italianschoolsd_index',
         container: '#search',
-        hitComponent({ hit, children }) {
-          const link = document.createElement('a');
-          link.href = hit.url;
-          link.textContent = hit.hierarchy?.lvl0 || hit.title || 'Untitled';
-          link.className = 'DocSearch-Hit-title';
-          return link;
+        navigator: {
+          navigate({ itemUrl }) {
+            // Remove anchor from URL and navigate to page
+            const url = itemUrl.split('#')[0];
+            window.location.href = url;
+          }
         }
       });
     </script>
