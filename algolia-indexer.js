@@ -23,10 +23,14 @@ records = records.map((record) => ({
   lvl6: ""
 }));
 
-// atomic-algolia seems to be buggy, let's use the official client
+// Clear index first, then add new records
 index
-  .replaceAllObjects(records, {
-    autoGenerateObjectIDIfNotExist: true,
+  .clearObjects()
+  .then(() => {
+    console.log("Index cleared.");
+    return index.saveObjects(records, {
+      autoGenerateObjectIDIfNotExist: true,
+    });
   })
   .then(({ objectIDs }) => {
     console.log(`Finished indexing ${objectIDs.length} records.`);
