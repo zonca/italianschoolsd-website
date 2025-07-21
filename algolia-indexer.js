@@ -14,13 +14,15 @@ let records = JSON.parse(fs.readFileSync(searchFile, "utf8"));
 // Add DocSearch hierarchy fields to each record
 records = records.map((record) => ({
   ...record,
-  lvl0: record.title || "",
-  lvl1: "",
-  lvl2: "",
-  lvl3: "",
-  lvl4: "",
-  lvl5: "",
-  lvl6: ""
+  hierarchy: {
+    lvl0: record.title || "Untitled",
+    lvl1: null,
+    lvl2: null,
+    lvl3: null,
+    lvl4: null,
+    lvl5: null,
+    lvl6: null
+  },
 }));
 
 // Clear index first, then add new records
