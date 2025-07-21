@@ -22,16 +22,11 @@
         indexName: 'italianschoolsd_index',
         container: '#search',
         hitComponent({ hit, children }) {
-          return {
-            type: 'a',
-            ref: undefined,
-            constructor: undefined,
-            key: hit.objectID,
-            props: {
-              href: hit.url,
-              children: hit.hierarchy?.lvl0 || hit.title || 'Untitled'
-            }
-          };
+          const link = document.createElement('a');
+          link.href = hit.url;
+          link.textContent = hit.hierarchy?.lvl0 || hit.title || 'Untitled';
+          link.className = 'DocSearch-Hit-title';
+          return link;
         }
       });
     </script>
