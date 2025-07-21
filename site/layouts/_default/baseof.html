@@ -21,13 +21,6 @@
         apiKey: '38df777d1e1eca13019e565f693d7b2a',
         indexName: 'italianschoolsd_index',
         container: '#search',
-        navigator: {
-          navigate({ itemUrl }) {
-            // Remove anchor from URL and navigate to page
-            const url = itemUrl.split('#')[0];
-            window.location.href = url;
-          }
-        }
       });
     </script>
   </body>
