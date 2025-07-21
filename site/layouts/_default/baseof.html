@@ -21,6 +21,16 @@
         apiKey: '38df777d1e1eca13019e565f693d7b2a',
         indexName: 'italianschoolsd_index',
         container: '#search',
+        transformItems(items) {
+          const seen = new Set();
+          return items.filter(item => {
+            const url = item.url ? item.url.split('#')[0] : item.url;
+            if (seen.has(url)) return false;
+            seen.add(url);
+            item.url = url;
+            return true;
+          });
+        },
       });
     </script>
   </body>
