@@ -21,21 +21,6 @@
         apiKey: '38df777d1e1eca13019e565f693d7b2a',
         indexName: 'italianschoolsd_index',
         container: '#search',
-        transformItems(items) {
-          return items.map(item => ({
-            ...item,
-            lvl0: item.lvl0 || "Untitled"
-          }));
-        },
-        hitComponent({ hit }) {
-          const title = hit.hierarchy?.lvl0 || hit.title || "Untitled";
-          const url = hit.url || "#";
-          const el = document.createElement('a');
-          el.href = url;
-          el.textContent = title;
-          el.className = "DocSearch-Hit-link";
-          return el;
-        }
       });
     </script>
   </body>
