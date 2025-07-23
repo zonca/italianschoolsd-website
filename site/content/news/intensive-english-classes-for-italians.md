@@ -1,4 +1,3 @@
-
 ---
 title: "Master English Faster: Intensive Classes in San Diego for Italian Speakers!"
 date: 2025-07-24T17:00:00-07:00
