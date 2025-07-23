@@ -1,6 +1,6 @@
 ---
 title: "Intensive English for Italian Speakers"
-date: 2025-07-24T17:00:00-07:00
+date: 2025-07-24T00:00:00-07:00
 draft: false
 description: "Intensive English classes in San Diego, tailor-made for Italian speakers. Master English with bilingual experts who bridge the gap between Italian and English."
 ---
