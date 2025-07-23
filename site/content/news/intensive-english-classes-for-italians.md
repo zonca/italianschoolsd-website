@@ -17,6 +17,7 @@ Our unique approach leverages the linguistic bridge between Italian and English.
     *   Session 1: August 11, 2025 - August 15, 2025 (Monday - Friday)
     *   Session 2: August 18, 2025 - August 22, 2025 (Monday - Friday)
 *   **⏰ Time:** 5:30 PM - 7:30 PM (Pacific Time)
+*   **⏳ Duration:** 10 hours of instruction per session.
 *   **💻 Format:** Two intensive, in-person sessions, each running for one week.
 *   **📍 Location:** [4550 Kearny Villa Rd Suite 202, San Diego, CA](/location)
 
