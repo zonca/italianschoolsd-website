@@ -1,7 +1,6 @@
 ---
-title: "Master English Faster: Intensive Classes in San Diego for Italian Speakers!"
+title: Master English Faster - Intensive Classes in San Diego for Italian Speakers
 date: 2025-07-24T17:00:00-07:00
-draft: false
 ---
 
 Ready to speak English with the confidence you've always wanted? Our intensive classes are tailor-made for Italian speakers, transforming your learning experience into a seamless and effective journey.
