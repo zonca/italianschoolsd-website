@@ -1,15 +1,23 @@
 ---
-title: Singing classes for kids 2nd to 6th grade (Fall 2025)
-date: 2025-07-24T00:00:00.000Z
+title: Singing classes for kids - Fall 2025
+date: 2025-07-23T00:00:00.000Z
 aliases:
-    /sing-kids-2025
+    /sing-kids-fall-2025
 ---
 
-We are excited to announce our Fall 2025 singing classes for kids!
+Unlock your child's potential and foster a lifelong love for music with our engaging singing classes! At the Italian School of San Diego, we believe that singing is more than just hitting notes; it's a powerful tool for self-expression, confidence building, and cognitive development. Our fun and supportive environment allows children to explore their voices, develop essential musical skills, and discover the joy of performing.
+
+We are thrilled to expand our children's program to include dedicated singing classes for the 2025-2026 academic year. Designed for kids from 2nd to 6th grade, our classes are split by age to ensure personalized attention and guidance for every young singer. No prior experience in music theory or singing is required – just a passion for music and a willingness to learn!
+
+Our curriculum focuses on foundational techniques and exciting performance opportunities:
+
+*   **Breathing Techniques:** Learn the essential foundation of singing with proper breathing methods to support and enhance vocal control and stamina.
+*   **Intonation Practice:** Develop a keen sense of pitch and melody, enabling confident and in-tune singing.
+*   **Song Selection:** Enjoy singing popular songs chosen by the kids themselves, ensuring an exciting and personalized experience. We also offer the unique opportunity to learn songs in Italian, connecting with the rich cultural heritage of Italy through music.
 
 ## Schedule
 
-* **Monday 2:30pm-4pm** – Beginner/Intermediate for kids aged 2nd to 6th grade
+* **Monday 2:30pm-4pm** – Beginner/Intermediate for kids aged 2nd to 6th grade, for kids with 1 or 2 years of singing experience
 * **Monday 4pm-5:30pm** – Beginner for kids aged 2nd to 6th grade
 
 ### Dates
