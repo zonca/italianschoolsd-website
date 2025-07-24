@@ -13,7 +13,7 @@ Our curriculum focuses on foundational techniques and exciting performance oppor
 
 *   **Breathing Techniques:** Learn the essential foundation of singing with proper breathing methods to support and enhance vocal control and stamina.
 *   **Intonation Practice:** Develop a keen sense of pitch and melody, enabling confident and in-tune singing.
-*   **Song Selection:** Enjoy singing popular songs chosen by the kids themselves, ensuring an exciting and personalized experience. We also offer the unique opportunity to learn songs in Italian, connecting with the rich cultural heritage of Italy through music.
+*   **Song Selection:** Enjoy singing popular songs chosen by the kids themselves, ensuring an exciting and personalized experience.
 
 ## Schedule
 
