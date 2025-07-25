@@ -39,11 +39,13 @@ August 28 – December 11 (15 classes)
 Given the long duration of the class, we also give the option of a monthly payment plan, with a 10% additional admin fee, it is $105 for 5 monthly installments, once you enroll and make the first payment, you will receive monthly invoices for the remaining 4 payments that you can pay manually or save your credit card for automatic payments. Notice you are still committing to continue the class until the end of the session.
 <div class="tc"><a href="https://link.waveapps.com/kjuqf6-45azbs" class="btn raise">Pay and enroll with 5 monthly payments of $105</a></div>
 
+---
 **Monday 6pm–7:30pm (Online)**  
 August 18 – December 15 (14 classes)  
 *No class on Labor Day (Sep 1), Columbus/Indigenous Peoples’ Day (Oct 13), Veterans Day (Nov 10), and Thanksgiving break (Nov 24)*  
 <div class="tc"><a href="https://link.waveapps.com/ekgakz-pqb3pm" class="btn raise">Pay and enroll ($392)</a></div>
 
+---
 ### Beginner-Intermediate, Intermediate & Intermediate-Advanced
 
 For students with at least one year of Italian classes or equivalent self-study.
@@ -58,11 +60,14 @@ August 18 – December 15 (14 classes)
 Given the long duration of the class, we also give the option of a monthly payment plan, with a 10% additional admin fee, it is $98 for 5 monthly installments, once you enroll and make the first payment, you will receive monthly invoices for the remaining 4 payments that you can pay manually or save your credit card for automatic payments. Notice you are still committing to continue the class until the end of the session.
 <div class="tc"><a href="https://link.waveapps.com/srjtdq-ce9m7x" class="btn raise">Pay and enroll with 5 monthly payments of $98</a></div>
 
+---
+
 **Tuesday 6pm–7:30pm (Online, Beginner-Intermediate)**  
 September 2 – December 9 (12 classes)  
 *No class on Election Day (Nov 4), Veterans Day (Nov 11) and Thanksgiving week (Nov 25)*  
 <div class="tc"><a href="https://link.waveapps.com/cyuts5-bj85ta" class="btn raise">Pay and enroll ($336)</a></div>
 
+---
 
 ### Advanced
 
