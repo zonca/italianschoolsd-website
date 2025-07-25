@@ -36,7 +36,7 @@ No prior Italian experience required.
 August 28 – December 11 (15 classes)  
 <div class="tc"><a href="https://link.waveapps.com/uwuwac-wxz4nz" class="btn raise">Pay and enroll ($480)</a></div>
 
-Given the long duration of the class, we also give the option of a monthly payment plan, with a 10% additional admin fee, it is $98 for 5 monthly installments, once you enroll and make the first payment, you will receive monthly invoices for the remaining 4 payments that you can pay manually or save your credit card for automatic payments. Notice you are still committing to continue the class until the end of the session.
+Given the long duration of the class, we also give the option of a monthly payment plan, with a 10% additional admin fee, it is $105 for 5 monthly installments, once you enroll and make the first payment, you will receive monthly invoices for the remaining 4 payments that you can pay manually or save your credit card for automatic payments. Notice you are still committing to continue the class until the end of the session.
 <div class="tc"><a href="https://link.waveapps.com/kjuqf6-45azbs" class="btn raise">Pay and enroll with 5 monthly payments of $105</a></div>
 
 **Monday 6pm–7:30pm (Online)**  
