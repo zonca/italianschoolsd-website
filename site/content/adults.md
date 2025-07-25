@@ -34,16 +34,16 @@ No prior Italian experience required.
 
 **Thursday 6:15pm–7:45pm (In person)**  
 August 28 – December 11 (15 classes)  
-<div class="tc"><a href="https://link.waveapps.com/uwuwac-wxz4nz" class="btn raise">Pay and enroll ($480)</a></div>
+<div class="tc"><a href="https://link.waveapps.com/uwuwac-wxz4nz" class="btn raise">Pay and enroll (Beginner, In person, $480)</a></div>
 
 Given the long duration of the class, we also give the option of a monthly payment plan, with a 10% additional admin fee, it is $105 for 5 monthly installments, once you enroll and make the first payment, you will receive monthly invoices for the remaining 4 payments that you can pay manually or save your credit card for automatic payments. Notice you are still committing to continue the class until the end of the session.
-<div class="tc"><a href="https://link.waveapps.com/kjuqf6-45azbs" class="btn raise">Pay and enroll with 5 monthly payments of $105</a></div>
+<div class="tc"><a href="https://link.waveapps.com/kjuqf6-45azbs" class="btn raise">Pay and enroll (Beginner, In person, 5 monthly payments of $105)</a></div>
 
 ---
 **Monday 6pm–7:30pm (Online)**  
 August 18 – December 15 (14 classes)  
 *No class on Labor Day (Sep 1), Columbus/Indigenous Peoples’ Day (Oct 13), Veterans Day (Nov 10), and Thanksgiving break (Nov 24)*  
-<div class="tc"><a href="https://link.waveapps.com/ekgakz-pqb3pm" class="btn raise">Pay and enroll ($392)</a></div>
+<div class="tc"><a href="https://link.waveapps.com/ekgakz-pqb3pm" class="btn raise">Pay and enroll (Beginner, Online, $392)</a></div>
 
 ---
 ### Beginner-Intermediate, Intermediate & Intermediate-Advanced
@@ -55,17 +55,17 @@ August 18 – December 15 (14 classes)
 *No class on Labor Day (Sep 1), Columbus/Indigenous Peoples’ Day (Oct 13), Veterans Day (Nov 10), and Thanksgiving break (Nov 24)*
 * We plan to have 3 classes (Beginner-Intermediate, Intermediate and Intermediate-Advanced) on Mondays and we will split the students into groups based on their level.
 *August 18th is "Enrollment Day": we’ll assess new students and organize groups by level. We aim to keep previous groups together but may adjust for balance.*  
-<div class="tc"><a href="https://link.waveapps.com/zacu6p-hj3uak" class="btn raise">Pay and enroll ($448)</a></div>
+<div class="tc"><a href="https://link.waveapps.com/zacu6p-hj3uak" class="btn raise">Pay and enroll (Beginner-Intermediate, Intermediate, Intermediate-Advanced, In person, $448)</a></div>
 
 Given the long duration of the class, we also give the option of a monthly payment plan, with a 10% additional admin fee, it is $98 for 5 monthly installments, once you enroll and make the first payment, you will receive monthly invoices for the remaining 4 payments that you can pay manually or save your credit card for automatic payments. Notice you are still committing to continue the class until the end of the session.
-<div class="tc"><a href="https://link.waveapps.com/srjtdq-ce9m7x" class="btn raise">Pay and enroll with 5 monthly payments of $98</a></div>
+<div class="tc"><a href="https://link.waveapps.com/srjtdq-ce9m7x" class="btn raise">Pay and enroll (Beginner-Intermediate, Intermediate, Intermediate-Advanced, In person, 5 monthly payments of $98)</a></div>
 
 ---
 
 **Tuesday 6pm–7:30pm (Online, Beginner-Intermediate)**  
 September 2 – December 9 (12 classes)  
 *No class on Election Day (Nov 4), Veterans Day (Nov 11) and Thanksgiving week (Nov 25)*  
-<div class="tc"><a href="https://link.waveapps.com/cyuts5-bj85ta" class="btn raise">Pay and enroll ($336)</a></div>
+<div class="tc"><a href="https://link.waveapps.com/cyuts5-bj85ta" class="btn raise">Pay and enroll (Beginner-Intermediate, Online, $336)</a></div>
 
 ---
 
@@ -77,7 +77,7 @@ For students with 3+ years of Italian, able to understand most spoken Italian an
 August 28 – December 11 (15 classes)  
 Class taught by Ilana. Please [contact us](/contact) if you are interested in monthly payments.
 *No class on Thanksgiving (Nov 27)*
-<div class="tc"><a href="https://link.waveapps.com/92wajv-dna4dr" class="btn raise">Pay and enroll ($480)</a></div>
+<div class="tc"><a href="https://link.waveapps.com/92wajv-dna4dr" class="btn raise">Pay and enroll (Advanced, In person, $480)</a></div>
 
 ---
 
