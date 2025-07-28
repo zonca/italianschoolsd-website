@@ -3,6 +3,7 @@ title: "Intensive English for Italian Speakers"
 date: 2025-07-23T00:00:00-07:00
 draft: false
 description: "Intensive English classes in San Diego, tailor-made for Italian speakers. Master English with bilingual experts who bridge the gap between Italian and English."
+aliases: ["/english"]
 ---
 
 Ready to speak English with the confidence you've always wanted? Our intensive classes are tailor-made for Italian speakers, transforming your learning experience into a seamless and effective journey.
