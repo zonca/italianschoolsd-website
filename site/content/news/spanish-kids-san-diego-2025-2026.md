@@ -41,4 +41,4 @@ See [the dedicated page for details on payment methods, cancellation policy, the
 
 ## Beginner Spanish Class for Adults
 
-If there is enough interest, we can organize a beginner Spanish class for adults. [Contact us](/contact) to let us know!
+Interested in Spanish for adults? See our dedicated page: {{< relref "spanish-adult-beginners-san-diego-may-2025.md" >}}
