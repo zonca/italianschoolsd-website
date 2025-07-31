@@ -2,7 +2,7 @@
 title: Chess classes in-person in San Diego for kids and adults (in English)
 aliases:
     - /chess
-date: 2024-06-11T00:00:00.000Z
+date: 2025-07-24T00:00:00.000Z
 ---
 
 Playing chess sharpens problem-solving skills, improves memory, fosters patience, and builds confidence. Kids develop logical thinking and creativity, while adults can continue to challenge themselves and enhance decision-making abilities. Chess also promotes good sportsmanship and social interaction for everyone involved.
