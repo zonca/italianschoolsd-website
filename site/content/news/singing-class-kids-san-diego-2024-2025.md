@@ -1,8 +1,6 @@
 ---
 title: Singing classes in English for kids 1st to 8th grade
 date: 2024-07-13T00:00:00.000Z
-aliases:
-    /sing
 ---
 
 Italian school of San Diego is excited to announce that we will be expanding our children program to also include Singing classes for the 2024-2025 academic year.

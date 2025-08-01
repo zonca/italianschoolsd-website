@@ -3,6 +3,7 @@ title: Singing classes for kids - Fall 2025
 date: 2025-07-23T00:00:00.000Z
 aliases:
     /sing-kids-fall-2025
+    /sing
 ---
 
 Unlock your child's potential and foster a lifelong love for music with our engaging singing classes! At the Italian School of San Diego, we believe that singing is more than just hitting notes; it's a powerful tool for self-expression, confidence building, and cognitive development. Our fun and supportive environment allows children to explore their voices, develop essential musical skills, and discover the joy of performing.
