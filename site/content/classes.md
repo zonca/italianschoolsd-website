@@ -15,7 +15,12 @@ Italian Heritage classes are designed for children who are already advanced or f
 
 Classes have 5–10 students and are held in person. Our program prepares students for [accredited classes](/accredited-classes), which typically begin in 6th or 7th grade.
 
-In-person classes meet for 2 hours per week: **Thursdays, 4–6pm**. The first class is on **August 28th, 2025** and the last class is on **May 21st, 2026**, for a total of 33 weeks of instruction (+1 backup week in case of cancellations).
+In-person classes meet for 2 hours per week: **Thursdays, 4:15–6:15pm**. The first class is on **August 28th, 2025** and the last class is on **May 21st, 2026**, for a total of 33 weeks of instruction (+1 backup week in case of cancellations).
+
+
+<div class="bg-highlight" style="padding: 1em; border-radius: 0.5em; margin-bottom: 1em;">
+<strong>New for 2025–2026:</strong> Classes start at 4:15pm (instead of 4:00pm) to give families more time to arrive from school.
+</div>
 
 See the [Italian School of San Diego calendar](/calendar) for our Google Calendar schedule.
 
