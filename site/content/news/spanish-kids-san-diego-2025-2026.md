@@ -41,4 +41,4 @@ See [the dedicated page for details on payment methods, cancellation policy, the
 
 ## Beginner Spanish Class for Adults
 
-Interested in Spanish for adults? See our dedicated page: {{< relref "spanish-adult-beginners-san-diego-may-2025.md" >}}
+[Interested in Spanish for adults? See our dedicated page.]({{< relref "spanish-adult-beginners-san-diego-may-2025/" >}})
