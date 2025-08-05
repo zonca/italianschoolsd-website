@@ -76,9 +76,9 @@ Her focus is to make the class fun and interactive.
 
 ![Francesca Galimi](/img/francesca_galimi.jpg)
 
-Francesca was born in San Diego, California, and grew up bilingual, speaking Italian at home with her parents and younger sister. She was a student at the Italian American Academy of San Diego for 8 years, from 4th to 11th grade, and took the AP Italian Language and Culture Exam in her last year. She graduated high school in 2021 and is now studying Biology in college, though she also loves anthropology and math.
+Francesca was born in San Diego, California, and grew up bilingual, speaking Italian at home with her parents and younger sister. She was a student at the Italian American Academy of San Diego for 8 years, from 4th to 11th grade, and took the AP Italian Language and Culture Exam in her last year. She loves the process of learning new languages, and was inspired to teach Italian by her previous teachers as well as her experience of taking Spanish 1-AP in high school as a foreign language.
 
-She loves learning new languages, and after having taken Spanish in high school she plans on learning French. Outside of academics, she enjoys reading, sewing, and trying new foods. She loves visiting her family in Italy and being able to experience the one of a kind culture. She hopes to inspire students to love learning and to love Italian language and culture as she does!
+She recently graduated from UC Berkeley with a bachelor’s degree in Integrative Biology and plans to pursue graduate school in the future. Outside of academics, she enjoys reading, cooking, and trying new foods. Teaching is a passion, and she has taught a wide range of ages. She hopes to inspire students to love learning and Italian language and culture as she does!
 
 ### Ilana Battaglia
 
