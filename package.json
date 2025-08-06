@@ -64,6 +64,7 @@
     "webpack-merge": "^4.1.4"
   },
   "dependencies": {
-    "algoliasearch": "^4.2.0"
+    "algoliasearch": "^4.2.0",
+    "jsdom": "^16.4.0"
   }
 }
