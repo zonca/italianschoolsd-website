@@ -11,7 +11,7 @@ Unlock your child's potential and foster a lifelong love for music with our enga
 We are thrilled to expand our children's program to include dedicated singing classes for the 2025-2026 academic year. Designed for kids from 2nd to 6th grade, our classes are split by age to ensure personalized attention and guidance for every young singer. No prior experience in music theory or singing is required – just a passion for music and a willingness to learn!
 
 <div class="bg-highlight" style="padding: 1em; border-radius: 0.5em; margin-bottom: 1em;">
-Looking for adult singing classes? See our <a href="{{< 'relref singing-class-adults-fall-2025.md' >}}">adult singing classes</a>!
+Looking for adult singing classes? See our <a href="{{< 'relref /news/singing-class-adults-fall-2025.md' >}}">adult singing classes</a>!
 </div>
 
 Our curriculum focuses on foundational techniques and exciting performance opportunities:
