@@ -50,7 +50,7 @@ We do not plan to offer this program in 2025–2026. However, if you are interes
 ## Location
 
 * Our main location: 4550 Kearny Villa Rd, Suite 202. All kids' classes are held here. See our [dedicated page about our school](/location).
-* Exception: One class is held near Sorrento Valley, inside *After School Learning Tree*, [11525 Sorrento Valley Rd](https://goo.gl/maps/y2M724uWRS7o3gwZ6), Thursdays 4:15–6:15pm, for kids K–3rd grade (Heritage or IFL). Please specify in the pre-enrollment form if you are interested in this class.
+
 
 ## Pre-enrollment for All Programs
 

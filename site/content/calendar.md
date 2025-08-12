@@ -15,10 +15,7 @@ Calendar for the academic year is available via Google Calendar, click on the `+
 * [Full page web view of the calendar](https://calendar.google.com/calendar/embed?src=1be8a1f9320cafcbd05c9a20a1ca31530aeb59e519e4a39eeb39699156950d1a%40group.calendar.google.com&ctz=America%2FLos_Angeles)
 * [Calendar address in iCal format (.ics)](https://calendar.google.com/calendar/ical/1be8a1f9320cafcbd05c9a20a1ca31530aeb59e519e4a39eeb39699156950d1a%40group.calendar.google.com/public/basic.ics) to be added to calendar apps
 
-## Sorrento Valley location
 
-* [Full page web view of the calendar](https://calendar.google.com/calendar/embed?src=d1d70b499a391c4acbc88dd190f50c3c6ba22f3acae72bfb722dcfbfc0f694ca%40group.calendar.google.com&ctz=America%2FLos_Angeles)
-* [Calendar address in iCal format (.ics)](https://calendar.google.com/calendar/ical/d1d70b499a391c4acbc88dd190f50c3c6ba22f3acae72bfb722dcfbfc0f694ca%40group.calendar.google.com/public/basic.ics) to be added to calendar apps
 
 All other classes have their own event in Google Calendar, if you have not been invited yet, please email us.
 
