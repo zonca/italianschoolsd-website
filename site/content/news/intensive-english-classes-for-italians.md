@@ -22,6 +22,12 @@ Our unique approach leverages the linguistic bridge between Italian and English.
 *   **💻 Format:** Two intensive, in-person sessions, each running for one week.
 *   **📍 Location:** [4550 Kearny Villa Rd Suite 202, San Diego, CA](/location)
 
+**Private Classes: Tailored to Your Needs**
+
+In addition to our intensive group sessions, we also offer private English classes, available both in-person and online. These personalized sessions are perfect for focusing on specific areas, such as improving pronunciation, preparing for exams, or addressing individual learning goals. Our experienced teachers, who are native speakers of both Italian and English, will provide dedicated guidance to help you achieve fluency and confidence.
+
+[Contact us to learn more about private classes](/contact)
+
 **Who is this for?**
 
 We accept participants aged 15 and older. A basic level of English is required (as studied at school in Italy, plus a couple of years abroad or regular use of English, so you can sustain a simple conversation).
