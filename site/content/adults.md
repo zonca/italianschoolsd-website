@@ -12,6 +12,8 @@ Welcome! Below you’ll find all our current and upcoming Italian classes for ad
 <a href="https://forms.gle/LHR7Htpeb3mQzV838" class="btn raise">Adult Italian lesson interest form</a>
 </div>
 
+Note: All in-person adult classes meet at our school at [4550 Kearny Villa Rd Suite 202]( {{< ref "location.md" >}} ).
+
 ---
 
 ## Italian for Travelers 2025 (Starts August 6th and September 4th)
