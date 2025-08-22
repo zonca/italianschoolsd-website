@@ -3,7 +3,29 @@ title: Calendar
 image: /img/lastsupper.jpg
 subtitle: Academic calendar
 ---
-Calendar for the academic year is available via Google Calendar, click on the `+ Google Calendar` button at the bottom of the integrated calendar below to add any of the Italian school calendars to your Google Calendar account.
+Below are the school Google Calendars. You can add them to your own calendar in a few different ways.
+
+### How to add these calendars to yours
+
+Option 1 – Fast (Google users):  
+1. Make sure you are signed into your Google account in the browser.  
+2. Scroll to the bottom-right of the embedded calendar below.  
+3. Click the `Add to Google Calendar` button.  
+4. In the pop‑up, tick the calendars you want (e.g. Heritage Thursday, IFL Wednesday) and confirm.
+
+Option 2 – From the full page view:  
+1. Click the “Full page web view” link for the calendar you want (see links below).  
+2. In the bottom-right of that page click the `Add to Google Calendar` button.  
+3. Select/add as above.
+
+Option 3 – Subscribe via iCal (.ics) URL (works for Google, Apple, Outlook, etc.):  
+Use the “Calendar address in iCal format (.ics)” link for the calendar you want and follow the steps for your app:
+* Google Calendar (web): Left sidebar > `+` next to “Other calendars” > `From URL` > paste the .ics link > `Add calendar`.
+* Apple Calendar (Mac): File > New Calendar Subscription… > paste URL > Subscribe.
+* iPhone/iPad: Settings > Calendar > Accounts > Add Account > Other > Add Subscribed Calendar > paste URL > Next > Save.
+* Outlook (web): Calendar > `Add calendar` > `Subscribe from web` > paste URL, name it, Save.
+
+You can remove a subscribed calendar at any time from your calendar app’s settings without affecting the original.
 
 ## Kearny Mesa location (Heritage class on Thursday)
 
