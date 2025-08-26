@@ -3,7 +3,7 @@
   NPM_VERSION = "6.4.1"
 
 [build]
-  command = "npm run build"
+  command = "yarn build"
   publish = "dist"
 
 [context.deploy-preview]
