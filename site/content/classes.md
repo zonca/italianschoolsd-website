@@ -1,7 +1,7 @@
 ---
 title: Italian Classes in San Diego
 image: /img/isola_bella.jpg
-subtitle: "Children's Classes 2025–2026"
+subtitle: "Children Classes 2025–2026"
 ---
 
 This page is for students in TK–6th grade. For teens, see our [accredited classes](/accredited-classes).
