@@ -20,7 +20,7 @@ products:
 products2:
     - image: /img/italianschoolsd-homeschool-2025-flyer.jpg
       title: "Italian morning program for homeschoolers 2025-2026"
-  text: "Optional chess 9–10am, Italian 10am–12pm (Kearny Mesa). Two 16-class sessions (Sept–Jan & Jan–May). Open to TK–8th, grouped by age, no prior Italian required. We are approved vendors for PCA and Dimensions."
+      text: "Optional chess 9–10am, Italian 10am–12pm (Kearny Mesa). Two 16-class sessions (Sept–Jan & Jan–May). Open to TK–8th, grouped by age, no prior Italian required. We are approved vendors for PCA and Dimensions."
       link: /news/italian-for-homeschoolers-2025-2026/
     - image: /flyers/italianschoolsd-flyer-italian-2025-2026-high-school.jpg
       title: "Italian for High School Credit & College Admission"
@@ -30,4 +30,3 @@ values:
     heading: About
     text: Our instructors are all native Italian speakers, experienced and passionate about sharing their language and culture with students of all ages. Led by Director and CEO Maura D'Andrea, who founded the Italian School of San Diego in 2021, our team is dedicated to providing an authentic and engaging learning experience.
 ---
-

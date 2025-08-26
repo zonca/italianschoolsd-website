@@ -1,6 +1,5 @@
 [
-  {{- $pages := where .Site.RegularPages "Params.private" "ne" true -}}
-  {{- $pages = where $pages "Params.hidden" "ne" true -}}
+  {{- $pages := where (where .Site.RegularPages "Params.private" "ne" true) "Params.hidden" "ne" true -}}
   {{- $len := (len $pages) -}}
   {{- range $i, $p := $pages -}}
     {{- .Render "algolia" -}}
