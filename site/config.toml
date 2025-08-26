@@ -8,7 +8,8 @@ rssLimit = 20
 # categories and tags disabled for an easy start
 # See configuration options for more details: 
 # https://gohugo.io/getting-started/configuration/#toml-configuration
-disableKinds = ["taxonomy", "taxonomyTerm"]
+disableKinds = ["taxonomy"]
+ignoreErrors = ["error-disable-taxonomy"]
 
 [author]
 name = "Italian school of San Diego"
@@ -28,3 +29,7 @@ name = "Italian school of San Diego"
   baseName = "search"
   isPlainText = true
   mediaType = "application/json"
+
+[security]
+  [security.funcs]
+    getenv = ['^HUGO_', '^CI$', '^CONTEXT$', '^URL$', '^DEPLOY_PRIME_URL$']
