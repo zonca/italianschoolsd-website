@@ -59,7 +59,7 @@ Ci vediamo in classe!
 	"organizer": {
 		"@type": "Organization",
 		"name": "Italian School of San Diego",
-		"url": "https://italianschoolsd.org"
+		"url": "https://italianschoolsd.com"
 	}
 }
 </script>
