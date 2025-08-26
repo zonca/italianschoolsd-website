@@ -13,6 +13,8 @@ We are launching a new **Online Italian class for 3rd–6th grade students** who
 
 All of our instructors are **native Italian teachers** with experience teaching elementary-age learners.
 
+**No previous Italian experience is required.** The class starts from the basics and builds gradually. We focus on speaking and listening first while introducing only the **essential grammar** (articles, gender/number agreement, present tense verbs, simple sentence structure) to give students a solid framework without overwhelming them.
+
 ### Who is this for?
 
 This class is ideal for:
