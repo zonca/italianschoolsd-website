@@ -1,11 +1,11 @@
 ---
-title: New Online Italian Class for Kids (3rd–6th Grade)
+title: New Online Italian Class for Kids (3rd–5th Grade)
 date: 2025-08-25T00:00:00.000Z
 subtitle: Wednesdays 4:00–5:30pm via Zoom – Starting early October 2025
-description: Online Italian class for 3rd–6th graders starting Oct 2025. Wednesdays 4–5:30pm Pacific on Zoom. 30 classes (Oct–May). Native instructors. Beginners welcome.
+description: Online Italian class for 3rd–5th graders starting Oct 2025. Wednesdays 4–5:30pm Pacific on Zoom. 30 classes (Oct–May). Native instructors. Beginners welcome.
 ---
 
-We are launching a new **Online Italian class for 3rd–6th grade students** who cannot easily travel to our San Diego location (distance, traffic, schedule, or living outside the area).
+We are launching a new **Online Italian class for 3rd–5th grade students** who cannot easily travel to our San Diego location (distance, traffic, schedule, or living outside the area).
 
 **Schedule:** Wednesdays **4:00–5:30pm (Pacific Time)** via **Zoom**. 
 
@@ -20,7 +20,7 @@ All of our instructors are **native Italian teachers** with experience teaching 
 
 This class is ideal for:
 
-* Students (3rd–6th grade) who live outside San Diego or prefer learning from home
+* Students (3rd–5th grade) who live outside San Diego or prefer learning from home
 * Families looking for high-quality Italian instruction without the commute
 * Students who want structured, progressive Italian language learning in a small-group setting.
 

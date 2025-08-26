@@ -6,9 +6,9 @@ subtitle: Children's Classes 2025–2026
 
 This page is for students in TK–6th grade. For teens, see our [accredited classes](/accredited-classes).
 
-## NEW: Online Italian Class (3rd–6th Grade)
+## NEW: Online Italian Class (3rd–5th Grade)
 
-We now offer a **live online class via Zoom on Wednesdays 4:00–5:30pm (Pacific)** from early October through the end of May for students in **3rd–6th grade** who cannot travel to our San Diego location. Total of 30 classes (45 hours) – **$1125 tuition**. All teachers are native Italians. 
+We now offer a **live online class via Zoom on Wednesdays 4:00–5:30pm (Pacific)** from early October through the end of May for students in **3rd–5th grade** who cannot travel to our San Diego location. Total of 30 classes (45 hours) – **$1125 tuition**. All teachers are native Italians. 
 
 [Read full details and pre-enroll →](/news/italian-online-class-kids-2025/)
 
