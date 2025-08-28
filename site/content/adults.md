@@ -34,7 +34,7 @@ Choose your level below and enroll online with your credit card.
 
 No prior Italian experience required.
 
-**Thursday 6:15pm–7:45pm (In person)**  
+**Thursday 6:30pm–8:00pm (In person)**  
 August 28 – December 11 (15 classes)  
 <div class="tc"><a href="https://link.waveapps.com/uwuwac-wxz4nz" class="btn raise">Pay and enroll (Beginner, In person, $480)</a></div>
 
@@ -75,7 +75,7 @@ September 2 – December 9 (12 classes)
 
 For students with 3+ years of Italian, able to understand most spoken Italian and hold conversations.
 
-**Thursday 6:15pm–7:45pm (In person)**  
+**Thursday 6:30pm–8:00pm (In person)**  
 August 28 – December 11 (15 classes)  
 Class taught by Ilana. Please [contact us](/contact) if you are interested in monthly payments.
 *No class on Thanksgiving (Nov 27)*
