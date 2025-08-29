@@ -1,18 +1,14 @@
 ---
-title: Parents' Night Out – Fall 2025 (Halloween • Thanksgiving • Winter Holidays)
+title: Parents' Night Out - 17th October 2025 - "La notte delle lanterne"
 date: 2025-08-28T00:00:00.000Z
 aliases:
   - /pno-fall-2025
-description: Parents' Night Out on Oct 17 (Halloween), Nov 14 (Thanksgiving), Dec 12 (Winter Holidays) 5:30–8:30pm in Kearny Mesa, San Diego
+description: Parents' Night Out – October 17 (Halloween) 5:30–8:30pm in Kearny Mesa, San Diego. Future fall dates listed at bottom.
 ---
 
-Parents, book your favorite restaurant – Italian School of San Diego is organizing three themed Parents' Night Out evenings this Fall!
-
-**Parents' Night Out – 3 special Fridays**
+Parents, book your favorite restaurant – Italian School of San Diego is organizing a Halloween themed Parents' Night Out this October (future fall dates listed at bottom)!
 
 * Friday **October 17** – Halloween themed Night (details below)
-* Friday **November 14** – Thanksgiving themed Night (details coming soon)
-* Friday **December 12** – Winter Holidays themed Night (details coming soon)
 * Time: **5:30pm – 8:30pm** (drop-off starts 5:20pm, pickup by 8:35pm)
 * Location: `4550 Kearny Villa Rd, Suite 202`, see [photos of our school]({{< ref "photos-new-location.md" >}})
 
@@ -23,14 +19,12 @@ Games, themed cultural activity, crafts, snacks. A fun evening with staff who sp
 Please fill a separate signup form for each child (select the date you are registering for):
 
 <div class="tc">
-<a href="https://docs.google.com/forms/d/e/1FAIpQLScI0LRpLkywNAAFc0nVw1RFvOBnSXluYVLbXNSfe7NbJJZvQA/viewform?usp=sf_link" class="btn raise">Signup Form (All Dates)</a>
+<a href="https://docs.google.com/forms/d/e/1FAIpQLScI0LRpLkywNAAFc0nVw1RFvOBnSXluYVLbXNSfe7NbJJZvQA/viewform?usp=sf_link" class="btn raise">Signup Form</a>
 </div>
 
-After submitting the form, proceed to payment below. **October 17 event payment due by Sunday October 12** (later deadlines for November & December will be posted).
+After submitting the form, proceed to payment below. **October 17 event payment due by Sunday October 12**.
 
 ## Pricing and payment
-
-Pricing applies per evening (October, November, or December). Use the single payment page below; add the needed items to your cart and set quantities for each child/date.
 
 Standard pricing (per evening):
 
@@ -42,7 +36,7 @@ Current Italian School students (per evening):
 * $50 first child
 * $37.50 each sibling
 
-For the **October 17 Halloween Night the pumpkin (one small pumpkin per child) is INCLUDED** in the price.
+**One small pumpkin per child is INCLUDED** in the price.
 
 <div class="tc">
 <a href="https://italianschoolsd.square.site/shop/parents-night-out/BSISLI2I4B5AMUUKLB4XBMJK" class="btn raise">Pay Online</a>
@@ -75,16 +69,6 @@ For the **October 17 Halloween Night the pumpkin (one small pumpkin per child) i
 
 ---
 
-## November 14 – Thanksgiving Night
-
-Details coming soon (cultural focus on gratitude themes, US & Italian harvest traditions, themed craft). Stay tuned!
-
-## December 12 – Winter Holidays Night
-
-Details coming soon (Christmas & winter celebrations themed games, movie, crafts, seasonal themes).
-
----
-
 ## Logistics
 
 * Kids should have had dinner beforehand OR bring a small labeled snack (we provide themed snacks – please no nuts)
@@ -93,12 +77,16 @@ Details coming soon (Christmas & winter celebrations themed games, movie, crafts
 * Notice we are in building 4550 (behind building 4540)
 * Look for our logo on the second floor window after you turn around the first building and come up the stairs
 * Comfortable clothes (Halloween costumes optional for October – avoid masks that obstruct vision)
-* Cancellations (full refund) accepted up to 14 days before each event: October 3 (Oct 17 event) / October 31 (Nov 14 event) / November 28 (Dec 12 event). No refunds inside the 14‑day window.
+* Cancellations (full refund) accepted up to 14 days before the October event: October 3. No refunds inside the 14‑day window.
 * 2 members of our staff have CPR certification; all staff background checked
 
-## Please help us share the word
+## Next Parents' Night Out events
 
-We appreciate your support in spreading the word about our events!
+Upcoming fall dates (details coming soon):
+* Friday **November 14** – Thanksgiving themed Night
+* Friday **December 12** – Winter Holidays themed Night
+
+## Please help us share the word
 
 <!-- Sharingbutton Facebook -->
 <a class="resp-sharing-button__link" href="https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.italianschoolsd.com%2Fpno-fall-2025%2F" target="_blank" rel="noopener" aria-label="Share on Facebook">
