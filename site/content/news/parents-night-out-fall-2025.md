@@ -6,6 +6,9 @@ aliases:
 description: Parents' Night Out – October 17 (Halloween) 5:30–8:30pm in Kearny Mesa, San Diego. Future fall dates listed at bottom.
 ---
 
+![Parents' Night Out Halloween 2025 flyer](/img/italianschoolsd-flyer-parents-night-out-halloween-2025.png)
+
+
 Parents, book your favorite restaurant – Italian School of San Diego is organizing a Halloween themed Parents' Night Out this October (future fall dates listed at bottom)!
 
 * Friday **October 17** – Halloween themed Night (details below)
