@@ -16,7 +16,7 @@ Parents, book your favorite restaurant – Italian School of San Diego is organi
 * Time: **5:30pm – 8:30pm** (drop-off starts 5:20pm, pickup by 8:35pm)
 * Location: `4550 Kearny Villa Rd, Suite 202`, see [photos of our school]({{< ref "photos-new-location.md" >}})
 
-Games, themed cultural activity, crafts, Halloween themed games, snacks. A fun evening with staff who speak both Italian and English while parents enjoy time out.
+Games, themed cultural activity, crafts, snacks. A fun evening with staff who speak both Italian and English while parents enjoy time out.
 
 Please help us share the word:
 
@@ -45,7 +45,7 @@ Please help us share the word:
 Please fill a separate signup form for each child (select the date you are registering for):
 
 <div class="tc">
-<a href="#" class="btn raise">Signup Form (All Dates)</a>
+<a href="https://docs.google.com/forms/d/e/1FAIpQLScI0LRpLkywNAAFc0nVw1RFvOBnSXluYVLbXNSfe7NbJJZvQA/viewform?usp=sf_link" class="btn raise">Signup Form (All Dates)</a>
 </div>
 
 After submitting the form, proceed to payment below. **October 17 event payment due by Sunday October 12** (later deadlines for November & December will be posted).
