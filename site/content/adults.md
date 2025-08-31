@@ -65,7 +65,7 @@ Given the long duration of the class, we also give the option of a monthly payme
 ---
 
 **Tuesday 6pm–7:30pm (Online, Beginner-Intermediate)**  
-September 2 – December 9 (12 classes)  
+September 9 – December 16 (12 classes)  
 *No class on Election Day (Nov 4), Veterans Day (Nov 11) and Thanksgiving week (Nov 25)*  
 <div class="tc"><a href="https://link.waveapps.com/cyuts5-bj85ta" class="btn raise">Pay and enroll (Beginner-Intermediate, Online, $336)</a></div>
 
