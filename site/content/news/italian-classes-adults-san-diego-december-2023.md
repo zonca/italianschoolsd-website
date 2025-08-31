@@ -5,7 +5,7 @@ description: Targeted at beginners
 ---
 We offer in-person classes at [Language Door, 7380 Clairemont Mesa Blvd, San Diego](https://goo.gl/maps/vCotwAoBbYNpx8vV9), online classes via Zoom, at beginner, intermediate and advanced level.
 
-If you are not sure about your level, please [contact us](/contact) with details about your previous experience with Italian, we will then recommend either to try a class or to do an assessment with one of our teachers.
+[Contact us with any question](/contact/)!
 
 See below for classes open for enrollment, if you do not find any suitable class, please fill the "Adult Italian lesson interest form" clicking on the button below,
 we will get back to you once we have enough people to start a class:

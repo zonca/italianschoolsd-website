@@ -179,7 +179,7 @@ Our translators are not only language experts but also cultural ambassadors who 
 
 Ready to experience the difference that professional Italian translation can make? Contact us today to discuss your translation needs:
 
-- **Website**: [italianschoolsd.com/contact](https://www.italianschoolsd.com/contact/)
+- **Website**: [italianschoolsd.com/contact](/contact/)
 
 ---
 

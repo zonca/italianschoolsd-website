@@ -11,4 +11,4 @@ See <https://www.italianschoolsd.com/summer-camp-2023/> for more details and to 
 
 Pre-enrollment is not binding, once we will have organized the classes and sent out the invoices, paying them will finalize enrollment.
 
-[Contact us with any question](https://www.italianschoolsd.com/contact/)!
+[Contact us with any question](/contact/)!
