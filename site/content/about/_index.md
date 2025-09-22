@@ -92,15 +92,7 @@ Although being raised in San Diego, Italy was always in her heart. She moved bac
 Ilana has had the opportunity to work with both children and adults teaching English and Italian in the States and in Italy. She was able to enrich her skills by completing certificate courses with
 the Oxford Teacher’s Academy as well as The Canadian Institute of English and Applied Neuroscience. She enjoys learning languages, dancing, cooking, traveling, helping others and spending time with her family and friends. She is happy to embark on this journey with the Italian School of San Diego and looks forward to meeting you soon!
 
-### Mauro Brattich
 
-![Mauro Brattich](/img/mauro_brattich.jpg)
-
-Mauro is an Italian native from Genoa. There he grew up, studied and worked until relocating to California about forty-three years ago.  Mauro graduated from UC Berkeley in Naval Architecture-Offshore Engineering and worked in the shipyard industry in San Diego for thirty-one years until retirement.
-
-He lives in San Diego County with his family and returns to Italy every year for about three months visiting family and friends.  Mauro has been an avid sailor since his youth, he loves cooking, gardening, boat building and he is versed in several other arts and crafts.
-
-He started tutoring Italian during his years at CAL and found the experience of transferring his love for the Italian language to others very rewarding. Lately, taking advantage of the newfound spare time he has been able to return to this activity with new energy.
 
 ### Emanuela Rossi
 
