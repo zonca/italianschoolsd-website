@@ -16,15 +16,35 @@ Note: All in-person adult classes meet at our school at [4550 Kearny Villa Rd Su
 
 ---
 
-## Italian for Travelers 2025 (Starts August 6th and September 4th)
+## Italian for Travelers 2025
 
-Our 4-week "Italian for Travelers" program runs monthly. This course is perfect for families—children 8 years and older are welcome to join!
+We will start offering again "Italian for travelers" in March or April 2026,
+however if you already have a group, we can set up a dedicated class—[contact us](/contact).
 
 <div class="tc">
 <a href="/travelers" class="btn raise">Learn more and enroll to "Italian for travelers"</a>
 </div>
 
 ---
+
+## October-December intersession
+
+### (NEW!) Beginner class
+
+**Wednesday 6:15pm–7:45pm (In person)**  
+October 15 – December 10, 2025 (**8 classes**)  
+*No class on Thanksgiving week (Nov 26)*
+
+Class dates: Oct 15, 22, 29; Nov 5, 12, 19; Dec 3, 10
+
+Start your Italian journey with our friendly, hands-on beginner class! In just 8 weeks, you'll build a solid foundation in Italian conversation, vocabulary, and culture—perfect for travel, work, or connecting with family.
+
+Our small group setting ensures plenty of personal attention and practice. Whether you're brand new to Italian or want a refresher, you'll feel welcome and supported every step of the way.
+
+After this session, you can seamlessly continue in January with our Beginner-Intermediate class at the same time.
+
+<div class="tc"><a href="https://link.waveapps.com/ybqa5r-wrbh76" class="btn raise">Pay and enroll (Beginner, In person, $272)</a></div>
+
 
 ## Fall 2025 Group Classes
 
