@@ -22,7 +22,7 @@ The Italian School offers four one-year classes for students learning Italian as
 * `ifl1-2` Italian 1-2: For beginners, online or in-person. Schedule TBD.
 * `ifl3-4` Italian 3-4: In-person, Wednesdays 4:00–6:00 pm. First class: August 27th.
 * `ifl5-6` Italian 5-6: Online. Schedule TBD.
-* `ifl7-8` Italian 7-8 & AP Preparation: [See the AP Italian page](/ap-italian-san-diego). Online, Mondays 5:00–7:00 pm. First class: August 25th.
+* `ifl7-8` Italian 7-8 & AP Preparation: [See the AP Italian page](/ap-italian-san-diego). Online, Wednesdays 6:00–8:00 pm. First class: September 3rd.
 
 We also offer modified programs for students—generally of Italian heritage—who already speak Italian:
 
