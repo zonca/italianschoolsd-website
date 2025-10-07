@@ -51,11 +51,8 @@ The cost of this program is **$1211**. A monthly payment plan is available—ple
 
 For students already enrolled in Italian 7–8 or IFL 7–8, there is no additional cost to participate in the AP Italian preparation sessions.
 
-Students who wish to register only for the AP Preparation Course can find tuition details and enrollment information here:
-👉 [Accredited classes]({{< ref "../accredited-classes.md" >}})
-
-After you submit the pre-enrollment form, we’ll email you an invoice to submit payment and confirm your enrollment.
-
 <div class="tc">
   <a href="https://docs.google.com/forms/d/e/1FAIpQLSd4sac0Y2wdTd9gm2AF1Y9uuVPPyJzHfHEphJPA1iYPkrP43g/viewform?usp=sf_link" class="btn raise">Fill the universal pre-enrollment form</a>
 </div>
+
+After you submit the pre-enrollment form, we’ll email you an invoice to submit payment and confirm your enrollment.
