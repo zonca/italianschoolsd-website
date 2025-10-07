@@ -4,6 +4,8 @@ date: 2025-10-06T00:00:00.000Z
 draft: false
 ---
 
+> Quick summary — In-person AP Italian exam preparation in San Diego (Jan–May 2026; sessions on Saturdays 3–4 hours). Location: 4550 Kearny Villa Rd Suite 202 — see our [location]({{< ref "../location.md" >}}); same venue as the [AP Italian 2026 exam]({{< ref "ap-italian-2026-hosted-at-italian-school-san-diego.md" >}}). Cost: $1211; payment plan available. **Enrollment deadline: October 31, 2025.** Pre-enroll using the button at the bottom of this page.
+
 ### What we’ll cover
 
 We work with authentic materials—real Italian content created for native speakers (e.g., news articles, podcasts, interviews, ads, short videos). This builds the skills the AP exam measures: understanding real-world language and responding appropriately.
