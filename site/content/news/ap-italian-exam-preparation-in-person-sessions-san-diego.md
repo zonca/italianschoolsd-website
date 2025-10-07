@@ -4,7 +4,7 @@ date: 2025-10-06T00:00:00.000Z
 draft: false
 ---
 
-> Quick summary — In-person AP Italian exam preparation in San Diego (Jan–May 2026; sessions on Saturdays 3–4 hours) at 4550 Kearny Villa Rd Suite 202. Enrollment by: October 31, 2025
+> In-person AP Italian exam preparation in San Diego (Jan–May 2026; sessions on Saturdays for 3–4 hours) at 4550 Kearny Villa Rd Suite 202. Enroll by: October 31, 2025
 
 ### What we’ll cover
 
