@@ -9,7 +9,7 @@ Exam date/time: May 8, 2026 at 8:00 AM.
 
 Where:
 
-- Italian School of San Diego — see our [location page](/location)
+- Italian School of San Diego — see our [location page]({{< ref "../location.md" >}})
 - Address: [4550 Kearny Villa Rd Suite 202](https://maps.app.goo.gl/Cg14JWm1TJFK9rsN8)
 
 For official details and updates, see the SDUSD AP website: <https://sites.google.com/sandi.net/sdusdap/ap-resources/italian-language>.
@@ -26,4 +26,4 @@ Programs at a glance:
 - Italian 7–8 & AP Preparation: Advanced topics plus targeted AP practice and exam strategies.
 - For Italian speakers: Dedicated tracks (ita1–2, ita3–4, ita5–6, ita7–8 & AP Prep).
 
-Learn more about our [accredited classes](/accredited-classes) and our [AP Italian preparation](/ap-italian-san-diego). To pre-enroll, visit [/enroll-accredited](/enroll-accredited).
+Learn more about our [accredited classes]({{< ref "../accredited-classes.md" >}}) and our [AP Italian preparation]({{< ref "../ap-italian-san-diego.md" >}}). To pre-enroll, visit [tuition and pre-enrollment]({{< ref "../enroll-accredited.md" >}}).
