@@ -4,6 +4,8 @@ image: /img/milan.jpg
 subtitle: Take AP Italian during High School for College credit
 ---
 
+> Update — AP Italian 2026 for San Diego Unified (SDUSD) will be hosted at our location. Exam: May 8, 2026 at 8:00 AM. Read the [announcement]({{< ref "news/ap-italian-2026-hosted-at-italian-school-san-diego.md" >}}) or see our [location](/location).
+
 Several High Schools in San Diego give the students the possibility of taking
 AP exams, generally once a year in May.
 
