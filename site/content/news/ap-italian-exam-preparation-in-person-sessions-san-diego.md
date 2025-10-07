@@ -6,8 +6,10 @@ draft: false
 
 ### What we’ll cover
 
-- Listening: Practice with audio materials to improve comprehension skills.
-- Reading: Exercises to enhance understanding of written Italian texts.
+We work with authentic materials—real Italian content created for native speakers (e.g., news articles, podcasts, interviews, ads, short videos). This builds the skills the AP exam measures: understanding real-world language and responding appropriately.
+
+- Listening: Practice with native audio/video to improve comprehension.
+- Reading: Work with current articles and texts to enhance understanding.
 - Writing: Assignments to develop essay writing and free-response skills.
 - Speaking: Activities to improve conversational Italian and oral presentation abilities.
 
@@ -42,6 +44,8 @@ A textbook purchase will be required for this course. The title and details will
 ### Cost and enrollment
 
 The cost of this program is **$1211**. A monthly payment plan is available—please specify your preference in the pre-enrollment form.
+
+**Enrollment is open until October 31, 2025**—this is the same deadline to enroll for AP Italian 2026 through the San Diego Unified School District.
 
 For students already enrolled in Italian 7–8 or IFL 7–8, there is no additional cost to participate in the AP Italian preparation sessions.
 

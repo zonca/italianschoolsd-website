@@ -14,7 +14,7 @@ Where:
 
 For official details and updates, see the SDUSD AP website: <https://sites.google.com/sandi.net/sdusdap/ap-resources/italian-language>.
 
-Italian School of San Diego has a long partnership with San Diego Unified, as we offer accredited Italian classes from Italian 1–2 through 7–8 (AP preparation).
+Italian school of San Diego has a long partnership with San Diego Unified, as we offer accredited Italian classes from Italian 1–2 through 7–8 (AP preparation).
 
 What “accredited” means: Grades earned in our classes are added to the student’s high school transcript and satisfy both high school graduation and college admission world‑language requirements. Students may take Italian instead of Spanish, or take both.
 
@@ -26,4 +26,7 @@ Programs at a glance:
 - Italian 7–8 & AP Preparation: Advanced topics plus targeted AP practice and exam strategies.
 - For Italian speakers: Dedicated tracks (ita1–2, ita3–4, ita5–6, ita7–8 & AP Prep).
 
-Learn more about our [accredited classes]({{< ref "../accredited-classes.md" >}}) and our [AP Italian preparation]({{< ref "../ap-italian-san-diego.md" >}}). To pre-enroll, visit [tuition and pre-enrollment]({{< ref "../enroll-accredited.md" >}}).
+**Enrollment in our programs is open until October 31, 2025.** You can choose one of the following options:
+
+- Accredited Italian classes (count toward high school graduation and college admission requirements): [Learn more]({{< ref "../accredited-classes.md" >}})
+- AP Italian Exam Preparation — In-Person Sessions in San Diego: [Read the details]({{< ref "ap-italian-exam-preparation-in-person-sessions-san-diego.md" >}})
