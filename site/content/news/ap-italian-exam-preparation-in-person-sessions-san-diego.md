@@ -1,10 +1,16 @@
 ---
-title: "AP Italian Exam Preparation – In-Person Sessions in San Diego"
+title: "AP Italian 2026 Exam Preparation – In-Person Sessions in San Diego"
 date: 2025-10-06T00:00:00.000Z
 draft: false
+aliases:
+  - "/ap-prep"
 ---
 
 > In-person AP Italian exam preparation in San Diego (Jan–May 2026; sessions on Saturdays for 3–4 hours) at 4550 Kearny Villa Rd Suite 202. Enroll by: October 31, 2025
+
+### Who should enroll
+
+This class is targeted at students that have studied Italian at least for 3 years and can sustain simple conversations or students that already speak Italian.
 
 ### What we’ll cover
 
