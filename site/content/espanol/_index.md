@@ -6,7 +6,7 @@ draft: false
 
 # Spanish Markdown Pages
 
-Here is a list of all HTML pages in this section:
+Here is a list of all Markdown pages in this section:
 
 <ul>
 {{ range where .Site.RegularPages "Section" "espanol" }}
