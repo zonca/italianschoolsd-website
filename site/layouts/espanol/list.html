@@ -1,5 +1,17 @@
 {{ define "main" }}
-  <div class="mw7 center">
-    {{ .Content }}
+  <div class="mw6 center ph3 pv4">
+    <h1 class="f2 lh-title b mb3">Material for the Spanish class</h1>
+    <p>Here is a list of all material for the Spanish class:</p>
+    <ul>
+      {{ range .Paginator.Pages }}
+        {{ if eq .File.Ext "md" }}
+          <li>
+            <a href="{{ .Permalink }}">{{ .Title }}</a>
+            {{ if .Date }} - {{ .Date.Format "January 2, 2006" }}{{ end }}
+            {{ if .Description }}<p>{{ .Description }}</p>{{ end }}
+          </li>
+        {{ end }}
+      {{ end }}
+    </ul>
   </div>
 {{ end }}
