@@ -7,7 +7,7 @@ description: "A collection of Spanish markdown pages."
 
 # Material for the Spanish class
 
-Here is a list of all Markdown pages in this section:
+Here is a list of all material for the Spanish class:
 
 <ul>
 {{ range where .Site.RegularPages "Section" "espanol" }}
