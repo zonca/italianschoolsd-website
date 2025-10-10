@@ -8,7 +8,7 @@
           <li>
             <a href="{{ .Permalink }}">{{ .Title }}</a>
             {{ if .Date }} - {{ .Date.Format "January 2, 2006" }}{{ end }}
-            {{ if .Description }}<p>{{ .Description }}</p>{{ end }}
+            {{ if .Description }} - {{ .Description }}{{ end }}
           </li>
         {{ end }}
       {{ end }}
