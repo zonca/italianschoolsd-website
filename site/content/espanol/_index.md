@@ -5,7 +5,7 @@ draft: false
 description: "A collection of Spanish markdown pages."
 ---
 
-# Spanish Markdown Pages
+# Material for the Spanish class
 
 Here is a list of all Markdown pages in this section:
 
