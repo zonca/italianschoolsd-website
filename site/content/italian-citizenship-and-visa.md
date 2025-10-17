@@ -39,7 +39,7 @@ We understand that everyone is at a different stage in their journey. Whether yo
 **What to expect**
 
 * Free Case Evaluation ("First Conversation"): Start by completing the request form so we can review your background. We will confirm whether you appear to qualify for Italian citizenship and share an initial estimate of our legal fees. No specific legal advice is provided during this stage.  
-* Initial Consultation (45 minutes, $75 USD): When you are ready for detailed guidance, schedule a paid consultation—conducted in person, via phone, or over Zoom. During this meeting we outline the exact steps for your application and the documents you will need. Payment can be made via Zelle or credit card directly to Max or the Italian School of San Diego.  
+* Initial Consultation (1 hour, $95 USD): When you are ready for detailed guidance, schedule a paid consultation—conducted in person, via phone, or over Zoom. During this meeting we outline the exact steps for your application and the documents you will need. Payment can be made via Zelle or credit card directly to Max or the Italian School of San Diego.  
 * Tailored Engagement: After the consultation, we recommend the service package that best matches your goals, provide a precise roadmap, and deliver transparent pricing so you can move forward with confidence.
 
 This approach lets us focus on well-prepared clients who are committed to completing the citizenship journey while still offering clarity upfront to anyone exploring their options.
