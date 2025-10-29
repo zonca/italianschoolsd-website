@@ -91,6 +91,16 @@ Expect cozy, nut-free treats such as mini pumpkin muffins, apple slices with cin
 
 Set up at pick-up time so families can snap a photo memory under our lantern backdrop.
 
+## Enrollment
+
+Please fill a separate signup form for each child (select the date you are registering for):
+
+<div class="tc">
+<a href="https://docs.google.com/forms/d/e/1FAIpQLScI0LRpLkywNAAFc0nVw1RFvOBnSXluYVLbXNSfe7NbJJZvQA/viewform?usp=sf_link" class="btn raise">Signup Form</a>
+</div>
+
+After submitting the form, proceed to payment below. Payment for the November 14 event is due by Friday, November 7, 2025.
+
 💰 **Pricing and Payment**
 
 Standard pricing (per evening):
