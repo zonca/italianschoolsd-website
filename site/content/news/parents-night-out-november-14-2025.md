@@ -11,7 +11,7 @@ Parents, book your evening out - our bilingual staff is ready for a cozy fall ed
 - **Friday, November 14, 5:30-8:30 PM** (late pick-up until 9:00 PM)
 - 📍 Italian School of San Diego - 4550 Kearny Villa Rd, Suite 202, San Diego
 - 👧 For kids aged 4 and up
-- 🗣 Bilingual staff - no need to speak Italian
+- 🗣 Bilingual staff - knowledge of Italian not necessary
 - 🤝 Invite a friend and get a 10% discount on tuition!
 
 🍁 **Theme: Autunno di luce e colore / Fall Lights & Colors**
@@ -113,7 +113,7 @@ Current Italian School students (per evening):
 - $50 first child
 - $37.50 each sibling
 
-**Special:** Invite a friend and get a 10% discount on tuition for both families.
+**Special:** Invite a friend and get a 10% discount! Please [contact us]({{< ref "contact/_index.md" >}}) to receive the discount.
 
 **Payment deadline:** Please complete payment by Friday, November 7, 2025 to secure your spot.
 
