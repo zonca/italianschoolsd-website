@@ -109,12 +109,6 @@ Current Italian School students (per evening):
 <a href="https://italianschoolsd.square.site/shop/parents-night-out/BSISLI2I4B5AMUUKLB4XBMJK" class="btn raise">Pay Online</a>
 </div>
 
-💻 **Enrollment**
-
-Reserve your child's spot at [italianschoolsd.com/pno-fall-2025](https://www.italianschoolsd.com/pno-fall-2025) or scan the QR code on the flyer to register.
-
----
-
 ## Logistics Checklist
 
 - Drop-off opens at 5:20 PM; please pick up by 9:00 PM if you need late pick-up.
