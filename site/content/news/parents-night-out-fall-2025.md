@@ -1,8 +1,6 @@
 ---
 title: Parents' Night Out - 17th October 2025 - "La notte delle lanterne"
 date: 2025-08-28T00:00:00.000Z
-aliases:
-  - /pno-fall-2025
 description: Parents' Night Out – October 17 (Halloween) 5:30–8:30pm in Kearny Mesa, San Diego. Future fall dates listed at bottom.
 ---
 
@@ -85,9 +83,9 @@ Current Italian School students (per evening):
 
 ## Next Parents' Night Out events
 
-Upcoming fall dates (details coming soon):
-* Friday **November 14** – Thanksgiving themed Night
-* Friday **December 12** – Winter Holidays themed Night
+Upcoming fall dates:
+* Friday **November 14** – [Autunno di luce e colore Parents' Night Out]({{< ref "news/parents-night-out-november-14-2025.md" >}})
+* Friday **December 12** – Winter Holidays themed Night (details coming soon)
 
 ## Please help us share the word
 
