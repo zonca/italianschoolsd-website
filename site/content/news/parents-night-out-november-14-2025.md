@@ -105,6 +105,8 @@ Current Italian School students (per evening):
 
 **Special:** Invite a friend and get a 10% discount on tuition for both families.
 
+**Payment deadline:** Please complete payment by Friday, November 7, 2025 to secure your spot.
+
 <div class="tc">
 <a href="https://italianschoolsd.square.site/shop/parents-night-out/BSISLI2I4B5AMUUKLB4XBMJK" class="btn raise">Pay Online</a>
 </div>
@@ -112,6 +114,7 @@ Current Italian School students (per evening):
 ## Logistics Checklist
 
 - Drop-off opens at 5:20 PM; please pick up by 9:00 PM if you need late pick-up.
+- Payment is due by Friday, November 7, 2025 to guarantee your reservation.
 - Kids should have had dinner beforehand or bring a labeled snack (we provide nut-free themed snacks).
 - Bring a reusable water bottle and comfortable clothes suited for art activities (smocks provided).
 - Kids 4 years and up; must be potty trained.
