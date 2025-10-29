@@ -20,15 +20,52 @@ An evening of creativity, play, and bilingual fun. Children will create beautifu
 
 🕐 **Program**
 
-| Time | Activity | Type |
-| --- | --- | --- |
-| 5:30-5:40 | Quick welcome and seating | Logistica |
-| 5:40-6:40 | Painted Glass Lanterns | Artistic craft |
-| 6:40-7:00 | Autumn Snack Break | Merenda |
-| 7:00-7:45 | Leaf Bowl - Ciotola in Argilla o Foglia | Hands-on art |
-| 7:45-8:20 | Games (2 calm + 1 active) | Group play |
-| 8:20-8:30 | Photo Corner - "Autumn Lights" | Relax & photos |
-| 8:30-9:00 | Pick-up and mini movie / quiet music | Uscita |
+<table class="program-table">
+  <thead>
+    <tr>
+      <th>Time</th>
+      <th>Activity</th>
+      <th>Type</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>5:30-5:40</td>
+      <td>Quick welcome and seating</td>
+      <td>Logistica</td>
+    </tr>
+    <tr>
+      <td>5:40-6:40</td>
+      <td>Painted Glass Lanterns</td>
+      <td>Artistic craft</td>
+    </tr>
+    <tr>
+      <td>6:40-7:00</td>
+      <td>Autumn Snack Break</td>
+      <td>Merenda</td>
+    </tr>
+    <tr>
+      <td>7:00-7:45</td>
+      <td>Leaf Bowl - Ciotola in Argilla o Foglia</td>
+      <td>Hands-on art</td>
+    </tr>
+    <tr>
+      <td>7:45-8:20</td>
+      <td>Games (2 calm + 1 active)</td>
+      <td>Group play</td>
+    </tr>
+    <tr>
+      <td>8:20-8:30</td>
+      <td>Photo Corner - "Autumn Lights"</td>
+      <td>Relax & photos</td>
+    </tr>
+    <tr>
+      <td>8:30-9:00</td>
+      <td>Pick-up and mini movie / quiet music</td>
+      <td>Uscita</td>
+    </tr>
+  </tbody>
+</table>
 
 🧁 **Autumn Snack Ideas**
 
