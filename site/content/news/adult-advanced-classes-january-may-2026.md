@@ -1,0 +1,24 @@
+---
+title: Advanced Adult Italian Classes — January to May 2026
+date: 2025-11-04
+description: Advanced-level adult Italian class schedule, tuition, and enrollment information for January through May 2026.
+---
+
+Comfortable holding conversations in Italian and ready to dive deeper into nuance, culture, and speed? Our advanced section keeps you thinking in Italian with authentic materials and lively discussion each week. Students typically have 3+ years of study or equivalent immersion experience.
+
+For other levels see [Adult classes overview]({{< relref "adults.md" >}}) for quick comparisons, policies, and discounts.
+
+---
+
+## Thursday Advanced (In person)
+
+- **Schedule:** Thursdays, 6:30 pm–8:00 pm, January 8 – May 28, 2026 (20 classes)
+- **Skip dates:** No class on April 2 (Spring Break)
+- **Instructor:** Ilana
+- **Tuition:** $660 for the full session (payment link below)
+- **Monthly plan:** 5 installments of $145.20 (10% admin fee)
+
+<div class="tc"><a href="https://link.waveapps.com/avv6xk-ymvtkc" class="btn raise">Pay and enroll (Thursday Advanced, In person, $660)</a></div>
+<div class="tc"><a href="https://link.waveapps.com/u3yv3m-q3vvtc" class="btn raise">Pay and enroll (Thursday Advanced, In person, 5 monthly payments of $145.20)</a></div>
+
+Questions about whether this class is the right fit? [Contact us]({{< relref "contact.md" >}}) and we’ll talk through placement.

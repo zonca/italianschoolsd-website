@@ -35,69 +35,21 @@ Choose your level below and enroll online with your credit card.
 
 No prior Italian experience required.
 
-Start your Italian journey with our friendly, hands-on beginner class! In 5 months, you'll build a solid foundation in Italian conversation, vocabulary, and culture—perfect for travel, work, or connecting with family.
+Start your Italian journey with our friendly, hands-on beginner class! In 5 months, you'll build a solid foundation in Italian conversation, vocabulary, and culture—perfect for travel, work, or connecting with family. Our small group setting ensures plenty of personal attention and practice. Whether you're brand new to Italian or want a refresher, you'll feel welcome and supported every step of the way.
 
-Our small group setting ensures plenty of personal attention and practice. Whether you're brand new to Italian or want a refresher, you'll feel welcome and supported every step of the way.
+See the full schedule, holidays, and enrollment links: [Beginner classes (January–May 2026)]({{< relref "news/adult-beginner-classes-january-may-2026.md" >}})
 
----
-
-**Wednesday 6:15pm–7:45pm (In person)**  
-January 7 – May 27, 2026 (**20 classes**)  
-*No class on April 1 (Spring Break)*
-
-Note: Wednesday and Thursday sections typically include more class meetings than Monday sections during January–May because several holidays fall on Mondays (MLK Day, Presidents’ Day, Memorial Day).
-
-<div class="tc"><a href="https://link.waveapps.com/6yszna-a5q3bh" class="btn raise">Pay and enroll (Wednesday Beginner, In person, $660)</a></div>
-
-Given the long duration of the class, we also offer a monthly payment plan with a 10% additional admin fee: $145.20 for 5 monthly installments. Once you enroll and make the first payment, you will receive monthly invoices for the remaining 4 payments that you can pay manually or save your credit card for automatic payments. Notice you are still committing to continue the class until the end of the session.
-<div class="tc"><a href="https://link.waveapps.com/4cad2c-mb9zxs" class="btn raise">Pay and enroll (Wednesday Beginner, In person, 5 monthly payments of $145.20)</a></div>
-
----
-
-**Tuesday 6:00pm–7:30pm (Online)**  
-January 20 – May 26, 2026 (**18 classes**)  
-*No class on April 7 (Spring Break)*
-
-Classes begin the week of January 19 (first meeting Tuesday, January 20).
-
-Tuition is $540 for the full session (18 classes). Pay in full to reserve your spot.
-<div class="tc"><a href="https://link.waveapps.com/b549kt-8y2r4w" class="btn raise">Pay and enroll (Tuesday Beginner, Online, $540)</a></div>
-
-Given the long duration of the class, we also offer a monthly payment plan with a 10% additional admin fee: $118.80 for 5 monthly installments. Once you enroll and make the first payment, you will receive monthly invoices for the remaining 4 payments that you can pay manually or save your credit card for automatic payments. Notice you are still committing to continue the class until the end of the session.
-<div class="tc"><a href="https://link.waveapps.com/qbdebd-49kzwz" class="btn raise">Pay and enroll (Tuesday Beginner, Online, 5 monthly payments of $118.80)</a></div>
-
----
 ### All intermediate levels
 
 For students with at least one year of Italian classes or equivalent self-study.
 
-**Monday 6pm–7:30pm (In person)**  
-January 12 – May 18, 2026 (**16 classes**)  
-*No class on MLK Day (Jan 19), Presidents’ Day (Feb 16), Spring Break (Mar 30), Memorial Day (May 25)*
-* We plan to have three groups (Beginner-Intermediate, Intermediate and Intermediate-Advanced) on Mondays and we will split the students into groups based on their level.
-*January 12th is "Enrollment Day": we’ll assess new students and organize groups by level. We aim to keep previous groups together but may adjust for balance.*  
-<div class="tc"><a href="https://link.waveapps.com/mhgw2w-an9ex5" class="btn raise">Pay and enroll (Monday All intermediate levels, In person, $528)</a></div>
-
-Given the long duration of the class, we also offer a monthly payment plan with a 10% additional admin fee: $116.16 for 5 monthly installments. Once you enroll and make the first payment, you will receive monthly invoices for the remaining 4 payments that you can pay manually or save your credit card for automatic payments. Notice you are still committing to continue the class until the end of the session.
-<div class="tc"><a href="https://link.waveapps.com/bamj8d-rvu3b6" class="btn raise">Pay and enroll (Monday All intermediate levels, In person, 5 monthly payments of $116.16)</a></div>
-
-
-
-**Thursday 6:30pm–8:00pm (In person, Beginner-Intermediate)**  
-January 8 – May 28, 2026 (**20 classes**)  
-*No class on April 2 (Spring Break)*
-
-Tuition is $660 for the full session (20 classes). Pay in full to reserve your spot.
-<div class="tc"><a href="https://link.waveapps.com/zy9zg6-hyx7fp" class="btn raise">Pay and enroll (Thursday Beginner-Intermediate, In person, $660)</a></div>
-
-Given the long duration of the class, we also offer a monthly payment plan with a 10% additional admin fee: $145.20 for 5 monthly installments. Once you enroll and make the first payment, you will receive monthly invoices for the remaining 4 payments that you can pay manually or save your credit card for automatic payments. Notice you are still committing to continue the class until the end of the session.
-<div class="tc"><a href="https://link.waveapps.com/zfzcsh-8v47m4" class="btn raise">Pay and enroll (Thursday Beginner-Intermediate, In person, 5 monthly payments of $145.20)</a></div>
-
----
+We offer multiple intermediate tracks to keep you challenged and progressing, whether you're solidly intermediate or edging toward advanced. Review schedules, tuition, and enrollment links here: [All intermediate level classes (January–May 2026)]({{< relref "news/adult-intermediate-classes-january-may-2026.md" >}})
 
 ### Advanced
 
 For students with 3+ years of Italian, able to understand most spoken Italian and hold conversations.
+
+Prefer a shareable overview? Visit the detailed page: [Advanced classes (January–May 2026)]({{< relref "news/adult-advanced-classes-january-may-2026.md" >}})
 
 **Thursday 6:30pm–8:00pm (In person)**  
 January 8 – May 28, 2026 (**20 classes**)  
