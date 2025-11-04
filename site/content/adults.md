@@ -83,7 +83,7 @@ Given the long duration of the class, we also offer a monthly payment plan with 
 
 
 
-**Thursday 5:00pm–6:30pm (In person)**  
+**Thursday 6:30pm–8:00pm (In person, Beginner-Intermediate)**  
 January 8 – May 28, 2026 (**20 classes**)  
 *No class on April 2 (Spring Break)*
 
