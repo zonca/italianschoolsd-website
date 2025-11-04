@@ -72,14 +72,14 @@ Given the long duration of the class, we also offer a monthly payment plan with 
 For students with at least one year of Italian classes or equivalent self-study.
 
 **Monday 6pm–7:30pm (In person)**  
-August 18 – December 15 (14 classes)  
-*No class on Labor Day (Sep 1), Columbus/Indigenous Peoples’ Day (Oct 13), Veterans Day (Nov 10), and Thanksgiving break (Nov 24)*
+January 12 – May 18, 2026 (**16 classes**)  
+*No class on MLK Day (Jan 19), Presidents’ Day (Feb 16), Spring Break (Mar 30), Memorial Day (May 25)*
 * We plan to have 3 classes (Beginner-Intermediate, Intermediate and Intermediate-Advanced) on Mondays and we will split the students into groups based on their level.
-*August 18th is "Enrollment Day": we’ll assess new students and organize groups by level. We aim to keep previous groups together but may adjust for balance.*  
-<div class="tc"><a href="https://link.waveapps.com/zacu6p-hj3uak" class="btn raise">Pay and enroll (Beginner-Intermediate, Intermediate, Intermediate-Advanced, In person, $448)</a></div>
+*January 12th is "Enrollment Day": we’ll assess new students and organize groups by level. We aim to keep previous groups together but may adjust for balance.*  
+<div class="tc"><a href="https://link.waveapps.com/mhgw2w-an9ex5" class="btn raise">Pay and enroll (Beginner-Intermediate, Intermediate, Intermediate-Advanced, In person, $528)</a></div>
 
-Given the long duration of the class, we also give the option of a monthly payment plan, with a 10% additional admin fee, it is $98 for 5 monthly installments, once you enroll and make the first payment, you will receive monthly invoices for the remaining 4 payments that you can pay manually or save your credit card for automatic payments. Notice you are still committing to continue the class until the end of the session.
-<div class="tc"><a href="https://link.waveapps.com/srjtdq-ce9m7x" class="btn raise">Pay and enroll (Beginner-Intermediate, Intermediate, Intermediate-Advanced, In person, 5 monthly payments of $98)</a></div>
+Given the long duration of the class, we also offer a monthly payment plan with a 10% additional admin fee: $116.16 for 5 monthly installments. Once you enroll and make the first payment, you will receive monthly invoices for the remaining 4 payments that you can pay manually or save your credit card for automatic payments. Notice you are still committing to continue the class until the end of the session.
+<div class="tc"><a href="https://link.waveapps.com/bamj8d-rvu3b6" class="btn raise">Pay and enroll (Beginner-Intermediate, Intermediate, Intermediate-Advanced, In person, 5 monthly payments of $116.16)</a></div>
 
 
 
