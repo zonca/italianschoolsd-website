@@ -112,11 +112,6 @@ We offer custom classes online, at our location, or even at your home. [Contact 
 ## Previous Sessions
 
 - [Summer 2025 session]( {{< ref "news/italian-adult-classes-summer-2025.md" >}} )
-- [Spring 2025]( {{< ref "news/italian-adult-classes-spring-2025.md" >}} )
-- [Winter 2025]( {{< ref "news/italian-adult-classes-winter-2025.md" >}} )
-- [October 2024]( {{< ref "news/italian-adult-classes-october-2024.md" >}} )
-- [Fall 2024 quarter]( {{< ref "news/italian-adult-classes-fall-2024.md" >}} )
-- [Summer 2024 session]( {{< ref "news/italian-adult-classes-summer-2024.md" >}} )
 
 ---
 
