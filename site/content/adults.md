@@ -83,6 +83,18 @@ Given the long duration of the class, we also offer a monthly payment plan with 
 
 
 
+**Thursday 5:00pm–6:30pm (In person)**  
+January 8 – May 28, 2026 (**20 classes**)  
+*No class on April 2 (Spring Break)*
+
+Tuition is $660 for the full session (20 classes). Pay in full to reserve your spot.
+<div class="tc"><a href="https://link.waveapps.com/zy9zg6-hyx7fp" class="btn raise">Pay and enroll (Thursday Beginner-Intermediate, In person, $660)</a></div>
+
+Given the long duration of the class, we also offer a monthly payment plan with a 10% additional admin fee: $145.20 for 5 monthly installments. Once you enroll and make the first payment, you will receive monthly invoices for the remaining 4 payments that you can pay manually or save your credit card for automatic payments. Notice you are still committing to continue the class until the end of the session.
+<div class="tc"><a href="https://link.waveapps.com/zfzcsh-8v47m4" class="btn raise">Pay and enroll (Thursday Beginner-Intermediate, In person, 5 monthly payments of $145.20)</a></div>
+
+---
+
 ### Advanced
 
 For students with 3+ years of Italian, able to understand most spoken Italian and hold conversations.
