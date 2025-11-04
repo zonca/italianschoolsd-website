@@ -16,7 +16,7 @@ Note: All in-person adult classes meet at our school at [4550 Kearny Villa Rd Su
 
 ---
 
-## Italian for Travelers 2025
+## Italian for Travelers
 
 We will start offering again "Italian for travelers" in March or April 2026,
 however if you already have a group, we can set up a dedicated class—[contact us](/contact).
@@ -27,45 +27,32 @@ however if you already have a group, we can set up a dedicated class—[contact 
 
 ---
 
-## October-December intersession
-
-### (NEW!) Beginner class
-
-**Wednesday 6:15pm–7:45pm (In person)**  
-October 15 – December 10, 2025 (**8 classes**)  
-*No class on Thanksgiving week (Nov 26)*
-
-Class dates: Oct 15, 22, 29; Nov 5, 12, 19; Dec 3, 10
-
-Start your Italian journey with our friendly, hands-on beginner class! In just 8 weeks, you'll build a solid foundation in Italian conversation, vocabulary, and culture—perfect for travel, work, or connecting with family.
-
-Our small group setting ensures plenty of personal attention and practice. Whether you're brand new to Italian or want a refresher, you'll feel welcome and supported every step of the way.
-
-After this session, you can seamlessly continue in January with our Beginner-Intermediate class at the same time.
-
-<div class="tc"><a href="https://link.waveapps.com/ybqa5r-wrbh76" class="btn raise">Pay and enroll (Beginner, In person, $272)</a></div>
-
-
-## Fall 2025 Group Classes
+## January-May 2026 Group Classes
 
 Choose your level below and enroll online with your credit card.
 
-### Beginner
+### Beginner class
 
 No prior Italian experience required.
 
-**Thursday 6:30pm–8:00pm (In person)**  
-August 28 – December 11 (15 classes)  
-<div class="tc"><a href="https://link.waveapps.com/uwuwac-wxz4nz" class="btn raise">Pay and enroll (Beginner, In person, $480)</a></div>
+Start your Italian journey with our friendly, hands-on beginner class! In 5 months, you'll build a solid foundation in Italian conversation, vocabulary, and culture—perfect for travel, work, or connecting with family.
 
-Given the long duration of the class, we also give the option of a monthly payment plan, with a 10% additional admin fee, it is $105 for 5 monthly installments, once you enroll and make the first payment, you will receive monthly invoices for the remaining 4 payments that you can pay manually or save your credit card for automatic payments. Notice you are still committing to continue the class until the end of the session.
-<div class="tc"><a href="https://link.waveapps.com/kjuqf6-45azbs" class="btn raise">Pay and enroll (Beginner, In person, 5 monthly payments of $105)</a></div>
+Our small group setting ensures plenty of personal attention and practice. Whether you're brand new to Italian or want a refresher, you'll feel welcome and supported every step of the way.
 
 ---
-**Monday 6pm–7:30pm (Online)**  
-August 18 – December 15 (14 classes)  
-*No class on Labor Day (Sep 1), Columbus/Indigenous Peoples’ Day (Oct 13), Veterans Day (Nov 10), and Thanksgiving break (Nov 24)*  
-<div class="tc"><a href="https://link.waveapps.com/ekgakz-pqb3pm" class="btn raise">Pay and enroll (Beginner, Online, $392)</a></div>
+
+**Wednesday 6:15pm–7:45pm (In person)**  
+January 7 – May 27, 2026 (**20 classes**)  
+*No class on April 1 (Spring Break)*
+
+Note: Wednesday and Thursday sections typically include more class meetings than Monday sections during January–May because several holidays fall on Mondays (MLK Day, Presidents’ Day, Memorial Day).
+
+<div class="tc"><a href="https://link.waveapps.com/6yszna-a5q3bh" class="btn raise">Pay and enroll (Beginner, In person, $660)</a></div>
+
+Given the long duration of the class, we also offer a monthly payment plan with a 10% additional admin fee: $145.20 for 5 monthly installments. Once you enroll and make the first payment, you will receive monthly invoices for the remaining 4 payments that you can pay manually or save your credit card for automatic payments. Notice you are still committing to continue the class until the end of the session.
+<div class="tc"><a href="https://link.waveapps.com/4cad2c-mb9zxs" class="btn raise">Pay and enroll (Beginner, In person, 5 monthly payments of $145.20)</a></div>
+
+---
 
 ---
 ### Beginner-Intermediate, Intermediate & Intermediate-Advanced
