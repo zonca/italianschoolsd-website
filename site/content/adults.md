@@ -38,18 +38,21 @@ No prior Italian experience required.
 Start your Italian journey with our friendly, hands-on beginner class! In 5 months, you'll build a solid foundation in Italian conversation, vocabulary, and culture—perfect for travel, work, or connecting with family. Our small group setting ensures plenty of personal attention and practice. Whether you're brand new to Italian or want a refresher, you'll feel welcome and supported every step of the way.
 
 See the full schedule, holidays, and enrollment links: [Beginner classes (January–May 2026)]({{< relref "news/adult-beginner-classes-january-may-2026.md" >}})
+<div class="tc"><a href='{{< relref "news/adult-beginner-classes-january-may-2026.md" >}}' class="btn raise">View beginner schedule & tuition</a></div>
 
 ### All intermediate levels
 
 For students with at least one year of Italian classes or equivalent self-study.
 
 We offer multiple intermediate tracks to keep you challenged and progressing, whether you're solidly intermediate or edging toward advanced. Review schedules, tuition, and enrollment links here: [All intermediate level classes (January–May 2026)]({{< relref "news/adult-intermediate-classes-january-may-2026.md" >}})
+<div class="tc"><a href='{{< relref "news/adult-intermediate-classes-january-may-2026.md" >}}' class="btn raise">View intermediate schedules & tuition</a></div>
 
 ### Advanced
 
 For students with 3+ years of Italian, able to understand most spoken Italian and hold conversations.
 
 Find the full schedule, tuition, and teacher details here: [Advanced classes (January–May 2026)]({{< relref "news/adult-advanced-classes-january-may-2026.md" >}})
+<div class="tc"><a href='{{< relref "news/adult-advanced-classes-january-may-2026.md" >}}' class="btn raise">View advanced schedule & tuition</a></div>
 
 ## Private & Custom Classes
 
