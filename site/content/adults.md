@@ -88,10 +88,16 @@ Given the long duration of the class, we also offer a monthly payment plan with 
 For students with 3+ years of Italian, able to understand most spoken Italian and hold conversations.
 
 **Thursday 6:30pm–8:00pm (In person)**  
-August 28 – December 11 (15 classes)  
+January 8 – May 28, 2026 (**20 classes**, $33 per class)  
+*No class on April 2 (Spring Break)*
+
 Class taught by Ilana. Please [contact us](/contact) if you are interested in monthly payments.
-*No class on Thanksgiving (Nov 27)*
-<div class="tc"><a href="https://link.waveapps.com/92wajv-dna4dr" class="btn raise">Pay and enroll (Advanced, In person, $480)</a></div>
+
+Tuition is $660 for the full session (20 classes at $33 each). Pay in full to reserve your spot.
+<div class="tc"><a href="https://link.waveapps.com/avv6xk-ymvtkc" class="btn raise">Pay and enroll (Advanced, In person, $660)</a></div>
+
+Given the long duration of the class, we also offer a monthly payment plan with a 10% additional admin fee: $145.20 for 5 monthly installments. Once you enroll and make the first payment, you will receive monthly invoices for the remaining 4 payments that you can pay manually or save your credit card for automatic payments. Notice you are still committing to continue the class until the end of the session.
+<div class="tc"><a href="https://link.waveapps.com/u3yv3m-q3vvtc" class="btn raise">Pay and enroll (Advanced, In person, 5 monthly payments of $145.20)</a></div>
 
 ---
 
@@ -111,6 +117,7 @@ We offer custom classes online, at our location, or even at your home. [Contact 
 
 ## Previous Sessions
 
+- [Fall 2025]( {{< ref "news/italian-adult-classes-fall-2025.md" >}} )
 - [Summer 2025 session]( {{< ref "news/italian-adult-classes-summer-2025.md" >}} )
 
 ---
