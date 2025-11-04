@@ -47,39 +47,39 @@ January 7 – May 27, 2026 (**20 classes**)
 
 Note: Wednesday and Thursday sections typically include more class meetings than Monday sections during January–May because several holidays fall on Mondays (MLK Day, Presidents’ Day, Memorial Day).
 
-<div class="tc"><a href="https://link.waveapps.com/6yszna-a5q3bh" class="btn raise">Pay and enroll (Beginner, In person, $660)</a></div>
+<div class="tc"><a href="https://link.waveapps.com/6yszna-a5q3bh" class="btn raise">Pay and enroll (Wednesday Beginner, In person, $660)</a></div>
 
 Given the long duration of the class, we also offer a monthly payment plan with a 10% additional admin fee: $145.20 for 5 monthly installments. Once you enroll and make the first payment, you will receive monthly invoices for the remaining 4 payments that you can pay manually or save your credit card for automatic payments. Notice you are still committing to continue the class until the end of the session.
-<div class="tc"><a href="https://link.waveapps.com/4cad2c-mb9zxs" class="btn raise">Pay and enroll (Beginner, In person, 5 monthly payments of $145.20)</a></div>
+<div class="tc"><a href="https://link.waveapps.com/4cad2c-mb9zxs" class="btn raise">Pay and enroll (Wednesday Beginner, In person, 5 monthly payments of $145.20)</a></div>
 
 ---
 
 **Tuesday 6:00pm–7:30pm (Online)**  
-January 20 – May 26, 2026 (**18 classes**, $30 per class)  
+January 20 – May 26, 2026 (**18 classes**)  
 *No class on April 7 (Spring Break)*
 
 Classes begin the week of January 19 (first meeting Tuesday, January 20).
 
-Tuition is $540 for the full session (18 classes at $30 each). Pay in full to reserve your spot.
-<div class="tc"><a href="https://link.waveapps.com/b549kt-8y2r4w" class="btn raise">Pay and enroll (Beginner, Online, $540)</a></div>
+Tuition is $540 for the full session (18 classes). Pay in full to reserve your spot.
+<div class="tc"><a href="https://link.waveapps.com/b549kt-8y2r4w" class="btn raise">Pay and enroll (Tuesday Beginner, Online, $540)</a></div>
 
 Given the long duration of the class, we also offer a monthly payment plan with a 10% additional admin fee: $118.80 for 5 monthly installments. Once you enroll and make the first payment, you will receive monthly invoices for the remaining 4 payments that you can pay manually or save your credit card for automatic payments. Notice you are still committing to continue the class until the end of the session.
-<div class="tc"><a href="https://link.waveapps.com/qbdebd-49kzwz" class="btn raise">Pay and enroll (Beginner, Online, 5 monthly payments of $118.80)</a></div>
+<div class="tc"><a href="https://link.waveapps.com/qbdebd-49kzwz" class="btn raise">Pay and enroll (Tuesday Beginner, Online, 5 monthly payments of $118.80)</a></div>
 
 ---
-### Beginner-Intermediate, Intermediate & Intermediate-Advanced
+### All intermediate levels
 
 For students with at least one year of Italian classes or equivalent self-study.
 
 **Monday 6pm–7:30pm (In person)**  
 January 12 – May 18, 2026 (**16 classes**)  
 *No class on MLK Day (Jan 19), Presidents’ Day (Feb 16), Spring Break (Mar 30), Memorial Day (May 25)*
-* We plan to have 3 classes (Beginner-Intermediate, Intermediate and Intermediate-Advanced) on Mondays and we will split the students into groups based on their level.
+* We plan to have three groups (Beginner-Intermediate, Intermediate and Intermediate-Advanced) on Mondays and we will split the students into groups based on their level.
 *January 12th is "Enrollment Day": we’ll assess new students and organize groups by level. We aim to keep previous groups together but may adjust for balance.*  
-<div class="tc"><a href="https://link.waveapps.com/mhgw2w-an9ex5" class="btn raise">Pay and enroll (Beginner-Intermediate, Intermediate, Intermediate-Advanced, In person, $528)</a></div>
+<div class="tc"><a href="https://link.waveapps.com/mhgw2w-an9ex5" class="btn raise">Pay and enroll (Monday All intermediate levels, In person, $528)</a></div>
 
 Given the long duration of the class, we also offer a monthly payment plan with a 10% additional admin fee: $116.16 for 5 monthly installments. Once you enroll and make the first payment, you will receive monthly invoices for the remaining 4 payments that you can pay manually or save your credit card for automatic payments. Notice you are still committing to continue the class until the end of the session.
-<div class="tc"><a href="https://link.waveapps.com/bamj8d-rvu3b6" class="btn raise">Pay and enroll (Beginner-Intermediate, Intermediate, Intermediate-Advanced, In person, 5 monthly payments of $116.16)</a></div>
+<div class="tc"><a href="https://link.waveapps.com/bamj8d-rvu3b6" class="btn raise">Pay and enroll (Monday All intermediate levels, In person, 5 monthly payments of $116.16)</a></div>
 
 
 
@@ -88,16 +88,16 @@ Given the long duration of the class, we also offer a monthly payment plan with 
 For students with 3+ years of Italian, able to understand most spoken Italian and hold conversations.
 
 **Thursday 6:30pm–8:00pm (In person)**  
-January 8 – May 28, 2026 (**20 classes**, $33 per class)  
+January 8 – May 28, 2026 (**20 classes**)  
 *No class on April 2 (Spring Break)*
 
 Class taught by Ilana. Please [contact us](/contact) if you are interested in monthly payments.
 
-Tuition is $660 for the full session (20 classes at $33 each). Pay in full to reserve your spot.
-<div class="tc"><a href="https://link.waveapps.com/avv6xk-ymvtkc" class="btn raise">Pay and enroll (Advanced, In person, $660)</a></div>
+Tuition is $660 for the full session (20 classes). Pay in full to reserve your spot.
+<div class="tc"><a href="https://link.waveapps.com/avv6xk-ymvtkc" class="btn raise">Pay and enroll (Thursday Advanced, In person, $660)</a></div>
 
 Given the long duration of the class, we also offer a monthly payment plan with a 10% additional admin fee: $145.20 for 5 monthly installments. Once you enroll and make the first payment, you will receive monthly invoices for the remaining 4 payments that you can pay manually or save your credit card for automatic payments. Notice you are still committing to continue the class until the end of the session.
-<div class="tc"><a href="https://link.waveapps.com/u3yv3m-q3vvtc" class="btn raise">Pay and enroll (Advanced, In person, 5 monthly payments of $145.20)</a></div>
+<div class="tc"><a href="https://link.waveapps.com/u3yv3m-q3vvtc" class="btn raise">Pay and enroll (Thursday Advanced, In person, 5 monthly payments of $145.20)</a></div>
 
 ---
 
