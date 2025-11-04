@@ -15,7 +15,7 @@ For other levels see [Adult classes overview]({{< relref "adults.md" >}}), where
 - **Schedule:** Wednesdays, 6:15 pm–7:45 pm, January 7 – May 27, 2026 (20 classes)
 - **Skip dates:** No class on April 1 (Spring Break)
 - **Tuition:** $660 for the full session (payment link below)
-- **Monthly plan:** 5 installments of $145.20 (10% admin fee)
+- **Monthly plan:** 5 installments of $145.20 (10% admin fee; enrolling commits you to the full session)
 
 Note: Wednesday sections typically include more meetings than Monday sections because several winter/spring holidays fall on Mondays (MLK Day, Presidents’ Day, Memorial Day).
 
@@ -30,7 +30,7 @@ Note: Wednesday sections typically include more meetings than Monday sections be
 - **Skip dates:** No class on April 7 (Spring Break)
 - **First meeting:** Tuesday, January 20 (the week of January 19)
 - **Tuition:** $540 for the full session (payment link below)
-- **Monthly plan:** 5 installments of $118.80 (10% admin fee)
+- **Monthly plan:** 5 installments of $118.80 (10% admin fee; enrolling commits you to the full session)
 
 <div class="tc"><a href="https://link.waveapps.com/b549kt-8y2r4w" class="btn raise">Pay and enroll (Tuesday Beginner, Online, $540)</a></div>
 <div class="tc"><a href="https://link.waveapps.com/qbdebd-49kzwz" class="btn raise">Pay and enroll (Tuesday Beginner, Online, 5 monthly payments of $118.80)</a></div>

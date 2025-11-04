@@ -49,21 +49,7 @@ We offer multiple intermediate tracks to keep you challenged and progressing, wh
 
 For students with 3+ years of Italian, able to understand most spoken Italian and hold conversations.
 
-Prefer a shareable overview? Visit the detailed page: [Advanced classes (January–May 2026)]({{< relref "news/adult-advanced-classes-january-may-2026.md" >}})
-
-**Thursday 6:30pm–8:00pm (In person)**  
-January 8 – May 28, 2026 (**20 classes**)  
-*No class on April 2 (Spring Break)*
-
-Class taught by Ilana. Please [contact us](/contact) if you are interested in monthly payments.
-
-Tuition is $660 for the full session (20 classes). Pay in full to reserve your spot.
-<div class="tc"><a href="https://link.waveapps.com/avv6xk-ymvtkc" class="btn raise">Pay and enroll (Thursday Advanced, In person, $660)</a></div>
-
-Given the long duration of the class, we also offer a monthly payment plan with a 10% additional admin fee: $145.20 for 5 monthly installments. Once you enroll and make the first payment, you will receive monthly invoices for the remaining 4 payments that you can pay manually or save your credit card for automatic payments. Notice you are still committing to continue the class until the end of the session.
-<div class="tc"><a href="https://link.waveapps.com/u3yv3m-q3vvtc" class="btn raise">Pay and enroll (Thursday Advanced, In person, 5 monthly payments of $145.20)</a></div>
-
----
+Find the full schedule, tuition, and teacher details here: [Advanced classes (January–May 2026)]({{< relref "news/adult-advanced-classes-january-may-2026.md" >}})
 
 ## Private & Custom Classes
 

@@ -16,7 +16,7 @@ For other levels see [Adult classes overview]({{< relref "adults.md" >}}) for qu
 - **Skip dates:** No class on April 2 (Spring Break)
 - **Instructor:** Ilana
 - **Tuition:** $660 for the full session (payment link below)
-- **Monthly plan:** 5 installments of $145.20 (10% admin fee)
+- **Monthly plan:** 5 installments of $145.20 (10% admin fee; enrolling commits you to the full session)
 
 <div class="tc"><a href="https://link.waveapps.com/avv6xk-ymvtkc" class="btn raise">Pay and enroll (Thursday Advanced, In person, $660)</a></div>
 <div class="tc"><a href="https://link.waveapps.com/u3yv3m-q3vvtc" class="btn raise">Pay and enroll (Thursday Advanced, In person, 5 monthly payments of $145.20)</a></div>
