@@ -54,6 +54,18 @@ Given the long duration of the class, we also offer a monthly payment plan with 
 
 ---
 
+**Tuesday 6:00pm–7:30pm (Online)**  
+January 20 – May 26, 2026 (**18 classes**, $30 per class)  
+*No class on April 7 (Spring Break)*
+
+Classes begin the week of January 19 (first meeting Tuesday, January 20).
+
+Tuition is $540 for the full session (18 classes at $30 each). Pay in full to reserve your spot.
+<div class="tc"><a href="https://link.waveapps.com/b549kt-8y2r4w" class="btn raise">Pay and enroll (Beginner, Online, $540)</a></div>
+
+Given the long duration of the class, we also offer a monthly payment plan with a 10% additional admin fee: $118.80 for 5 monthly installments. Once you enroll and make the first payment, you will receive monthly invoices for the remaining 4 payments that you can pay manually or save your credit card for automatic payments. Notice you are still committing to continue the class until the end of the session.
+<div class="tc"><a href="https://link.waveapps.com/qbdebd-49kzwz" class="btn raise">Pay and enroll (Beginner, Online, 5 monthly payments of $118.80)</a></div>
+
 ---
 ### Beginner-Intermediate, Intermediate & Intermediate-Advanced
 
