@@ -23,6 +23,18 @@ For other levels see [Adult classes overview]({{< relref "adults.md" >}}), which
 
 ---
 
+## Wednesday Beginner-Intermediate (In person)
+
+- **Schedule:** Wednesdays, 6:15 pm–7:45 pm, January 7 – May 27, 2026 (20 classes)
+- **Skip dates:** No class on April 1 (Spring Break)
+- **Tuition:** $660 for the full session (payment link below)
+- **Monthly plan:** 5 installments of $145.20 (10% admin fee)
+
+<div class="tc"><a href="https://link.waveapps.com/6eh42z-cke2fw" class="btn raise">Pay and enroll (Wednesday Beginner-Intermediate, In person, $660)</a></div>
+<div class="tc"><a href="https://link.waveapps.com/psfdy6-sqjpyn" class="btn raise">Pay and enroll (Wednesday Beginner-Intermediate, In person, 5 monthly payments of $145.20)</a></div>
+
+---
+
 ## Thursday Beginner-Intermediate (In person)
 
 - **Schedule:** Thursdays, 6:30 pm–8:00 pm, January 8 – May 28, 2026 (20 classes)
