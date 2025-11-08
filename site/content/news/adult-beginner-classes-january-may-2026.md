@@ -26,7 +26,7 @@ Note: Wednesday sections typically include more meetings than Monday sections be
 
 ## Thursday Beginner (In person)
 
-- **Schedule:** Thursdays, 6:00 pm–7:30 pm, January 8 – May 28, 2026 (20 classes)
+- **Schedule:** Thursdays, 6:30 pm–8:00 pm, January 8 – May 28, 2026 (20 classes)
 - **Skip dates:** No class on April 2 (Spring Break)
 - **Tuition:** $660 for the full session (payment link below)
 - **Monthly plan:** 5 installments of $145.20 (10% admin fee; enrolling commits you to the full session)
