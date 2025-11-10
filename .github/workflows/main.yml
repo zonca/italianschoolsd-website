@@ -19,17 +19,8 @@ jobs:
           sudo cp bin/hugo.linux /usr/local/bin/hugo
           hugo version
       
-      - name: Setup Node
-        uses: actions/setup-node@v3
-        with:
-          node-version: '18'
-          cache: 'yarn'
-      
-      - name: Install dependencies
-        run: yarn install --ignore-scripts
-      
-      - name: Build site
-        run: yarn run build:hugo
+      - name: Build site with Hugo
+        run: hugo -d dist -s site -v
       
       - name: Lychee Broken Link Checker
         uses: lycheeverse/lychee-action@v1
