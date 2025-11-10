@@ -26,10 +26,10 @@ jobs:
           cache: 'yarn'
       
       - name: Install dependencies
-        run: yarn install
+        run: yarn install --ignore-scripts
       
       - name: Build site
-        run: yarn build
+        run: yarn run build:hugo
       
       - name: Lychee Broken Link Checker
         uses: lycheeverse/lychee-action@v1
