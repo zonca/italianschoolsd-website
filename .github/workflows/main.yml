@@ -13,11 +13,11 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       
-      - name: Setup Hugo
-        uses: peaceiris/actions-hugo@v2
-        with:
-          hugo-version: '0.111.3'
-          extended: true
+      - name: Setup Hugo from bin/
+        run: |
+          chmod +x bin/hugo.linux
+          sudo cp bin/hugo.linux /usr/local/bin/hugo
+          hugo version
       
       - name: Setup Node
         uses: actions/setup-node@v3
