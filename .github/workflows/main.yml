@@ -3,6 +3,7 @@ name: Links
 on:
   repository_dispatch:
   workflow_dispatch:
+  pull_request:
   schedule:
     - cron: "0 0 * * 0"
 
@@ -11,11 +12,21 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
+      
+      - name: Setup Hugo from bin/
+        run: |
+          chmod +x bin/hugo.linux
+          sudo cp bin/hugo.linux /usr/local/bin/hugo
+          hugo version
+      
+      - name: Build site with Hugo
+        run: hugo -d dist -s site
+      
       - name: Lychee Broken Link Checker
         uses: lycheeverse/lychee-action@v1
         with:
-          # Check all markdown files in repo
-          args: --verbose --exclude waveapps\.com --no-progress './**/*.md'
+          # Check all HTML files in the built site
+          args: --verbose --exclude waveapps\.com --no-progress './dist/**/*.html'
           # Fail entire pipeline on error (i.e. when lychee exit code is not 0)
           fail: true
           # Summary output format (e.g. json)
