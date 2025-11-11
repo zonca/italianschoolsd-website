@@ -20,7 +20,7 @@ jobs:
           hugo version
       
       - name: Build site with Hugo
-        run: hugo -d dist -s site -v
+        run: hugo -d dist -s site
       
       - name: Lychee Broken Link Checker
         uses: lycheeverse/lychee-action@v1
