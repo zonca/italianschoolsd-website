@@ -45,4 +45,20 @@ For other levels see [Adult classes overview]({{< relref "adults.md" >}}), which
 <div class="tc"><a href="https://link.waveapps.com/zy9zg6-hyx7fp" class="btn raise">Pay and enroll (Thursday Beginner-Intermediate, In person, $660)</a></div>
 <div class="tc"><a href="https://link.waveapps.com/zfzcsh-8v47m4" class="btn raise">Pay and enroll (Thursday Beginner-Intermediate, In person, 5 monthly payments of $145.20)</a></div>
 
+---
+
+## Monday Intermediate (Online)
+
+- **Schedule:** Mondays, 6:00 pm–7:30 pm, January 26 – May 18, 2026 (15 classes)
+- **Skip dates:** No class on Feb 16 (Presidents’ Day), Mar 30 (Spring Break), May 25 (Memorial Day)
+- **Tuition:** $450 for the full session (payment link below)
+- **Monthly plan:** 5 installments of $99 (10% admin fee; enrolling commits you to the full session)
+
+<div class="tc"><a href="https://link.waveapps.com/hcn7rt-xcyrp8" class="btn raise">Pay and enroll (Monday Intermediate, Online, $450)</a></div>
+<div class="tc"><a href="https://link.waveapps.com/zgbg37-hne2cs" class="btn raise">Pay and enroll (Monday Intermediate, Online, 5 monthly payments of $99)</a></div>
+
+
 Need help choosing between sections? [Contact us]({{< relref "contact.md" >}}) and we’ll point you in the right direction.
+
+---
+
