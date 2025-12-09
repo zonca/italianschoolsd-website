@@ -10,7 +10,7 @@ subtitle: Give the gift of learning Italian
 
 Give the gift of Italian this Christmas.
 
-This gift card grants access to any adult group class in the Spring or Summer quarter, online or in-person in Kearny Mesa. The Spring quarter runs January to May and includes **20 classes of 90 minutes each**. The cost is **$660** (about **$33 per class**) and covers the full quarter tuition for any level.
+This gift card grants access to any adult group class in the Spring or Summer quarter, online or in-person in Kearny Mesa. The Spring quarter runs January to May and includes **20 classes of 90 minutes each**. The cost is **$660** (**$33 per class**) and covers the full quarter tuition for any level.
 
 It’s a meaningful, flexible present: the recipient can start right after the holidays, choose the level that fits, and even switch to private-lesson credits if they prefer one-on-one learning. Italian opens doors for travel, reconnecting with family roots, and enjoying art, music, and food in the language they come from.
 
