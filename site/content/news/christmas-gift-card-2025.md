@@ -20,6 +20,10 @@ It’s a meaningful, flexible present: the recipient can start right after the h
 
 Prefer to split payments? Choose the monthly option here: [Monthly plan](https://link.waveapps.com/t4p5qa-3xmgsn).
 
+How to redeem: the recipient can review the current schedule on the [adult classes page]({{< relref "adults.md" >}}) and then submit the [contact form]({{< relref "contact/_index.md" >}}) to choose their class.
+
+Printable certificate: [Download the PDF gift card](/pdf/italianschoolsd-gift-certificate-2025.pdf) and fill in the recipient name.
+
 We will reach out to gather student details before the start of the chosen quarter. There are no additional enrollment fees.
 
 For any question [contact us](/contact), and Buon Natale! (Happy Christmas!)
