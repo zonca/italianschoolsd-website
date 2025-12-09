@@ -22,7 +22,7 @@ Prefer to split payments? Choose the monthly option here: [Monthly plan](https:/
 
 How to redeem: the recipient can review the current schedule on the [adult classes page]({{< relref "adults.md" >}}) and then submit the [contact form]({{< relref "contact/_index.md" >}}) to choose their class.
 
-Printable certificate: [Download the PDF gift card](/pdf/italianschoolsd-gift-certificate-2025.pdf) and fill in the recipient name.
+Printable certificate: [Download the PDF gift card](/pdf/italianschoolsd-gift-certificate-2025.pdf) or the [JPG version](/img/christmas-gift-certificate-2025.jpg) and fill in the recipient name.
 
 We will reach out to gather student details before the start of the chosen quarter. There are no additional enrollment fees.
 
