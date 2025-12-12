@@ -1,7 +1,6 @@
 ---
 title: Enrollment Open for Homeschool Italian Program (Jan-May Session)
 date: 2025-12-11
-image: /flyers/italianschoolsd-flyer-homeschool-jan-may-2026.png
 ---
 
 Enrollment is now open for our upcoming spring session!
