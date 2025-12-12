@@ -13,7 +13,7 @@ The Italian School of San Diego, in collaboration with **Max Manzoni, J.D.**—a
 
 Both the **United States and Italy recognize dual citizenship**, allowing you to retain your U.S. citizenship while gaining all the benefits of Italian nationality.
 
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSep_MG54Evtz4Vu7aElrQlc6AcAmoSOOOmYsa74swIffog5gg/viewform?usp=dialog" class="btn">Request a callback</a>
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSep_MG54Evtz4Vu7aElrQlc6AcAmoSOOOmYsa74swIffog5gg/viewform?usp=dialog" class="btn btn-cta">Request Free Case Evaluation</a>
 
 ## Why pursue Italian citizenship?
 
