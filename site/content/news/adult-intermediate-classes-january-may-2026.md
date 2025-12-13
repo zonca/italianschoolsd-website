@@ -25,7 +25,7 @@ For other levels see [Adult classes overview]({{< relref "adults.md" >}}), which
 
 ## Wednesday Beginner-Intermediate (In person)
 
-- **Schedule:** Wednesdays, 6:15 pm–7:45 pm, January 7 – May 27, 2026 (20 classes)
+- **Schedule:** Wednesdays, 6:20 pm–7:50 pm, January 7 – May 27, 2026 (20 classes)
 - **Skip dates:** No class on April 1 (Spring Break)
 - **Tuition:** $660 for the full session (payment link below)
 - **Monthly plan:** 5 installments of $145.20 (10% admin fee; enrolling commits you to the full session)
@@ -61,4 +61,3 @@ For other levels see [Adult classes overview]({{< relref "adults.md" >}}), which
 Need help choosing between sections? [Contact us]({{< relref "contact.md" >}}) and we’ll point you in the right direction.
 
 ---
-
