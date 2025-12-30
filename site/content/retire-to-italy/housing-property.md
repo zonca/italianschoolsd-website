@@ -38,3 +38,6 @@ Regional differences in price, transaction speed, and inventory are significant.
 Real estate strategy influences visa documentation (proof of accommodation), tax planning (ownership taxes), and travel logistics (timing for visits and closing). Our coordinated approach aligns these moving parts, managed by a dedicated coordinator who keeps you updated via a private status webpage.
  
 For individualized property guidance, connect with our team coordinator.
+
+---
+[Back to Retire to Italy]({{< relref "_index.md" >}}) | [Next: Healthcare & Logistics]({{< relref "healthcare-logistics.md" >}})
