@@ -33,8 +33,8 @@ What sets this initiative apart is the integration: the experts below collaborat
 - Coordinator — **Italian school of San Diego Staff**: Acts as your single point of contact, coordinating the different team members and giving you access to a dedicated webpage to track all aspects of your project.
 - Immigration law — **Max Manzoni, J.D.**: Italian‑American attorney with law degrees from both the US and Italy. Guides you on the most suitable visa strategy (including Elective Residency and other options), application preparation, residency registration, and overall risk management and timelines.
 - Cross‑border taxation — **Luigi Parente, CPA (US & Italy)**: Dual‑jurisdiction CPA advising on taxation in Italy and in the United States. Handles planning and compliance across both systems, treaty considerations, foreign asset reporting, residency tests, and pension/social‑security implications.
-- Real estate — **Terrence Pirtle**, US Realtor with deep knowledge of the Italian market: Advises on buying a home in Italy, regional market realities, property search, due‑diligence, financing considerations, and coordinates with on‑the‑ground partners through to closing.
-- Travel & relocation planning — **Manuela Broccolini**: Designs targeted trips to Italy for house hunting and relocation logistics, arranges temporary housing, and helps schedule local appointments so you can use your time efficiently.
+- Real estate — **Terrence Pirtle, US Real Estate Broker/Realtor** with deep knowledge of the Italian market: Advises on buying a home in Italy, regional market realities, property search, due‑diligence, financing considerations, and coordinates with on‑the‑ground partners through to closing.
+- Travel & relocation planning — **Manuela Broccolini, Italy Travel Consultant**: Designs targeted trips to Italy for house hunting and relocation logistics, arranges temporary housing, and helps schedule local appointments so you can use your time efficiently.
 
 ## How we work (simple and coordinated)
 
