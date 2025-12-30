@@ -13,9 +13,14 @@ Successful retirement relocation is multi‑disciplinary. Our advantage is struc
 
 ## Max Manzoni, J.D. – Immigration & Citizenship Law
 
+<img src="/img/max_manzoni.jpg" alt="Max Manzoni" style="width: 100px; float: left; margin-right: 15px; margin-bottom: 10px;">
+
 Italian‑American attorney with law degrees from both the U.S. and Italy. Max advises on visa selection (e.g., Elective Residence), application preparation, residency registration, and broader risk management for timing and compliance. Prior experience includes Linklaters (Rome & London) and corporate compliance at JPMorgan Chase (New York). Available for in‑person meetings in San Diego or remote consultations.
+<div style="clear: both;"></div>
 
 ## Luigi Parente, CPA (US & Italy) – Cross‑Border Taxation
+
+<img src="/img/luigi_parente.jpg" alt="Luigi Parente" style="width: 100px; float: left; margin-right: 15px; margin-bottom: 10px;">
 
 Certified Public Accountant with over ten years of experience assisting:
 
@@ -25,8 +30,6 @@ Certified Public Accountant with over ten years of experience assisting:
 - Foreign taxpayers doing business or investing in the United States
 
 Focus areas: tax compliance, strategic tax planning, treaty application, foreign asset reporting, offshore voluntary disclosure applications and streamline programs.
-
-Industry experience spans Food, Fashion & Accessories, Real Estate, Construction, Furniture & Home Appliances, Automotive, Technology & Engineering, Gas & Energy, Renewable Energy, Brokerage, Professional Services, Advertising, and Entertainment.
 
 Credentials:
 
@@ -46,4 +49,4 @@ Profile forthcoming. Manuela designs targeted scouting and relocation itinerarie
 
 Rather than isolated advisors, this team collaborates on a single roadmap so visa milestones, tax positioning, property decisions, and travel scheduling reinforce each other. The result: fewer contradictions, faster cycle time, and clearer total cost visibility.
 
-Ready to explore next steps? Request an introduction.
+[Ready to explore next steps? Request an introduction.](https://docs.google.com/forms/d/e/1FAIpQLScs4QOylqS835GkPZOA88fNtzC_o9gDk-458mNum7S38v-Mug/viewform?usp=sf_link)
