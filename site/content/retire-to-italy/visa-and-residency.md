@@ -32,6 +32,6 @@ Retiring in Italy typically starts with selecting the correct entry route and ma
 
 ## Why coordination matters
 
-Visa strategy affects tax timing, budget, housing contracts, and travel scheduling. Our integrated team aligns these decisions so each step supports the next, reducing rework and delays.
+Visa strategy affects tax timing, budget, housing contracts, and travel scheduling. Our integrated team aligns these decisions so each step supports the next. Your dedicated coordinator serves as the single point of contact for this process, ensuring you stay informed via a private status webpage that tracks every aspect of your application and progress.
 
 Need help choosing the right route? Visit our Team page for specialist support, or request an introduction.

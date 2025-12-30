@@ -11,6 +11,16 @@ lastmod: 2025-12-30
 
 Successful retirement relocation is multi‑disciplinary. Our advantage is structured collaboration: shared context, unified planning, and one accountable coordinator.
 
+## Coordinator – Italian school of San Diego Staff
+
+**Single Point of Contact & Project Management**
+
+A designated coordinator from the Italian school of San Diego staff serves as your central case manager. This role ensures you have one consistent point of contact to:
+
+- Coordinate the interaction of all team members (legal, tax, property, travel).
+- Maintain your master project timeline and documentation.
+- Provide you with access to a dedicated, private webpage where you can track every aspect of your relocation progress in real-time.
+
 ## Max Manzoni, J.D. – Immigration & Citizenship Law
 
 <img src="/img/max_manzoni.jpg" alt="Max Manzoni" style="width: 100px; float: left; margin-right: 15px; margin-bottom: 10px;">

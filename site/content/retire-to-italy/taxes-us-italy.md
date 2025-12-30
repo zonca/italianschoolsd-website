@@ -43,4 +43,4 @@ Credentials:
 - Auditor – Italy (Sep 2007)
 - Certified Public Accountant – Italy (Sep 2007)
 
-The coordination advantage: tax decisions are synchronized with visa timelines, property acquisition, and travel planning—reducing risk and cost.
+The coordination advantage: tax decisions are synchronized with visa timelines, property acquisition, and travel planning—reducing risk and cost. Your dedicated coordinator ensures all these moving parts are tracked on a central webpage, giving you a single clear view of your financial and compliance roadmap.

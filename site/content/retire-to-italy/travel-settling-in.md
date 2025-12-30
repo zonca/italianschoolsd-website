@@ -30,6 +30,6 @@ Manuela Broccolini designs tailored travel sequences, weaving property, administ
 
 ## Integrated coordination
 
-Travel decisions feed housing commitments, visa documentation, and tax timing. Our unified approach ensures each trip advances multiple strategic objectives.
+Travel decisions feed housing commitments, visa documentation, and tax timing. Our unified approach ensures each trip advances multiple strategic objectives. Your coordinator acts as the central hub, aligning your travel dates with key milestones and tracking everything on a shared project webpage.
 
 Request an introduction to begin crafting your scouting or relocation itinerary.
