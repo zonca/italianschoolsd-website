@@ -1,9 +1,8 @@
 ---
 title: "Housing & Property"
 subtitle: Renting, buying, and due diligence in Italy
-aliases:
-  - /retire/housing
-  - /retire/property
+image: /img/retire-to-italy/housing-property.jpg
+
 description: "Key steps for evaluating Italian housing markets, securing rentals, and purchasing property with proper due diligence and aligned timing."
 date: 2025-11-07
 lastmod: 2025-12-30
