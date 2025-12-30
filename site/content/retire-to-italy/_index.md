@@ -8,6 +8,7 @@ aliases:
 description: "A concise overview of retiring to Italy—visa routes, taxes, housing, and healthcare—delivered by a single, coordinated team of specialists so you can move with clarity and confidence."
 date: 2025-11-07
 lastmod: 2025-12-30
+layout: "single"
 tags: ["retire", "italy", "residency", "visa", "taxation", "real estate", "travel"]
 ---
 

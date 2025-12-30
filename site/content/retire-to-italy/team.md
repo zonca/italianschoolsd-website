@@ -23,14 +23,14 @@ A designated coordinator from the Italian school of San Diego staff serves as yo
 
 ## Max Manzoni, J.D. – Immigration & Citizenship Law
 
-<img src="/img/max_manzoni.jpg" alt="Max Manzoni" style="width: 100px; float: left; margin-right: 15px; margin-bottom: 10px;">
+<img src="/img/max_manzoni.jpg" alt="Max Manzoni" style="width: 100px; float: right; margin-left: 15px; margin-bottom: 10px;">
 
 Italian‑American attorney with law degrees from both the U.S. and Italy. Max advises on visa selection (e.g., Elective Residence), application preparation, residency registration, and broader risk management for timing and compliance. Prior experience includes Linklaters (Rome & London) and corporate compliance at JPMorgan Chase (New York). Available for in‑person meetings in San Diego or remote consultations.
 <div style="clear: both;"></div>
 
 ## Luigi Parente, CPA (US & Italy) – Cross‑Border Taxation
 
-<img src="/img/luigi_parente.jpg" alt="Luigi Parente" style="width: 100px; float: left; margin-right: 15px; margin-bottom: 10px;">
+<img src="/img/luigi_parente.jpg" alt="Luigi Parente" style="width: 100px; float: right; margin-left: 15px; margin-bottom: 10px;">
 
 Certified Public Accountant with over ten years of experience assisting:
 
