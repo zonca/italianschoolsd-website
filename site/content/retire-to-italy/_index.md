@@ -59,9 +59,9 @@ If you’re exploring the dream of retiring to Italy—and want a plan that fits
 
 ## Deep dives and resources
 
-- [Visa & Residency](/retire-to-italy/visa-and-residency/)
-- [Taxes (US & Italy)](/retire-to-italy/taxes-us-italy/)
-- [Housing & Property](/retire-to-italy/housing-property/)
-- [Healthcare & Logistics](/retire-to-italy/healthcare-logistics/)
-- [Travel & Settling‑In](/retire-to-italy/travel-settling-in/)
-- [Your Team](/retire-to-italy/team/)
+- [Visa & Residency]({{< relref "visa-and-residency.md" >}})
+- [Taxes (US & Italy)]({{< relref "taxes-us-italy.md" >}})
+- [Housing & Property]({{< relref "housing-property.md" >}})
+- [Healthcare & Logistics]({{< relref "healthcare-logistics.md" >}})
+- [Travel & Settling‑In]({{< relref "travel-settling-in.md" >}})
+- [Your Team]({{< relref "team.md" >}})
