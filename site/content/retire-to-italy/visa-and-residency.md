@@ -6,7 +6,7 @@ aliases:
   - /retire/residency
 description: "Overview of common visa and residency routes for retiring to Italy, the key requirements, timelines, and how our coordinated team removes friction."
 date: 2025-11-07
-lastmod: 2025-11-07
+lastmod: 2025-12-30
 ---
 
 Retiring in Italy typically starts with selecting the correct entry route and mapping your timeline end‑to‑end—from your local Italian Consulate appointment to residency registration in your new Comune.

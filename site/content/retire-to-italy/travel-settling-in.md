@@ -6,7 +6,7 @@ aliases:
   - /retire/settling-in
 description: "How targeted travel planning accelerates property selection, registrations, and comfort during your initial months retiring to Italy."
 date: 2025-11-07
-lastmod: 2025-11-07
+lastmod: 2025-12-30
 ---
 
 Effective travel planning transforms scouting trips and the early relocation window into structured progress rather than fragmented errands.
