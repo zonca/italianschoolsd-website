@@ -1,9 +1,8 @@
 ---
 title: "Healthcare & Practical Logistics"
 subtitle: From private coverage to public registration and daily essentials
-aliases:
-  - /retire/healthcare
-  - /retire/logistics
+image: /img/retire-to-italy/healthcare-logistics.jpg
+
 description: "Steps for securing health coverage, registering locally, and setting up essential services during your retirement relocation to Italy."
 date: 2025-11-07
 lastmod: 2025-12-30

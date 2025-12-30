@@ -1,9 +1,8 @@
 ---
 title: "Your Retirement Coordination Team"
 subtitle: "Integrated expertise across law, tax, property, and travel"
-aliases:
-  - /retire/team
-  - /team
+image: /img/retire-to-italy/team-background.jpg
+
 description: "Biographies and credentials for the integrated team guiding your retirement move to Italy: law, cross‑border taxation, real estate strategy, and travel planning."
 date: 2025-11-07
 lastmod: 2025-12-30
@@ -11,7 +10,7 @@ lastmod: 2025-12-30
 
 Successful retirement relocation is multi‑disciplinary. Our advantage is structured collaboration: shared context, unified planning, and one accountable coordinator.
 
-## Coordinator – Italian school of San Diego Staff
+## **Coordinator** – Italian school of San Diego Staff
 
 **Single Point of Contact & Project Management**
 
@@ -21,14 +20,14 @@ A designated coordinator from the Italian school of San Diego staff serves as yo
 - Maintain your master project timeline and documentation.
 - Provide you with access to a dedicated, private webpage where you can track every aspect of your relocation progress in real-time.
 
-## Max Manzoni, J.D. – Immigration & Citizenship Law
+## **Max Manzoni, J.D.** – Immigration & Citizenship Law
 
 <img src="/img/max_manzoni.jpg" alt="Max Manzoni" style="width: 100px; float: right; margin-left: 15px; margin-bottom: 10px;">
 
 Italian‑American attorney with law degrees from both the U.S. and Italy. Max advises on visa selection (e.g., Elective Residence), application preparation, residency registration, and broader risk management for timing and compliance. Prior experience includes Linklaters (Rome & London) and corporate compliance at JPMorgan Chase (New York). Available for in‑person meetings in San Diego or remote consultations.
 <div style="clear: both;"></div>
 
-## Luigi Parente, CPA (US & Italy) – Cross‑Border Taxation
+## **Luigi Parente, CPA (US & Italy)** – Cross‑Border Taxation
 
 <img src="/img/luigi_parente.jpg" alt="Luigi Parente" style="width: 100px; float: right; margin-left: 15px; margin-bottom: 10px;">
 
@@ -47,11 +46,11 @@ Credentials:
 - Auditor – Italy (Issued Sep 2007)
 - Certified Public Accountant – Italy (Issued Sep 2007)
 
-## Terrence Pirtle – Real Estate Strategy
+## **Terrence Pirtle** – Real Estate Strategy
 
 Profile forthcoming. Terrence is a U.S. real estate professional with deep knowledge of the Italian market—supporting property search, due diligence, and transaction coordination.
 
-## Manuela Broccolini – Travel & Relocation Planning
+## **Manuela Broccolini** – Travel & Relocation Planning
 
 Profile forthcoming. Manuela designs targeted scouting and relocation itineraries, integrating administrative, property, and lifestyle objectives.
 

@@ -1,9 +1,8 @@
 ---
 title: "Taxes: United States & Italy"
 subtitle: Coordinated cross‑border planning for retirees
-aliases:
-  - /retire/taxes
-  - /retire/us-italy-taxes
+image: /img/retire-to-italy/taxes-finance.jpg
+
 description: "Key concepts for aligning U.S. and Italian tax obligations when retiring to Italy—residency tests, treaty relief, asset reporting, pensions, and timing."
 date: 2025-11-07
 lastmod: 2025-12-30

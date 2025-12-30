@@ -1,9 +1,8 @@
 ---
 title: "Visa & Residency in Italy"
 subtitle: Choosing the right path and preparing your application
-aliases:
-  - /retire/visa
-  - /retire/residency
+image: /img/retire-to-italy/visa-residency.jpg
+
 description: "Overview of common visa and residency routes for retiring to Italy, the key requirements, timelines, and how our coordinated team removes friction."
 date: 2025-11-07
 lastmod: 2025-12-30

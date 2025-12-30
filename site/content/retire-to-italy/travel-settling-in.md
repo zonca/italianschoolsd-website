@@ -1,9 +1,8 @@
 ---
 title: "Travel & Settling‑In"
 subtitle: Purpose‑built trips and an efficient first 90 days
-aliases:
-  - /retire/travel
-  - /retire/settling-in
+image: /img/retire-to-italy/travel-settling.jpg
+
 description: "How targeted travel planning accelerates property selection, registrations, and comfort during your initial months retiring to Italy."
 date: 2025-11-07
 lastmod: 2025-12-30
