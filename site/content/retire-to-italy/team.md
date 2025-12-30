@@ -58,7 +58,5 @@ Profile forthcoming. Manuela designs targeted scouting and relocation itinerarie
 
 Rather than isolated advisors, this team collaborates on a single roadmap so visa milestones, tax positioning, property decisions, and travel scheduling reinforce each other. The result: fewer contradictions, faster cycle time, and clearer total cost visibility.
 
-[Ready to explore next steps? Request an introduction.](https://docs.google.com/forms/d/e/1FAIpQLScs4QOylqS835GkPZOA88fNtzC_o9gDk-458mNum7S38v-Mug/viewform?usp=sf_link)
-
 ---
 [Back to Retire to Italy]({{< relref "_index.md" >}})
