@@ -6,7 +6,7 @@ aliases:
   - /team
 description: "Biographies and credentials for the integrated team guiding your retirement move to Italy: law, cross‑border taxation, real estate strategy, and travel planning."
 date: 2025-11-07
-lastmod: 2025-11-07
+lastmod: 2025-12-30
 ---
 
 Successful retirement relocation is multi‑disciplinary. Our advantage is structured collaboration: shared context, unified planning, and one accountable coordinator.

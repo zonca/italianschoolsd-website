@@ -6,7 +6,7 @@ aliases:
   - /retire/logistics
 description: "Steps for securing health coverage, registering locally, and setting up essential services during your retirement relocation to Italy."
 date: 2025-11-07
-lastmod: 2025-11-07
+lastmod: 2025-12-30
 ---
 
 A smooth landing phase reduces stress and accelerates integration into daily Italian life.

@@ -6,7 +6,7 @@ aliases:
   - /retire/property
 description: "Key steps for evaluating Italian housing markets, securing rentals, and purchasing property with proper due diligence and aligned timing."
 date: 2025-11-07
-lastmod: 2025-11-07
+lastmod: 2025-12-30
 ---
 
 Housing choices affect visa applications, residency registration, and tax positioning. Coordinated guidance helps sequence decisions and avoid mismatches.
