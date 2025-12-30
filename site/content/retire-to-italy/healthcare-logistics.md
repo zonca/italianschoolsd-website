@@ -30,6 +30,6 @@ Plan delivery windows, storage, and shipping logistics to avoid delays or storag
 
 ## Coordination advantage
 
-Health registration timing affects tax residency indicators; banking setup influences asset reporting; license and SPID access accelerate administrative tasks. Integrated planning compresses the overall adaptation timeline.
-
-Need help organizing these steps? Our team roadmap includes milestone tracking and prioritized sequencing.
+Health registration timing affects tax residency indicators; banking setup influences asset reporting; license and SPID access accelerate administrative tasks. Integrated planning compresses the overall adaptation timeline. A dedicated coordinator oversees this logistics roadmap, providing you with real-time progress updates on a private tracking webpage.
+ 
+Need help organizing these steps? Our team roadmap includes milestone tracking and prioritized sequencing managed by your coordinator.

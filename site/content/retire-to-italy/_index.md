@@ -29,6 +29,7 @@ A successful move typically involves five areas. Here’s the short version:
 
 What sets this initiative apart is the integration: the experts below collaborate on your case from day one, sharing context and coordinating decisions so each step supports the next.
 
+- Coordinator — Italian school of San Diego Staff: Acts as your single point of contact, coordinating the different team members and giving you access to a dedicated webpage to track all aspects of your project.
 - Immigration law — Max Manzoni, J.D.: Italian‑American attorney with law degrees from both the US and Italy. Guides you on the most suitable visa strategy (including Elective Residency and other options), application preparation, residency registration, and overall risk management and timelines.
 - Cross‑border taxation — Luigi Parente, CPA (US & Italy): Dual‑jurisdiction CPA advising on taxation in Italy and in the United States. Handles planning and compliance across both systems, treaty considerations, foreign asset reporting, residency tests, and pension/social‑security implications.
 - Real estate — Terrence Pirtle, US Realtor with deep knowledge of the Italian market: Advises on buying a home in Italy, regional market realities, property search, due‑diligence, financing considerations, and coordinates with on‑the‑ground partners through to closing.
@@ -40,7 +41,7 @@ What sets this initiative apart is the integration: the experts below collaborat
 
 2) Planning session (flat‑fee): A consolidated roadmap covering visa strategy, tax positioning, housing options, key milestones, and an estimated timeline and cost envelope.
 
-3) Execution with one coordinator: We sequence tasks across law, tax, real estate, and travel; you receive a single, consolidated checklist and status updates.
+3) Execution with one coordinator: We sequence tasks across law, tax, real estate, and travel. Your dedicated coordinator manages the timeline and provides a private webpage for you to track status, documents, and next steps in real‑time.
 
 4) Ongoing support: Continued guidance post‑arrival for registrations, renewals, and the first full tax cycle.
 
