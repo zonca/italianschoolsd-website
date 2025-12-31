@@ -18,9 +18,9 @@ Tax planning is central to a smooth retirement transition. Proper coordination h
 - Foreign asset reporting: FBAR, FATCA (Form 8938), and Italian asset reporting (IVAFE, IVIE) obligations must be sequenced and reconciled.
 - Currency & timing: Exchange rate choices and timing of distributions can materially impact tax burdens.
 
-## The 7% Flat Tax Incentive
+## The 7% Flat Tax for Pensioners
 
-For retirees willing to relocate to specific regions, Italy offers a highly attractive tax regime designed to revitalize local communities.
+Officially known as the **Optional regime for foreign pensioners** (Article 24-ter of the TUIR), this program offers a highly attractive tax incentive for retirees willing to relocate to specific regions, designed to revitalize local communities.
 
 - **The Benefit**: A flat 7% tax rate on *all* foreign-sourced income (pensions, investments, dividends). This substitutes the standard progressive Italian personal income tax rates.
 - **Exemptions**: Includes exemption from fiscal monitoring obligations and wealth taxes on foreign real estate and financial investments.
