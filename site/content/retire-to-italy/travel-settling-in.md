@@ -5,7 +5,7 @@ image: /img/retire-to-italy/travel-settling.jpg
 
 description: "How targeted travel planning accelerates property selection, registrations, and comfort during your initial months retiring to Italy."
 date: 2025-11-07
-lastmod: 2025-12-30
+lastmod: 2025-12-31
 ---
 
 Effective travel planning transforms scouting trips and the early relocation window into structured progress rather than fragmented errands.
@@ -22,6 +22,12 @@ Effective travel planning transforms scouting trips and the early relocation win
 2. Residency, health enrollment trigger, and initial tax planning review.
 3. Utility and digital identity completion (SPID, banking apps, payments setup).
 4. Community integration: Language refreshers, local networks, and cultural activities.
+
+## Language essentials
+
+While English is widely spoken in major cities, the charming and tax-advantageous towns we often recommend are deeply authentic. In these smaller communities, even a little bit of Italian goes a long way—helping you connect with neighbors, manage daily errands, and truly feel at home.
+
+We recommend building proficiency *before* you arrive. The Italian school of San Diego offers **[Adult Italian Classes]({{< relref "../adults.md" >}})** specifically to bridge this gap, with options for **group and private lessons**, available both **in-person in San Diego and online**. This ensures you can communicate effectively from day one, regardless of your location or schedule.
 
 ## Planning support
 
