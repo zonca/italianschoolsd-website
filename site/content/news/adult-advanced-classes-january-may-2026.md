@@ -1,5 +1,5 @@
 ---
-title: "**Advanced Adult Italian Classes — January to May 2026"
+title: "Advanced Adult Italian Classes — January to May 2026"
 date: 2025-11-04
 description: Advanced-level adult Italian class schedule, tuition, and enrollment information for January through May 2026.
 ---
