@@ -37,6 +37,6 @@ Ready to bring Italy home to your family? Start our 60-second intake form to req
 
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSep_MG54Evtz4Vu7aElrQlc6AcAmoSOOOmYsa74swIffog5gg/viewform?usp=dialog" class="btn btn-cta">Request Assessment from Counsel</a>
 
-**Footer Disclosure**
+**Service and Legal Disclosure**
 
 The Italian School of San Diego provides language instruction and administrative support for document logistics. All Legal Viability Assessments and legal opinions are provided by an external NY licensed attorney. To maintain professional and ethical separation, legal fees are handled via a separate engagement directly with the attorney.
