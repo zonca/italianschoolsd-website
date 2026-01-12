@@ -40,7 +40,7 @@ Note: Wednesday sections typically include more meetings than Monday sections be
 
 - **Schedule:** Tuesdays, 6:00 pm–7:30 pm, January 20 – May 26, 2026 (18 classes)
 - **Skip dates:** No class on April 7 (Spring Break)
-- **First meeting:** Tuesday, January 20 (the week of January 19)
+- **First meeting:** Tuesday, January 20
 - **Tuition:** $540 for the full session (payment link below)
 - **Monthly plan:** 5 installments of $118.80 (10% admin fee; enrolling commits you to the full session)
 
