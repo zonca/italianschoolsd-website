@@ -1,55 +1,42 @@
 ---
-title: "Italian Citizenship & Visa: Simplified."
+title: "Your Italian Passport: A Legacy for Your Family."
 image: /img/citizenship-flag.jpg
 aliases:
     - /citizenship
     - /italian-citizenship
-subtitle: "In-person meetings available in San Diego"
+subtitle: "San Diego guidance with trusted external counsel"
 ---
 
-Is Italian citizenship or a life in Italy your goal? The Italian School of San Diego is proud to host **Max Manzoni, J.D.**, to provide professional legal consulting for our community.
+Unlock the door to Europe. Whether you are reconnecting with your roots or securing a future for your children, the path to Italian citizenship starts here in San Diego.
 
-Both the United States and Italy recognize dual citizenship, allowing you to retain your U.S. nationality while gaining the benefits of becoming an Italian citizen.
+We combine the cultural heart of The Italian School with the elite precision of a trusted external attorney: a U.S.-licensed lawyer with an Italian law degree and a background in prestigious Italian firms.
 
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSep_MG54Evtz4Vu7aElrQlc6AcAmoSOOOmYsa74swIffog5gg/viewform?usp=dialog" class="btn btn-cta">Request a Free Case Evaluation</a>
+## Why Become an Italian Citizen?
 
-## Why Pursue Italian Citizenship?
+*   **For Your Children:** Give them the "EU Advantage." Italian citizenship is often passed to children automatically, granting them the right to live, work, and study across 27 European countries with free or low-cost university tuition.
+*   **For Your Spouse:** If you are an Italian citizen living in San Diego, your spouse can join you in dual nationality. We help navigate the Citizenship by Marriage process, ensuring your family stays united under two flags.
+*   **For Your Future:** Enjoy world-class healthcare, visa-free travel to 190+ countries, and the ability to own property or retire in Italy with ease.
 
-Italian citizenship offers more than just a passport; it provides a profound cultural reconnection and practical advantages:
+## The 3-Step "Concierge" Pathway
 
-*   **EU Mobility:** Live, work, and study freely in any European Union member state.
-*   **Heritage:** Honor and preserve your family’s Italian roots.
-*   **Benefits:** Access Italy’s public healthcare system and world-class educational institutions.
+1.  **The Legal Viability Assessment:** Don't waste time or money on guesswork. An independent external attorney (NY licensed) with law degrees from Italy performs a professional audit to "green-light" your case. You will know exactly if you qualify before you spend a dime on document procurement.
+2.  **The Logistics "Deep Dive":** Once you are cleared, The Italian School takes over the legwork. We hunt down birth records in Italy, secure U.S. Apostilles, and get you ready for the mandatory B1 language exam. We handle the bureaucracy; you enjoy the journey.
+3.  **The Final Perfection Before Submission:** The external counsel returns to perform a final "white-glove" review. They draft the necessary legal documents and ensure your file is "consulate-ready" for the Italian Consulate in Los Angeles.
 
-While the rewards are significant, the legal process is complex. Navigating bureaucratic "red tape," obtaining international records, and staying current with evolving Italian citizenship laws requires dedicated legal expertise.
+## The Advantage: San Diego Heart, Italian Law Pedigree
 
-## Legal Services Provided by Massimo “Max” Manzoni
+Most Italian consulate services are run by clerical agencies. Our program is unique because it is vetted by a U.S.-qualified lawyer with a strong Italian legal pedigree.
 
-All legal services and consultations are provided directly by Max Manzoni, J.D., an independent attorney. The Italian School of San Diego does not provide legal advice or legal services.
+*   **Academic Authority:** Counsel holds a formal Italian law degree.
+*   **Local Accountability:** As a U.S.-qualified attorney, your counsel is bound by strict professional ethics.
+*   **Proven Experience:** Benefit from a lawyer who has practiced in prestigious Italian law firms.
 
-**Areas of Expertise:**
+## Check Your Eligibility Today
 
-*   Citizenship by Descent (*Jure Sanguinis*)
-*   Citizenship by Marriage
-*   Italian Elective Residency & Investment Visas
+Ready to bring Italy home to your family? Start our 60-second intake form to request your Legal Viability Assessment.
 
-**Flexible Service Models:**
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSep_MG54Evtz4Vu7aElrQlc6AcAmoSOOOmYsa74swIffog5gg/viewform?usp=dialog" class="btn btn-cta">Request Assessment from Counsel</a>
 
-*   **Full Representation:** Comprehensive management of your entire application from start to finish.
-*   **À La Carte Assistance:** Targeted legal support for specific stages, such as document review or complex record amendments.
+**Footer Disclosure**
 
-## What to Expect
-
-1.  **Free Case Evaluation:** Submit our intake form to provide your background. Max will review your data to determine if you appear to qualify and provide a preliminary estimate of legal fees.
-2.  **Initial Legal Consultation (1 hour, $95 USD):** A detailed session via phone, Zoom, or in-person at the School. During this meeting, Max provides a specific roadmap and a checklist of required documents.
-3.  **Formal Engagement:** Following your consultation, you will receive a formal engagement letter outlining the scope of work and transparent pricing.
-
-## About Massimo “Max” Manzoni, J.D.
-
-Max Manzoni is a dual-qualified legal professional with law degrees from both the U.S. and Italy. He holds a Juris Doctorate (J.D.) from DePaul University College of Law and a law degree from the *Università Cattolica del Sacro Cuore*, Italy.
-
-His background includes experience with the international law firm Linklaters (Rome/London) and corporate compliance at JPMorgan Chase (NYC). Max operates his independent practice in San Diego and is available for in-person meetings at the Italian School of San Diego or virtually.
-
-![Max Manzoni](/img/max_manzoni.jpg)
-
-**Attorney Advertising.** Attorney Massimo Manzoni is an active member of the New York State Bar. His practice in California is limited to U.S. Federal Immigration Law and Italian Legal Consulting. Not admitted to practice California State Law. Your Request a Free Case Evaluation confirms potential eligibility only and does not constitute legal advice or an attorney-client relationship between you and Massimo Manzoni.
+The Italian School of San Diego provides language instruction and administrative support for document logistics. All Legal Viability Assessments and legal opinions are provided by an external NY licensed attorney. To maintain professional and ethical separation, legal fees are handled via a separate engagement directly with the attorney.
