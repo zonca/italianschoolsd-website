@@ -18,14 +18,14 @@ You’ve dreamed of the Italian lifestyle—morning cappuccinos, historic piazza
 
 That’s why we have assembled a dedicated team of trusted experts who work together for you. We replace the confusion of separate advisors with one coordinated plan and one point of contact, giving you clear decisions and peace of mind.
 
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSca8YTbSVtgq0xJLCx-pVuoSRKeCx9LWc5v85jCRpfJmz2Kbw/viewform?usp=publish-editor" class="btn">Request an introduction</a>
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSca8YTbSVtgq0xJLCx-pVuoSRKeCx9LWc5v85jCRpfJmz2Kbw/viewform?usp=publish-editor" class="btn">Start Your Journey</a>
 
 ## All Your Bases, Covered
 
 A successful move means managing five key areas simultaneously. We handle them all:
 
 - **Visa & Residency:** From the "Elective Residence Visa" to citizenship options, we help you choose the right route and manage your timeline.
-- **Taxes:** We align your U.S. and Italian filings to optimize treaty benefits and prevent double taxation.
+- **Taxes:** We align your U.S. and Italian filings to optimize treaty benefits—including the **7% flat tax for pensioners**—and prevent double taxation.
 - **Housing:** Whether you want to rent in Rome or buy in Tuscany, we guide your search, due diligence, and closing.
 - **Healthcare & Logistics:** We help you register for the National Health Service, set up banking, and handle daily essentials.
 - **Travel & Settling In:** We turn house-hunting trips into strategic milestones to get you settled faster.
