@@ -20,11 +20,9 @@ A designated coordinator from the Italian school of San Diego staff serves as yo
 - Maintain your master project timeline and documentation.
 - Provide you with access to a dedicated, private webpage where you can track every aspect of your relocation progress in real-time.
 
-## **Max Manzoni, J.D.** – Immigration & Citizenship Law
+## Immigration & Citizenship Law
 
-<img src="/img/max_manzoni.jpg" alt="Max Manzoni" style="width: 100px; float: right; margin-left: 15px; margin-bottom: 10px;">
-
-Italian‑American attorney with law degrees from both the U.S. and Italy. Max advises on visa selection (e.g., Elective Residence), application preparation, residency registration, and broader risk management for timing and compliance. Prior experience includes Linklaters (Rome & London) and corporate compliance at JPMorgan Chase (New York). Available for in‑person meetings in San Diego or remote consultations.
+Italian‑American attorney with law degrees from both the U.S. and Italy. Our external counsel advises on visa selection (e.g., Elective Residence), application preparation, residency registration, and broader risk management for timing and compliance. Prior experience includes Linklaters (Rome & London) and corporate compliance at JPMorgan Chase (New York). Available for in‑person meetings in San Diego or remote consultations.
 <div style="clear: both;"></div>
 
 ## **Luigi Parente, CPA (US & Italy)** – Cross‑Border Taxation
@@ -46,9 +44,15 @@ Credentials:
 - Auditor – Italy (Issued Sep 2007)
 - Certified Public Accountant – Italy (Issued Sep 2007)
 
-## **Terrence Pirtle** – Real Estate Strategy
+## **Claudia Cencelli** – Real Estate Strategy
 
-Profile forthcoming. Terrence is a U.S. real estate professional with deep knowledge of the Italian market—supporting property search, due diligence, and transaction coordination.
+I’m a real estate and relocation Realtor specializing in helping Americans move to Italy and confidently assess home-buying opportunities anywhere in the Country. Born and raised in Roma, Italy, I combine authentic local insight with strong knowledge of the international market, giving clients the clarity they need when making a life-changing decision overseas.
+
+I currently live in Southern California, where I’ve practiced real estate for the past 20 years. That experience means I understand how American buyers think, what they expect from a transaction, and how to translate those expectations into a smooth, informed experience within the Italian market.
+
+My role is to be your trusted liaison between the USA and Italy—bridging language, culture, timelines, and expectations. Whether you’re dreaming of a city apartment, a countryside home, or a coastal retreat, I can support your search anywhere across the entire Italian territory.
+
+If your goal is not just to buy a property in Italy—but to build a life here—I’m here to help you take that step with confidence and peace of mind.
 
 ## **Manuela Broccolini** – Travel & Relocation Planning
 
