@@ -38,7 +38,7 @@ Note: Wednesday sections typically include more meetings than Monday sections be
 
 ## Tuesday Beginner (Online)
 
-- **Schedule:** Tuesdays, 6:00 pm–7:30 pm, January 27 – May 26, 2026 (17 classes)
+- **Schedule:** Tuesdays, 6:00 pm–7:30 pm, January 27 – May 26, 2026 (18 classes)
 - **Skip dates:** No class on April 7 (Spring Break)
 - **First meeting:** Tuesday, January 27
 - **Tuition:** $540 for the full session (payment link below)
