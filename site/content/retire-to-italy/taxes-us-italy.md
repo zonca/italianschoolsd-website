@@ -5,7 +5,7 @@ image: /img/retire-to-italy/taxes-finance.jpg
 
 description: "Key concepts for aligning U.S. and Italian tax obligations when retiring to Italy—residency tests, treaty relief, asset reporting, pensions, and timing."
 date: 2025-11-07
-lastmod: 2025-12-31
+lastmod: 2026-01-19
 ---
 
 Tax planning is central to a smooth retirement transition. Proper coordination helps avoid double taxation, penalties, and unpleasant surprises during your first full filing cycle abroad.

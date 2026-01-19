@@ -5,7 +5,7 @@ image: /img/retire-to-italy/visa-residency.jpg
 
 description: "Overview of common visa and residency routes for retiring to Italy, the key requirements, timelines, and how our coordinated team removes friction."
 date: 2025-11-07
-lastmod: 2025-12-30
+lastmod: 2026-01-19
 ---
 
 Moving to Italy starts with the right paperwork. Whether you want to retire completely or keep a foot in the business world, choosing the correct visa is the foundation of your new life. We help you navigate the options, prepare your application, and manage the timing so you can focus on the excitement of the move.

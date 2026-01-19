@@ -5,7 +5,7 @@ image: /img/retire-to-italy/housing-property.jpg
 
 description: "Key steps for evaluating Italian housing markets, securing rentals, and purchasing property with proper due diligence and aligned timing."
 date: 2025-11-07
-lastmod: 2025-12-30
+lastmod: 2026-01-19
 ---
 
 Buying a home in Italy is exciting—but for many Americans, it can also feel unfamiliar, complex, and hard to evaluate from abroad. Where should you look? How do you know the price is fair? And perhaps most importantly: should you buy right away, or wait?

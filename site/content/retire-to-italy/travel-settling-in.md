@@ -5,7 +5,7 @@ image: /img/retire-to-italy/travel-settling.jpg
 
 description: "How targeted travel planning accelerates property selection, registrations, and comfort during your initial months retiring to Italy."
 date: 2025-11-07
-lastmod: 2025-12-31
+lastmod: 2026-01-19
 ---
 
 Travel is more than just a vacation—it's the first step of your new life. Whether you are exploring potential hometowns or making your final move, we turn every trip into a strategic milestone, ensuring you make real progress without the stress.

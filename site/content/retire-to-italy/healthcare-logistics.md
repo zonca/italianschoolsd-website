@@ -5,7 +5,7 @@ image: /img/retire-to-italy/healthcare-logistics.jpg
 
 description: "Steps for securing health coverage, registering locally, and setting up essential services during your retirement relocation to Italy."
 date: 2025-11-07
-lastmod: 2025-12-30
+lastmod: 2026-01-19
 ---
 
 Moving to a new country involves more than just packing bags. A smooth landing means navigating healthcare, bureaucracy, and daily essentials knowing exactly what to do next. We help you streamline this process so you can start enjoying your Italian life sooner.
