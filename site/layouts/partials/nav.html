@@ -1,32 +1,35 @@
-
 <nav class="bg-white divider-grey relative pa0">
-  <div class="flex flex-wrap items-center justify-between pa3" style="gap:1rem;">
-	<!-- Logo -->
-	<a href="/" class="db h-100 w3 flex-none" style="min-width:80px;">
-	  <img src="/img/italianschoolsd_logo.png" alt="Italian school of San Diego LLC logo" class="br0 db mb0 w-100"/>
-	</a>
-	<div class="flex flex-column items-center justify-center" style="min-width:140px;">
-	  <span style="font-size:0.95rem;color:#333;margin-bottom:0.25rem;">Translate:</span>
-	  <div id="google_translate_element" style="background:#f8f8f8;border-radius:6px;padding:0.25rem 0.5rem;min-width:120px;box-shadow:0 1px 4px rgba(0,0,0,0.04);"></div>
+	<div class="flex flex-wrap items-center justify-between pa3" style="gap:1rem;">
+		<!-- Logo -->
+		<a href="/" class="db h-100 w3 flex-none" style="min-width:80px;">
+			<img src="/img/italianschoolsd_logo.png" alt="Italian school of San Diego LLC logo"
+				class="br0 db mb0 w-100" />
+		</a>
+		<div class="flex flex-column items-center justify-center" style="min-width:140px;">
+			<span style="font-size:0.95rem;color:#333;margin-bottom:0.25rem;">Translate:</span>
+			<div id="google_translate_element"
+				style="background:#f8f8f8;border-radius:6px;padding:0.25rem 0.5rem;min-width:120px;box-shadow:0 1px 4px rgba(0,0,0,0.04);">
+			</div>
+		</div>
+		<div id="search"></div>
+		<script type="text/javascript">
+			function googleTranslateElementInit() {
+				new google.translate.TranslateElement({
+					pageLanguage: 'en',
+					includedLanguages: 'es,zh-CN,vi,tl,ko,ar,it,fr,de,ja',
+					layout: google.translate.TranslateElement.InlineLayout.SIMPLE
+				}, 'google_translate_element');
+			}
+		</script>
+		<script type="text/javascript"
+			src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
 	</div>
-	<div id="search" style="min-width:140px;max-width:100%;padding:0.5rem 1rem;box-sizing:border-box;"></div>
-	<script type="text/javascript">
-	  function googleTranslateElementInit() {
-		new google.translate.TranslateElement({
-		  pageLanguage: 'en',
-		  includedLanguages: 'es,zh-CN,vi,tl,ko,ar,it,fr,de,ja',
-		  layout: google.translate.TranslateElement.InlineLayout.SIMPLE
-		}, 'google_translate_element');
-	  }
-	</script>
-	<script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
-  </div>
-  <!-- Primary Nav -->
-  <ul class="flex flex-wrap b primary justify-center pa2" style="gap:0.5rem;">
-	<li><a href="/classes" class="pa3 no-underline db">Kids</a></li>
-	<li><a href="/accredited-classes" class="pa3 no-underline db">Teens</a></li>
-	<li><a href="/adults" class="pa3 no-underline db">Adults</a></li>
-	<li><a href="/italian-citizenship-and-visa" class="pa3 no-underline db">Italian Citizenship</a></li>
-	<li><a href="/contact" class="pa3 no-underline db">Contact</a></li>
-  </ul>
+	<!-- Primary Nav -->
+	<ul class="flex flex-wrap b primary justify-center pa2" style="gap:0.5rem;">
+		<li><a href="/classes" class="pa3 no-underline db">Kids</a></li>
+		<li><a href="/accredited-classes" class="pa3 no-underline db">Teens</a></li>
+		<li><a href="/adults" class="pa3 no-underline db">Adults</a></li>
+		<li><a href="/italian-citizenship-and-visa" class="pa3 no-underline db">Italian Citizenship</a></li>
+		<li><a href="/contact" class="pa3 no-underline db">Contact</a></li>
+	</ul>
 </nav>
