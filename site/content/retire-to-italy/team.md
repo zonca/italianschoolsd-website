@@ -29,20 +29,9 @@ Italian‑American attorney with law degrees from both the U.S. and Italy. Our e
 
 <img src="/img/luigi_parente.jpg" alt="Luigi Parente" style="width: 100px; float: right; margin-left: 15px; margin-bottom: 10px;">
 
-Certified Public Accountant with over ten years of experience assisting:
+Luigi is a dual-qualified Certified Public Accountant in both the U.S. (New York) and Italy, bringing over a decade of experience to complex cross-border scenarios. He specializes in assisting high-net-worth individuals and corporate entities navigating the intricacies of international taxation—whether you are a U.S. taxpayer investing abroad or a foreign national conducting business in the States.
 
-- Domestic entities (Corporations, Partnerships)
-- Individuals (including High, Very‑High, and Ultra‑High Net Worth)
-- U.S. taxpayers doing business or investing abroad
-- Foreign taxpayers doing business or investing in the United States
-
-Focus areas: tax compliance, strategic tax planning, treaty application, foreign asset reporting, offshore voluntary disclosure applications and streamline programs.
-
-Credentials:
-
-- Certified Public Accountant – New York (Issued Jan 2018)
-- Auditor – Italy (Issued Sep 2007)
-- Certified Public Accountant – Italy (Issued Sep 2007)
+His expertise spans strategic tax planning, treaty application, and rigorous compliance, including foreign asset reporting and voluntary disclosure programs. With credentials as an Auditor and CPA in Italy (since 2007) and a New York CPA (since 2018), Luigi offers a truly integrated perspective on fiscal strategies for your move.
 
 ## **Claudia Cencelli** – Real Estate Strategy
 
