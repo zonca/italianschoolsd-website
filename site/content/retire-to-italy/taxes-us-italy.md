@@ -12,51 +12,42 @@ Tax planning is central to a smooth retirement transition. Proper coordination h
 
 ## Core considerations
 
-- Tax residency triggers: In Italy, presence, permanent home, and center of vital interests can establish residency; in the U.S., worldwide income continues to be reportable for citizens. Planning avoids unintended early Italian tax residency.
-- Treaty benefits: The U.S.–Italy tax treaty offers relief mechanisms; using them effectively requires correct forms, timing, and documentation.
-- Pension & Social Security: Understanding how U.S. pensions, 401(k), IRAs, and Social Security benefits are taxed in Italy, and whether any deferral or beneficial treatment applies.
-- Foreign asset reporting: FBAR, FATCA (Form 8938), and Italian asset reporting (IVAFE, IVIE) obligations must be sequenced and reconciled.
-- Currency & timing: Exchange rate choices and timing of distributions can materially impact tax burdens.
+- **When do you become a tax resident?** Spending more than 183 days a year in Italy, or making it your primary home, usually triggers Italian residency. However, as a U.S. citizen, you still have to file in the States. We help you plan your move so you don't accidentally become liable for taxes in Italy before you're ready.
+- **Avoiding double taxation:** The U.S. and Italy have an agreement to prevent you from paying tax twice on the same income. We handle the paperwork to make sure you get these benefits.
+- **Your Retirement Income:** We clarify exactly how Italy taxes your U.S. Social Security, 401(k), and IRAs, helping you find opportunities to lower what you owe.
+- **Reporting your assets:** Both countries want to know about your money abroad. We help you file the right forms (like FBAR for the U.S. and IVAFE for Italy) so you stay compliant without the headache.
+- **Timing matters:** When you move money and the exchange rate at that moment can change your tax bill. We help you time your transfers to keep costs down.
+
+
 
 ## The 7% Flat Tax for Pensioners
 
-Officially known as the **Optional regime for foreign pensioners** (Article 24-ter of the TUIR), this program offers a highly attractive tax incentive for retirees willing to relocate to specific regions, designed to revitalize local communities.
+This is a special tax incentive designed to welcome retirees to specific scenic small towns in Italy.
 
-- **The Benefit**: A flat 7% tax rate on *all* foreign-sourced income (pensions, investments, dividends). This substitutes the standard progressive Italian personal income tax rates.
-- **Exemptions**: Includes exemption from fiscal monitoring obligations and wealth taxes on foreign real estate and financial investments.
-- **Duration**: Valid for 10 tax years (the year of transfer plus the following nine).
-- **Requirements**:
-  - Must receive a foreign pension (public or private).
-  - Must not have been an Italian tax resident for the previous 5 tax years.
-  - Must transfer residency to a municipality with fewer than 20,000 inhabitants in:
-    - **Southern Italy**: Abruzzo, Basilicata, Calabria, Campania, Molise, Puglia, Sardinia, or Sicily.
-    - **Central Italy**: Specific earthquake-affected municipalities in Lazio, Marche, and Umbria.
+- **The Deal:** You pay a flat **7% tax** on *all* your income from outside Italy (like your pension, dividends, and interest). This replaces the usual Italian income tax rates, which can be significantly higher.
+- **The Perks:** You are generally exempt from annual wealth taxes on your non-Italian properties and financial investments.
+- **How long?** The benefit lasts for **10 years**.
+- **Who qualifies?** You generally need to:
+  - Receive a pension (public or private).
+  - Have lived outside of Italy for the last 5 years.
+  - Move to a town with fewer than 20,000 residents in **Southern Italy** (e.g., Sicily, Puglia, Abruzzo, Calabria) or specific areas in Central Italy.
 
-This regime can yield significant savings but requires careful initial planning to ensure all eligibility criteria are met strictly before the move. Your coordinator and tax advisor can help verify if your chosen town qualifies.
+This program offers huge potential savings. We help you check if your preferred town is on the list and ensure you meet every requirement before you pack your bags.
+
+![7% Flat Tax Infographic](/img/retire-to-italy/tax-infographic.jpg)
 
 ## Strategic sequencing
 
-1. Pre‑move projection: Simulate first Italian tax year with expected income streams and housing status.
-2. Asset alignment: Evaluate whether restructuring or consolidating accounts before residency lowers compliance complexity.
-3. Filing calendar: Map U.S. extensions, Italian deadlines, and estimated payment schedules.
-4. Documentation pack: Centralize statements, cost basis records, pension plan details, and life insurance policies for dual use.
+1. **Look Before You Leap:** We estimate what your taxes will actually look like for your first year so there are no surprises.
+2. **Organize Your Accounts:** Sometimes it makes sense to consolidate bank accounts or investments before you move to make filing easier later.
+3. **Know Your Deadlines:** U.S. and Italian tax calendars are different. We create a schedule so you never miss a filing date or payment.
+4. **Gather Paperwork:** We help you collect the exact documents needed for both countries (like pension statements and bank records) so you aren't scrambling at tax time.
 
 ## Specialized support
 
-Luigi Parente, CPA (licensed in both the U.S. and Italy), provides:
+Navigating two tax systems requires an expert who speaks the language of both. **Luigi Parente**, our dual-licensed CPA (U.S. & Italy), handles everything from treaty benefits and pension analysis to complex asset reporting, ensuring you stay compliant and optimized.
 
-- Dual‑jurisdiction compliance and planning.
-- Treaty optimization and cross‑border pension analysis.
-- Foreign asset reporting guidance and streamlining.
-- Voluntary disclosure / offshore rectification assistance, when applicable.
-
-Industry familiarity includes Food, Fashion & Accessories, Real Estate, Construction, Furniture & Appliances, Automotive, Technology & Engineering, Energy (including Renewable), Brokerage, Professional Services, Advertising, and Entertainment.
-
-Credentials:
-
-- Certified Public Accountant – New York (Jan 2018)
-- Auditor – Italy (Sep 2007)
-- Certified Public Accountant – Italy (Sep 2007)
+For full details on Luigi's background and credentials, please visit our [Team Page]({{< relref "team.md" >}}).
 
 The coordination advantage: tax decisions are synchronized with visa timelines, property acquisition, and travel planning—reducing risk and cost. Your dedicated coordinator ensures all these moving parts are tracked on a central webpage, giving you a single clear view of your financial and compliance roadmap.
 
