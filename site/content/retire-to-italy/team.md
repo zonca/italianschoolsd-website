@@ -18,7 +18,7 @@ A designated coordinator from the Italian school of San Diego staff serves as yo
 
 - Coordinate the interaction of all team members (legal, tax, property, travel).
 - Maintain your master project timeline and documentation.
-- Provide you with access to a dedicated, private webpage where you can track every aspect of your relocation progress in real-time.
+- Provide you with access to a dedicated, private dashboard where you can track every aspect of your relocation progress in real-time.
 
 ## Immigration & Citizenship Law
 

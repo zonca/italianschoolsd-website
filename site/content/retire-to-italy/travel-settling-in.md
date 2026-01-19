@@ -39,7 +39,7 @@ We recommend building proficiency *before* you arrive. The Italian school of San
 
 ## Why It Matters
 
-Your travel dates impact everything else—from your visa validity to your tax residency start date. Our unified approach ensures each trip advances multiple strategic objectives. Your coordinator keeps all these timelines aligned, so you never book a flight that conflicts with a legal deadline. You can track your entire itinerary and progress on your private project webpage.
+Your travel dates impact everything else—from your visa validity to your tax residency start date. Our unified approach ensures each trip advances multiple strategic objectives. Your coordinator keeps all these timelines aligned, so you never book a flight that conflicts with a legal deadline. You can track your entire itinerary and progress on your private dashboard.
 
 Request an introduction to begin crafting your scouting or relocation itinerary.
 

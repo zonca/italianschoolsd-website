@@ -38,7 +38,7 @@ Getting the visa in your passport is just the first step. Once you land in Italy
 
 Your visa choice ripples through everything else—especially your taxes and your housing contracts. A mistake here can be costly later.
 
-Our team ensures all these pieces fit together. Your coordinator aligns your visa timeline with your home search and your tax planning, keeping everything on track. You can see exactly where you stand at any moment on your private project webpage.
+Our team ensures all these pieces fit together. Your coordinator aligns your visa timeline with your home search and your tax planning, keeping everything on track. You can see exactly where you stand at any moment on your private dashboard.
 
 Need help choosing the right route? Visit our [Team page]({{< relref "team.md" >}}) for specialist support, or request an introduction.
 

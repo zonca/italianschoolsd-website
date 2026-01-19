@@ -34,7 +34,7 @@ A successful move means managing five key areas simultaneously. We handle them a
 
 What sets us apart is **integration**. Our experts don't work in silos; they collaborate on your case from day one.
 
-- **Your Coordinator:** Your single point of contact who manages the timeline and tracks every document on your private project webpage.
+- **Your Coordinator:** Your single point of contact who manages the timeline and tracks every document on your private dashboard.
 - **Immigration Law:** Our Italian-American external counsel advises on legally robust visa strategies and residency registration.
 - **Tax Strategy — Luigi Parente, CPA:** Dual-qualified in the U.S. and Italy, Luigi ensures your financial transition is compliant and optimized.
 - **Real Estate Liaison — Claudia Cencelli:** Bridging the gap between American expectations and the Italian property market to give you clarity and confidence.

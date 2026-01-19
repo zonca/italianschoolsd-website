@@ -49,7 +49,7 @@ Navigating two tax systems requires an expert who speaks the language of both. *
 
 For full details on Luigi's background and credentials, please visit our [Team Page]({{< relref "team.md" >}}).
 
-The coordination advantage: tax decisions are synchronized with visa timelines, property acquisition, and travel planning—reducing risk and cost. Your dedicated coordinator ensures all these moving parts are tracked on a central webpage, giving you a single clear view of your financial and compliance roadmap.
+The coordination advantage: tax decisions are synchronized with visa timelines, property acquisition, and travel planning—reducing risk and cost. Your dedicated coordinator ensures all these moving parts are tracked on a central dashboard, giving you a single clear view of your financial and compliance roadmap.
 
 ---
 [Back to Retire to Italy]({{< relref "_index.md" >}}) | [Next: Housing & Property]({{< relref "housing-property.md" >}})
