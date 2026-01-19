@@ -46,6 +46,8 @@ Credentials:
 
 ## **Claudia Cencelli** – Real Estate Strategy
 
+<img src="/img/claudia_cencelli.jpg" alt="Claudia Cencelli" style="width: 100px; float: right; margin-left: 15px; margin-bottom: 10px;">
+
 I’m a real estate and relocation Realtor specializing in helping Americans move to Italy and confidently assess home-buying opportunities anywhere in the Country. Born and raised in Roma, Italy, I combine authentic local insight with strong knowledge of the international market, giving clients the clarity they need when making a life-changing decision overseas.
 
 I currently live in Southern California, where I’ve practiced real estate for the past 20 years. That experience means I understand how American buyers think, what they expect from a transaction, and how to translate those expectations into a smooth, informed experience within the Italian market.
@@ -56,7 +58,9 @@ If your goal is not just to buy a property in Italy—but to build a life here�
 
 ## **Manuela Broccolini** – Travel & Relocation Planning
 
-Profile forthcoming. Manuela designs targeted scouting and relocation itineraries, integrating administrative, property, and lifestyle objectives.
+With over 12 years of experience in high-end travel planning, Manuela specializes in designing personalized itineraries that immerse clients in the authentic culture of Italy. Her expertise goes beyond standard tourism, offering deep connections to the local rhythm of life—from art and cuisine to seasonal traditions and hidden gems.
+
+For retirement planning, Manuela crafts targeted scouting trips that allow you to "try on" different regions, balancing practical property visits with the lifestyle experiences that inspire your move. She handles all logistics with a focus on comfort and seamless execution, ensuring your time is spent exploring, not managing details.
 
 ## Coordination in practice
 
