@@ -21,6 +21,16 @@
         apiKey: '38df777d1e1eca13019e565f693d7b2a',
         indexName: 'italianschoolsd_index',
         container: '#search',
+        transformItems(items) {
+          return items.map((item) => {
+            if (!item.hierarchy) {
+              item.hierarchy = { lvl0: 'Page', lvl1: item.title || '' };
+            } else if (!item.hierarchy.lvl1) {
+              item.hierarchy.lvl1 = item.title || item.lvl1 || '';
+            }
+            return item;
+          });
+        },
       });
     </script>
   </body>
