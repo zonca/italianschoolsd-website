@@ -1,8 +1,21 @@
-[
-  {{- $pages := where (where .Site.RegularPages "Params.private" "ne" true) "Params.hidden" "ne" true -}}
-  {{- $len := (len $pages) -}}
-  {{- range $i, $p := $pages -}}
-    {{- .Render "algolia" -}}
-    {{- if ne (add $i 1) $len -}},{{- end -}}
-  {{- end -}}
-]
+{{- $pages := where (where .Site.RegularPages "Params.private" "ne" true) "Params.hidden" "ne" true -}}
+{{- $records := slice -}}
+{{- range $pages -}}
+  {{- $record := dict
+    "objectID" .UniqueID
+    "url" .Permalink
+    "title" .Title
+    "content" .Plain
+    "tags" .Params.tags
+    "date" (.Date.Format "2006-01-02")
+    "lvl0" .Title
+    "lvl1" ""
+    "lvl2" ""
+    "lvl3" ""
+    "lvl4" ""
+    "lvl5" ""
+    "lvl6" ""
+  -}}
+  {{- $records = $records | append $record -}}
+{{- end -}}
+{{- $records | jsonify -}}
