@@ -1,8 +1,12 @@
 {{- $pages := where (where .Site.RegularPages "Params.private" "ne" true) "Params.hidden" "ne" true -}}
 {{- $records := slice -}}
 {{- range $pages -}}
+  {{- $objectID := .Permalink -}}
+  {{- with .File -}}
+    {{- $objectID = .UniqueID -}}
+  {{- end -}}
   {{- $record := dict
-    "objectID" .UniqueID
+    "objectID" $objectID
     "url" .Permalink
     "title" .Title
     "content" .Plain
