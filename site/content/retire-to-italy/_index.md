@@ -58,3 +58,7 @@ Explore specialized information on our key service areas:
 - [**Healthcare & Logistics**]({{< relref "healthcare-logistics.md" >}}) – Essential services registration.
 - [**Travel & Scouting**]({{< relref "travel-settling-in.md" >}}) – Targeted visits and area selection.
 - [**Team Credentials**]({{< relref "team.md" >}}) – Professional backgrounds of our experts.
+
+---
+
+**Legal Notice:** The Italian School of San Diego LLC acts solely as a coordinator to facilitate connections between clients and independent legal, financial, and real estate professionals. We are not a law firm, financial advisory firm, or real estate agency and do not provide legal, tax, or investment advice. All professional services are provided directly by the independent experts, who are solely responsible for their advice and procedures.
