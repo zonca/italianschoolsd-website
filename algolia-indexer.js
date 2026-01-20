@@ -13,16 +13,23 @@ const searchFile = path.join(__dirname, "dist", "search.json");
 let records = JSON.parse(fs.readFileSync(searchFile, "utf8"));
 
 records = records.map((record) => {
+  const title = record.title || record.lvl0 || "Untitled";
+  const sectionLabel = record.section
+    ? record.section.charAt(0).toUpperCase() + record.section.slice(1)
+    : "Page";
+  const lvl1 = record.lvl1 || title;
+
   return {
     ...record,
+    lvl1,
     hierarchy: {
-      lvl0: record.section ? record.section.charAt(0).toUpperCase() + record.section.slice(1) : "Page",
-      lvl1: record.title || "Untitled",
-      lvl2: null,
-      lvl3: null,
-      lvl4: null,
-      lvl5: null,
-      lvl6: null,
+      lvl0: sectionLabel,
+      lvl1: title,
+      lvl2: record.lvl2 || null,
+      lvl3: record.lvl3 || null,
+      lvl4: record.lvl4 || null,
+      lvl5: record.lvl5 || null,
+      lvl6: record.lvl6 || null,
     },
   };
 });
