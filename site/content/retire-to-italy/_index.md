@@ -1,6 +1,6 @@
 ---
-title: "Italian Retirement & Relocation Services"
-subtitle: "Professional support for visa, tax, housing, and integration."
+title: "Retire to Italy"
+subtitle: "Expert coordination for your legal, financial, and logistical relocation."
 image: /img/tuscany-landscape-retire.png
 aliases:
   - /retire
