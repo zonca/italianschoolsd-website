@@ -21,6 +21,7 @@ records = records.map((record) => {
 
   return {
     ...record,
+    type: "lvl1",
     lvl1,
     hierarchy: {
       lvl0: sectionLabel,

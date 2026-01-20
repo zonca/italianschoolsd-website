@@ -1,0 +1,20 @@
+.DocSearch-Hit-title,
+.DocSearch-Hit-path {
+  color: var(--docsearch-hit-color) !important;
+}
+
+.DocSearch-Hit[aria-selected="true"] .DocSearch-Hit-title,
+.DocSearch-Hit[aria-selected="true"] .DocSearch-Hit-path {
+  color: var(--docsearch-hit-active-color) !important;
+}
+
+/* Hide icons that appear when titles are missing and widen text container. */
+.DocSearch-Hit-icon,
+.DocSearch-Hit-action,
+.DocSearch-Hit-Tree {
+  display: none !important;
+}
+
+.DocSearch-Hit-content-wrapper {
+  width: 100% !important;
+}

@@ -28,6 +28,9 @@
             } else if (!item.hierarchy.lvl1) {
               item.hierarchy.lvl1 = item.title || item.lvl1 || '';
             }
+            if (!item.type) {
+              item.type = 'lvl1';
+            }
             return item;
           });
         },
