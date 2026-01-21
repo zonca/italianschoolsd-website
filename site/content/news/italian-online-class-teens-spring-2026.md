@@ -3,6 +3,8 @@ title: Online "Italian as a Foreign Language 1" Class for Teens (Spring 2026)
 date: 2026-01-21T00:00:00.000Z
 subtitle: Tuesdays 5:00–7:00pm via Google Meet – Starting February 2026
 description: Online Italian class for High Schoolers (and Middle Schoolers) starting Feb 2026. Tuesdays 5–7pm Pacific on Google Meet. 15 classes. Certified program.
+aliases:
+  - /news/italian-online-class-teens-spring-2026/
 ---
 
 We are opening a new **Online "Italian as a Foreign Language 1"** class for **High School students** (we also accept Middle Schoolers) for Spring 2026.
@@ -15,7 +17,7 @@ We are opening a new **Online "Italian as a Foreign Language 1"** class for **Hi
 
 ### The Certified Program
 
-This class is part of our **[Certified Program](/accredited-classes)**.
+This class is part of our **[Certified Program]({{< ref "accredited-classes.md" >}})**.
 * **No previous knowledge required.** This course ("Italian as a Foreign Language 1") is designed for beginners.
 * **Accredited:** The Italian School of San Diego is accredited by **San Diego Unified** and **San Dieguito** districts as an "Independent World Language School" and **follows a program approved by the districts**. Classes can fulfill language requirements for high school graduation at **public high schools** in these districts and satisfy college admission requirements. Grades earned are added to the student's high school transcript (**not for Middle Schoolers**).
 * **Structure:** Classes are taught by native instructors and follow a structured curriculum suitable for earning credit.
@@ -25,7 +27,7 @@ This class is part of our **[Certified Program](/accredited-classes)**.
 ### Cost
 **$1275** for the semester.
 
-See our **[payment methods and cancellation policy](/tuition-payment)**.
+See our **[payment methods and cancellation policy]({{< ref "tuition-payment.md" >}})**.
 
 ### How to Enroll
 

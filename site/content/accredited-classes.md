@@ -21,7 +21,7 @@ For more information, see:
   <div style="background-color: #f0f4f8; padding: 20px; border-radius: 8px; border: 1px solid #d1d9e6; margin-bottom: 20px;">
     <h4 style="margin-top: 0;">New Spring 2026 Class!</h4>
     <p>We are opening a new <strong>Italian as a Foreign Language 1</strong> class starting <strong>February 17, 2026</strong>. This online class is designed for High Schoolers (and Middle Schoolers) and follows our certified curriculum.</p>
-    <a href="/news/italian-online-class-teens-spring-2026" class="btn raise">Learn more about the Spring 2026 Class</a>
+    <a href="{{< ref "news/italian-online-class-teens-spring-2026.md" >}}" class="btn raise">Learn more about the Spring 2026 Class</a>
   </div>
 </div>
 
