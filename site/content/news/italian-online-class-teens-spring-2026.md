@@ -45,7 +45,7 @@ Please fill out our **Universal Pre-Enrollment Form** to reserve your spot. Pre-
 
 **We do not run advertisements**, so we rely on your help to reach students interested in learning Italian. Please consider sharing this flyer with your friends and community!
 
-![Online Italian Class for Teens Spring 2026 Flyer](/flyers/flyer_italian_teens_spring_2026.png)
+[Online Italian Class for Teens Spring 2026 Flyer](/flyers/flyer_italian_teens_spring_2026.png)
 
 <div class="tc" style="margin-top: 20px;">
   <p><strong>Share on Social Media:</strong></p>
