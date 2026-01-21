@@ -3,6 +3,7 @@ title: Online "Italian as a Foreign Language 1" Class for Teens (Spring 2026)
 date: 2026-01-21T00:00:00.000Z
 subtitle: Tuesdays 5:00–7:00pm via Google Meet – Starting February 2026
 description: Online Italian class for High Schoolers (and Middle Schoolers) starting Feb 2026. Tuesdays 5–7pm Pacific on Google Meet. 15 classes. Certified program.
+image: /flyers/flyer_italian_teens_spring_2026.png
 aliases:
   - /news/italian-online-class-teens-spring-2026/
 ---
