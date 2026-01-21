@@ -39,3 +39,16 @@ Please fill out our **Universal Pre-Enrollment Form** to reserve your spot. Pre-
 <div class="tc">
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSd4sac0Y2wdTd9gm2AF1Y9uuVPPyJzHfHEphJPA1iYPkrP43g/viewform?usp=sf_link" class="btn raise">Fill the universal pre-enrollment form</a>
 </div>
+
+### Help us spread the word!
+
+**We do not run advertisements**, so we rely on your help to reach students interested in learning Italian. Please consider sharing this flyer with your friends and community!
+
+![Online Italian Class for Teens Spring 2026 Flyer](/flyers/flyer_italian_teens_spring_2026.png)
+
+<div class="tc" style="margin-top: 20px;">
+  <p><strong>Share on Social Media:</strong></p>
+  <a href="https://wa.me/?text=Check%20out%20this%20new%20Online%20Italian%20Class%20for%20Teens%20starting%20in%20Spring%202026!%20https%3A%2F%2Fitalianschoolsd.com%2Fnews%2Fitalian-online-class-teens-spring-2026%2F" class="btn" style="background-color: #25D366; color: white; border: none; margin: 5px;" target="_blank">Share on WhatsApp</a>
+  <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fitalianschoolsd.com%2Fnews%2Fitalian-online-class-teens-spring-2026%2F" class="btn" style="background-color: #3b5998; color: white; border: none; margin: 5px;" target="_blank">Share on Facebook</a>
+  <a href="mailto:?subject=Online%20Italian%20Class%20for%20Teens&body=Hi%2C%0A%0ACheck%20out%20this%20new%20Online%20Italian%20Class%20for%20Teens%20starting%20in%20Spring%202026%3A%0Ahttps%3A%2F%2Fitalianschoolsd.com%2Fnews%2Fitalian-online-class-teens-spring-2026%2F" class="btn" style="background-color: #888; color: white; border: none; margin: 5px;">Email to a Friend</a>
+</div>
