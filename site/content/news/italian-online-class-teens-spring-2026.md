@@ -19,8 +19,11 @@ We are opening a new **Online "Italian as a Foreign Language 1"** class for **Hi
 
 This class is part of our **[Certified Program]({{< ref "accredited-classes.md" >}})**.
 * **No previous knowledge required.** This course ("Italian as a Foreign Language 1") is designed for beginners.
-* **Accredited:** The Italian School of San Diego is accredited by **San Diego Unified** and **San Dieguito** districts as an "Independent World Language School" and **follows a program approved by the districts**. Classes can fulfill language requirements for high school graduation at **public high schools** in these districts and satisfy college admission requirements. Grades earned are added to the student's high school transcript (**not for Middle Schoolers**).
+* **Accredited:** The Italian School of San Diego is accredited by **San Diego Unified** and **San Dieguito** districts as an "Independent World Language School" and **follows a program approved by the districts**. Classes can fulfill language requirements for high school graduation at **public high schools** in these districts and satisfy college admission requirements. Grades earned are added to the student's high school transcript.
 * **Structure:** Classes are taught by native instructors and follow a structured curriculum suitable for earning credit.
+
+### Note for Middle Schoolers regarding Credits
+Grades are **not** registered on a high school transcript while in middle school. However, once students enter high school and complete a higher-level class (e.g., taking Italian 5-6 in 9th grade), they receive credit for the previous years of study. For example, completing Italian 5-6 grants **3 years of language education credit**, satisfying the requirement even if only one year was effectively taken in high school. It is the **level** of the class that matters.
 * **Workload:** Accredited classes require **2 hours of independent study/homework per week** in addition to the class time.
 * **Grading:** Students will join our **Google Classroom**, submit weekly homework for grading, and take tests. Final grades are based on homework, tests, and class participation.
 
