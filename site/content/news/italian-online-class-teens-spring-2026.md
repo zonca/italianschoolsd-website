@@ -13,7 +13,7 @@ We are opening a new **Online "Italian as a Foreign Language 1"** class for **Hi
 **Schedule:** Tuesdays **5:00–7:00pm** via **Google Meet**.
 
 **Dates:** 15 classes from **February 17 to June 2, 2026**.
-* Note: No class on **April 07** (Spring Break).
+* Note: No class on **March 31** (Spring Break).
 * An additional **cultural event** will be scheduled based on availability of the students.
 
 ### The Certified Program
