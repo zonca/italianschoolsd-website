@@ -1,64 +1,48 @@
 ---
-title: Professional Italian Translation Services
+title: Italian Translation Services
 date: 2025-07-09T00:00:00.000Z
 image: /img/Decreto_Italia.jpg
 aliases:
     - /news/2025/07/professional-italian-translation-services-in-san-diego/
-description: Expert Italian to English and English to Italian translation services in San Diego. Professional, accurate, and culturally sensitive translations for documents, business, legal, and personal needs.
+description: Italian to English and English to Italian translation services in San Diego for legal, business, academic, and personal documents.
 ---
 
-In our increasingly connected world, the need for accurate and culturally sensitive translation services has never been greater. At Italian School of San Diego LLC, we offer comprehensive Italian translation services that combine linguistic expertise with deep cultural understanding to deliver translations that truly capture the essence and intent of your original text.
+Italian School of San Diego LLC provides Italian to English and English to Italian translations for documents and written materials. All our translators are native (mother-tongue) Italian.
 
-## Why Choose Professional Italian Translation?
+We focus on clear, accurate translations that preserve meaning, tone, and cultural context. Italian includes regional nuances that are often missed by automated tools, especially in legal, academic, and formal documents.
 
-Italian is a language rich in nuance and regional variations that can be easily lost in automated translations. We ensure accuracy for:
+## Areas We Support
 
-- **Legal Documents**: Contracts, citizenship applications, and court documents.
-- **Business Communications**: Marketing materials, financial reports, and corporate presentations.
-- **Personal Documents**: Family histories, letters, and certificates.
-- **Academic Papers**: Research papers, dissertations, and transcripts.
+- Legal documents (birth certificates, marriage certificates, contracts, citizenship applications, court documents)
+- Business communications (reports, presentations, internal documents)
+- Personal documents (letters, certificates, family histories)
+- Academic papers (research papers, dissertations, transcripts)
 
-## Our Services
+## What We Translate
 
-### Document Translation
+- Legal documents (certificates, citizenship files, contracts)
+- Business materials (brochures, manuals, websites)
+- Personal documents (correspondence, family records)
+- Academic documents (papers, transcripts)
+- Medical and technical documents
+- Literary and creative texts
 
-We handle a wide range of documents including:
-- **Legal**: Birth/marriage certificates, Jure Sanguinis applications, contracts.
-- **Business**: Brochures, manuals, website content.
-- **Personal**: Correspondence, genealogical records, medical reports.
+## Process
 
-### Specialized Areas
+1. Review the request and confirm scope and deadlines.
+2. Translation by our translator.
+3. Review by our school director, Maura D'Andrea.
+4. Final proofreading and formatting.
 
-- **Medical**: Accurate terminology for healthcare documents.
-- **Technical**: Precision for engineering and software documentation.
-- **Literary**: Preserving the author's voice and style.
-- **Academic**: Adhering to academic conventions.
+## Certificate of Accurate Translation
 
-## Cultural Expertise & Quality Assurance
+We provide a certificate of accurate translation signed by our school director, Maura D'Andrea. The certificate confirms the translation was completed by a qualified professional and is, to the best of our knowledge and professional judgment, complete and faithful to the source text. The certificate attests only to translation accuracy and does not verify the authenticity or content of the original document.
 
-Translation is about bridging cultures. Our native Italian speakers understand cultural nuances, levels of formality, and regional variations (Northern, Central, Southern Italy).
+## Turnaround
 
-**Our Process:**
-1. **Initial Assessment**: Review of purpose and context.
-2. **Translation**: Performed by a qualified translator.
-3. **Review**: Checked by a second translator.
-4. **Proofreading**: Final check for grammar and formatting.
-5. **Certification**: Official stamps and signatures if required.
+- Normal: 3 business days.
+- Rush: 24 hours.
 
-## Certified vs. Standard Translations
-
-- **Certified Translations**: Required for USCIS, courts, and universities.
-- **Standard Translations**: Suitable for business and personal use.
-
-## Pricing & Turnaround
-
-We offer competitive rates and flexible turnaround times:
-- **Standard**: 3-5 business days.
-- **Rush**: 24-48 hours.
-- **Volume Discounts**: For large projects.
-
-## Contact Us
-
-Ready to begin? Contact us for a quote:
+## Submit a Request
 
 - **Secure Form**: Submit your request at our secure form https://tally.so/r/KYVx7K. You can upload multiple files in the same submission.
