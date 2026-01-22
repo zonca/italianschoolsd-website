@@ -29,7 +29,7 @@ Grades are **not** registered on a high school transcript while in middle school
 * **Grading:** Students will join our **Google Classroom**, submit weekly homework for grading, and take tests. Final grades are based on homework, tests, and class participation.
 
 ### Cost
-**$1275** for the semester.
+**$1320.90** with credit card or **$1275** with Zelle (cash discount) for the semester.
 
 See our **[payment methods and cancellation policy]({{< ref "tuition-payment.md" >}})**.
 
