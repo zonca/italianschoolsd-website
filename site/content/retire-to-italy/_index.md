@@ -50,14 +50,14 @@ We follow a structured methodology to ensure transparency and results:
 
 ## Detailed Information
 
-Explore specialized information on our key service areas:
+Each item below links to its own detailed page with specialized guidance:
 
-- [**Visa & Residency**]({{< relref "visa-and-residency.md" >}}) – Eligibility and application pathways.
-- [**Taxation**]({{< relref "taxes-us-italy.md" >}}) – Fiscal planning and treaty benefits.
-- [**Real Estate**]({{< relref "housing-property.md" >}}) – Market navigation and transaction security.
-- [**Healthcare & Logistics**]({{< relref "healthcare-logistics.md" >}}) – Essential services registration.
-- [**Travel & Scouting**]({{< relref "travel-settling-in.md" >}}) – Targeted visits and area selection.
-- [**Team Credentials**]({{< relref "team.md" >}}) – Professional backgrounds of our experts.
+- <a href="{{< relref "visa-and-residency.md" >}}" class="btn">Visa & Residency</a> Eligibility and application pathways.
+- <a href="{{< relref "taxes-us-italy.md" >}}" class="btn">Taxation</a> Fiscal planning and treaty benefits.
+- <a href="{{< relref "housing-property.md" >}}" class="btn">Real Estate</a> Market navigation and transaction security.
+- <a href="{{< relref "healthcare-logistics.md" >}}" class="btn">Healthcare & Logistics</a> Essential services registration.
+- <a href="{{< relref "travel-settling-in.md" >}}" class="btn">Travel & Scouting</a> Targeted visits and area selection.
+- <a href="{{< relref "team.md" >}}" class="btn">Team Credentials</a> Professional backgrounds of our experts.
 
 ---
 
