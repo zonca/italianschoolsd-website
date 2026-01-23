@@ -43,7 +43,8 @@ Our team ensures all these pieces fit together. Your coordinator aligns your vis
 Need help choosing the right route? Visit our [Team page]({{< relref "team.md" >}}) for specialist support, or request an introduction.
 
 ---
-[Back to Retire to Italy]({{< relref "_index.md" >}}) | [Next: Taxes (US & Italy)]({{< relref "taxes-us-italy.md" >}})
+<a href="{{< relref "_index.md" >}}" class="btn">Back to Retire to Italy</a>
+<a href="{{< relref "taxes-us-italy.md" >}}" class="btn">Next: Taxes (United States and Italy)</a>
 
 ---
 

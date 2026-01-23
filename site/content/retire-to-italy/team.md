@@ -56,7 +56,7 @@ For retirement planning, Manuela crafts targeted scouting trips that allow you t
 Rather than isolated advisors, this team collaborates on a single roadmap so visa milestones, tax positioning, property decisions, and travel scheduling reinforce each other. The result: fewer contradictions, faster cycle time, and clearer total cost visibility.
 
 ---
-[Back to Retire to Italy]({{< relref "_index.md" >}})
+<a href="{{< relref "_index.md" >}}" class="btn">Back to Retire to Italy</a>
 
 ---
 

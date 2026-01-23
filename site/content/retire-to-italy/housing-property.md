@@ -38,7 +38,8 @@ Because real estate decisions affect your visa and your taxes, our coordinated a
 For individualized property guidance, connect with our team coordinator.
 
 ---
-[Back to Retire to Italy]({{< relref "_index.md" >}}) | [Next: Healthcare & Logistics]({{< relref "healthcare-logistics.md" >}})
+<a href="{{< relref "_index.md" >}}" class="btn">Back to Retire to Italy</a>
+<a href="{{< relref "healthcare-logistics.md" >}}" class="btn">Next: Healthcare and Logistics</a>
 
 ---
 

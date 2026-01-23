@@ -52,7 +52,8 @@ For full details on Luigi's background and credentials, please visit our [Team P
 The coordination advantage: tax decisions are synchronized with visa timelines, property acquisition, and travel planning—reducing risk and cost. Your dedicated coordinator ensures all these moving parts are tracked on a central dashboard, giving you a single clear view of your financial and compliance roadmap.
 
 ---
-[Back to Retire to Italy]({{< relref "_index.md" >}}) | [Next: Housing & Property]({{< relref "housing-property.md" >}})
+<a href="{{< relref "_index.md" >}}" class="btn">Back to Retire to Italy</a>
+<a href="{{< relref "housing-property.md" >}}" class="btn">Next: Housing and Property</a>
 
 ---
 

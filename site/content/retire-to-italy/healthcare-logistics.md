@@ -31,7 +31,8 @@ Timing is everything. For example, you often need your official residency receip
 Our team manages this entire timeline for you. Your dedicated coordinator tracks every deadline—from shipping your furniture to signing up for the doctor—and keeps everything visible on your private status webpage, so you never have to guess what comes next.
 
 ---
-[Back to Retire to Italy]({{< relref "_index.md" >}}) | [Next: Travel & Settling‑In]({{< relref "travel-settling-in.md" >}})
+<a href="{{< relref "_index.md" >}}" class="btn">Back to Retire to Italy</a>
+<a href="{{< relref "travel-settling-in.md" >}}" class="btn">Next: Travel and Settling In</a>
 
 ---
 

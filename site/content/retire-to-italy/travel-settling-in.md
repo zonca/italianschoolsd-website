@@ -44,7 +44,8 @@ Your travel dates impact everything else—from your visa validity to your tax r
 Request an introduction to begin crafting your scouting or relocation itinerary.
 
 ---
-[Back to Retire to Italy]({{< relref "_index.md" >}}) | [Next: Your Retirement Coordination Team]({{< relref "team.md" >}})
+<a href="{{< relref "_index.md" >}}" class="btn">Back to Retire to Italy</a>
+<a href="{{< relref "team.md" >}}" class="btn">Next: Your Retirement Coordination Team</a>
 
 ---
 
