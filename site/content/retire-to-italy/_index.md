@@ -46,7 +46,7 @@ We follow a structured methodology to ensure transparency and results:
 3.  **Implementation:** Execution of the plan by our specialized team members, coordinated centrally.
 4.  **Ongoing Support:** Continued assistance through residency registration and your initial tax filings.
 
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSca8YTbSVtgq0xJLCx-pVuoSRKeCx9LWc5v85jCRpfJmz2Kbw/viewform?usp=publish-editor" class="btn">Begin Your Assessment</a>
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSca8YTbSVtgq0xJLCx-pVuoSRKeCx9LWc5v85jCRpfJmz2Kbw/viewform?usp=publish-editor" class="btn">Schedule a Consultation</a>
 
 ## Detailed Information
 
