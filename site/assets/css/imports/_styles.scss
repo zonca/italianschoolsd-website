@@ -2,6 +2,18 @@
   background-color: var(--highlight);
 }
 
+.sr-only {
+  border: 0;
+  clip: rect(0 0 0 0);
+  height: 1px;
+  margin: -1px;
+  overflow: hidden;
+  padding: 0;
+  position: absolute;
+  width: 1px;
+  white-space: nowrap;
+}
+
 .news-splash {
   background: linear-gradient(135deg, rgba(13, 155, 255, 0.14), rgba(0, 100, 170, 0.06));
   border-top: 1px solid var(--grey-2);
