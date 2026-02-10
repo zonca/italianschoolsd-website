@@ -6,7 +6,7 @@ blurb:
     heading: Why learn Italian?
     text: "Italian opens the door to a rich world of art, history, literature, and cuisine. For kids, starting early builds confidence fast and can lead to high school credit through Advanced Placement or accredited programs. For adults, it means traveling with ease, connecting more deeply with locals, and enjoying Italian films and books in the original language."
 intro:
-    heading: "Choose your program"
+    heading: "Italian school programs"
     text: "Unless noted otherwise, our in-person programs are held at 4550 Kearny Villa Rd, Suite 202, San Diego, CA. We also offer online options."
 products:
     - image: /flyers/italianschoolsd-flyer-italian-2025-2026-TK-6th.jpg

@@ -15,10 +15,8 @@ input:focus, textarea:focus, a:focus, button:focus {
   transform: translateY(-.12rem) translateZ(0);
 }
 
-.home-card.raise:hover,
-.home-card.raise:focus,
-.news-feature-card.raise:hover,
-.news-feature-card.raise:focus {
+.program-card.raise:hover,
+.program-card.raise:focus {
   /* Avoid card overlap on hover; keep the shadow/transition but disable the lift. */
   transform: translateY(0) translateZ(0);
 }
