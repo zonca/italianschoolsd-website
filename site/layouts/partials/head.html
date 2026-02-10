@@ -36,6 +36,18 @@
 	<meta property="og:url" content="{{ .Page.Permalink }}">
 	<meta property="og:image" content="/img/italianschoolsd_logo.png">
 
+  {{/* SEO: meta description */}}
+  {{ $desc := .Description }}
+  {{ if not $desc }}
+    {{ if .IsHome }}
+      {{ with .Params.subtitle }}{{ $desc = . }}{{ end }}
+      {{ if not $desc }}{{ with .Site.Params.description }}{{ $desc = . }}{{ end }}{{ end }}
+    {{ else }}
+      {{ with .Summary }}{{ $desc = (. | plainify | truncate 180) }}{{ end }}
+    {{ end }}
+  {{ end }}
+  {{ if $desc }}<meta name="description" content="{{ $desc }}">{{ end }}
+
   {{ if .IsHome }}
     <!--
     <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
