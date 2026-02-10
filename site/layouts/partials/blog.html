@@ -4,8 +4,6 @@
 
 <div class="news-splash pv4">
 	<div class="ph3 mw8 center">
-		<h2 class="sr-only">Latest news</h2>
-
 		<div class="mb3">
 			<div class="flex-ns items-center justify-between">
 				<p class="news-kicker mb2">Latest news</p>
@@ -19,7 +17,7 @@
 			{{ with $featured.Params.image }}
 			<div class="flex-ns items-start">
 				<div class="w-70-ns pr3-ns">
-					<h3 class="f3 b lh-title mb1 primary">{{ $featured.Title }}</h3>
+					<h2 class="f3 b lh-title mb1 primary">{{ $featured.Title }}</h2>
 					<p class="mid-gray lh-title mb2">{{ $featured.Date.Format "Mon, Jan 2, 2006" }}</p>
 					<p class="mb2">
 						{{ with $featured.Description }}
@@ -35,7 +33,7 @@
 				</div>
 			</div>
 			{{ else }}
-				<h3 class="f3 b lh-title mb1 primary">{{ $featured.Title }}</h3>
+				<h2 class="f3 b lh-title mb1 primary">{{ $featured.Title }}</h2>
 				<p class="mid-gray lh-title mb2">{{ $featured.Date.Format "Mon, Jan 2, 2006" }}</p>
 				<p class="mb2">
 					{{ with $featured.Description }}
