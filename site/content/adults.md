@@ -18,27 +18,63 @@ Note: All in-person adult classes meet at our school at [4550 Kearny Villa Rd Su
 
 ## Italian for Travelers
 
-We will start offering again "Italian for travelers" in March or April 2026,
-however if you already have a group, we can set up a dedicated class—[contact us](/contact).
+
+
+Planning a trip to Italy? Get ready with our "Italian for Travelers" program! We are launching three separate sessions for March, April, and May 2026.
+
+
 
 <div class="tc">
-<a href="/travelers" class="btn raise">Learn more and enroll to "Italian for travelers"</a>
+
+<a href="{{< relref "news/italian-for-travelers-march-april-may-2026.md" >}}" class="btn raise">Learn more and enroll to "Italian for travelers"</a>
+
 </div>
+
+
 
 ---
 
+
+
 ## January-May 2026 Group Classes
+
+
 
 Choose your level below and enroll online with your credit card.
 
+
+
 ### Beginner class
+
+
 
 No prior Italian experience required.
 
+
+
 Start your Italian journey with our friendly, hands-on beginner class! In 5 months, you'll build a solid foundation in Italian conversation, vocabulary, and culture—perfect for travel, work, or connecting with family. Our small group setting ensures plenty of personal attention and practice. Whether you're brand new to Italian or want a refresher, you'll feel welcome and supported every step of the way.
 
+
+
 See the full schedule, holidays, and enrollment links: [Beginner classes (January–May 2026)]({{< relref "news/adult-beginner-classes-january-may-2026.md" >}})
-<div class="tc"><a href='{{< relref "news/adult-beginner-classes-january-may-2026.md" >}}' class="btn raise">View beginner schedule & tuition</a></div>
+
+
+
+**New session starting in March!** We just added a new Tuesday beginner section:
+
+
+
+<div class="tc"><a href='https://italianschoolsd.square.site/product/tuesday-beginner-italian-class-march-may-2026-/WAWNLEXVUDYNP7KTOBFBSIC3' class="btn raise">New Tuesday Beginner (March–May 2026)</a></div>
+
+
+
+
+
+
+
+<div class="tc"><a href='{{< relref "news/adult-beginner-classes-january-may-2026.md" >}}' class="btn raise">View standard beginner schedule & tuition</a></div>
+
+
 
 ### All intermediate levels
 
@@ -91,8 +127,7 @@ To request a refund, email `admin` at our domain `italianschoolsd.com`.
 
 ### Family Discount
 
-- 10% off for the first additional family member
-- 15% off for the second additional family member  
+- 10% off for all additional family members (except for "Italian for Travelers," which has its own discount policy).
 Please pay the full amount, then [contact us](https://www.italianschoolsd.com/contact/) for your partial refund.
 
 ---
