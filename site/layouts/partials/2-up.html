@@ -1,12 +1,12 @@
 <div class="bg-off-white pv4">
-  <div class="ph3 mw7 center">
+  <div class="ph3 mw8 center">
     <h2 class="f2 b lh-title mb2">{{.intro.heading}}</h2>
     <p class="mb4 mw6">{{.intro.text}}</p>
 
     <div class="flex-ns mhn2-ns mb3">
       {{ range .products }}
       <div class="ph2-ns w-50-ns raise">
-      <a href="{{.link}}" class="no-underline pa3 br1 mb2 db raise w-100">
+      <a href="{{.link}}" class="home-card no-underline pa3 br1 mb2 db raise w-100">
 	    <h3 class="b lh-title mb2 text-center">{{.title}}</h3>
         <img src="{{.image}}" alt="" class="center db mb3" style="width: 240px">
         <p>{{.text}}</p>
@@ -18,7 +18,7 @@
     <div class="flex-ns mhn2-ns mb3 ">
       {{ range .products2 }}
       <div class="ph2-ns w-50-ns">
-      <a href="{{.link}}" class="no-underline pa3 br1 mb2 db raise w-100">
+      <a href="{{.link}}" class="home-card no-underline pa3 br1 mb2 db raise w-100">
 	    <h3 class="b lh-title mb2 text-center">{{.title}}</h3>
         <img src="{{.image}}" alt="" class="center db mb3" style="width: 240px">
         <p>{{.text}}</p>

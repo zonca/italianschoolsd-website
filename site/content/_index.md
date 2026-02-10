@@ -4,10 +4,10 @@ subtitle: Italian classes for kids and adults in San Diego
 image: /img/colosseum.jpg
 blurb:
     heading: Why learn Italian?
-    text: "Young children learn new languages quickly, and Italian opens the door to a rich world of art, history, literature, and cuisine. Studying Italian from an early age can lead to school credit through Advanced Placement or college programs. For adults, learning Italian means connecting more deeply with locals while traveling, enjoying Italian films, and reading classic literature in the original language."
+    text: "Italian opens the door to a rich world of art, history, literature, and cuisine. For kids, starting early builds confidence fast and can lead to high school credit through Advanced Placement or accredited programs. For adults, it means traveling with ease, connecting more deeply with locals, and enjoying Italian films and books in the original language."
 intro:
     heading: "Italian school programs"
-    text: "Unless noted otherwise, all our in-person programs are held at our main location at 4550 Kearny Villa Rd, Suite 202, San Diego, CA"
+    text: "Unless noted otherwise, our in-person programs are held at 4550 Kearny Villa Rd, Suite 202, San Diego, CA. We also offer online options."
 products:
     - image: /flyers/italianschoolsd-flyer-italian-2025-2026-TK-6th.jpg
       title: "Italian for TK to 6th Graders"
@@ -28,5 +28,5 @@ products2:
       link: /accredited-classes/
 values:
     heading: About
-    text: Our instructors are all native Italian speakers, experienced and passionate about sharing their language and culture with students of all ages. Led by Director and CEO Maura D'Andrea, who founded the Italian School of San Diego in 2021, our team is dedicated to providing an authentic and engaging learning experience.
+    text: Our instructors are native Italian speakers who bring experience, warmth, and high standards to every class. Led by Director and CEO Maura D'Andrea (founder, 2021), we focus on an authentic, engaging learning experience for kids, teens, and adults.
 ---

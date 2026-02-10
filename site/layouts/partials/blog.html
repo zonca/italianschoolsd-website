@@ -3,16 +3,16 @@
 {{ $featured := index $news 0 }}
 
 <div class="news-splash pv4">
-	<div class="ph3 mw7 center">
+	<div class="ph3 mw8 center">
 
-		<div class="flex-ns items-end justify-between mb3">
-			<div class="mw6">
+		<div class="mb3">
+			<div class="flex-ns items-center justify-between">
 				<p class="news-kicker mb2">Latest news</p>
-				<h2 class="f2 b lh-title mb1">What’s new at the Italian School</h2>
+				<div class="mt3 mt0-ns">
+					<a href="/news" class="btn raise">All news</a>
+				</div>
 			</div>
-			<div class="mt3 mt0-ns">
-				<a href="/news" class="btn raise">All news</a>
-			</div>
+			<h2 class="f2 b lh-title mb1">What’s new at the Italian School</h2>
 		</div>
 
 		<a href="{{ $featured.RelPermalink }}" class="news-feature-card no-underline pa4 br1 db raise mb3">
