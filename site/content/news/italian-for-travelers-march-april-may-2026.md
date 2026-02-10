@@ -14,7 +14,7 @@ Looking for a more comprehensive beginner class? See our [New Tuesday Beginner c
 
 ## Schedule
 
-All sessions meet on **Tuesdays, 6:15pm–7:45pm** at our location in Kearny Mesa.
+All sessions meet on **Tuesdays, 5:30pm–7:00pm** at our location in Kearny Mesa.
 
 ### March Session
 - **Dates:** March 3, 10, 17, 24
