@@ -6,6 +6,12 @@ yarn-error.log
 *.swp
 *.lock
 site/public
+site/resources/
+full_links.txt
+full_status.txt
+links.txt
+page.html
+status.txt
 
 # Local Netlify folder
 .netlify
