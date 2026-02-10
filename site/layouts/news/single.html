@@ -7,7 +7,7 @@
     </div>
     <div class="cms mw8">
       <p>{{ .Description }}</p>
-      {{ if .Params.image }}<img src="{{ .Params.image }}" alt="{{ .Title }}" />{{ end }}
+      {{ if .Params.image }}<img src="{{ .Params.image }}" alt="{{ .Title }}" loading="lazy" decoding="async" />{{ end }}
       {{ .Content }}
     </div>
   </div>

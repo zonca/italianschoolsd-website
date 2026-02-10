@@ -33,3 +33,12 @@ name = "Italian school of San Diego"
 [security]
   [security.funcs]
     getenv = ['^HUGO_', '^CI$', '^CONTEXT$', '^URL$', '^DEPLOY_PRIME_URL$']
+
+[minify]
+  minifyOutput = true
+  disableHTML = false
+  disableCSS = false
+  disableJS = false
+  disableJSON = false
+  disableSVG = false
+  disableXML = false

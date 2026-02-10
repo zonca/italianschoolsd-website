@@ -12,7 +12,17 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
   <base href="{{ if getenv "CONTEXT" }}{{ cond (eq "production" (getenv "CONTEXT")) (getenv "URL") (getenv "DEPLOY_PRIME_URL") }}{{ else }}{{ $.Site.BaseURL }}{{ end }}">
 
-	<link href="https://fonts.googleapis.com/css?family=Nunito+Sans:400,700" rel="stylesheet">
+  {{/* Preload critical font(s). */}}
+  <link rel="preload" href="/fonts/nunito-sans-latin-var.woff2" as="font" type="font/woff2" crossorigin>
+
+  {{/* Preload hero image on the homepage (LCP). */}}
+  {{ if .IsHome }}
+    {{ $imgPath := replaceRE "^/" "" .Params.image }}
+    {{ with resources.Get $imgPath }}
+      {{ $hero := .Resize "2000x webp q80" }}
+      <link rel="preload" as="image" href="{{ $hero.RelPermalink }}" fetchpriority="high">
+    {{ end }}
+  {{ end }}
 
 	<!-- Favicons -->
 	<link rel="icon" type="image/png" href="/img/favicon-32x32.png" sizes="32x32">
@@ -25,9 +35,6 @@
 	<meta property="og:title" content="{{ .Title }}| {{ $.Site.Title }}">
 	<meta property="og:url" content="{{ .Page.Permalink }}">
 	<meta property="og:image" content="/img/italianschoolsd_logo.png">
-
-  <!-- DocSearch CSS -->
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@docsearch/css@3" />
 
   {{ if .IsHome }}
     <!--
