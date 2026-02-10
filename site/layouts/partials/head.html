@@ -2,10 +2,10 @@
 
   <title>{{ .Title }} | {{ $.Site.Title }}</title>
 
-  {{ $stylesheet := .Site.Data.webpack.main }}
-  {{ with $stylesheet.css }}
-    <link href="{{ relURL . }}" rel="stylesheet">
-  {{ end }}
+  {{/* Build CSS via Hugo Pipes (SCSS + PostCSS) to remove Webpack from the build pipeline. */}}
+  {{ $scss := resources.Get "css/main.scss" | toCSS (dict "targetPath" "css/main.css") }}
+  {{ $css := $scss | postCSS | minify | fingerprint }}
+  <link rel="stylesheet" href="{{ $css.RelPermalink }}" integrity="{{ $css.Data.Integrity }}">
 
 	<meta charset="utf-8">
 	<meta http-equiv="x-ua-compatible" content="ie=edge">

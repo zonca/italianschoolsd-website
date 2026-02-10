@@ -9,10 +9,6 @@
 
     {{ block "footer" . }}{{ partial "footer" . }}{{end}}
 
-    {{ $script := .Site.Data.webpack.main }}
-    {{ with $script.js }}
-      <script src="{{ relURL . }}"></script>
-    {{ end }}
     <!-- DocSearch JS -->
     <script src="https://cdn.jsdelivr.net/npm/@docsearch/js@3"></script>
     <script>
