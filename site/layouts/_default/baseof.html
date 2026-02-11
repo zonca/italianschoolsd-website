@@ -56,6 +56,7 @@
         function loadDocSearch() {
           if (loaded) return;
           loaded = true;
+          container.innerHTML = '';
 
           // Load CSS only when needed.
           var css = document.createElement('link');
@@ -91,6 +92,11 @@
 
         container.addEventListener('pointerdown', loadDocSearch, { once: true });
         container.addEventListener('focusin', loadDocSearch, { once: true });
+        container.addEventListener('keydown', function (event) {
+          if (event.key === 'Enter' || event.key === ' ') {
+            loadDocSearch();
+          }
+        }, { once: true });
       })();
     </script>
   </body>
