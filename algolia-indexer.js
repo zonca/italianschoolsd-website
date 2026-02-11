@@ -1,7 +1,6 @@
 const algoliasearch = require("algoliasearch");
 const fs = require("fs");
 const path = require("path");
-const { JSDOM } = require("jsdom");
 
 const requiredEnv = ["ALGOLIA_APP_ID", "ALGOLIA_ADMIN_KEY", "ALGOLIA_INDEX_NAME"];
 const missing = requiredEnv.filter((k) => !process.env[k]);
@@ -32,6 +31,9 @@ records = records.map((record) => {
 
   return {
     ...record,
+    // Keep ranking fields numeric for customRanking.
+    publishdate: Number(record.publishdate) || 0,
+    lastmod: Number(record.lastmod) || 0,
     type: "lvl1",
     lvl1,
     hierarchy: {
@@ -46,16 +48,23 @@ records = records.map((record) => {
   };
 });
 
-// Clear index first, then add new records
+// Prefer more recent content after textual relevance.
 index
-  .clearObjects()
+  .setSettings({
+    customRanking: ["desc(publishdate)", "desc(lastmod)"],
+  })
+  .then(() => {
+    console.log("Index settings updated.");
+    // Clear index first, then add new records
+    return index.clearObjects();
+  })
   .then(() => {
     console.log("Index cleared.");
     return index.saveObjects(records, {
       autoGenerateObjectIDIfNotExist: true,
     });
   })
-  .then(({ objectIDs }) => {
+  .then(({objectIDs}) => {
     console.log(`Finished indexing ${objectIDs.length} records.`);
   })
   .catch((err) => {
