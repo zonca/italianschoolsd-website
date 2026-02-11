@@ -53,7 +53,19 @@
         if (!container) return;
 
         var loaded = false;
-        function loadDocSearch() {
+        var openOnReady = false;
+
+        function tryOpenSearchButton() {
+          var btn = container.querySelector('.DocSearch-Button');
+          if (!btn) return false;
+          btn.click();
+          return true;
+        }
+
+        function loadDocSearch(options) {
+          if (options && options.openOnReady) {
+            openOnReady = true;
+          }
           if (loaded) return;
           loaded = true;
           container.innerHTML = '';
@@ -86,15 +98,33 @@
                 });
               }
             });
+
+            if (openOnReady) {
+              if (!tryOpenSearchButton()) {
+                var attempts = 0;
+                var timer = setInterval(function () {
+                  attempts += 1;
+                  if (tryOpenSearchButton() || attempts > 20) {
+                    clearInterval(timer);
+                  }
+                }, 25);
+              }
+            }
           };
           document.head.appendChild(s);
         }
 
-        container.addEventListener('pointerdown', loadDocSearch, { once: true });
+        container.addEventListener('pointerdown', function (event) {
+          if (!loaded) {
+            event.preventDefault();
+            loadDocSearch({ openOnReady: true });
+          }
+        }, { once: true });
         container.addEventListener('focusin', loadDocSearch, { once: true });
         container.addEventListener('keydown', function (event) {
           if (event.key === 'Enter' || event.key === ' ') {
-            loadDocSearch();
+            event.preventDefault();
+            loadDocSearch({ openOnReady: true });
           }
         }, { once: true });
       })();
