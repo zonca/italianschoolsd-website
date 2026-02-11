@@ -9,6 +9,43 @@
 
     {{ block "footer" . }}{{ partial "footer" . }}{{end}}
 
+    <!-- GA: lazy-load analytics after first interaction/idle to reduce TBT. -->
+    <script>
+      (function () {
+        var loaded = false;
+        function loadGA() {
+          if (loaded) return;
+          loaded = true;
+
+          var pre = document.createElement('link');
+          pre.rel = 'preconnect';
+          pre.href = 'https://www.googletagmanager.com';
+          pre.crossOrigin = 'anonymous';
+          document.head.appendChild(pre);
+
+          var s = document.createElement('script');
+          s.src = 'https://www.googletagmanager.com/gtag/js?id=G-MRWWNR88HN';
+          s.async = true;
+          s.onload = function () {
+            window.dataLayer = window.dataLayer || [];
+            function gtag() { window.dataLayer.push(arguments); }
+            gtag('js', new Date());
+            gtag('config', 'G-MRWWNR88HN');
+          };
+          document.head.appendChild(s);
+        }
+
+        ['pointerdown', 'keydown', 'scroll', 'touchstart'].forEach(function (evt) {
+          window.addEventListener(evt, loadGA, { once: true, passive: true });
+        });
+        if ('requestIdleCallback' in window) {
+          window.requestIdleCallback(loadGA, { timeout: 7000 });
+        } else {
+          setTimeout(loadGA, 7000);
+        }
+      })();
+    </script>
+
     <!-- DocSearch: lazy-load JS/CSS on first interaction with the search box. -->
     <script>
       (function () {
