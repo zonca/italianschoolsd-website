@@ -22,6 +22,7 @@ When you enter the parking lot, find a parking spot just after the first corner 
 ## Accessibility note
 
 Unfortunately, there is currently no wheelchair access to our suite. We are on the second floor and access requires two flights of stairs.
+We have Wi-Fi with a fiber internet connection available on site.
 
 ## Organize your events at Italian school
 
