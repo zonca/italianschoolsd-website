@@ -9,32 +9,89 @@
 
     {{ block "footer" . }}{{ partial "footer" . }}{{end}}
 
-    {{ $script := .Site.Data.webpack.main }}
-    {{ with $script.js }}
-      <script src="{{ relURL . }}"></script>
-    {{ end }}
-    <!-- DocSearch JS -->
-    <script src="https://cdn.jsdelivr.net/npm/@docsearch/js@3"></script>
+    <!-- GA: lazy-load analytics after first interaction/idle to reduce TBT. -->
     <script>
-      docsearch({
-        appId: 'TPVVV4HW9C',
-        apiKey: '38df777d1e1eca13019e565f693d7b2a',
-        indexName: 'italianschoolsd_index',
-        container: '#search',
-        transformItems(items) {
-          return items.map((item) => {
-            if (!item.hierarchy) {
-              item.hierarchy = { lvl0: 'Page', lvl1: item.title || '' };
-            } else if (!item.hierarchy.lvl1) {
-              item.hierarchy.lvl1 = item.title || item.lvl1 || '';
-            }
-            if (!item.type) {
-              item.type = 'lvl1';
-            }
-            return item;
-          });
-        },
-      });
+      (function () {
+        var loaded = false;
+        function loadGA() {
+          if (loaded) return;
+          loaded = true;
+
+          var pre = document.createElement('link');
+          pre.rel = 'preconnect';
+          pre.href = 'https://www.googletagmanager.com';
+          pre.crossOrigin = 'anonymous';
+          document.head.appendChild(pre);
+
+          var s = document.createElement('script');
+          s.src = 'https://www.googletagmanager.com/gtag/js?id=G-MRWWNR88HN';
+          s.async = true;
+          s.onload = function () {
+            window.dataLayer = window.dataLayer || [];
+            function gtag() { window.dataLayer.push(arguments); }
+            gtag('js', new Date());
+            gtag('config', 'G-MRWWNR88HN');
+          };
+          document.head.appendChild(s);
+        }
+
+        ['pointerdown', 'keydown', 'scroll', 'touchstart'].forEach(function (evt) {
+          window.addEventListener(evt, loadGA, { once: true, passive: true });
+        });
+        if ('requestIdleCallback' in window) {
+          window.requestIdleCallback(loadGA, { timeout: 7000 });
+        } else {
+          setTimeout(loadGA, 7000);
+        }
+      })();
+    </script>
+
+    <!-- DocSearch: lazy-load JS/CSS on first interaction with the search box. -->
+    <script>
+      (function () {
+        var container = document.querySelector('#search');
+        if (!container) return;
+
+        var loaded = false;
+        function loadDocSearch() {
+          if (loaded) return;
+          loaded = true;
+
+          // Load CSS only when needed.
+          var css = document.createElement('link');
+          css.rel = 'stylesheet';
+          css.href = 'https://cdn.jsdelivr.net/npm/@docsearch/css@3';
+          document.head.appendChild(css);
+
+          var s = document.createElement('script');
+          s.src = 'https://cdn.jsdelivr.net/npm/@docsearch/js@3';
+          s.async = true;
+          s.onload = function () {
+            if (!window.docsearch) return;
+            window.docsearch({
+              appId: 'TPVVV4HW9C',
+              apiKey: '38df777d1e1eca13019e565f693d7b2a',
+              indexName: 'italianschoolsd_index',
+              container: '#search',
+              transformItems: function (items) {
+                return items.map(function (item) {
+                  if (!item.hierarchy) {
+                    item.hierarchy = { lvl0: 'Page', lvl1: item.title || '' };
+                  } else if (!item.hierarchy.lvl1) {
+                    item.hierarchy.lvl1 = item.title || item.lvl1 || '';
+                  }
+                  if (!item.type) item.type = 'lvl1';
+                  return item;
+                });
+              }
+            });
+          };
+          document.head.appendChild(s);
+        }
+
+        container.addEventListener('pointerdown', loadDocSearch, { once: true });
+        container.addEventListener('focusin', loadDocSearch, { once: true });
+      })();
     </script>
   </body>
 </html>

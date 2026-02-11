@@ -2,17 +2,36 @@
 
   <title>{{ .Title }} | {{ $.Site.Title }}</title>
 
-  {{ $stylesheet := .Site.Data.webpack.main }}
-  {{ with $stylesheet.css }}
-    <link href="{{ relURL . }}" rel="stylesheet">
-  {{ end }}
+  {{/* Build CSS via Hugo Pipes (SCSS + PostCSS) to remove Webpack from the build pipeline. */}}
+  {{ $scss := resources.Get "css/main.scss" | toCSS (dict "targetPath" "css/main.css") }}
+  {{ $css := $scss | postCSS | minify | fingerprint }}
+
+  {{/* Small critical CSS inline to speed first paint above the fold. */}}
+  <style>
+    body { margin: 0; font-family: Nunito Sans, -apple-system, BlinkMacSystemFont, "avenir next", avenir, helvetica, "helvetica neue", ubuntu, roboto, noto, "segoe ui", arial, sans-serif; }
+    img { max-width: 100%; height: auto; }
+    .bg-center { background-position: 50%; background-repeat: no-repeat; }
+    .cover { background-size: cover !important; }
+    .divider-grey { box-shadow: inset 0 -4px 0 #f5f3f2; }
+  </style>
+  <link rel="stylesheet" href="{{ $css.RelPermalink }}" integrity="{{ $css.Data.Integrity }}">
 
 	<meta charset="utf-8">
 	<meta http-equiv="x-ua-compatible" content="ie=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
   <base href="{{ if getenv "CONTEXT" }}{{ cond (eq "production" (getenv "CONTEXT")) (getenv "URL") (getenv "DEPLOY_PRIME_URL") }}{{ else }}{{ $.Site.BaseURL }}{{ end }}">
 
-	<link href="https://fonts.googleapis.com/css?family=Nunito+Sans:400,700" rel="stylesheet">
+  {{/* Preload critical font(s). */}}
+  <link rel="preload" href="/fonts/nunito-sans-latin-var.woff2" as="font" type="font/woff2" crossorigin>
+
+  {{/* Preload hero image on the homepage (LCP). */}}
+  {{ if .IsHome }}
+    {{ $imgPath := replaceRE "^/" "" .Params.image }}
+    {{ with resources.Get $imgPath }}
+      {{ $hero := .Resize "2000x webp q80" }}
+      <link rel="preload" as="image" href="{{ $hero.RelPermalink }}" fetchpriority="high">
+    {{ end }}
+  {{ end }}
 
 	<!-- Favicons -->
 	<link rel="icon" type="image/png" href="/img/favicon-32x32.png" sizes="32x32">
@@ -26,8 +45,17 @@
 	<meta property="og:url" content="{{ .Page.Permalink }}">
 	<meta property="og:image" content="/img/italianschoolsd_logo.png">
 
-  <!-- DocSearch CSS -->
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@docsearch/css@3" />
+  {{/* SEO: meta description */}}
+  {{ $desc := .Description }}
+  {{ if not $desc }}
+    {{ if .IsHome }}
+      {{ with .Params.subtitle }}{{ $desc = . }}{{ end }}
+      {{ if not $desc }}{{ with .Site.Params.description }}{{ $desc = . }}{{ end }}{{ end }}
+    {{ else }}
+      {{ with .Summary }}{{ $desc = (. | plainify | truncate 180) }}{{ end }}
+    {{ end }}
+  {{ end }}
+  {{ if $desc }}<meta name="description" content="{{ $desc }}">{{ end }}
 
   {{ if .IsHome }}
     <!--
@@ -39,15 +67,5 @@
     {{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
   {{ end -}}
   <meta property="fb:pages" content="104042831952329" />
-
-  <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-MRWWNR88HN"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-MRWWNR88HN');
-</script>
 
 </head>

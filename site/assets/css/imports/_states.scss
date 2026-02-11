@@ -15,6 +15,12 @@ input:focus, textarea:focus, a:focus, button:focus {
   transform: translateY(-.12rem) translateZ(0);
 }
 
+.program-card.raise:hover,
+.program-card.raise:focus {
+  /* Avoid card overlap on hover; keep the shadow/transition but disable the lift. */
+  transform: translateY(0) translateZ(0);
+}
+
 .raise:active {
   transition: var(--hover-transition);
   opacity: .5;

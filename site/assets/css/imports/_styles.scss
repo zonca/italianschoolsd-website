@@ -1,0 +1,101 @@
+::selection {
+  background-color: var(--highlight);
+}
+
+.sr-only {
+  border: 0;
+  clip: rect(0 0 0 0);
+  height: 1px;
+  margin: -1px;
+  overflow: hidden;
+  padding: 0;
+  position: absolute;
+  width: 1px;
+  white-space: nowrap;
+}
+
+.news-splash {
+  background: linear-gradient(135deg, rgba(13, 155, 255, 0.14), rgba(0, 100, 170, 0.06));
+  border-top: 1px solid var(--grey-2);
+  border-bottom: 1px solid var(--grey-2);
+}
+
+.news-kicker {
+  font-size: 0.85rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--primary);
+}
+
+.news-feature-card {
+  background-color: var(--white);
+  border: 1px solid var(--grey-2);
+  box-shadow: 0 10px 24px rgba(43, 37, 35, 0.08);
+}
+
+.program-card {
+  background-color: var(--white);
+  border: 1px solid var(--grey-2);
+  box-shadow: 0 8px 18px rgba(43, 37, 35, 0.06);
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
+.program-card-cta {
+  margin-top: auto;
+}
+
+.site-footer {
+  background:
+    radial-gradient(1200px 600px at 10% 0%, rgba(13, 155, 255, 0.18), transparent 55%),
+    radial-gradient(900px 500px at 100% 10%, rgba(0, 100, 170, 0.2), transparent 55%),
+    linear-gradient(180deg, #151313, #0f0d0d);
+}
+
+.footer-top {
+  border-bottom: 1px solid rgba(255, 255, 255, 0.15);
+  padding-bottom: var(--spacing-large);
+}
+
+.footer-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: var(--spacing-medium);
+}
+
+@media (--breakpoint-not-small) {
+  .footer-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+@media (--breakpoint-large) {
+  .footer-grid {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+}
+
+.footer-card {
+  background: rgba(255, 255, 255, 0.05);
+  border: 1px solid rgba(255, 255, 255, 0.14);
+  border-radius: 0.4rem;
+  padding: 1rem;
+  backdrop-filter: blur(2px);
+}
+
+.footer-note {
+  border-top: 1px solid rgba(255, 255, 255, 0.15);
+}
+
+/* Used in the navbar */
+.divider-grey {
+  box-shadow: inset 0 -4px 0 var(--grey-1);
+  /* Link hover states */
+  & a {
+    transition: var(--hover-transition);
+  }
+  & ul a:hover, & ul a:focus {
+    box-shadow: inset 0 -4px 0 var(--primary);
+  }
+}

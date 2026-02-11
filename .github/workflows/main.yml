@@ -12,12 +12,21 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: "yarn"
       
-      - name: Setup Hugo from bin/
-        run: |
-          chmod +x bin/hugo.linux
-          sudo cp bin/hugo.linux /usr/local/bin/hugo
-          hugo version
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: "0.154.5"
+          extended: true
+
+      - name: Install JS deps (for PostCSS)
+        run: yarn install --frozen-lockfile
       
       - name: Build site with Hugo
         run: hugo -d dist -s site

@@ -3,6 +3,13 @@ const fs = require("fs");
 const path = require("path");
 const { JSDOM } = require("jsdom");
 
+const requiredEnv = ["ALGOLIA_APP_ID", "ALGOLIA_ADMIN_KEY", "ALGOLIA_INDEX_NAME"];
+const missing = requiredEnv.filter((k) => !process.env[k]);
+if (missing.length) {
+  console.log(`Skipping Algolia indexing: missing env var(s): ${missing.join(", ")}`);
+  process.exit(0);
+}
+
 const client = algoliasearch(
   process.env.ALGOLIA_APP_ID,
   process.env.ALGOLIA_ADMIN_KEY
@@ -10,6 +17,10 @@ const client = algoliasearch(
 const index = client.initIndex(process.env.ALGOLIA_INDEX_NAME);
 
 const searchFile = path.join(__dirname, "dist", "search.json");
+if (!fs.existsSync(searchFile)) {
+  console.log("Skipping Algolia indexing: dist/search.json not found");
+  process.exit(0);
+}
 let records = JSON.parse(fs.readFileSync(searchFile, "utf8"));
 
 records = records.map((record) => {

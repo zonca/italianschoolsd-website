@@ -1,19 +1,59 @@
-<div class="bg-off-white pv4">
+{{ $news := where .Site.RegularPages.ByPublishDate.Reverse "Section" "news" }}
+{{ if gt (len $news) 0 }}
+{{ $featured := index $news 0 }}
+
+<div class="news-splash pv4">
 	<div class="ph3 mw7 center">
-
-		<h2 class="f2 b lh-title mb3">Latest news</h2>
-
-		<div class="w-100 flex-ns mhn1-ns flex-wrap mb3">
-		      {{ range first 6 (where .Site.RegularPages.ByPublishDate.Reverse "Section" "news") }}
-			  <div class="w-50-ns ph1-ns flex">
-			    {{ .Render "li"}}
-			  </div>
-		      {{ end }}
+		<div class="mb3">
+			<div class="flex-ns items-center justify-between">
+				<p class="news-kicker mb2">Latest news</p>
+				<div class="mt3 mt0-ns">
+					<a href="/news" class="btn raise">All news</a>
+				</div>
+			</div>
 		</div>
 
-		<div class="tc">
-			<a href="/news" class="btn raise">Read the latest news</a>
+		<a href="{{ $featured.RelPermalink }}" class="news-feature-card no-underline pa3 pa4-ns br1 db raise mb3">
+			{{ with $featured.Params.image }}
+			<div class="flex-ns items-start">
+				<div class="w-70-ns pr3-ns">
+					<h2 class="f3 b lh-title mb1 primary">{{ $featured.Title }}</h2>
+					<p class="mid-gray lh-title mb2">{{ $featured.Date.Format "Mon, Jan 2, 2006" }}</p>
+					<p class="mb2">
+						{{ with $featured.Description }}
+							{{ . }}
+						{{ else }}
+							{{ $featured.Summary | plainify | truncate 170 }}
+						{{ end }}
+					</p>
+					<p class="link b dib black mb0">Read the update →</p>
+				</div>
+				<div class="w-30-ns mt3 mt0-ns">
+					<img src="{{ . }}" alt="" class="db w-100 br1" loading="lazy" decoding="async">
+				</div>
+			</div>
+			{{ else }}
+				<h2 class="f3 b lh-title mb1 primary">{{ $featured.Title }}</h2>
+				<p class="mid-gray lh-title mb2">{{ $featured.Date.Format "Mon, Jan 2, 2006" }}</p>
+				<p class="mb2">
+					{{ with $featured.Description }}
+						{{ . }}
+					{{ else }}
+						{{ $featured.Summary | plainify | truncate 170 }}
+					{{ end }}
+				</p>
+				<p class="link b dib black mb0">Read the update →</p>
+			{{ end }}
+		</a>
+
+		<div class="w-100 flex-ns mhn1-ns flex-wrap mb3">
+			{{ range first 4 (after 1 $news) }}
+			<div class="w-50-ns ph1-ns flex">
+				{{ .Render "li" }}
+			</div>
+			{{ end }}
 		</div>
 
 	</div>
 </div>
+{{ end }}
