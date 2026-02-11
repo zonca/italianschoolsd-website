@@ -1,33 +1,26 @@
-<footer class="bg-black ph3 pv4 white">
-
-	<div class="mw7 center pt3">
-
-		<div class="measure-narrow center mb4">
-
-
-
-			<img src="/img/italianschoolsd_logo.png" alt="Italian school of San Diego LLC logo" class="db w4 center mb4 br0">
-			<p><a href="https://list.italysd.com/subscription/form" class="link">Subscribe to our announcements mailing list</a></p>
-
+<footer class="site-footer ph3 pv5 white">
+	<div class="mw8 center">
+		<div class="footer-top tc mb4">
+			<img src="/img/italianschoolsd_logo.png" alt="Italian school of San Diego LLC logo" class="db w4 center mb3 br0">
+			<p class="mb0"><a href="https://list.italysd.com/subscription/form" class="link">Subscribe to our announcements mailing list</a></p>
 		</div>
 
-		<div class="flex-ns justify-between">
-
-			<div>
-				<h3 class="f4 b lh-title mb1">Italian school of San Diego LLC</h3>
-				<ul class="mb3">
+		<div class="footer-grid mb4">
+			<div class="footer-card">
+				<h3 class="f4 b lh-title mb2">Italian school of San Diego LLC</h3>
+				<ul class="mb0">
 					<li><a href="/calendar" class="link">Academic Calendar</a></li>
 					<li><a href="/about" class="link">About Italian school</a></li>
 					<li><a href="/jobs" class="link">Jobs</a></li>
 					<li><a href="/translate" class="link">Translation</a></li>
-		<li><a href="https://italianschoolsd.square.site" class="link">Shop</a></li>
+					<li><a href="https://italianschoolsd.square.site" class="link">Shop</a></li>
 					<li><a href="/contact" class="link">Contact</a></li>
 				</ul>
 			</div>
 
-			<div>
-				<h3 class="f4 b lh-title mb1">Tuition and policies</h3>
-				<ul class="mb3">
+			<div class="footer-card">
+				<h3 class="f4 b lh-title mb2">Tuition and policies</h3>
+				<ul class="mb0">
 					<li><a href="https://docs.google.com/forms/d/e/1FAIpQLSd4sac0Y2wdTd9gm2AF1Y9uuVPPyJzHfHEphJPA1iYPkrP43g/viewform?usp=sf_lin" class="link">Universal Pre-enrollment form (kids/teens)</a></li>
 					<li><a href="/enroll" class="link">Tuition</a></li>
 					<li><a href="/enroll-accredited" class="link">Tuition - Accredited classes</a></li>
@@ -35,44 +28,29 @@
 				</ul>
 			</div>
 
-			<div>
+			<div class="footer-card">
 				<h3 class="f4 b lh-title mb2">Social media</h3>
-				<ul class="mhn2">
+				<ul class="mhn2 mb0">
 					{{ partial "social-icon" (dict "link" "https://www.instagram.com/italianschoolsd/" "svg" "icons-instagram" "label" "Instagram") }}
 					{{ partial "social-icon" (dict "link" "https://www.facebook.com/italianschoolsd/" "svg" "icons-facebook" "label" "Facebook") }}
 				</ul>
 			</div>
 
-			<div>
+			<div class="footer-card">
 				<h3 class="f4 b lh-title mb2">Website development</h3>
 				<p class="mb2"><a href="https://sandiegodata.science" class="link">San Diego Data Science LLC</a></p>
 				<a href="https://sandiegodata.science" class="link dib">
-					<img src="/img/sandiegodata_science_hero_small.jpg" alt="San Diego Data Science logo" width="120" height="80" loading="lazy" decoding="async" class="br1 mb2">
+					<img src="/img/sandiegodata_science_hero_small.jpg" alt="San Diego Data Science logo" width="120" height="80" loading="lazy" decoding="async" class="br1 mb0">
 				</a>
 			</div>
-
 		</div>
 
-		<div class="mw7 center mb4">
-			<p class="tc nowrap-ns">
+		<div class="footer-note tc pt3">
+			<p class="mb0">
 				Copyright © {{ now.Year }}, Italian school of San Diego LLC.
-				Website developed with
-				<span class="dib v-mid mh1" aria-label="Artificial intelligence">
-					<svg width="24" height="24" viewBox="0 0 24 24" role="img" title="Artificial intelligence" class="db">
-						<title>Artificial intelligence</title>
-						<rect x="5" y="7" width="14" height="11" rx="2" ry="2" fill="currentColor"></rect>
-						<circle cx="10" cy="12" r="1.4" fill="#111"></circle>
-						<circle cx="14" cy="12" r="1.4" fill="#111"></circle>
-						<rect x="11" y="3" width="2" height="3" fill="currentColor"></rect>
-						<circle cx="12" cy="2.5" r="1.2" fill="currentColor"></circle>
-						<rect x="9" y="15" width="6" height="1.5" fill="#111"></rect>
-					</svg>
-				</span>
-				by <a href="https://sandiegodata.science" class="link">San Diego Data Science LLC</a>
 			</p>
 		</div>
 	</div>
-
 </footer>
 
 {{ partial "svg" . }}
