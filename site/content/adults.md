@@ -64,7 +64,11 @@ See the full schedule, holidays, and enrollment links: [Beginner classes (Januar
 
 
 
-<div class="tc"><a href='https://italianschoolsd.square.site/product/tuesday-beginner-italian-class-march-may-2026-/WAWNLEXVUDYNP7KTOBFBSIC3' class="btn raise">New Tuesday Beginner (March–May 2026)</a></div>
+
+
+
+
+<div class="tc"><a href='{{< relref "news/new-tuesday-beginner-italian-class-march-may-2026.md" >}}' class="btn raise">New Tuesday Beginner (March–May 2026)</a></div>
 
 
 
