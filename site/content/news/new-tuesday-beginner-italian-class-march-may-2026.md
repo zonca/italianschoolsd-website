@@ -16,7 +16,7 @@ Looking for a shorter commitment focused on travel? Check our [Italian for Trave
 
 ## Tuesday Beginner (In person)
 
-- **Schedule:** Tuesdays, 6:15 pm–7:45 pm, March 3 – May 26, 2026 (12 classes)
+- **Schedule:** Tuesdays, 5:30 pm–7:00 pm, March 3 – May 26, 2026 (12 classes)
 - **Skip dates:** No class on April 7 (Spring Break)
 - **Tuition:** $420 for the full session (payment link below)
 
