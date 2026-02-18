@@ -6,6 +6,7 @@ description: Online Italian class for High Schoolers (and Middle Schoolers) star
 image: /flyers/flyer_italian_teens_spring_2026.png
 aliases:
   - /news/italian-online-class-teens-spring-2026/
+  - news/italian-online-class-teens-spring-2026/
 ---
 
 We are opening a new **Online "Italian as a Foreign Language 1"** class for **High School students** (we also accept Middle Schoolers) for Spring 2026.

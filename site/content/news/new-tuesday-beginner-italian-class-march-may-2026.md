@@ -2,6 +2,8 @@
 title: New Tuesday Beginner Italian Class — March to May 2026
 date: 2026-02-09
 description: A new beginner-level adult Italian class starting in March 2026.
+aliases:
+  - /news/new-tuesday-beginner-italian-class-march-may-2026/
 ---
 
 Due to high demand, we are launching a new beginner section for adult Italian learners! This class is perfect for those who want to start their Italian journey this spring.
