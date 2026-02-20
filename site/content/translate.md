@@ -45,4 +45,4 @@ We provide a certificate of accurate translation signed by our school director, 
 
 ## Submit a Request
 
-- **Secure Form**: Submit your request at our secure form https://tally.so/r/KYVx7K. You can upload multiple files in the same submission.
+- **Secure Form**: Submit your request at our secure form https://italianschoolsd.secureform.dev/translate. You can upload multiple files in the same submission.
