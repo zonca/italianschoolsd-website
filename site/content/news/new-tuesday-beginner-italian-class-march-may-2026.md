@@ -36,7 +36,7 @@ You can enroll in the class and purchase the textbook separately, or use our "al
 <div class="tc"><a href="https://square.link/u/TzCkLohf" class="btn raise">Enroll + Buy Book (1 person)</a></div>
 
 <div class="tc" style="margin-top: 10px;">
-    <a href="https://italianschoolsd.square.site/product/tuesday-beginner-italian-class-march-may-2026-/WAWNLEXVUDYNP7KTOBFBSIC3" style="font-weight: bold;">Only enroll in the class (Use this for Family Discount)</a> | 
+    <a href="https://italianschoolsd.square.site/product/tuesday-beginner-italian-class-march-may-2026-/KUP5PTBWOGRFBG3HYBXFNFXE" style="font-weight: bold;">Only enroll in the class (Use this for Family Discount)</a> | 
     <a href="https://italianschoolsd.square.site/product/new-italian-project-1a/1">Only buy the book</a>
 </div>
 

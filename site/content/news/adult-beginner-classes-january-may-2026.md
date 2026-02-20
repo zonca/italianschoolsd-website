@@ -7,7 +7,7 @@ description: Full schedule, tuition, and enrollment links for beginner-level adu
 Need a friendly place to start your Italian? These beginner sections keep things practical, interactive, and low-pressure so you can build confidence quickly. No prior Italian experience is required—come ready to learn from the ground up.
 
 **New session starting in March!** We just added a new Tuesday beginner section:
-<div class="tc"><a href='https://italianschoolsd.square.site/product/tuesday-beginner-italian-class-march-may-2026-/WAWNLEXVUDYNP7KTOBFBSIC3' class="btn raise">New Tuesday Beginner (March–May 2026)</a></div>
+<div class="tc"><a href='https://italianschoolsd.square.site/product/tuesday-beginner-italian-class-march-may-2026-/KUP5PTBWOGRFBG3HYBXFNFXE' class="btn raise">New Tuesday Beginner (March–May 2026)</a></div>
 
 For other levels see [Adult classes overview]({{< relref "adults.md" >}}), where you’ll also find policies and discounts.
 
