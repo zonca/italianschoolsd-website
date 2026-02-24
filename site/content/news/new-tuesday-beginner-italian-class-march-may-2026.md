@@ -29,14 +29,10 @@ This class meets at our location in Kearny Mesa.
 ### Enrollment and Textbook
 You can enroll in the class and purchase the textbook separately, or use our "all-in-one" link to add both to your cart at once.
 
-**Family Discount:** If you are enrolling more than one person from the same family, please use the **"Only enroll in the class"** link below. Increase the quantity of the class in your cart to 2 or more, and a **10% discount** will be automatically applied to the additional students. 
-
-*Note: The automatic family discount is not available through the "Enroll + Buy Book" bundle link.*
-
-<div class="tc"><a href="https://square.link/u/9eNSFswp" class="btn raise">Enroll + Buy Book (1 person)</a></div>
+<div class="tc"><a href="https://italianschoolsd.square.site/bundle" class="btn raise">Enroll + Buy Book</a></div>
 
 <div class="tc" style="margin-top: 10px;">
-    <a href="https://italianschoolsd.square.site/product/tuesday-beginner-italian-class-march-may-2026-/KUP5PTBWOGRFBG3HYBXFNFXE" style="font-weight: bold;">Only enroll in the class (Use this for Family Discount)</a> | 
+    <a href="https://italianschoolsd.square.site/product/tuesday-beginner-italian-class-march-may-2026-/KUP5PTBWOGRFBG3HYBXFNFXE" style="font-weight: bold;">Only enroll in the class</a> | 
     <a href="https://italianschoolsd.square.site/product/new-italian-project-1a/1">Only buy the book</a>
 </div>
 
