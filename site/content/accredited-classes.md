@@ -122,10 +122,10 @@ Download the "SDUHSD Off-Campus Course Permission Form" at the bottom of this pa
 <https://www.sduhsd.net/Departments/Educational-Services/Specialized-Programs/Off-Campus-Courses/index.html>
 
 * In the School field, write "Italian School of San Diego LLC"
-* Course name: select the most suitable class (email us if unsure)
+* Course name: Italian 1-2, 3-4, 5-6 or 7-8
 * CEEB code: leave blank
 * Accreditation: On SDUHSD list of approved unaccredited LOTE schools
-* Check both semester 1 and 2
+* Check both semester 1 and 2 if you are enrolled at Italian school of the entire year
 
 The form says to attach evidence of accreditation, but this is not necessary—we are already on the approved list.
 
