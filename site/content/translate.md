@@ -50,3 +50,7 @@ We provide a certificate of accurate translation signed by our school director, 
 </a>
 
 You can upload multiple files in the same submission.
+- **Image quality matters**: Please send high-resolution images so all text is clearly readable. Best results come from scanned documents using a printer scanner or a phone scanning app (not regular photos).
+- **Recommended scanning apps**:
+  - iPhone: Notes app (Document Scan).
+  - Android: Google Drive app (Scan).
