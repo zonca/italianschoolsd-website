@@ -45,4 +45,8 @@ We provide a certificate of accurate translation signed by our school director, 
 
 ## Submit a Request
 
-- **Secure Form**: Submit your request at our secure form https://italianschoolsd.secureform.dev/translate. You can upload multiple files in the same submission.
+<a href="https://italianschoolsd.secureform.dev/translate" class="btn btn-cta">
+  Submit Documents Securely
+</a>
+
+You can upload multiple files in the same submission.
