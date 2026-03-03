@@ -50,7 +50,19 @@ We provide a certificate of accurate translation signed by our school director, 
 </a>
 
 You can upload multiple files in the same submission.
-- **Image quality matters**: Please send high-resolution images so all text is clearly readable. Best results come from scanned documents using a printer scanner or a phone scanning app (not regular photos).
-- **Recommended scanning apps**:
-  - iPhone: Notes app (Document Scan). Open Notes, create/open a note, tap the camera icon, tap "Scan Documents," scan all pages, then share/export as PDF.
-  - Android: Google Drive app (Scan). Open Drive, tap +, tap "Scan," capture all pages, then save and share as PDF.
+
+### Image quality (important)
+
+Please send high-resolution images so all text is clearly readable. Best results come from scanned documents using a printer scanner or a phone scanning app (not regular photos).
+
+### Scan with iPhone (Notes app)
+
+1. Open Notes and create or open a note.
+2. Tap the camera icon, then tap "Scan Documents."
+3. Scan all pages and export or share as a PDF.
+
+### Scan with Android (Google Drive app)
+
+1. Open Google Drive and tap `+`.
+2. Tap "Scan" and capture all pages.
+3. Save and share as a PDF.
