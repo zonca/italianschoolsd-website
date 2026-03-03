@@ -3,6 +3,7 @@ title: Italian classes for travelers to Italy — March, April, and May 2026
 date: 2026-02-09
 description: Three separate sessions of Italian for Travelers in Spring 2026.
 aliases:
+  - /travelers
   - /news/italian-for-travelers-march-april-may-2026/
 ---
 

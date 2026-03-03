@@ -1,7 +1,5 @@
 ---
 title: Italian classes for travelers to Italy – August and September 2025
-aliases:
-    - /travelers
 date: 2025-07-30T00:00:00.000Z
 ---
 
