@@ -82,3 +82,5 @@ Italian On Demand is a flexible option for students who want a private class, bu
 Italian On Demand is launching as a **pilot program**. We will use the first round of bookings to refine scheduling, teacher availability, and future expansion.
 
 If you do not see a slot that works for you, please [contact us]({{< relref "contact/_index.md" >}}).
+
+If you would like availability on more days, please [contact us]({{< relref "contact/_index.md" >}}) and let us know what days and times would be most useful for you.
