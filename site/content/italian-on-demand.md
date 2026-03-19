@@ -27,6 +27,10 @@ Each lesson is:
 * **$80**
 * **online via Zoom**
 * **private**
+* **paid one class at a time**
+* **no long-term commitment**
+
+There is **no commitment** to a package or recurring schedule. You simply book and pay for **one class at a time** whenever you want a lesson.
 
 <div class="tc">
 <a href="https://italianschoolsd.secureform.dev/ondemand" class="btn raise">Book Italian On Demand</a>
