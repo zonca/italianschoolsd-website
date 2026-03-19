@@ -31,7 +31,15 @@ Each lesson is:
 * **no long-term commitment**
 * **not refundable**
 
-There is **no commitment** to a package or recurring schedule. You simply book and pay for **one class at a time** whenever you want a lesson. Once a lesson is booked, it is **not refundable**.
+There is **no commitment** to a package, semester, or recurring schedule. You do **not** need to sign up for multiple lessons in advance. You simply book and pay for **one class at a time** whenever you want a lesson.
+
+This makes Italian On Demand a good fit if you want to:
+
+* try a private lesson before committing to a regular class
+* book only occasionally when your schedule allows
+* add one extra lesson from time to time without changing your standard routine
+
+Once a lesson is booked, it is **not refundable**.
 
 <div class="tc">
 <a href="https://italianschoolsd.secureform.dev/ondemand" class="btn raise">Book Italian On Demand</a>
