@@ -84,7 +84,7 @@ We keep personal information for as long as reasonably needed for the purposes d
 
 ## Your choices
 
-If you no longer want to receive announcements from us, you can use the unsubscribe link in those emails when available.
+All of our mailing lists include an unsubscribe link in each email, so you can opt out of future mailing list messages at any time.
 
 Depending on applicable law, you may also have the right to request access to, correction of, or deletion of personal information we hold about you. We may need to verify your request before acting on it.
 
