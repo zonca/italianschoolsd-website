@@ -38,6 +38,12 @@ We focus on clear, accurate translations that preserve meaning, tone, and cultur
 
 We provide a certificate of accurate translation signed by our school director, Maura D'Andrea. The certificate confirms the translation was completed by a qualified professional and is, to the best of our knowledge and professional judgment, complete and faithful to the source text. The certificate attests only to translation accuracy and does not verify the authenticity or content of the original document.
 
+## Apostilles
+
+An Apostille authenticates public officials' signatures on documents to be used outside the United States of America. We do not issue apostilles, but we can translate them.
+
+If you need an apostille, it can be [requested from the California Secretary of State](https://www.sos.ca.gov/notary/request-apostille) by mail through their Sacramento office or in person at their Sacramento and Los Angeles offices.
+
 ## Turnaround
 
 - Normal: 3 business days.
