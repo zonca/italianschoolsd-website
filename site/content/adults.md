@@ -70,6 +70,8 @@ See the full schedule, holidays, and enrollment links: [Beginner classes (Januar
 
 <div class="tc"><a href='{{< relref "news/new-tuesday-beginner-italian-class-march-may-2026.md" >}}' class="btn raise">New Tuesday Beginner (March–May 2026)</a></div>
 
+<div class="tc" style="margin-top: 0.75rem;"><a href='{{< relref "news/new-tuesday-beginner-5-30pm-march-may-2026.md" >}}' class="btn raise">New Tuesday Beginner — 5:30pm (8 classes)</a></div>
+
 
 
 
