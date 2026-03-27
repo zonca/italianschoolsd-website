@@ -9,6 +9,9 @@ Need a friendly place to start your Italian? These beginner sections keep things
 **New session starting in March!** We just added a new Tuesday beginner section:
 <div class="tc"><a href='https://italianschoolsd.square.site/product/tuesday-beginner-italian-class-march-may-2026-/KUP5PTBWOGRFBG3HYBXFNFXE' class="btn raise">New Tuesday Beginner (March–May 2026)</a></div>
 
+**Additional Tuesday section (8 weeks):**
+<div class="tc"><a href='https://square.link/u/b3P0qHFL' class="btn raise">New Tuesday 5:30pm Beginner (starts March 31)</a></div>
+
 For other levels see [Adult classes overview]({{< relref "adults.md" >}}), where you’ll also find policies and discounts.
 
 ---
