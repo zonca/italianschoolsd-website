@@ -68,6 +68,10 @@ Our teaching staff for this program is **native Italian**, and lessons are adapt
 
 Federica is a native Italian language teacher with more than **7 years of experience** teaching children, teens, and adults. Her background includes foreign language teaching, Italian L2 instruction, private lessons, small-group lessons, summer programs, and school-based teaching. She has taught beginners as well as more experienced learners and is comfortable adapting lessons to different ages, goals, and learning styles.
 
+### Luisa
+
+Luisa is a native Italian language teacher with nearly **10 years of experience** teaching adults in academic and cultural settings. Her background includes long-term Italian language instruction, advanced grammar teaching, and work with adult learners across different levels. She is especially well suited to students who want structured online lessons focused on grammar, conversation, and steady progress.
+
 ## Looking for a standard class instead?
 
 If you prefer a regular weekly schedule, we also offer standard Italian classes:
