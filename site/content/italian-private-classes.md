@@ -18,7 +18,7 @@ Whether you're a complete beginner or looking to polish your conversational skil
 
 - **All levels welcome** — absolute beginner, intermediate, or advanced. We meet you where you are.
 - **Flexible scheduling** — choose the day and time that works best for you, and reschedule when life gets in the way.
-- **In-person or online** — meet your teacher at our San Diego location ([4550 Kearny Villa Rd Suite 202]({{< ref "location.md" >}})) or connect from anywhere via Zoom.
+- **In-person or online** — meet your teacher at our San Diego location ([4550 Kearny Villa Rd Suite 202]({{< ref "location.md" >}})), at your home, or connect from anywhere via Zoom.
 - **Custom content** — preparing for a trip to Italy, studying for a certification, reconnecting with family heritage, or just learning for fun? We build the curriculum around you.
 - **Native Italian instructors** — every teacher on our staff is a native Italian speaker with hands-on experience teaching adults at all proficiency levels.
 

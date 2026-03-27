@@ -25,7 +25,7 @@ Give your team a competitive edge with Italian language training designed for th
 
 - **All levels** — from absolute beginners to advanced speakers. We assess each participant and tailor the program accordingly.
 - **Flexible formats** — group classes for your team, individual lessons for executives, or a mix of both.
-- **In-person or online** — we come to your office in the San Diego area, host sessions at our location ([4550 Kearny Villa Rd Suite 202]({{< ref "location.md" >}})), or teach via Zoom for remote teams.
+- **In-person or online** — we come to your office or your home in the San Diego area, host sessions at our location ([4550 Kearny Villa Rd Suite 202]({{< ref "location.md" >}})), or teach via Zoom for remote teams.
 - **Industry-specific content** — we can focus on vocabulary and scenarios relevant to your field: hospitality, design, import/export, food & wine, legal, and more.
 - **Native Italian instructors** — every teacher on our staff is a native Italian speaker with real-world teaching experience and cultural fluency.
 
