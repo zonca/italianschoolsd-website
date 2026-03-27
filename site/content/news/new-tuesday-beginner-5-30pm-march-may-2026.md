@@ -1,7 +1,7 @@
 ---
-title: New Tuesday Beginner Italian Class — March–May 2026
+title: New Tuesday Beginner Italian Class (In person) — April–May 2026
 date: 2026-03-27
-description: New beginner class Tuesdays, 5:30pm — 8 weekly classes, last class May 26, 2026.
+description: New in-person beginner class Tuesdays, 5:30pm — 8 weekly classes, April–May 2026.
 aliases:
   - /news/new-tuesday-beginner-5-30pm-march-may-2026/
 ---
@@ -14,8 +14,8 @@ For our full adult program and other schedules, see [Adult classes overview]({{<
 
 ## Tuesday Beginner (In person)
 
-- **Schedule:** Tuesdays, 5:30 pm–7:00 pm; 8 weekly classes; **last class:** May 26, 2026
-- **Tuition:** $296 for the full 8-week session ($37 per class)
+- **Schedule:** Tuesdays, 5:30 pm–7:00 pm; 8 weekly classes; **April 7 to May 26, 2026**
+- **Tuition:** $296 for the full 8-week session
 
 This class meets at our location in Kearny Mesa.
 
