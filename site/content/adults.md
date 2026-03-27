@@ -86,12 +86,19 @@ Find the full schedule, tuition, and teacher details here: [Advanced classes (Ja
 
 ### Private Lessons (In-person or via Zoom)
 
-One-on-one lessons tailored to your level and interests, from beginner to advanced.  
-To request private lessons, fill out the interest form above and specify your preferences and availability.
+One-on-one lessons tailored to your level and interests, from absolute beginner to advanced. All our instructors are experienced, native Italian speakers. Enjoy flexible scheduling and a 24-hour cancellation policy.
+
+<div class="tc"><a href='{{< relref "italian-private-classes.md" >}}' class="btn raise">Learn more about private lessons</a></div>
+
+### Italian for Businesses
+
+Custom Italian language training for your team — in person in San Diego or online via Zoom. All levels, industry-specific content, and flexible scheduling.
+
+<div class="tc"><a href='{{< relref "italian-private-classes-business-san-diego.md" >}}' class="btn raise">Learn more about corporate Italian training</a></div>
 
 ### Custom Group Classes
 
-Have a group of 5+ friends or colleagues interested in learning Italian together?  
+Have a group of 5+ friends or colleagues interested in learning Italian together?
 We offer custom classes online, at our location, or even at your home. [Contact us!](/contact) to discuss your needs.
 
 ---
