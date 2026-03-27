@@ -54,12 +54,6 @@ No prior Italian experience required.
 
 Start your Italian journey with our friendly, hands-on beginner class! In 5 months, you'll build a solid foundation in Italian conversation, vocabulary, and culture—perfect for travel, work, or connecting with family. Our small group setting ensures plenty of personal attention and practice. Whether you're brand new to Italian or want a refresher, you'll feel welcome and supported every step of the way.
 
-
-
-See the full schedule, holidays, and enrollment links: [Beginner classes (January–May 2026)]({{< relref "news/adult-beginner-classes-january-may-2026.md" >}})
-
-
-
 **New session starting in April!** We just added a new Tuesday beginner section:
 
 <div class="tc"><a href='{{< relref "news/new-tuesday-beginner-5-30pm-march-may-2026.md" >}}' class="btn raise">New Tuesday In-person Beginner (April–May)</a></div>
