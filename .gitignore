@@ -16,3 +16,4 @@ status.txt
 # Local Netlify folder
 .netlify
 .lighthouse/
+square_credentials.json
