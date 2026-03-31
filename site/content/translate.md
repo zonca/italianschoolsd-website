@@ -72,3 +72,11 @@ Please send high-resolution images so all text is clearly readable. Best results
 1. Open Google Drive and tap `+`.
 2. Tap "Scan" and capture all pages.
 3. Save and share as a PDF.
+
+### Scan with iScanner app
+
+We also recommend using **iScanner**, an AI-powered, top-rated PDF document scanner app that creates high-quality scans. It is free to download and helps you easily scan, save, and share your documents as PDFs.
+
+Download iScanner for your device:
+- [Apple App Store](https://apps.apple.com/us/app/iscanner-pdf-document-scanner/id1040093707)
+- [Google Play Store](https://play.google.com/store/apps/details?id=com.bpmobile.iscanner.free)
