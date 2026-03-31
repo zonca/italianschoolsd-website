@@ -24,10 +24,10 @@ This class meets at our location in Kearny Mesa.
 ### Enrollment and Textbook
 You can enroll in the class and purchase the textbook separately, or use our "all-in-one" link to add both to your cart at once.
 
-<div class="tc"><a href="https://square.link/u/hhAoUVSt" class="btn raise">Enroll + Buy Book</a></div>
+<div class="tc"><a href="https://italianschoolsd.square.site/bundle" class="btn raise">Enroll + Buy Book</a></div>
 
 <div class="tc" style="margin-top: 10px;">
-    <a href="https://square.link/u/b3P0qHFL" style="font-weight: bold;">Only enroll in the class</a> | 
+    <a href="https://italianschoolsd.square.site/product/new-tuesday-beginner-italian-class-march-may-2026/HAZIBRMRNAKXK2D22NLZ6F7M" style="font-weight: bold;">Only enroll in the class</a> | 
     <a href="https://italianschoolsd.square.site/product/new-italian-project-1a/1">Only buy the book</a>
 </div>
 

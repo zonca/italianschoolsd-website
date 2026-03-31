@@ -66,6 +66,13 @@ After any content/layout/CSS change:
   - local built output (what next deploy should show)
 - If mismatch exists, state clearly that deploy has not caught up yet.
 
+## Square Payment Links
+
+- Single-use `square.link/u/...` URLs expire after one payment. Never use them for enrollment links that multiple students need.
+- For reusable checkout links, use Square Online Store URLs (`italianschoolsd.square.site/product/...`).
+- When creating a class + book bundle enrollment, update the Square Online bundle page at `italianschoolsd.square.site/bundle` (via Square Dashboard → Online → Site Editor) and link to it from the site.
+- Square API credentials are in `square_credentials.json` (git-ignored). Use `uv run --with squareup python` to interact with the API.
+
 ## High-Risk Areas
 
 - Global template changes in `site/layouts/_default/single.html` affect many pages.
