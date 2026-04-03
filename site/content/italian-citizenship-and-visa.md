@@ -9,7 +9,7 @@ subtitle: "San Diego guidance with trusted external counsel"
 
 Unlock the door to Europe. Whether you are reconnecting with your roots or securing a future for your children, the path to Italian citizenship starts here in San Diego.
 
-We combine the cultural heart of The Italian School with the elite precision of a trusted external attorney: a U.S.-licensed lawyer with an Italian law degree and a background in prestigious Italian firms.
+We combine the cultural heart of The Italian School with the elite precision of a trusted external attorney: a U.S.-licensed lawyer with an Italian law degree.
 
 ## Why Become an Italian Citizen?
 
@@ -29,7 +29,7 @@ Most Italian consulate services are run by clerical agencies. Our program is uni
 
 *   **Academic Authority:** Counsel holds a formal Italian law degree.
 *   **Local Accountability:** As a U.S.-qualified attorney, your counsel is bound by strict professional ethics.
-*   **Proven Experience:** Benefit from a lawyer who has practiced in prestigious Italian law firms.
+*   **Deep Expertise:** Benefit from over two decades of experience in international legal matters.
 
 ## Check Your Eligibility Today
 
