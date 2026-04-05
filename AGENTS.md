@@ -26,6 +26,7 @@ Operational guide for AI/code agents working on `italianschoolsd-website`.
 
 ## Content Editing Rules
 
+- Filenames for news and posts MUST match their slug (the title as it appears in the URL). For example, if the URL is `/news/2026/03/my-cool-post/`, the filename should be `my-cool-post.md`.
 - For page copy updates, edit files in `site/content/` only.
 - For structure changes shared across pages, edit templates in `site/layouts/`.
 - Prefer Markdown structure (headings/lists/paragraphs) over inline HTML unless a styled component is required.
