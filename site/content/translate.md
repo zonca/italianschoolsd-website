@@ -40,7 +40,7 @@ We provide a certificate of accurate translation signed by our school director, 
 
 ## Apostilles
 
-An Apostille authenticates public officials' signatures on documents to be used outside the United States of America. We do not issue apostilles, but we can translate them.
+An Apostille authenticates public officials' signatures on documents to be used outside the United States of America. We do not issue apostilles, but we can translate them. Note that we have received guidance from the Italian Consulate in Los Angeles that apostilles do not need to be translated and can be submitted in English.
 
 If you need an apostille, it can be [requested from the California Secretary of State](https://www.sos.ca.gov/notary/request-apostille) by mail through their Sacramento office or in person at their Sacramento and Los Angeles offices.
 
