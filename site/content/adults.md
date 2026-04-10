@@ -56,7 +56,7 @@ Start your Italian journey with our friendly, hands-on beginner class! In 5 mont
 
 **New session starting in April!** We just added a new Tuesday beginner section:
 
-<div class="tc"><a href='{{< relref "news/new-tuesday-beginner-5-30pm-march-may-2026.md" >}}' class="btn raise">New Tuesday In-person Beginner (April–May)</a></div>
+<div class="tc"><a href='{{< relref "news/new-tuesday-beginner-italian-class-march-may-2026.md" >}}' class="btn raise">New Tuesday In-person Beginner (April–May)</a></div>
 
 
 
