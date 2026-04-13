@@ -41,6 +41,18 @@ We know schedules change. Our private lesson policy is designed to be fair and f
 
 ---
 
+## Italian On Demand (Maximum Flexibility)
+
+If you prefer to book lessons one at a time without a recurring schedule, try **Italian On Demand**. You can book a private one-hour lesson online via Zoom with as little as 12 hours' notice.
+
+- **1 hour**
+- **Online via Zoom**
+- **No long-term commitment**
+
+<div class="tc"><a href='{{< relref "italian-on-demand.md" >}}' class="btn raise">Learn more and book Italian On Demand</a></div>
+
+---
+
 ## Ready to Get Started?
 
 Fill out our interest form and we'll get back to you within a couple of days to discuss your goals and match you with a teacher.

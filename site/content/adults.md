@@ -90,6 +90,12 @@ One-on-one lessons tailored to your level and interests, from absolute beginner 
 
 <div class="tc"><a href='{{< relref "italian-private-classes.md" >}}' class="btn raise">Learn more about private lessons</a></div>
 
+### Italian On Demand (Flexible Private Lessons)
+
+Need more flexibility? Book a private one-hour lesson online via Zoom with as little as 12 hours' notice. No long-term commitment—just pay for one class at a time when it fits your schedule.
+
+<div class="tc"><a href='{{< relref "italian-on-demand.md" >}}' class="btn raise">Learn more about Italian On Demand</a></div>
+
 ### Italian for Businesses
 
 Custom Italian language training for your team — in person in San Diego or online via Zoom. All levels, industry-specific content, and flexible scheduling.
