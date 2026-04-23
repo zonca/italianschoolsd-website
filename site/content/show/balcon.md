@@ -1,6 +1,7 @@
 ---
-title: "Balcon Solo"
-subtitle: "Ejercicio de traducción"
+title: "Cuando el balcón queda solo"
+subtitle: "Una obra sobre libertad y seguridad"
+image: /img/home-about-section.jpg
 date: 2026-04-22
 ---
 
@@ -22,6 +23,7 @@ date: 2026-04-22
 
     let visibleLines = 0;
     actorLines.forEach(line => {
+      // Skip <p> elements inside a div with class "cover"
       let parent = line.parentElement;
       let insideCover = false;
       while (parent) {
@@ -61,7 +63,7 @@ date: 2026-04-22
         msg.id = 'noResultsMsg';
         msg.style.color = 'red';
         msg.style.fontWeight = 'bold';
-        msg.textContent = 'No se encontró ningún diálogo para este nombre.';
+        msg.textContent = 'No se encontraron líneas para este nombre.';
         document.getElementById('actorSearch').parentNode.appendChild(msg);
       }
     } else if (noResultsMsg) {
@@ -80,82 +82,152 @@ date: 2026-04-22
   });
 </script>
 
-# Acto I: El balcón
+# Personajes
 
-**Narrador:** Había una vez una casa muy especial en un pequeño pueblo cerca del mar. La casa tenía un balcón precioso con macetas de flores de colores. <a href="https://translate.google.com/?sl=es&tl=en&text=Hab%C3%ADa%20una%20vez%20una%20casa%20muy%20especial%20en%20un%20peque%C3%B1o%20pueblo%20cerca%20del%20mar.%20La%20casa%20ten%C3%ADa%20un%20balc%C3%B3n%20precioso%20con%20macetas%20de%20flores%20de%20colores.&op=translate" target="_blank"><button type="button" class="btn btn-success">Escucha 🎧</button></a>
+**Mia (Jade):** Una Mia elegante, dramática y algo mandona. Cree ser la reina del hogar.
 
-**Narrador:** En el balcón vivían tres amigos: un gato gris, un pajarillo amarillo y una planta de albahaca verde. <a href="https://translate.google.com/?sl=es&tl=en&text=En%20el%20balc%C3%B3n%20viv%C3%ADan%20tres%20amigos%3A%20un%20gato%20gris%2C%20un%20pajarillo%20amarillo%20y%20una%20planta%20de%20albahaca%20verde.&op=translate" target="_blank"><button type="button" class="btn btn-success">Escucha 🎧</button></a>
+**Chiquita (Isabella):** Una pajarita nerviosa, rápida para hablar y paranoica.
 
-**Gato:** (bostezo) ¡Qué mañana tan bonita! El sol calienta mi pelo. <a href="https://translate.google.com/?sl=es&tl=en&text=%C2%BFQu%C3%A9%20ma%C3%B1ana%20tan%20bonita!%20El%20sol%20calienta%20mi%20pelo.&op=translate" target="_blank"><button type="button" class="btn btn-success">Escucha 🎧</button></a>
-
-**Pájaro:** Sí, pero hoy debo volar lejos. Debo llevar un mensaje importante. <a href="https://translate.google.com/?sl=es&tl=en&text=S%C3%AD%2C%20pero%20hoy%20debo%20volar%20lejos.%20Debo%20llevar%20un%20mensaje%20importante.&op=translate" target="_blank"><button type="button" class="btn btn-success">Escucha 🎧</button></a>
-
-**Albahaca:** ¿Un mensaje? ¿De quién? ¿Para quién? <a href="https://translate.google.com/?sl=es&tl=en&text=%C2%BFDn%20mensaje%3F%20%C2%BFDe%20qui%C3%A9n%3F%20%C2%BFPara%20qui%C3%A9n%3F&op=translate" target="_blank"><button type="button" class="btn btn-success">Escucha 🎧</button></a>
-
-**Pájaro:** ¡Es un secreto! No se lo puedo decir a nadie. <a href="https://translate.google.com/?sl=es&tl=en&text=%C2%A1Es%20un%20secreto!%20No%20se%20lo%20puedo%20decir%20a%20nadie.&op=translate" target="_blank"><button type="button" class="btn btn-success">Escucha 🎧</button></a>
-
-**Gato:** (curioso) ¿Un secreto? Me encantan los secretos. ¿Puedo ayudarte? <a href="https://translate.google.com/?sl=es&tl=en&text=%C2%BFDn%20secreto%3F%20Me%20encantan%20los%20secretos.%20%C2%BFPuedo%20ayudarte%3F&op=translate" target="_blank"><button type="button" class="btn btn-success">Escucha 🎧</button></a>
-
-**Pájaro:** Tal vez. El mensaje es para el pescador que vive cerca del puerto. <a href="https://translate.google.com/?sl=es&tl=en&text=Tal%20vez.%20El%20mensaje%20es%20para%20el%20pescador%20que%20vive%20cerca%20del%20puerto.&op=translate" target="_blank"><button type="button" class="btn btn-success">Escucha 🎧</button></a>
-
-**Albahaca:** ¡Ah! ¿El de la barba blanca? Es un hombre muy amable. <a href="https://translate.google.com/?sl=es&tl=en&text=%C2%A1Ah!%20%C2%BFEl%20de%20la%20barba%20blanca%3F%20Es%20un%20hombre%20muy%20amable.&op=translate" target="_blank"><button type="button" class="btn btn-success">Escucha 🎧</button></a>
-
-**Pájaro:** ¡Sí, exactamente él! Pero el problema es que no sé nadar... <a href="https://translate.google.com/?sl=es&tl=en&text=%C2%A1S%C3%AD%2C%20exactamente%20%C3%A9l!%20Pero%20el%20problema%20es%20que%20no%20s%C3%A9%20nadar...&op=translate" target="_blank"><button type="button" class="btn btn-success">Escucha 🎧</button></a>
-
-**Gato:** ¿Y qué? Yo no sé volar, pero tú sabes nadar. <a href="https://translate.google.com/?sl=es&tl=en&text=%C2%BFY%20qu%C3%A9%3F%20Yo%20no%20s%C3%A9%20volar%2C%20pero%20t%C3%BA%20sabes%20nadar.&op=translate" target="_blank"><button type="button" class="btn btn-success">Escucha 🎧</button></a>
-
-**Pájaro:** ¡Verdad! Pero tengo miedo del agua profunda. <a href="https://translate.google.com/?sl=es&tl=en&text=%C2%A1Verdad!%20Pero%20tengo%20miedo%20del%20agua%20profunda.&op=translate" target="_blank"><button type="button" class="btn btn-success">Escucha 🎧</button></a>
-
-**Albahaca:** No te preocupes. El agua es tu amiga. <a href="https://translate.google.com/?sl=es&tl=en&text=No%20te%20preocupes.%20El%20agua%20es%20tu%20amiga.&op=translate" target="_blank"><button type="button" class="btn btn-success">Escucha 🎧</button></a>
+**Skyla (Violet):** Una pájara bien grande, relajada, soñadora y filosófica.
 
 ---
 
-# Acto II: El viaje
+# ACTO 1
 
-**Narrador:** El pajarillo partió al amanecer. Voló sobre el mar azul y vio muchos pececitos plateados. <a href="https://translate.google.com/?sl=es&tl=en&text=El%20pajarillo%20parti%C3%B3%20al%20amanecer.%20Vol%C3%B3%20sobre%20el%20mar%20azul%20y%20vi%C3%B3%20muchos%20pececitos%20plateados.&op=translate" target="_blank"><button type="button" class="btn btn-success">Escucha 🎧</button></a>
+(Escenario: Un apartamento con un balcón. Hay una jaula abierta, una cama de gato, juguetes y plantas. Se escucha la puerta cerrarse. Silencio... luego, lentamente, todo cobra vida.)
 
-**Pájaro:** ¡Qué bonito! Me gustaría pararme a jugar... <a href="https://translate.google.com/?sl=es&tl=en&text=%C2%BFQu%C3%A9%20bonito!%20Me%20gustar%C3%ADa%20pararme%20a%20jugar...&op=translate" target="_blank"><button type="button" class="btn btn-success">Escucha 🎧</button></a>
+**Mia (Jade):** (estirándose exageradamente) Ahhh... por fin. Silencio. Orden. Civilización. <a href="https://translate.google.com/?sl=es&tl=es&text=Ahhh...%20por%20fin.%20Silencio.%20Orden.%20Civilizaci%C3%B3n.&op=translate" target="_blank"><button type="button" class="btn btn-success">Escuchar 🎧</button></a>
 
-**Pez:** (saltando) ¡Hola pajarillo! ¡Ven a jugar con nosotros! <a href="https://translate.google.com/?sl=es&tl=en&text=%C2%A1Hola%20pajarillo!%20%C2%A1Ven%20a%20jugar%20con%20nosotros!&op=translate" target="_blank"><button type="button" class="btn btn-success">Escucha 🎧</button></a>
+(Chiquita aparece de repente desde la jaula.)
 
-**Pájaro:** Me gustaría, pero tengo un mensaje urgente. Debo encontrar al pescador de la barba blanca. <a href="https://translate.google.com/?sl=es&tl=en&text=Me%20gustar%C3%ADa%2C%20pero%20tengo%20un%20mensaje%20urgente.%20Debo%20encontrar%20al%20pescador%20de%20la%20barba%20blanca.&op=translate" target="_blank"><button type="button" class="btn btn-success">Escucha 🎧</button></a>
+**Chiquita (Isabella):** ¿Se fue?! ¿Seguro que se fue? ¿Y si regresa? ¿Y si olvidó algo? ¡Siempre olvidan algo! <a href="https://translate.google.com/?sl=es&tl=es&text=%C2%BFSe%20fue%3F!%20%C2%BFSeguro%20que%20se%20fue%3F%20%C2%BFY%20si%20regresa%3F%20%C2%BFY%20si%20olvid%C3%B3%20algo%3F%20%C2%A1Siempre%20olvidan%20algo!&op=translate" target="_blank"><button type="button" class="btn btn-success">Escuchar 🎧</button></a>
 
-**Pez:** ¡Ah! Él es muy mayor, pero sabe contar historias maravillosas. <a href="https://translate.google.com/?sl=es&tl=en&text=%C2%A1Ah!%20%C3%89l%20es%20muy%20mayor%2C%20pero%20sabe%20contar%20historias%20maravillosas.&op=translate" target="_blank"><button type="button" class="btn btn-success">Escucha 🎧</button></a>
+**Skyla (Violet):** (saliendo tranquilamente) Chiquita, respira. La puerta hizo “clic”. Ese es el sonido de la libertad. <a href="https://translate.google.com/?sl=es&tl=es&text=Chiquita%2C%20respira.%20La%20puerta%20hizo%20%E2%80%9Cclic%E2%80%9D.%20Ese%20es%20el%20sonido%20de%20la%20libertad.&op=translate" target="_blank"><button type="button" class="btn btn-success">Escuchar 🎧</button></a>
 
-**Pájaro:** ¿Historias? ¡Me encantan las historias! <a href="https://translate.google.com/?sl=es&tl=en&text=%C2%BFHistorias%3F%20%C2%A1Me%20encantan%20las%20historias!&op=translate" target="_blank"><button type="button" class="btn btn-success">Escucha 🎧</button></a>
+**Chiquita (Isabella):** ¡O el sonido del peligro! ¡El “clic” puede significar muchas cosas! <a href="https://translate.google.com/?sl=es&tl=es&text=%C2%A1O%20el%20sonido%20del%20peligro!%20%C2%A1El%20%E2%80%9Cclic%E2%80%9D%20puede%20significar%20muchas%20cosas!&op=translate" target="_blank"><button type="button" class="btn btn-success">Escuchar 🎧</button></a>
 
-**Pez:** Te puedo llevar cerca de su barca. ¡Sube a mi espalda! <a href="https://translate.google.com/?sl=es&tl=en&text=Te%20puedo%20llevar%20cerca%20de%20su%20barca.%20%C2%A1Sube%20a%20mi%20espalda!&op=translate" target="_blank"><button type="button" class="btn btn-success">Escucha 🎧</button></a>
+**Mia (Jade):** (con desdén) El “clic” significa que este reino vuelve a estar bajo mi control. <a href="https://translate.google.com/?sl=es&tl=es&text=El%20%E2%80%9Cclic%E2%80%9D%20significa%20que%20este%20reino%20vuelve%20a%20estar%20bajo%20mi%20control.&op=translate" target="_blank"><button type="button" class="btn btn-success">Escuchar 🎧</button></a>
 
-**Pájaro:** (dudoso) No sé... tengo un poco de miedo. <a href="https://translate.google.com/?sl=es&tl=en&text=No%20s%C3%A9...%20tengo%20un%20poco%20de%20miedo.&op=translate" target="_blank"><button type="button" class="btn btn-success">Escucha 🎧</button></a>
+**Chiquita (Isabella):** ¡Nuestro control! ¡Compartido! ¡Democrático! <a href="https://translate.google.com/?sl=es&tl=es&text=%C2%A1Nuestro%20control!%20%C2%A1Compartido!%20%C2%A1Democr%C3%A1tico!&op=translate" target="_blank"><button type="button" class="btn btn-success">Escuchar 🎧</button></a>
 
-**Pez:** No te preocupes. Yo te protejo. <a href="https://translate.google.com/?sl=es&tl=en&text=No%20te%20preocupes.%20Yo%20te%20protejo.&op=translate" target="_blank"><button type="button" class="btn btn-success">Escucha 🎧</button></a>
+**Mia (Jade):** (mirándolo fijamente) No. <a href="https://translate.google.com/?sl=es&tl=es&text=No.&op=translate" target="_blank"><button type="button" class="btn btn-success">Escuchar 🎧</button></a>
 
-**Narrador:** Y así el pajarillo encontró el valor de nadar con su nuevo amigo pez. <a href="https://translate.google.com/?sl=es&tl=en&text=Y%20as%C3%AD%20el%20pajarillo%20encontr%C3%B3%20el%20valor%20de%20nadar%20con%20su%20nuevo%20amigo%20pez.&op=translate" target="_blank"><button type="button" class="btn btn-success">Escucha 🎧</button></a>
+(Pausa. Chiquita se esconde detrás de Skyla.)
 
 ---
 
-# Acto III: El pescador
+# ACTO 2 - El gran plan
 
-**Narrador:** El pajarillo llegó a la barca del pescador. El hombre estaba arreglando una red. <a href="https://translate.google.com/?sl=es&tl=en&text=El%20pajarillo%20lleg%C3%B3%20a%20la%20barca%20del%20pescador.%20El%20hombre%20estaba%20arreglando%20una%20red.&op=translate" target="_blank"><button type="button" class="btn btn-success">Escucha 🎧</button></a>
+**Skyla (Violet):** Hoy propongo algo distinto. <a href="https://translate.google.com/?sl=es&tl=es&text=Hoy%20propongo%20algo%20distinto.&op=translate" target="_blank"><button type="button" class="btn btn-success">Escuchar 🎧</button></a>
 
-**Pescador:** (sorprendido) ¡Oh! ¡Un pajarillo! ¿De dónde vienes, amiguito? <a href="https://translate.google.com/?sl=es&tl=en&text=%C2%A1Oh!%20%C2%A1Un%20pajarillo!%20%C2%BFDe%20d%C3%B3nde%20vienes%2C%20amiguito%3F&op=translate" target="_blank"><button type="button" class="btn btn-success">Escucha 🎧</button></a>
+**Chiquita (Isabella):** No me gusta cómo suena eso. <a href="https://translate.google.com/?sl=es&tl=es&text=No%20me%20gusta%20c%C3%B3mo%20suena%20eso.&op=translate" target="_blank"><button type="button" class="btn btn-success">Escuchar 🎧</button></a>
 
-**Pájaro:** ¡Vengo del balcón de las flores! Traigo un mensaje de mis amigos. <a href="https://translate.google.com/?sl=es&tl=en&text=%C2%A1Vengo%20del%20balc%C3%B3n%20de%20las%20flores!%20Traigo%20un%20mensaje%20de%20mis%20amigos.&op=translate" target="_blank"><button type="button" class="btn btn-success">Escucha 🎧</button></a>
+**Skyla (Violet):** Estamos siempre aquí... esperando. Volando en círculos. Durmiendo. Comiendo semillas. <a href="https://translate.google.com/?sl=es&tl=es&text=Estamos%20siempre%20aqu%C3%AD...%20esperando.%20Volando%20en%20c%C3%ADrculos.%20Durmiendo.%20Comiendo%20semillas.&op=translate" target="_blank"><button type="button" class="btn btn-success">Escuchar 🎧</button></a>
 
-**Pescador:** ¿Tus amigos? ¿Son el gato gris y la albahaca? <a href="https://translate.google.com/?sl=es&tl=en&text=%C2%BFTus%20amigos%3F%20%C2%BFSon%20el%20gato%20gris%20y%20la%20albahaca%3F&op=translate" target="_blank"><button type="button" class="btn btn-success">Escucha 🎧</button></a>
+**Chiquita (Isabella):** ¡Eso suena perfecto! <a href="https://translate.google.com/?sl=es&tl=es&text=%C2%A1Eso%20suena%20perfecto!&op=translate" target="_blank"><button type="button" class="btn btn-success">Escuchar 🎧</button></a>
 
-**Pájaro:** ¡Sí, exactamente! Quieren darte las gracias por el pescado que les llevas cada semana. <a href="https://translate.google.com/?sl=es&tl=en&text=%C2%A1S%C3%AD%2C%20exactamente!%20Quieren%20darte%20las%20gracias%20por%20el%20pescado%20que%20les%20llevas%20cada%20semana.&op=translate" target="_blank"><button type="button" class="btn btn-success">Escucha 🎧</button></a>
+**Skyla (Violet):** ¿Y si exploramos? <a href="https://translate.google.com/?sl=es&tl=es&text=%C2%BFY%20si%20exploramos%3F&op=translate" target="_blank"><button type="button" class="btn btn-success">Escuchar 🎧</button></a>
 
-**Pescador:** ¡Oh, qué amables! Ellos son los que me dan las mejores verduras. <a href="https://translate.google.com/?sl=es&tl=en&text=%C2%A1Oh%2C%20qu%C3%A9%20amables!%20Ellos%20son%20los%20que%20me%20dan%20las%20mejores%20verduras.&op=translate" target="_blank"><button type="button" class="btn btn-success">Escucha 🎧</button></a>
+(Silencio dramático.)
 
-**Pájaro:** ¡Así es! Y hoy te traen esto: semillas de tomate fresco de nuestra huerta. <a href="https://translate.google.com/?sl=es&tl=en&text=%C2%A1As%C3%AD%20es!%20Y%20hoy%20te%20traen%20esto%3A%20semillas%20de%20tomate%20fresco%20de%20nuestra%20huerta.&op=translate" target="_blank"><button type="button" class="btn btn-success">Escucha 🎧</button></a>
+**Chiquita (Isabella):** ¿Explorar... qué? <a href="https://translate.google.com/?sl=es&tl=es&text=%C2%BFExplorar...%20qu%C3%A9%3F&op=translate" target="_blank"><button type="button" class="btn btn-success">Escuchar 🎧</button></a>
 
-**Pescador:** (contento) ¡Fantástico! Plántalos en mi terraza. <a href="https://translate.google.com/?sl=es&tl=en&text=%C2%A1Fant%C3%A1stico!%20Pl%C3%A1ntalos%20en%20mi%20terraza.&op=translate" target="_blank"><button type="button" class="btn btn-success">Escucha 🎧</button></a>
+**Skyla (Violet):** (mirando al balcón) El mundo. <a href="https://translate.google.com/?sl=es&tl=es&text=El%20mundo.&op=translate" target="_blank"><button type="button" class="btn btn-success">Escuchar 🎧</button></a>
 
-**Pájaro:** Pero hay una condición... <a href="https://translate.google.com/?sl=es&tl=en&text=Pero%20hay%20una%20condici%C3%B3n...&op=translate" target="_blank"><button type="button" class="btn btn-success">Escucha 🎧</button></a>
+(Mia se ríe con elegancia.)
 
-**Pescador:** ¿Qué condición? <a href="https://translate.google.com/?sl=es&tl=en&text=%C2%BFQu%C3%A9%20condici%C3%B3n%3F&op=translate" target="_blank"><button type="button" class="btn btn-success">Escucha 🎧</button></a>
+**Mia (Jade):** El mundo es caótico, sucio, lleno de perros... y aspiradoras. <a href="https://translate.google.com/?sl=es&tl=es&text=El%20mundo%20es%20ca%C3%B3tico%2C%20sucio%2C%20lleno%20de%20perros...%20y%20aspiradoras.&op=translate" target="_blank"><button type="button" class="btn btn-success">Escuchar 🎧</button></a>
 
-**Pájaro:** ¡Debes contarnos una historia nueva cada domingo! <a href="https://translate.google.com/?sl=es&tl=en&text=%C2%A1Debes%20contarnos%20una%20historia%20nueva%20cada%20domingo!&op=translate" target="_blank"><button type="button" class="btn btn-success">Escucha 🎧</button></a>
+**Chiquita (Isabella):** (temblando) ¡No menciones esa cosa! <a href="https://translate.google.com/?sl=es&tl=es&text=%C2%A1No%20menciones%20esa%20cosa!&op=translate" target="_blank"><button type="button" class="btn btn-success">Escuchar 🎧</button></a>
 
-**Pescador:** (riendo) ¡Hecho!
+**Skyla (Violet):** Pero es también ... grande. <a href="https://translate.google.com/?sl=es&tl=es&text=Pero%20es%20tambi%C3%A9n%20...%20grande.&op=translate" target="_blank"><button type="button" class="btn btn-success">Escuchar 🎧</button></a>
+
+**Mia (Jade):** Este apartamento es perfecto. Tiene comida, sol... y yo. <a href="https://translate.google.com/?sl=es&tl=es&text=Este%20apartamento%20es%20perfecto.%20Tiene%20comida%2C%20sol...%20y%20yo.&op=translate" target="_blank"><button type="button" class="btn btn-success">Escuchar 🎧</button></a>
+
+**Chiquita (Isabella):** (asintiendo) Eso último no estoy segura si es una ventaja o una amenaza. <a href="https://translate.google.com/?sl=es&tl=es&text=Eso%20%C3%BAltimo%20no%20estoy%20segura%20si%20es%20una%20ventaja%20o%20una%20amenaza.&op=translate" target="_blank"><button type="button" class="btn btn-success">Escuchar 🎧</button></a>
+
+---
+
+# ACTO 3 — Conflicto
+
+(Un ruido afuera. Las tres se congelan.)
+
+**Chiquita (Isabella):** ¡¿QUÉ FUE ESO?! <a href="https://translate.google.com/?sl=es&tl=es&text=%C2%A1%C2%BFQU%C3%89%20FUE%20ESO%3F!&op=translate" target="_blank"><button type="button" class="btn btn-success">Escuchar 🎧</button></a>
+
+**Mia (Jade):** (alerta) Silencio. <a href="https://translate.google.com/?sl=es&tl=es&text=Silencio.&op=translate" target="_blank"><button type="button" class="btn btn-success">Escuchar 🎧</button></a>
+
+(Se escucha un pájaro desde fuera.)
+
+**Skyla (Violet):** (emocionada) ¿Escucharon eso? ¡Es... uno de los nuestros! <a href="https://translate.google.com/?sl=es&tl=es&text=%C2%BFEscucharon%20eso%3F%20%C2%A1Es...%20uno%20de%20los%20nuestros!&op=translate" target="_blank"><button type="button" class="btn btn-success">Escuchar 🎧</button></a>
+
+**Chiquita (Isabella):** ¡Un infiltrado! ¡¿Nos encontró?! <a href="https://translate.google.com/?sl=es&tl=es&text=%C2%A1Un%20infiltrado!%20%C2%A1%C2%BFNos%20encontr%C3%B3%3F!&op=translate" target="_blank"><button type="button" class="btn btn-success">Escuchar 🎧</button></a>
+
+**Skyla (Violet):** No, Chiquita... es libertad llamando. <a href="https://translate.google.com/?sl=es&tl=es&text=No%2C%20Chiquita...%20es%20libertad%20llamando.&op=translate" target="_blank"><button type="button" class="btn btn-success">Escuchar 🎧</button></a>
+
+**Mia (Jade):** (fría) Es PELIGRO llamando. <a href="https://translate.google.com/?sl=es&tl=es&text=Es%20PELIGRO%20llamando.&op=translate" target="_blank"><button type="button" class="btn btn-success">Escuchar 🎧</button></a>
+
+**Skyla (Violet):** ¿Nunca te has preguntado qué hay más allá? <a href="https://translate.google.com/?sl=es&tl=es&text=%C2%BFNunca%20te%20has%20preguntado%20qu%C3%A9%20hay%20m%C3%A1s%20all%C3%A1%3F&op=translate" target="_blank"><button type="button" class="btn btn-success">Escuchar 🎧</button></a>
+
+**Mia (Jade):** No. Porque yo soy el “más allá”. <a href="https://translate.google.com/?sl=es&tl=es&text=No.%20Porque%20yo%20soy%20el%20%E2%80%9Cm%C3%A1s%20all%C3%A1%E2%80%9D.&op=translate" target="_blank"><button type="button" class="btn btn-success">Escuchar 🎧</button></a>
+
+---
+
+# ACTO 4 - El intento de fuga
+
+(Skyla vuela hacia el balcón.)
+
+**Chiquita (Isabella):** ¡¿QUÉ HACES?! ¡Eso no está en el protocolo! <a href="https://translate.google.com/?sl=es&tl=es&text=%C2%A1%C2%BFQU%C3%89%20HACES%3F!%20%C2%A1Eso%20no%20est%C3%A1%20en%20el%20protocolo!&op=translate" target="_blank"><button type="button" class="btn btn-success">Escuchar 🎧</button></a>
+
+**Skyla (Violet):** No hay protocolo para vivir. <a href="https://translate.google.com/?sl=es&tl=es&text=No%20hay%20protocolo%20para%20vivir.&op=translate" target="_blank"><button type="button" class="btn btn-success">Escuchar 🎧</button></a>
+
+(Abre un poco la puerta del balcón.)
+
+**Chiquita (Isabella):** ¡Eso definitivamente no está permitido! <a href="https://translate.google.com/?sl=es&tl=es&text=%C2%A1Eso%20definitivamente%20no%20est%C3%A1%20permitido!&op=translate" target="_blank"><button type="button" class="btn btn-success">Escuchar 🎧</button></a>
+
+**Mia (Jade):** (levantándose lentamente) Cierra. Eso. Ahora. <a href="https://translate.google.com/?sl=es&tl=es&text=Cierra.%20Eso.%20Ahora.&op=translate" target="_blank"><button type="button" class="btn btn-success">Escuchar 🎧</button></a>
+
+(Silencio tenso.)
+
+**Skyla (Violet):** Solo un vistazo. <a href="https://translate.google.com/?sl=es&tl=es&text=Solo%20un%20vistazo.&op=translate" target="_blank"><button type="button" class="btn btn-success">Escuchar 🎧</button></a>
+
+(Abre mas. Entra luz brillante.)
+
+**Chiquita (Isabella):** (tapándose los ojos) ¡Es demasiado mundo! <a href="https://translate.google.com/?sl=es&tl=es&text=%C2%A1Es%20demasiado%20mundo!&op=translate" target="_blank"><button type="button" class="btn btn-success">Escuchar 🎧</button></a>
+
+---
+
+# ACTO 5 — Revelaciones
+
+**Skyla (Violet):** ¿Sabes qué veo? Cielo... infinito. Otros pájaros... libres. Viento... sin límites. <a href="https://translate.google.com/?sl=es&tl=es&text=%C2%BFSabes%20qu%C3%A9%20veo%3F%20Cielo...%20infinito.%20Otros%20p%C3%A1jaros...%20libres.%20Viento...%20sin%20l%C3%ADmites.&op=translate" target="_blank"><button type="button" class="btn btn-success">Escuchar 🎧</button></a>
+
+**Chiquita (Isabella):** Yo veo... corrientes de aire imprevistas, predadores potenciales y... ¡Una hoja sospechosa! <a href="https://translate.google.com/?sl=es&tl=es&text=Yo%20veo...%20corrientes%20de%20aire%20imprevistas%2C%20predadores%20potenciales%20y...%20%C2%A1Una%20hoja%20sospechosa!&op=translate" target="_blank"><button type="button" class="btn btn-success">Escuchar 🎧</button></a>
+
+**Mia (Jade):** (mirando fijamente) Yo veo ... algo que no puedo controlar. <a href="https://translate.google.com/?sl=es&tl=es&text=Yo%20veo%20...%20algo%20que%20no%20puedo%20controlar.&op=translate" target="_blank"><button type="button" class="btn btn-success">Escuchar 🎧</button></a>
+
+(Pausa.)
+
+**Skyla (Violet):** Eso da miedo. <a href="https://translate.google.com/?sl=es&tl=es&text=Eso%20da%20miedo.&op=translate" target="_blank"><button type="button" class="btn btn-success">Escuchar 🎧</button></a>
+
+**Mia (Jade):** (bajando la voz) Sí. <a href="https://translate.google.com/?sl=es&tl=es&text=S%C3%AD.&op=translate" target="_blank"><button type="button" class="btn btn-success">Escuchar 🎧</button></a>
+
+---
+
+# ACTO 6- El pasado de Mia
+
+**Chiquita (Isabella):** (sorprendido) ¿Tú... tienes miedo? <a href="https://translate.google.com/?sl=es&tl=es&text=%C2%BFT%C3%B9...%20tienes%20miedo%3F&op=translate" target="_blank"><button type="button" class="btn btn-success">Escuchar 🎧</button></a>
+
+**Mia (Jade):** Una vez... estuve afuera. <a href="https://translate.google.com/?sl=es&tl=es&text=Una%20vez...%20estuve%20afuera.&op=translate" target="_blank"><button type="button" class="btn btn-success">Escuchar 🎧</button></a>
+
+(Silencio.)
+
+**Skyla (Violet):** ¿Y? <a href="https://translate.google.com/?sl=es&tl=es&text=%C2%BFY%3F&op=translate" target="_blank"><button type="button" class="btn btn-success">Escuchar 🎧</button></a>
+
+**Mia (Jade):** No habia comida lista. No habia ventanas seguras. No habia nadie que dijera “todo está bien”. <a href="https://translate.google.com/?sl=es&tl=es&text=No%20habia%20comida%20lista.%20No%20habia%20ventanas%20seguras.%20No%20habia%20nadie%20que%20dijera%20%E2%80%9Ctodo%20est%C3%A1%20bien%E2%80%9D.&op=translate" target="_blank"><button type="button" class="btn btn-success">Escuchar 🎧</button></a>
+
+**Chiquita (Isabella):** Eso suena... terrible. <a href="https://translate.google.com/?sl=es&tl=es&text=Eso%20suena...%20terrible.&op=translate" target="_blank"><button type="button" class="btn btn-success">Escuchar 🎧</button></a>
+
+**Mia (Jade):** Aprendi algo: La libertad sin seguridad... es caos. <a href="https://translate.google.com/?sl=es&tl=es&text=Aprendi%20algo%3A%20La%20libertad%20sin%20seguridad...%20es%20caos.&op=translate" target="_blank"><button type="button" class="btn btn-success">Escuchar 🎧</button></a>
+
+**Skyla (Violet):** Y la seguridad sin libertad... es una jaula. <a href="https://translate.google.com/?sl=es&tl=es&text=Y%20la%20seguridad%20sin%20libertad...%20es%20una%20jaula.&op=translate" target="_blank"><button type="button" class="btn btn-success">Escuchar 🎧</button></a>
+
+(Chiquita mira su jaula. Triste.)
