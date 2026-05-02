@@ -3,7 +3,11 @@ title: "Libri Italiani a San Diego"
 description: "Scopri la nostra selezione di 25 libri di autori italiani e internazionali disponibili per la vendita a San Diego. Ritiro solo presso la scuola."
 ---
 
-Siamo lieti di offrire una selezione curata di **25 libri** in vendita! La nostra collezione comprende sia **autori italiani che internazionali**, tutti nelle loro **versioni in lingua italiana**. Che tu sia uno studente che desidera migliorare le proprie capacità di lettura o un amante dei libri in cerca di grande letteratura, abbiamo quello che fa per te.
+Siamo lieti di offrire una selezione curata di **25 libri** in vendita! La nostra collezione comprende sia **autori italiani che internazionali**, tutti nelle loro **versioni in lingua italiana**. 
+
+*Nota: al momento abbiamo a disposizione solo **una copia per ogni libro**. Se vedi un libro che ti piace che è già esaurito, faccelo sapere: ordineremo altre copie se ci sarà sufficiente interesse!*
+
+Che tu sia uno studente che desidera migliorare le proprie capacità di lettura o un amante dei libri in cerca di grande letteratura, abbiamo quello che fa per te.
 
 ### Come Acquistare
 

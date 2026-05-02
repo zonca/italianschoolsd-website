@@ -3,7 +3,11 @@ title: "Italian Books in San Diego"
 description: "Browse our collection of 25 Italian and international books available for sale in San Diego. Pickup at school only."
 ---
 
-We are excited to offer a curated selection of **25 books** for sale! Our collection features both **Italian and international authors**, all in their **Italian versions**. Whether you are a student looking to improve your reading skills or a book lover seeking great literature, we have something for you.
+We are excited to offer a curated selection of **25 books** for sale! Our collection features both **Italian and international authors**, all in their **Italian versions**. 
+
+*Please note: At the moment, we have only **one copy of each book** available. If you see a book you like that is already sold out, let us know—we will order more copies if there is sufficient interest!*
+
+Whether you are a student looking to improve your reading skills or a book lover seeking great literature, we have something for you.
 
 ### How to Buy
 
