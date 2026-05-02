@@ -14,6 +14,6 @@ We are also excited to announce that we have a curated selection of **25 Italian
 
 These books are perfect for students and book lovers alike. Please note that we do not offer shipping; books are available for **pickup only** at our school.
 
-[Browse our Italian Book Collection here!]({{< relref "italian-books-san-diego.md" >}})
+[Browse our Italian Book Collection here (English)]({{< relref "italian-books-san-diego.md" >}}) or [sfoglia la nostra collezione di libri (Italiano)]({{< relref "libri-italiani-a-san-diego.md" >}}).
 
 Ci vediamo presto!
