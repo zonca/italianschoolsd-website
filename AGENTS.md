@@ -74,6 +74,21 @@ After any content/layout/CSS change:
 - When creating a class + book bundle enrollment, update the Square Online bundle page at `italianschoolsd.square.site/bundle` (via Square Dashboard → Online → Site Editor) and link to it from the site.
 - Square API credentials are in `square_credentials.json` (git-ignored). Use `uv run --with squareup python` to interact with the API.
 
+## Newsletter (Listmonk)
+
+- The newsletter system (Listmonk) is available on the `sh` server.
+- Use the Listmonk API via `curl` on the `sh` server for operations (listening on `localhost:9000`).
+- **Credentials:** Use the `listmonkapi` user. The token is stored in the local `.bashrc` as `LISTMONK_TOKEN`. **NEVER** hardcode or log this token.
+- **Workflow for Drafts:**
+    1. Prepare the newsletter body in Markdown.
+    2. Use Python on the `sh` server to safely package the body into a JSON payload for the API (avoids shell quoting issues).
+    3. Target List IDs: `2` (Programs for Kids), `3` (Programs for Adults).
+    4. Default Template ID: `4` (Italian School Campaign Template).
+- **Media/Attachments:**
+    - To embed an image, use a public URL (e.g., from the website or Netlify preview).
+    - To add an attachment, first POST the file to `/api/media`, then include the resulting ID in the `media` array of the campaign object.
+- **Verification:** Always create as a `draft` status first. Verify links (prefer production `www.italianschoolsd.com` links for final drafts) and layout in the Listmonk dashboard before sending.
+
 ## High-Risk Areas
 
 - Global template changes in `site/layouts/_default/single.html` affect many pages.
