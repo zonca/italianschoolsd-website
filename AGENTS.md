@@ -89,6 +89,56 @@ After any content/layout/CSS change:
     - To add an attachment, first POST the file to `/api/media`, then include the resulting ID in the `media` array of the campaign object.
 - **Verification:** Always create as a `draft` status first. Verify links (prefer production `www.italianschoolsd.com` links for final drafts) and layout in the Listmonk dashboard before sending.
 
+### Sample Python Script for Creating Drafts
+
+The following script can be used on the `sh` server to safely package Markdown and create a draft via the API:
+
+```python
+import json
+import urllib.request
+import base64
+import sys
+
+# Usage: python3 create_draft.py TOKEN "Campaign Name" "Subject" body.md
+def create_draft(token, name, subject, body_path):
+    with open(body_path, "r") as f:
+        body = f.read()
+
+    payload = {
+        "name": name,
+        "subject": subject,
+        "lists": [2, 3],  # Kids and Adults
+        "type": "regular",
+        "content_type": "markdown",
+        "body": body,
+        "template_id": 4,
+        "status": "draft"
+    }
+
+    auth = base64.b64encode(f"listmonkapi:{token}".encode()).decode()
+    req = urllib.request.Request(
+        "http://localhost:9000/api/campaigns",
+        data=json.dumps(payload).encode(),
+        headers={
+            "Content-Type": "application/json",
+            "Authorization": f"Basic {auth}"
+        },
+        method="POST"
+    )
+
+    try:
+        with urllib.request.urlopen(req) as res:
+            print(res.read().decode())
+    except Exception as e:
+        print(f"Error: {e}")
+
+if __name__ == "__main__":
+    if len(sys.argv) < 5:
+        print("Usage: python3 create_draft.py <token> <name> <subject> <body_file>")
+    else:
+        create_draft(sys.argv[1], sys.argv[2], sys.argv[3], sys.argv[4])
+```
+
 ## High-Risk Areas
 
 - Global template changes in `site/layouts/_default/single.html` affect many pages.
