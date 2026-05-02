@@ -4,7 +4,7 @@ image: /img/vatican-library.jpg
 description: "Browse our collection of 25 Italian and international books available for sale in San Diego. Pickup at school only."
 ---
 
-![Italian Book Covers](/img/book-covers.png)
+![Italian Book Collection](/img/book_collage_may2026.jpg)
 
 We are excited to offer a curated selection of **25 books** for sale! Our collection features both **Italian and international authors**, all in their **Italian versions**. 
 
@@ -24,7 +24,7 @@ You can browse and purchase these books directly from our online shop:
 
 Please note that **we do not offer shipping**. All books must be picked up in person at our school.
 
-*   **Pickup Time:** Every **Thursday evening**.
+*   **Pickup Time:** Every **Thursday, 4:00pm – 7:45pm**.
 *   **School Address:** [4550 Kearny Villa Rd, Suite 202, San Diego, CA 92123](https://maps.app.goo.gl/Cg14JWm1TJFK9rsN8)
 
 If you would like to schedule a pickup on a different day, please **[contact us](/contact)** and we will do our best to accommodate you.

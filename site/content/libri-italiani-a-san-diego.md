@@ -4,7 +4,7 @@ image: /img/vatican-library.jpg
 description: "Scopri la nostra selezione di 25 libri di autori italiani e internazionali disponibili per la vendita a San Diego. Ritiro solo presso la scuola."
 ---
 
-![Copertine Libri Italiani](/img/book-covers.png)
+![Collezione Libri Italiani](/img/book_collage_may2026.jpg)
 
 Siamo lieti di offrire una selezione curata di **25 libri** in vendita! La nostra collezione comprende sia **autori italiani che internazionali**, tutti nelle loro **versioni in lingua italiana**. 
 
@@ -24,7 +24,7 @@ Puoi sfogliare e acquistare questi libri direttamente dal nostro negozio online:
 
 Si prega di notare che **non offriamo spedizioni**. Tutti i libri devono essere ritirati di persona presso la nostra scuola.
 
-*   **Orario di Ritiro:** Ogni **giovedì sera**.
+*   **Orario di Ritiro:** Ogni **giovedì, 16:00 – 19:45**.
 *   **Indirizzo della Scuola:** [4550 Kearny Villa Rd, Suite 202, San Diego, CA 92123](https://maps.app.goo.gl/Cg14JWm1TJFK9rsN8)
 
 Se desideri programmare un ritiro in un giorno diverso, ti preghiamo di **[contattarci](/contact)** e faremo il possibile per accontentarti.
