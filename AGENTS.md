@@ -107,7 +107,7 @@ def create_draft(token, name, subject, body_path):
     payload = {
         "name": name,
         "subject": subject,
-        "lists": [2, 3],  # Kids and Adults
+        "lists": [2, 3, 4, 5],  # All programs and current students
         "type": "regular",
         "content_type": "markdown",
         "body": body,
