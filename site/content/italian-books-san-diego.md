@@ -1,7 +1,10 @@
 ---
 title: "Italian Books in San Diego"
+image: /img/vatican-library.jpg
 description: "Browse our collection of 25 Italian and international books available for sale in San Diego. Pickup at school only."
 ---
+
+![Italian Book Covers](/img/book-covers.png)
 
 We are excited to offer a curated selection of **25 books** for sale! Our collection features both **Italian and international authors**, all in their **Italian versions**. 
 

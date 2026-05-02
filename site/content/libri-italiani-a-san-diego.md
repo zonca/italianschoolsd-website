@@ -1,7 +1,10 @@
 ---
 title: "Libri Italiani a San Diego"
+image: /img/vatican-library.jpg
 description: "Scopri la nostra selezione di 25 libri di autori italiani e internazionali disponibili per la vendita a San Diego. Ritiro solo presso la scuola."
 ---
+
+![Copertine Libri Italiani](/img/book-covers.png)
 
 Siamo lieti di offrire una selezione curata di **25 libri** in vendita! La nostra collezione comprende sia **autori italiani che internazionali**, tutti nelle loro **versioni in lingua italiana**. 
 
