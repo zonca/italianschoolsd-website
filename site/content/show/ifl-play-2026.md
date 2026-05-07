@@ -373,8 +373,6 @@ Ma va bene così.
  Perché viaggiare vuol dire anche questo:  
  lasciare un posto… per scoprirne un altro. <a href="https://translate.google.com/?sl=it&tl=en&text=Quando%20si%20parte%20per%20un%20viaggio%20si%20possono%20sentire%20tante%20cose%20insieme%3A%20%20%0A%20gioia%2C%20curiosit%C3%A0%2C%20sorpresa%E2%80%A6%20e%20anche%20un%20po%E2%80%99%20di%20agitazione.%20%20%0AMa%20va%20bene%20cos%C3%AC.%20%20%0A%20Perch%C3%A9%20viaggiare%20vuol%20dire%20anche%20questo%3A%20%20%0A%20lasciare%20un%20posto%E2%80%A6%20per%20scoprirne%20un%20altro.&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
 
-**~~Chiara B:~~** ~~Io sono pronta per l’Italia\!~~
-
 **Annabella:** Bravissimi.  
  Adesso facciamo ancora un piccolo ripasso di parole utili,  
  così quando arriviamo siamo già pronti a parlare italiano. <a href="https://translate.google.com/?sl=it&tl=en&text=Bravissimi.%20%20%0A%20Adesso%20facciamo%20ancora%20un%20piccolo%20ripasso%20di%20parole%20utili%2C%20%20%0A%20cos%C3%AC%20quando%20arriviamo%20siamo%20gi%C3%A0%20pronti%20a%20parlare%20italiano.&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
@@ -921,10 +919,10 @@ torniamo tutti insieme sul palco. <a href="https://translate.google.com/?sl=it&t
 
 ## **Tutti insieme:**
 
-VIVA L’ITALIA\!  Ci rivediamo a Settembre\!
+VIVA L’ITALIA\!  Ci rivediamo a Settembre\! <a href="https://translate.google.com/?sl=it&tl=en&text=VIVA%20L%E2%80%99ITALIA%5C%21%20%20Ci%20rivediamo%20a%20Settembre%5C%21&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
 
 # **CANZONE FINALE**
 
-Dopo **“Viva l’Italia”**, i **piccoli e i grandi** cantano **“Arrivederci”** salutando con la mano.
+Dopo **“Viva l’Italia”**, i **piccoli e i grandi** cantano **“Arrivederci”** salutando con la mano. <a href="https://translate.google.com/?sl=it&tl=en&text=Dopo%20%E2%80%9CViva%20l%E2%80%99Italia%E2%80%9D%2C%20i%20piccoli%20e%20i%20grandi%20cantano%20%E2%80%9CArrivederci%E2%80%9D%20salutando%20con%20la%20mano.&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
 
 **Link YouTube:** [https://www.youtube.com/watch?v=au\_mgfqv7A4\&list=RDau\_mgfqv7A4\&start\_radio=1](https://www.youtube.com/watch?v=au_mgfqv7A4&list=RDau_mgfqv7A4&start_radio=1) <a href="https://translate.google.com/?sl=it&tl=en&text=%5Bhttps%3A//www.youtube.com/watch%3Fv%3Dau%5C_mgfqv7A4%5C%26list%3DRDau%5C_mgfqv7A4%5C%26start%5C_radio%3D1%5D&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
