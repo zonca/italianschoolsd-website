@@ -239,11 +239,11 @@ Anche i viaggi più belli a volte cominciano in modo buffo. <a href="https://tra
 
 *Chiusura sipario- preparazione dei props sul palco, spegnere proiettore*
 
-**Tutti e tre \+ i piccoli:** # <a href="https://translate.google.com/?sl=it&tl=en&text=%23&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
+#
 
 <a name="scena-2-prepariamo-la-valigia"></a>
 
-## **SCENA 2 – PREPARIAMO LA VALIGIA (scrivere nomi sui props, portare valigia, la banana)**
+## **SCENA 2 – PREPARIAMO LA VALIGIA**
 
 **Annabella:** Bambini, prima di partire facciamo un piccolo ripasso di vocabolario.  
 Io dico una parola e voi la ripetete forte. <a href="https://translate.google.com/?sl=it&tl=en&text=Bambini%2C%20prima%20di%20partire%20facciamo%20un%20piccolo%20ripasso%20di%20vocabolario.%20%20%0AIo%20dico%20una%20parola%20e%20voi%20la%20ripetete%20forte.&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
@@ -312,11 +312,11 @@ Ma c’è una cosa importantissima per partire... <a href="https://translate.goo
 
 *Preparazione props per scena successiva*
 
-**Tutti i piccoli:** ## <a href="https://translate.google.com/?sl=it&tl=en&text=%23%23&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
+##
 
 <a name="scena-3-laereo"></a>
 
-## **SCENA 3 – L’AEREO (proiettare immagine interno aereo)**
+## **SCENA 3 – L’AEREO**
 
 *(I bambini sono seduti come in aereo. Devon può stare davanti come piccolo accompagnatore di volo.)*
 
@@ -405,7 +405,7 @@ Ma va bene così.
 
 *(Chiusura sipario, preparazione del prop successivo e pulizia del palco inizio  musica)*
 
-**Devon:** # <a href="https://translate.google.com/?sl=it&tl=en&text=%23&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
+#
 
 <a name="scena-4-roma"></a>
 
@@ -477,7 +477,7 @@ A Roma ci sono le **statue parlanti**. I romani, tanto tempo fa, scrivevano mess
 
 *(chiusura sipario , sostituzione del cartellone , inizio nuova musica, bambini seduti alla sx con Annabella)*
 
-**Tutti:** # <a href="https://translate.google.com/?sl=it&tl=en&text=%23&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
+#
 
 <a name="scena-5-firenze"></a>
 
@@ -554,7 +554,7 @@ In inglese significa:
 
 **Tutti:** Firenze\! <a href="https://translate.google.com/?sl=it&tl=en&text=Firenze%5C%21&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
 
-**Tutti:** # <a href="https://translate.google.com/?sl=it&tl=en&text=%23&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
+#
 
 <a name="scena-6-venezia"></a>
 
@@ -623,7 +623,7 @@ In inglese: **“Venice feels like a dream.”** <a href="https://translate.goog
 
 **Tutti:** Venezia\! <a href="https://translate.google.com/?sl=it&tl=en&text=Venezia%5C%21&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
 
-**Tutti:** # <a href="https://translate.google.com/?sl=it&tl=en&text=%23&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
+#
 
 <a name="scena-7-milano"></a>
 
@@ -698,7 +698,7 @@ Milano e\` una città dove l’arte antica e la vita moderna stanno insieme con 
 
 **Tutti:** Milano\! <a href="https://translate.google.com/?sl=it&tl=en&text=Milano%5C%21&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
 
-**Tutti:** # <a href="https://translate.google.com/?sl=it&tl=en&text=%23&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
+#
 
 <a name="scena-8-napoli"></a>
 
@@ -770,7 +770,7 @@ Vuol dire che Napoli è così bella e intensa da lasciare un ricordo indimentica
 
 **Tutti:** Napoli\! <a href="https://translate.google.com/?sl=it&tl=en&text=Napoli%5C%21&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
 
-**Tutti:** # <a href="https://translate.google.com/?sl=it&tl=en&text=%23&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
+#
 
 <a name="scena-9-le-isole"></a>
 
@@ -833,7 +833,7 @@ In inglese: **“Every island has a special voice.”** <a href="https://transla
 
 **Tutti:** Isole\! <a href="https://translate.google.com/?sl=it&tl=en&text=Isole%5C%21&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
 
-**Tutti:** # <a href="https://translate.google.com/?sl=it&tl=en&text=%23&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
+#
 
 <a name="scena-10-litalia-finale"></a>
 
