@@ -84,14 +84,14 @@ date: 2026-05-07
 </script>
 
 
-# Personaggi
+## Personaggi
 
 Annabella, Arielle, Ben, Carolina, Caterina, Chiara A, Chiara B, Cosima, Devon, Eva, Giorgio, Giorgio/ Samuele, Julia, Kaleb, Link YouTube, Luisa, Max, Milena, Samuel, Siena, Tutti, Tutti e tre \+ i piccoli, Tutti i piccoli, Victoria
 
 ---
 
 
-# Indice delle scene
+## Indice delle scene
 
 - [SCENA 1 – INTRODUZIONE](#scena-1-introduzione)
 - [SCENA 2 – PREPARIAMO LA VALIGIA](#scena-2-prepariamo-la-valigia)
@@ -117,13 +117,13 @@ Annabella, Arielle, Ben, Carolina, Caterina, Chiara A, Chiara B, Cosima, Devon, 
 8. **SCENA 10 – L’ITALIA FINALE** (Song by Mino Reitano): [rlwuYMo-\_Es](https://www.youtube.com/watch?v=rlwuYMo-_Es)  
 9. **CANZONE FINALE** ("Arrivederci"): [au\_mgfqv7A4](https://www.youtube.com/watch?v=au_mgfqv7A4&list=RDau_mgfqv7A4&start_radio=1)
 
-# **UN VIAGGIO IN ITALIA \-** Italian School of San Diego \- Recita di fine anno – Ifl ‘26
+## **UN VIAGGIO IN ITALIA \-** Italian School of San Diego \- Recita di fine anno – Ifl ‘26
 
-# **APERTURA MUSICALE \- Canzoncina del buongiorno dei piccoli**
+## **APERTURA MUSICALE \- Canzoncina del buongiorno dei piccoli**
 
 **Link YouTube:** [https://www.youtube.com/watch?v=0Jlamf8cPW8\&list=RD0Jlamf8cPW8\&start\_radio=1](https://www.youtube.com/watch?v=0Jlamf8cPW8&list=RD0Jlamf8cPW8&start_radio=1) <a href="https://translate.google.com/?sl=it&tl=en&text=%5Bhttps%3A//www.youtube.com/watch%3Fv%3D0Jlamf8cPW8%5C%26list%3DRD0Jlamf8cPW8%5C%26start%5C_radio%3D1%5D&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
 
-### **Buongiorno a te**
+#### **Buongiorno a te**
 
 **Ritornello**  
 Buongiorno a te,  
@@ -160,7 +160,7 @@ buongiorno a tutti noi.
 
 <a name="scena-1-introduzione"></a>
 
-# **SCENA 1 – INTRODUZIONE**
+## **SCENA 1 – INTRODUZIONE**
 
 *Entrano In scena **Ben, Annabella e Devon** con una cartelletta in mano per la presentazione.*
 
@@ -239,11 +239,11 @@ Anche i viaggi più belli a volte cominciano in modo buffo. <a href="https://tra
 
 *Chiusura sipario- preparazione dei props sul palco, spegnere proiettore*
 
-#
+**Tutti e tre \+ i piccoli:** # <a href="https://translate.google.com/?sl=it&tl=en&text=%23&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
 
 <a name="scena-2-prepariamo-la-valigia"></a>
 
-# **SCENA 2 – PREPARIAMO LA VALIGIA (scrivere nomi sui props, portare valigia, la banana)**
+## **SCENA 2 – PREPARIAMO LA VALIGIA (scrivere nomi sui props, portare valigia, la banana)**
 
 **Annabella:** Bambini, prima di partire facciamo un piccolo ripasso di vocabolario.  
 Io dico una parola e voi la ripetete forte. <a href="https://translate.google.com/?sl=it&tl=en&text=Bambini%2C%20prima%20di%20partire%20facciamo%20un%20piccolo%20ripasso%20di%20vocabolario.%20%20%0AIo%20dico%20una%20parola%20e%20voi%20la%20ripetete%20forte.&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
@@ -312,11 +312,11 @@ Ma c’è una cosa importantissima per partire... <a href="https://translate.goo
 
 *Preparazione props per scena successiva*
 
-##
+**Tutti i piccoli:** ## <a href="https://translate.google.com/?sl=it&tl=en&text=%23%23&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
 
 <a name="scena-3-laereo**"></a>
 
-# **SCENA 3 – L’AEREO** (proiettare immagine interno aereo)
+## **SCENA 3 – L’AEREO** (proiettare immagine interno aereo)
 
 *(I bambini sono seduti come in aereo. Devon può stare davanti come piccolo accompagnatore di volo.)*
 
@@ -405,11 +405,11 @@ Ma va bene così.
 
 *(Chiusura sipario, preparazione del prop successivo e pulizia del palco inizio  musica)*
 
-#
+**Devon:** # <a href="https://translate.google.com/?sl=it&tl=en&text=%23&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
 
 <a name="scena-4-roma"></a>
 
-# **SCENA 4 – ROMA**
+## **SCENA 4 – ROMA**
 
 *Prima della parte di Kaleb, parte in sottofondo “Roma Capoccia” di Antonello Venditti, dal minuto 0:00 al minuto 0:56. I bambini e Annabella sono seduti sul palco sul lato sx.*  
 **Link YouTube:**  
@@ -477,11 +477,11 @@ A Roma ci sono le **statue parlanti**. I romani, tanto tempo fa, scrivevano mess
 
 *(chiusura sipario , sostituzione del cartellone , inizio nuova musica, bambini seduti alla sx con Annabella)*
 
-#
+**Tutti:** # <a href="https://translate.google.com/?sl=it&tl=en&text=%23&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
 
 <a name="scena-5-firenze"></a>
 
-# **SCENA 5 – FIRENZE**
+## **SCENA 5 – FIRENZE**
 
 Prima dell’ingresso di Julia, parte in sottofondo “Firenze sogna” di Claudio Villa.  
 **Link YouTube:**  
@@ -554,11 +554,11 @@ In inglese significa:
 
 **Tutti:** Firenze\! <a href="https://translate.google.com/?sl=it&tl=en&text=Firenze%5C%21&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
 
-#
+**Tutti:** # <a href="https://translate.google.com/?sl=it&tl=en&text=%23&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
 
 <a name="scena-6-venezia"></a>
 
-# **SCENA 6 – VENEZIA**
+## **SCENA 6 – VENEZIA**
 
 *Prima della scena di Venezia, parte in sottofondo la canzone:* [https://www.youtube.com/watch?v=Rf9FJqX\_qYE\&list=RDRf9FJqX\_qYE\&start\_radio=1](https://www.youtube.com/watch?v=Rf9FJqX_qYE&list=RDRf9FJqX_qYE&start_radio=1)
 
@@ -623,11 +623,11 @@ In inglese: **“Venice feels like a dream.”** <a href="https://translate.goog
 
 **Tutti:** Venezia\! <a href="https://translate.google.com/?sl=it&tl=en&text=Venezia%5C%21&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
 
-#
+**Tutti:** # <a href="https://translate.google.com/?sl=it&tl=en&text=%23&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
 
 <a name="scena-7-milano"></a>
 
-# **SCENA 7 – MILANO**
+## **SCENA 7 – MILANO**
 
 Prima dell’ingresso di Milena, parte in sottofondo “Milano” di Lucio Dalla, dal minuto 0:00 al minuto 1:26.  
 **Link YouTube: [https://www.youtube.com/watch?v=iTrMfJ39VS4\&list=RDiTrMfJ39VS4\&start\_radio=1](https://www.youtube.com/watch?v=iTrMfJ39VS4&list=RDiTrMfJ39VS4&start_radio=1)**
@@ -698,11 +698,11 @@ Milano e\` una città dove l’arte antica e la vita moderna stanno insieme con 
 
 **Tutti:** Milano\! <a href="https://translate.google.com/?sl=it&tl=en&text=Milano%5C%21&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
 
-#
+**Tutti:** # <a href="https://translate.google.com/?sl=it&tl=en&text=%23&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
 
 <a name="scena-8-napoli"></a>
 
-# **SCENA 8 – NAPOLI**
+## **SCENA 8 – NAPOLI**
 
 *Prima della scena di Napoli, parte in sottofondo la canzone:* [https://www.youtube.com/watch?v=hWtL6nfV5HM\&list=RDhWtL6nfV5HM\&start\_radio=1](https://www.youtube.com/watch?v=hWtL6nfV5HM&list=RDhWtL6nfV5HM&start_radio=1)
 
@@ -770,11 +770,11 @@ Vuol dire che Napoli è così bella e intensa da lasciare un ricordo indimentica
 
 **Tutti:** Napoli\! <a href="https://translate.google.com/?sl=it&tl=en&text=Napoli%5C%21&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
 
-#
+**Tutti:** # <a href="https://translate.google.com/?sl=it&tl=en&text=%23&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
 
 <a name="scena-9-le-isole"></a>
 
-# **SCENA 9 – LE ISOLE**
+## **SCENA 9 – LE ISOLE**
 
 *Prima della scena delle isole, parte in sottofondo la canzone:*  
 [**https://www.youtube.com/watch?v=3nxoYO6dsiY\&list=RD3nxoYO6dsiY\&start\_radio=1**](https://www.youtube.com/watch?v=3nxoYO6dsiY&list=RD3nxoYO6dsiY&start_radio=1)
@@ -833,11 +833,11 @@ In inglese: **“Every island has a special voice.”** <a href="https://transla
 
 **Tutti:** Isole\! <a href="https://translate.google.com/?sl=it&tl=en&text=Isole%5C%21&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
 
-#
+**Tutti:** # <a href="https://translate.google.com/?sl=it&tl=en&text=%23&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
 
 <a name="scena-10-litalia-finale"></a>
 
-# **SCENA 10 – L’ITALIA FINALE**
+## **SCENA 10 – L’ITALIA FINALE**
 
 *Prima di entrare in scena canzone di Mino reitano:* [https://www.youtube.com/watch?v=rlwuYMo-\_Es](https://www.youtube.com/watch?v=rlwuYMo-_Es)
 
@@ -895,7 +895,7 @@ torniamo tutti insieme sul palco. <a href="https://translate.google.com/?sl=it&t
 
 **Devon:** L’Italia è un ricordo bello da portare con noi. <a href="https://translate.google.com/?sl=it&tl=en&text=L%E2%80%99Italia%20%C3%A8%20un%20ricordo%20bello%20da%20portare%20con%20noi.&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
 
-## **Bimbi piccoli**
+### **Bimbi piccoli**
 
 **Luisa:** Mi piace l’Italia\! <a href="https://translate.google.com/?sl=it&tl=en&text=Mi%20piace%20l%E2%80%99Italia%5C%21&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
 
@@ -917,11 +917,11 @@ torniamo tutti insieme sul palco. <a href="https://translate.google.com/?sl=it&t
 
 **Samuel:** Arrivederci\! <a href="https://translate.google.com/?sl=it&tl=en&text=Arrivederci%5C%21&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
 
-## **Tutti insieme:**
+### **Tutti insieme:**
 
 VIVA L’ITALIA\!  Ci rivediamo a Settembre\! <a href="https://translate.google.com/?sl=it&tl=en&text=VIVA%20L%E2%80%99ITALIA%5C%21%20%20Ci%20rivediamo%20a%20Settembre%5C%21&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
 
-# **CANZONE FINALE**
+## **CANZONE FINALE**
 
 Dopo **“Viva l’Italia”**, i **piccoli e i grandi** cantano **“Arrivederci”** salutando con la mano. <a href="https://translate.google.com/?sl=it&tl=en&text=Dopo%20%E2%80%9CViva%20l%E2%80%99Italia%E2%80%9D%2C%20i%20piccoli%20e%20i%20grandi%20cantano%20%E2%80%9CArrivederci%E2%80%9D%20salutando%20con%20la%20mano.&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
 
