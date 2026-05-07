@@ -95,7 +95,7 @@ Annabella, Arielle, Ben, Carolina, Caterina, Chiara A, Chiara B, Cosima, Devon, 
 
 - [SCENA 1 – INTRODUZIONE](#scena-1-introduzione)
 - [SCENA 2 – PREPARIAMO LA VALIGIA](#scena-2-prepariamo-la-valigia)
-- [SCENA 3 – L’AEREO**](#scena-3-laereo**)
+- [SCENA 3 – L’AEREO](#scena-3-laereo)
 - [SCENA 4 – ROMA](#scena-4-roma)
 - [SCENA 5 – FIRENZE](#scena-5-firenze)
 - [SCENA 6 – VENEZIA](#scena-6-venezia)
@@ -314,9 +314,9 @@ Ma c’è una cosa importantissima per partire... <a href="https://translate.goo
 
 **Tutti i piccoli:** ## <a href="https://translate.google.com/?sl=it&tl=en&text=%23%23&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
 
-<a name="scena-3-laereo**"></a>
+<a name="scena-3-laereo"></a>
 
-## **SCENA 3 – L’AEREO** (proiettare immagine interno aereo)
+## **SCENA 3 – L’AEREO (proiettare immagine interno aereo)**
 
 *(I bambini sono seduti come in aereo. Devon può stare davanti come piccolo accompagnatore di volo.)*
 
