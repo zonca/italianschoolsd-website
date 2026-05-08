@@ -12,6 +12,7 @@ date: 2026-05-07
     <li><strong>Find your name:</strong> Use the search bar below to filter the script for your character.</li>
     <li><strong>Practice pronunciation:</strong> Click the <strong>"Ascolta 🎧"</strong> button next to any line.</li>
     <li><strong>On Google Translate:</strong> Once the page opens, click the <strong>Speaker Icon</strong> (Listen) under the Italian text to hear the correct pronunciation.</li>
+    <li><strong>Note:</strong> Group lines (starting with "Tutti") are always shown.</li>
   </ul>
 </div>
 
@@ -55,7 +56,8 @@ date: 2026-05-07
         const actorMatch = lineText.match(/^(.*?):/);
         if (actorMatch && actorMatch[1]) {
           const actorName = actorMatch[1].toLowerCase();
-          if (searchText === '' || actorName.includes(searchText)) {
+          // Always show lines that contain "tutti"
+          if (actorName.includes('tutti') || searchText === '' || actorName.includes(searchText)) {
             line.style.display = 'block';
             visibleLines++;
           } else {
@@ -92,13 +94,6 @@ date: 2026-05-07
     filterScript();
   });
 </script>
-
-
-## Personaggi
-
-Annabella, Arielle, Ben, Carolina, Caterina, Chiara A, Chiara B, Cosima, Devon, Eva, Giorgio, Giorgio/ Samuele, Julia, Kaleb, Link YouTube, Luisa, Max, Milena, Samuel, Siena, Tutti, Tutti e tre \+ i piccoli, Tutti i piccoli, Victoria
-
----
 
 
 ## Indice delle scene
