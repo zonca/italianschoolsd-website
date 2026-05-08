@@ -6,6 +6,16 @@ date: 2026-05-07
 ---
 
 
+<div class="cms" style="background-color: #f9f9f9; padding: 15px; border-left: 5px solid #007bff; margin-bottom: 20px;">
+  <h4 style="margin-top: 0;">How to use this page:</h4>
+  <ul>
+    <li><strong>Find your name:</strong> Use the search bar below to filter the script for your character.</li>
+    <li><strong>Practice pronunciation:</strong> Click the <strong>"Ascolta 🎧"</strong> button next to any line.</li>
+    <li><strong>On Google Translate:</strong> Once the page opens, click the <strong>Speaker Icon</strong> (Listen) under the Italian text to hear the correct pronunciation.</li>
+  </ul>
+</div>
+
+
 <div style="margin-bottom: 20px;">
   <label for="actorSearch" style="font-weight: bold; margin-right: 10px;">Cerca il tuo nome:</label>
   <input type="text" id="actorSearch" placeholder="Scrivi il tuo nome..." style="padding: 8px; width: 250px; border-radius: 4px; border: 1px solid #ccc;">
@@ -17,7 +27,7 @@ date: 2026-05-07
   function filterScript() {
     const searchText = document.getElementById('actorSearch').value.toLowerCase();
     const actorLines = document.querySelectorAll('p');
-    const sectionHeaders = document.querySelectorAll('h1, h2, h3');
+    const sectionHeaders = document.querySelectorAll('h1, h2, h3, h4');
     const horizontalRules = document.querySelectorAll('hr');
 
     sectionHeaders.forEach(header => header.style.display = 'block');
@@ -121,7 +131,8 @@ Annabella, Arielle, Ben, Carolina, Caterina, Chiara A, Chiara B, Cosima, Devon, 
 
 ## **APERTURA MUSICALE \- Canzoncina del buongiorno dei piccoli**
 
-**Link YouTube:** [https://www.youtube.com/watch?v=0Jlamf8cPW8\&list=RD0Jlamf8cPW8\&start\_radio=1](https://www.youtube.com/watch?v=0Jlamf8cPW8&list=RD0Jlamf8cPW8&start_radio=1) <a href="https://translate.google.com/?sl=it&tl=en&text=%5Bhttps%3A//www.youtube.com/watch%3Fv%3D0Jlamf8cPW8%5C%26list%3DRD0Jlamf8cPW8%5C%26start%5C_radio%3D1%5D&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
+**Link YouTube:**  
+[https://www.youtube.com/watch?v=0Jlamf8cPW8\&list=RD0Jlamf8cPW8\&start\_radio=1](https://www.youtube.com/watch?v=0Jlamf8cPW8&list=RD0Jlamf8cPW8&start_radio=1)
 
 #### **Buongiorno a te**
 
@@ -925,4 +936,5 @@ VIVA L’ITALIA\!  Ci rivediamo a Settembre\! <a href="https://translate.google.
 
 Dopo **“Viva l’Italia”**, i **piccoli e i grandi** cantano **“Arrivederci”** salutando con la mano. <a href="https://translate.google.com/?sl=it&tl=en&text=Dopo%20%E2%80%9CViva%20l%E2%80%99Italia%E2%80%9D%2C%20i%20piccoli%20e%20i%20grandi%20cantano%20%E2%80%9CArrivederci%E2%80%9D%20salutando%20con%20la%20mano.&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
 
-**Link YouTube:** [https://www.youtube.com/watch?v=au\_mgfqv7A4\&list=RDau\_mgfqv7A4\&start\_radio=1](https://www.youtube.com/watch?v=au_mgfqv7A4&list=RDau_mgfqv7A4&start_radio=1) <a href="https://translate.google.com/?sl=it&tl=en&text=%5Bhttps%3A//www.youtube.com/watch%3Fv%3Dau%5C_mgfqv7A4%5C%26list%3DRDau%5C_mgfqv7A4%5C%26start%5C_radio%3D1%5D&op=translate" target="_blank"><button type="button" class="btn btn-success">Ascolta 🎧</button></a>
+**Link YouTube:**  
+[https://www.youtube.com/watch?v=au\_mgfqv7A4\&list=RDau\_mgfqv7A4\&start\_radio=1](https://www.youtube.com/watch?v=au_mgfqv7A4&list=RDau_mgfqv7A4&start_radio=1)
