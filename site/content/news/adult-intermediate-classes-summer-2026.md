@@ -12,12 +12,14 @@ For other levels see [Adult classes overview]({{< relref "adults.md" >}}), which
 
 ---
 
-## Monday Intermediate
+## Monday All Intermediate Levels
 
 - **Schedule:** Mondays, 6:00 pm–7:30 pm, June 1 – August 3, 2026 (10 classes)
+- **Structure:** We plan to run two groups (**Intermediate** and **Intermediate-Advanced**) simultaneously and place students according to their level. **June 1st is an “Evaluation Day”** to help balance the groups and ensure everyone is in the right track.
 - **Tuition:** $350 for the full session
 
 <div class="tc"><a href='https://italianschoolsd.square.site/product/summer-2026-italian-class-intermediate-monday/YQTVZXBRXOQLBX3KVGZI4L2W' class="btn raise">Pay and enroll (Monday Intermediate, $350)</a></div>
+<div class="tc"><a href='https://italianschoolsd.square.site/product/summer-2026-italian-class-int-adv-monday/GVLL75X5J5WKWA2VFTL7RDDU' class="btn raise">Pay and enroll (Monday Intermediate-Advanced, $350)</a></div>
 
 ---
 

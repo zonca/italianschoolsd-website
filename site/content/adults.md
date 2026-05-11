@@ -39,11 +39,11 @@ Start your Italian journey with our friendly, hands-on beginner class! In 10 wee
 
 <div class="tc"><a href='{{< relref "news/adult-beginner-classes-summer-2026.md" >}}' class="btn raise">View summer beginner schedule & tuition</a></div>
 
-### All intermediate levels
+### Intermediate & Intermediate-Advanced
 
 For students with at least one year of Italian classes or equivalent self-study.
 
-We offer multiple intermediate tracks to keep you challenged and progressing, whether you're solidly intermediate or edging toward advanced.
+We offer multiple tracks to keep you challenged and progressing, including a combined **Evaluation Day on June 1st** for our Monday students to ensure the best level placement.
 
 <div class="tc"><a href='{{< relref "news/adult-intermediate-classes-summer-2026.md" >}}' class="btn raise">View summer intermediate schedules & tuition</a></div>
 
