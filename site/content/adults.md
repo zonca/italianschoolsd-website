@@ -18,69 +18,40 @@ Note: All in-person adult classes meet at our school at [4550 Kearny Villa Rd Su
 
 ## Italian for Travelers
 
-
-
 Planning a trip to Italy? Get ready with our "Italian for Travelers" program! We are launching three separate sessions for March, April, and May 2026.
 
-
-
 <div class="tc">
-
 <a href="{{< relref "news/italian-for-travelers-march-april-may-2026.md" >}}" class="btn raise">Learn more and enroll to "Italian for travelers"</a>
-
 </div>
-
-
 
 ---
 
+## Summer 2026 Group Classes
 
-
-## January-May 2026 Group Classes
-
-
-
+Our summer session runs for **10 weeks** from **June 1st to August 7th**.
 Choose your level below and enroll online with your credit card.
-
-
 
 ### Beginner class
 
-
-
 No prior Italian experience required.
 
+Start your Italian journey with our friendly, hands-on beginner class! In 10 weeks, you'll build a solid foundation in Italian conversation, vocabulary, and culture—perfect for travel, work, or connecting with family. We offer both in-person and online Zoom sessions.
 
-
-Start your Italian journey with our friendly, hands-on beginner class! In 5 months, you'll build a solid foundation in Italian conversation, vocabulary, and culture—perfect for travel, work, or connecting with family. Our small group setting ensures plenty of personal attention and practice. Whether you're brand new to Italian or want a refresher, you'll feel welcome and supported every step of the way.
-
-**New session starting in April!** We just added a new Tuesday beginner section:
-
-<div class="tc"><a href='{{< relref "news/new-tuesday-beginner-italian-class-march-may-2026.md" >}}' class="btn raise">New Tuesday In-person Beginner (April–May)</a></div>
-
-
-
-
-
-
-
-<div class="tc"><a href='{{< relref "news/adult-beginner-classes-january-may-2026.md" >}}' class="btn raise">View standard beginner schedule & tuition</a></div>
-
-
+<div class="tc"><a href='{{< relref "news/adult-beginner-classes-summer-2026.md" >}}' class="btn raise">View summer beginner schedule & tuition</a></div>
 
 ### All intermediate levels
 
 For students with at least one year of Italian classes or equivalent self-study.
 
-We offer multiple intermediate tracks to keep you challenged and progressing, whether you're solidly intermediate or edging toward advanced. Review schedules, tuition, and enrollment links here: [All intermediate level classes (January–May 2026)]({{< relref "news/adult-intermediate-classes-january-may-2026.md" >}})
-<div class="tc"><a href='{{< relref "news/adult-intermediate-classes-january-may-2026.md" >}}' class="btn raise">View intermediate schedules & tuition</a></div>
+We offer multiple intermediate tracks to keep you challenged and progressing, whether you're solidly intermediate or edging toward advanced.
+
+<div class="tc"><a href='{{< relref "news/adult-intermediate-classes-summer-2026.md" >}}' class="btn raise">View summer intermediate schedules & tuition</a></div>
 
 ### Advanced
 
 For students with 3+ years of Italian, able to understand most spoken Italian and hold conversations.
 
-Find the full schedule, tuition, and teacher details here: [Advanced classes (January–May 2026)]({{< relref "news/adult-advanced-classes-january-may-2026.md" >}})
-<div class="tc"><a href='{{< relref "news/adult-advanced-classes-january-may-2026.md" >}}' class="btn raise">View advanced schedule & tuition</a></div>
+<div class="tc"><a href='{{< relref "news/adult-advanced-classes-summer-2026.md" >}}' class="btn raise">View summer advanced schedule & tuition</a></div>
 
 ## Private & Custom Classes
 
@@ -111,6 +82,7 @@ We offer custom classes online, at our location, or even at your home. [Contact 
 
 ## Previous Sessions
 
+- [January-May 2026]( {{< ref "news/adult-beginner-classes-january-may-2026.md" >}} )
 - [Fall 2025]( {{< ref "news/italian-adult-classes-fall-2025.md" >}} )
 - [Summer 2025 session]( {{< ref "news/italian-adult-classes-summer-2025.md" >}} )
 
