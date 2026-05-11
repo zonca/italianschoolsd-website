@@ -21,7 +21,7 @@ Start your Italian journey in person at our school!
 - **Textbook:** This class uses 'New Italian Project 1a'. You can purchase it separately or choose the bundle below.
 
 <div class="tc"><a href='https://italianschoolsd.square.site/product/summer-2026-italian-class-beginner-thursday/OYEAS2PQXC2JDLNRICVRRWXB' class="btn raise">Pay and enroll (Thursday Beginner, In person, $360)</a></div>
-<div class="tc"><a href='https://italianschoolsd.square.site/product/summer-2026-beginner-italian-class-book-bundle/UZXFKTAH3LIU46VETSIL66MT' class="btn raise">Pay and enroll (Thursday Beginner + Book Bundle, $409)</a></div>
+<div class="tc"><a href='https://italianschoolsd.square.site/bundle' class="btn raise">Pay and enroll (Thursday Beginner + Book Bundle, $409)</a></div>
 
 ---
 
