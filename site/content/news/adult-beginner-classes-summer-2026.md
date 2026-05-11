@@ -33,6 +33,6 @@ Learn Italian from the comfort of your home via Zoom.
 - **Tuition:** $360 for the full session (payment link below)
 - **Textbook:** This class uses 'New Italian Project 1a'. Please purchase it independently (no bundle available for online classes).
 
-<div class="tc"><a href='https://italianschoolsd.square.site/product/summer-2026-italian-class-beginner-monday-online/ERN5QKWOVHCDS35OQPNFIVMO' class="btn raise">Pay and enroll (Monday Beginner, Online, $360)</a></div>
+<div class="tc"><a href='https://italianschoolsd.square.site/product/summer-2026-italian-class-beginner-monday-online/ERN5QKWOVHCDS35OQPNFIVMO' class="btn raise">Pay and enroll (Monday Beginner, Online, $330)</a></div>
 
 Questions about placement? [Contact us]({{< relref "contact.md" >}}) and we’ll help you choose the best fit.
