@@ -6,6 +6,8 @@ description: Enrollment and schedule for our new beginner-level Spanish class fo
 
 Expand your linguistic horizons this summer! We are excited to offer a new **Spanish for Adults** beginner track. This class is designed for absolute beginners and is taught by a bilingual instructor who can help bridge the gap between English, Italian, and Spanish.
 
+Spanish and Italian are very similar languages, making this a great opportunity to study them together and accelerate your learning in both!
+
 Our summer session runs for **10 weeks** from **June 1st to August 7th**.
 
 For other levels see [Adult classes overview]({{< relref "adults.md" >}}), where you’ll also find policies and discounts.
