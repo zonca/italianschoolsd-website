@@ -104,7 +104,6 @@ To request a refund, email `admin` at our domain `italianschoolsd.com`.
 
 ### Family Discount
 
-- 10% off for all additional family members (except for "Italian for Travelers," which has its own discount policy).
-Please pay the full amount, then [contact us](https://www.italianschoolsd.com/contact/) for your partial refund.
+- 10% off for all additional family members (applied automatically at checkout).
 
 ---

@@ -1,8 +1,7 @@
 
 ### Family Discount
 
-- 10% off for all additional family members.
-- Please pay the full amount, then [contact us](https://www.italianschoolsd.com/contact/) for your partial refund.
+- 10% off for all additional family members (applied automatically at checkout).
 
 ---
 title: Beginner Adult Italian Classes — Summer 2026
@@ -11,8 +10,7 @@ description: Full schedule, tuition, and enrollment links for beginner-level adu
 
 ### Family Discount
 
-- 10% off for all additional family members.
-- Please pay the full amount, then [contact us](https://www.italianschoolsd.com/contact/) for your partial refund.
+- 10% off for all additional family members (applied automatically at checkout).
 
 ---
 
@@ -25,8 +23,7 @@ For other levels see [Adult classes overview]({{< relref "adults.md" >}}), where
 
 ### Family Discount
 
-- 10% off for all additional family members.
-- Please pay the full amount, then [contact us](https://www.italianschoolsd.com/contact/) for your partial refund.
+- 10% off for all additional family members (applied automatically at checkout).
 
 ---
 
@@ -44,8 +41,7 @@ Start your Italian journey in person at our school!
 
 ### Family Discount
 
-- 10% off for all additional family members.
-- Please pay the full amount, then [contact us](https://www.italianschoolsd.com/contact/) for your partial refund.
+- 10% off for all additional family members (applied automatically at checkout).
 
 ---
 

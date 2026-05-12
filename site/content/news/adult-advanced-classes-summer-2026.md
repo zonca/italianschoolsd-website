@@ -24,7 +24,6 @@ This conversation-only class focuses on lively discussion and oral communication
 
 ### Family Discount
 
-- 10% off for all additional family members.
-- Please pay the full amount, then [contact us](https://www.italianschoolsd.com/contact/) for your partial refund.
+- 10% off for all additional family members (applied automatically at checkout).
 
 Questions about whether this class is the right fit? [Contact us]({{< relref "contact.md" >}}) and we’ll talk through placement.
