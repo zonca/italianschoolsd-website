@@ -57,4 +57,10 @@ These classes are designed for students moving up from our Beginner level or tho
 
 ---
 
+
+### Family Discount
+
+- 10% off for all additional family members.
+- Please pay the full amount, then [contact us](https://www.italianschoolsd.com/contact/) for your partial refund.
+
 Need help choosing between sections? [Contact us]({{< relref "contact.md" >}}) and we’ll point you in the right direction.

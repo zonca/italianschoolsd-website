@@ -21,4 +21,10 @@ This conversation-only class focuses on lively discussion and oral communication
 
 <div class="tc"><a href='https://italianschoolsd.square.site/product/summer-2026-italian-class-conversation-thursday/Y5WKFUFESRXU4N6FUGYEQWBD' class="btn raise">Pay and enroll (Thursday Conversation, $350)</a></div>
 
+
+### Family Discount
+
+- 10% off for all additional family members.
+- Please pay the full amount, then [contact us](https://www.italianschoolsd.com/contact/) for your partial refund.
+
 Questions about whether this class is the right fit? [Contact us]({{< relref "contact.md" >}}) and we’ll talk through placement.

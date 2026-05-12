@@ -1,7 +1,19 @@
+
+### Family Discount
+
+- 10% off for all additional family members.
+- Please pay the full amount, then [contact us](https://www.italianschoolsd.com/contact/) for your partial refund.
+
 ---
 title: Beginner Adult Italian Classes — Summer 2026
 date: 2026-05-11
 description: Full schedule, tuition, and enrollment links for beginner-level adult Italian classes running June through August 2026.
+
+### Family Discount
+
+- 10% off for all additional family members.
+- Please pay the full amount, then [contact us](https://www.italianschoolsd.com/contact/) for your partial refund.
+
 ---
 
 Need a friendly place to start your Italian? These beginner sections keep things practical, interactive, and low-pressure so you can build confidence quickly. No prior Italian experience is required—come ready to learn from the ground up.
@@ -9,6 +21,12 @@ Need a friendly place to start your Italian? These beginner sections keep things
 Our summer session runs for **10 weeks** from **June 1st to August 7th**.
 
 For other levels see [Adult classes overview]({{< relref "adults.md" >}}), where you’ll also find policies and discounts.
+
+
+### Family Discount
+
+- 10% off for all additional family members.
+- Please pay the full amount, then [contact us](https://www.italianschoolsd.com/contact/) for your partial refund.
 
 ---
 
@@ -22,6 +40,12 @@ Start your Italian journey in person at our school!
 
 <div class="tc"><a href='https://italianschoolsd.square.site/product/summer-2026-italian-class-beginner-thursday/OYEAS2PQXC2JDLNRICVRRWXB' class="btn raise">Pay and enroll (Thursday Beginner, In person, $360)</a></div>
 <div class="tc"><a href='https://italianschoolsd.square.site/bundle' class="btn raise">Pay and enroll (Thursday Beginner + Book Bundle, $409)</a></div>
+
+
+### Family Discount
+
+- 10% off for all additional family members.
+- Please pay the full amount, then [contact us](https://www.italianschoolsd.com/contact/) for your partial refund.
 
 ---
 
