@@ -51,7 +51,7 @@ Start your Italian journey with our friendly, hands-on beginner class! In 10 wee
 
 For students with at least one year of Italian classes or equivalent self-study.
 
-We offer multiple tracks to keep you challenged and progressing, including a combined **Evaluation Day on June 1st** for our Monday students to ensure the best level placement.
+We offer multiple tracks to keep you challenged and progressing, including **in-person and online Zoom sessions**, and a combined **Evaluation Day on June 1st** for our Monday students.
 
 <div class="tc"><a href='{{< relref "news/adult-intermediate-classes-summer-2026.md" >}}' class="btn raise">View summer intermediate schedules & tuition</a></div>
 

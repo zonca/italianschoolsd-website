@@ -14,12 +14,13 @@ For other levels see [Adult classes overview]({{< relref "adults.md" >}}), which
 
 ## Beginner-Intermediate Tracks
 
-These classes are designed for students moving up from our Beginner level or those with equivalent experience. We offer two tracks based on your pace:
+These classes are designed for students moving up from our Beginner level or those with equivalent experience. We offer three tracks:
 
-*   **Easier Track (Tuesday):** Best for students who have studied Italian for approximately **2 months**.
-*   **Challenging Track (Thursday):** Best for students who have studied Italian for approximately **4 months**.
+*   **Easier Track (Tuesday, In person):** Best for students who have studied Italian for approximately **2 months**.
+*   **Challenging Track (Thursday, In person):** Best for students who have studied Italian for approximately **4 months**.
+*   **Online Track (Tuesday):** A 9-week virtual session via Zoom.
 
-### Tuesday Beginner-Intermediate (Easier Track)
+### Tuesday Beginner-Intermediate (Easier Track, In person)
 
 - **Schedule:** Tuesdays, 5:30 pm–7:00 pm, June 2 – August 4, 2026 (10 classes)
 - **Tuition:** $350 for the full session
@@ -28,12 +29,23 @@ These classes are designed for students moving up from our Beginner level or tho
 
 ---
 
-### Thursday Beginner-Intermediate (Challenging Track)
+### Thursday Beginner-Intermediate (Challenging Track, In person)
 
 - **Schedule:** Thursdays, 6:00 pm–7:30 pm, June 4 – August 6, 2026 (10 classes)
 - **Tuition:** $350 for the full session
 
 <div class="tc"><a href='https://italianschoolsd.square.site/product/summer-2026-italian-class-beg-int-challenging-thursday/2L3BIIX5PKGKFXL5XYPDRJ63' class="btn raise">Pay and enroll (Thursday Beg-Int, $350)</a></div>
+
+---
+
+### Tuesday Beginner-Intermediate (Online)
+
+Learn Italian from anywhere via Zoom!
+
+- **Schedule:** Tuesdays, 6:00 pm–7:30 pm PST, June 9 – August 4, 2026 (9 classes)
+- **Tuition:** $297 for the full session (payment link below)
+
+<div class="tc"><a href='https://italianschoolsd.square.site/product/summer-2026-italian-class-beg-int-tuesday-online/XXBMLELKBU3KGPG2IRHO5JER' class="btn raise">Pay and enroll (Tuesday Beg-Int, Online, $297)</a></div>
 
 ---
 
