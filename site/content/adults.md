@@ -26,6 +26,14 @@ Planning a trip to Italy? Get ready with our "Italian for Travelers" program! We
 
 ---
 
+## Spanish for Adults
+
+Interested in learning another Romance language? We are launching a new Spanish beginner class this summer!
+
+<div class="tc"><a href="{{< relref "news/adult-spanish-classes-summer-2026.md" >}}" class="btn raise">View summer Spanish schedule & tuition</a></div>
+
+---
+
 ## Summer 2026 Group Classes
 
 Our summer session runs for **10 weeks** from **June 1st to August 7th**.
