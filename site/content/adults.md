@@ -106,4 +106,3 @@ To request a refund, email `admin` at our domain `italianschoolsd.com`.
 
 - 10% off for all additional family members (applied automatically at checkout).
 
----

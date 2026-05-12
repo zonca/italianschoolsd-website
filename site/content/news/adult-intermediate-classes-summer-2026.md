@@ -57,7 +57,6 @@ These classes are designed for students moving up from our Beginner level or tho
 
 ---
 
-
 ### Family Discount
 
 - 10% off for all additional family members (applied automatically at checkout).
