@@ -6,13 +6,15 @@ description: Advanced-level adult Italian class schedule, tuition, and enrollmen
 
 Comfortable holding conversations in Italian and ready to dive deeper into nuance, culture, and speed? Our advanced section keeps you thinking in Italian with authentic materials and lively discussion each week. Students typically have 3+ years of study or equivalent immersion experience.
 
-Our summer session runs for **10 weeks** from **June 1st to August 7th**.
+Our summer session runs for **10 weeks** from **June 1st to August 7th**. All our teachers are native Italian speakers (Italian mother tongue).
 
 For other levels see [Adult classes overview]({{< relref "adults.md" >}}) for quick comparisons, policies, and discounts.
 
 ---
 
 ## Thursday Advanced Conversation {#thu-adv}
+
+Start your Italian journey in person at our school with **Jessica**!
 
 - **Schedule:** Thursdays, 6:00 pm–7:30 pm, June 4 – August 6, 2026 (10 classes)
 - **Tuition:** $350 for the full session

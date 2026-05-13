@@ -6,7 +6,7 @@ description: Full schedule, tuition, and enrollment links for beginner-level adu
 
 Need a friendly place to start your Italian? These beginner sections keep things practical, interactive, and low-pressure so you can build confidence quickly. No prior Italian experience is required—come ready to learn from the ground up.
 
-Our summer session runs for **10 weeks** from **June 1st to August 7th**.
+Our summer session runs for **10 weeks** from **June 1st to August 7th**. All our teachers are native Italian speakers (Italian mother tongue).
 
 For other levels see [Adult classes overview]({{< relref "adults.md" >}}), where you’ll also find policies and discounts.
 
@@ -14,7 +14,7 @@ For other levels see [Adult classes overview]({{< relref "adults.md" >}}), where
 
 ## Thursday Beginner (In person) {#thu-beg}
 
-Start your Italian journey in person at our school!
+Start your Italian journey in person at our school with **Valentina**!
 
 - **Schedule:** Thursdays, 6:00 pm–7:30 pm, June 4 – August 6, 2026 (10 classes)
 - **Tuition:** $360 for the full session (payment link below)
@@ -27,7 +27,7 @@ Start your Italian journey in person at our school!
 
 ## Monday Beginner (Online) {#mon-beg-online}
 
-Learn Italian from the comfort of your home via Zoom.
+Learn Italian from the comfort of your home via Zoom with **Tania**.
 
 - **Schedule:** Mondays, 6:00 pm–7:30 pm PST, June 1 – August 3, 2026 (10 classes)
 - **Tuition:** $330 for the full session (payment link below)
