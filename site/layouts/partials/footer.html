@@ -58,7 +58,8 @@
   headings.forEach(h => {
     const a = document.createElement('a');
     a.className = 'anchor';
-    a.href = '#' + h.id;
+    // Use pathname to avoid the <base href> issue
+    a.href = window.location.pathname + '#' + h.id;
     a.ariaLabel = 'Anchor';
     a.textContent = '#';
     h.appendChild(a);
