@@ -18,10 +18,10 @@ Note: All in-person adult classes meet at our school at [4550 Kearny Villa Rd Su
 
 ## Italian for Travelers
 
-Planning a trip to Italy? Get ready with our "Italian for Travelers" program! We are launching three separate sessions for March, April, and May 2026.
+Planning a trip to Italy? Get ready with our "Italian for Travelers" program! We are launching two separate sessions for June and July 2026.
 
 <div class="tc">
-<a href="{{< relref "news/italian-for-travelers-march-april-may-2026.md" >}}" class="btn raise">Learn more and enroll to "Italian for travelers"</a>
+<a href="{{< relref "news/italian-for-travelers-june-july-2026.md" >}}" class="btn raise">Learn more and enroll to "Italian for travelers"</a>
 </div>
 
 ---
