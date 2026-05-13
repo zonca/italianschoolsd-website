@@ -52,4 +52,18 @@
 	</div>
 </footer>
 
+<script>
+(function() {
+  const headings = document.querySelectorAll('.cms h2[id], .cms h3[id], .cms h4[id], .cms h5[id], .cms h6[id]');
+  headings.forEach(h => {
+    const a = document.createElement('a');
+    a.className = 'anchor';
+    a.href = '#' + h.id;
+    a.ariaLabel = 'Anchor';
+    a.textContent = '#';
+    h.appendChild(a);
+  });
+})();
+</script>
+
 {{ partial "svg" . }}
