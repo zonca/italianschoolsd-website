@@ -20,7 +20,7 @@ These classes are designed for students moving up from our Beginner level or tho
 *   **Challenging Track (Thursday, In person):** Best for students who have studied Italian for approximately **4 months**.
 *   **Online Track (Tuesday):** A 9-week virtual session via Zoom.
 
-### Tuesday Beginner-Intermediate (Easier Track, In person)
+### Tuesday Beginner-Intermediate (Easier Track, In person) {#tue-easier}
 
 - **Schedule:** Tuesdays, 5:30 pm–7:00 pm, June 2 – August 4, 2026 (10 classes)
 - **Tuition:** $350 for the full session
@@ -29,7 +29,7 @@ These classes are designed for students moving up from our Beginner level or tho
 
 ---
 
-### Thursday Beginner-Intermediate (Challenging Track, In person)
+### Thursday Beginner-Intermediate (Challenging Track, In person) {#thu-challenging}
 
 - **Schedule:** Thursdays, 6:00 pm–7:30 pm, June 4 – August 6, 2026 (10 classes)
 - **Tuition:** $350 for the full session
@@ -38,7 +38,7 @@ These classes are designed for students moving up from our Beginner level or tho
 
 ---
 
-### Tuesday Beginner-Intermediate (Online)
+### Tuesday Beginner-Intermediate (Online) {#tue-online}
 
 Learn Italian from anywhere via Zoom!
 
@@ -49,7 +49,7 @@ Learn Italian from anywhere via Zoom!
 
 ---
 
-## Monday All Intermediate Levels
+## Monday All Intermediate Levels {#mon-int}
 
 - **Schedule:** Mondays, 6:00 pm–7:30 pm, June 1 – August 3, 2026 (10 classes)
 - **Structure:** We plan to run two groups (**Intermediate** and **Intermediate-Advanced**) simultaneously and place students according to their level. **June 1st is an “Evaluation Day”** to help balance the groups and ensure everyone is in the right track.
@@ -60,7 +60,7 @@ Learn Italian from anywhere via Zoom!
 
 ---
 
-## Wednesday Intermediate
+## Wednesday Intermediate {#wed-int}
 
 - **Schedule:** Wednesdays, 6:00 pm–7:30 pm, June 3 – August 5, 2026 (10 classes)
 - **Tuition:** $350 for the full session

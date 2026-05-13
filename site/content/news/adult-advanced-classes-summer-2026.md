@@ -12,7 +12,7 @@ For other levels see [Adult classes overview]({{< relref "adults.md" >}}) for qu
 
 ---
 
-## Thursday Advanced Conversation
+## Thursday Advanced Conversation {#thu-adv}
 
 - **Schedule:** Thursdays, 6:00 pm–7:30 pm, June 4 – August 6, 2026 (10 classes)
 - **Tuition:** $350 for the full session

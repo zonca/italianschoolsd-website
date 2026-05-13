@@ -14,7 +14,7 @@ For other levels see [Adult classes overview]({{< relref "adults.md" >}}), where
 
 ---
 
-## Thursday Spanish Beginner (In person)
+## Thursday Spanish Beginner (In person) {#thu-spanish}
 
 - **Schedule:** Thursdays, 6:00 pm–7:30 pm, June 4 – August 6, 2026 (10 classes)
 - **Tuition:** $360 for the full session

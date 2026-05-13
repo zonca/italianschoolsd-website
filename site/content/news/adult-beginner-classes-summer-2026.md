@@ -12,7 +12,7 @@ For other levels see [Adult classes overview]({{< relref "adults.md" >}}), where
 
 ---
 
-## Thursday Beginner (In person)
+## Thursday Beginner (In person) {#thu-beg}
 
 Start your Italian journey in person at our school!
 
@@ -25,7 +25,7 @@ Start your Italian journey in person at our school!
 
 ---
 
-## Monday Beginner (Online)
+## Monday Beginner (Online) {#mon-beg-online}
 
 Learn Italian from the comfort of your home via Zoom.
 

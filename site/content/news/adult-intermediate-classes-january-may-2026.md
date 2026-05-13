@@ -10,7 +10,7 @@ For other levels see [Adult classes overview]({{< relref "adults.md" >}}), which
 
 ---
 
-## Monday All Intermediate Levels (In person)
+## Monday All Intermediate Levels (In person) {#mon-int}
 
 - **Schedule:** Mondays, 6:00 pm–7:30 pm, January 12 – May 18, 2026 (16 classes)
 - **Skip dates:** No class on Jan 19 (MLK Day), Feb 16 (Presidents’ Day), Mar 30 (Spring Break), May 25 (Memorial Day)
@@ -23,7 +23,7 @@ For other levels see [Adult classes overview]({{< relref "adults.md" >}}), which
 
 ---
 
-## Wednesday Beginner-Intermediate (In person)
+## Wednesday Beginner-Intermediate (In person) {#wed-beg-int}
 
 - **Schedule:** Wednesdays, 6:20 pm–7:50 pm, January 14 – June 3, 2026 (20 classes)
 - **Skip dates:** No class on April 1 (Spring Break)
@@ -35,7 +35,7 @@ For other levels see [Adult classes overview]({{< relref "adults.md" >}}), which
 
 ---
 
-## Thursday Beginner-Intermediate (In person)
+## Thursday Beginner-Intermediate (In person) {#thu-beg-int}
 
 - **Schedule:** Thursdays, 6:30 pm–8:00 pm, January 8 – May 28, 2026 (20 classes)
 - **Skip dates:** No class on April 2 (Spring Break)
