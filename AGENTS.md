@@ -33,6 +33,17 @@ Operational guide for AI/code agents working on `italianschoolsd-website`.
 - ALWAYS create manual heading anchors for all main sections using the `{#anchor-name}` syntax (e.g., `## My Section {#my-section}`). This allows users to link directly to specific parts of the page.
 - Keep tone concise, clear, and service-oriented.
 
+## Mandatory Verification
+
+Every task MUST be verified before finality. Do not assume success based on successful commands.
+
+1.  **Visual Verification:** If you create or modify visual assets (PDFs, flyers, complex CSS), convert them to images (e.g., using `pdftoppm` or screenshots) and inspect them.
+2.  **Link Integrity:** If you add or modify links (including anchors), test them. Use `curl`, `wget --spider`, or automated browser tools to ensure they resolve to the expected content.
+3.  **Functional Testing:** For website modifications, use `curl -s | grep` to verify rendered HTML structure. For complex interactions, use Playwright or similar tools if available in the environment to confirm the UX works as intended.
+4.  **Local Build Check:** Always run `npm run build:hugo` and inspect the `dist/` output for the specific page changed. Verify that the generated HTML matches your expectations.
+
+Validation is the only path to finality. A task is not complete until you have empirically confirmed it works.
+
 ## Typography and Spacing Guardrails
 
 - Single content pages should render content inside a `.cms` container.

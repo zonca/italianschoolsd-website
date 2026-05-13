@@ -54,8 +54,12 @@
 
 <script>
 (function() {
-  const headings = document.querySelectorAll('.cms h2[id], .cms h3[id], .cms h4[id], .cms h5[id], .cms h6[id]');
+  // Target any heading with an ID that isn't in the nav or footer
+  const headings = document.querySelectorAll('h2[id], h3[id], h4[id], h5[id], h6[id]');
   headings.forEach(h => {
+    // Skip headings inside nav or footer
+    if (h.closest('nav') || h.closest('footer')) return;
+
     const a = document.createElement('a');
     a.className = 'anchor';
     // Use pathname to avoid the <base href> issue
