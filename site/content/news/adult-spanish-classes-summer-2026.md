@@ -14,12 +14,12 @@ For other levels see [Adult classes overview]({{< relref "adults.md" >}}), where
 
 ---
 
-## Thursday Spanish Beginner (In person) {#thu-spanish}
+## Wednesday Spanish Beginner (In person) {#wed-spanish}
 
-- **Schedule:** Thursdays, 6:00 pm–7:30 pm, June 4 – August 6, 2026 (10 classes)
+- **Schedule:** Wednesdays, 6:00 pm–7:30 pm, June 3 – August 5, 2026 (10 classes)
 - **Tuition:** $360 for the full session
 
-<div class="tc"><a href='https://italianschoolsd.square.site/product/summer-2026-spanish-class-beginner-thursday/FQRBMFIFIJ4EDG4KUTO3TE43' class="btn raise">Pay and enroll (Thursday Spanish Beginner, $360)</a></div>
+<div class="tc"><a href='https://italianschoolsd.square.site/product/summer-2026-spanish-class-beginner-thursday/FQRBMFIFIJ4EDG4KUTO3TE43' class="btn raise">Pay and enroll (Wednesday Spanish Beginner, $360)</a></div>
 
 ---
 
