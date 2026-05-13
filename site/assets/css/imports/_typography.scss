@@ -36,7 +36,18 @@ em {
 h1, h2, h3, h4, h5, h6 {
 	font-weight: var(--bold-font-weight);
 	line-height: 1.25;
-margin-bottom: var(--spacing-small);
+  margin-bottom: var(--spacing-small);
+  position: relative;
+
+  &[id]:hover::after {
+    content: " #";
+    font-size: 0.8em;
+    color: var(--blue);
+    cursor: pointer;
+    vertical-align: middle;
+    text-decoration: none;
+    opacity: 0.6;
+  }
 }
 
 h1 {
