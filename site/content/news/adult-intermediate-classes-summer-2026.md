@@ -18,7 +18,7 @@ These classes are designed for students moving up from our Beginner level or tho
 
 *   **Easier Track (Tuesday, In person):** Best for students who have studied Italian for approximately **2 months**. Taught by **Valentina**.
 *   **Challenging Track (Thursday, In person):** Best for students who have studied Italian for approximately **4 months**. Taught by **Sara**.
-*   **Online Track (Tuesday):** A 9-week virtual session via Zoom with **Tania**.
+
 
 ### Tuesday Beginner-Intermediate (Easier Track, In person) {#tue-easier}
 
@@ -36,16 +36,7 @@ These classes are designed for students moving up from our Beginner level or tho
 
 <div class="tc"><a href='https://italianschoolsd.square.site/product/summer-2026-italian-class-beg-int-challenging-thursday/2L3BIIX5PKGKFXL5XYPDRJ63' class="btn raise">Pay and enroll (Thursday Beg-Int, $350)</a></div>
 
----
 
-### Tuesday Beginner-Intermediate (Online) {#tue-online}
-
-Learn Italian from anywhere via Zoom with **Tania**!
-
-- **Schedule:** Tuesdays, 6:00 pm–7:30 pm PST, June 9 – August 4, 2026 (9 classes)
-- **Tuition:** $297 for the full session (payment link below)
-
-<div class="tc"><a href='https://italianschoolsd.square.site/product/summer-2026-italian-class-beg-int-tuesday-online/XXBMLELKBU3KGPG2IRHO5JER' class="btn raise">Pay and enroll (Tuesday Beg-Int, Online, $297)</a></div>
 
 ---
 

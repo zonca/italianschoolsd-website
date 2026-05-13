@@ -37,6 +37,21 @@ Interested in learning another Romance language? We are launching a new Spanish 
 ## Summer 2026 Group Classes {#summer-2026}
 
 Our summer session runs for **10 weeks** from **June 1st to August 7th**.
+
+## Detailed Weekly Schedule (All classes 1.5 hours)
+
+| DAY | LEVEL | TEACHER | Time |
+| :--- | :--- | :--- | :--- |
+| **MONDAY** | **Int-Adv** | **Laura** | 6:00 PM - 7:30 PM |
+| **MONDAY** | **Intermediate** | **Sara** | 6:00 PM - 7:30 PM |
+| **MONDAY (Online)** | **Beginner** | **Tania Adami** | 6:00 PM - 7:30 PM |
+| **TUESDAY** | **Beg-Int (Easier)** | **Valentina** | **5:30 PM - 7:00 PM** |
+| **WEDNESDAY** | **Intermediate** | **Laura** | 6:00 PM - 7:30 PM |
+| **THURSDAY** | **Beg-Int (Challenging)** | **Sara** | 6:00 PM - 7:30 PM |
+| **THURSDAY** | **Conversation** | **Jessica** | 6:00 PM - 7:30 PM |
+| **THURSDAY** | **Beginner** | **Valentina** | 6:00 PM - 7:30 PM |
+| **THURSDAY** | **Spanish Beginner** | **Bilingual Teacher** | 6:00 PM - 7:30 PM |
+
 Choose your level below and enroll online with your credit card.
 
 ### Beginner class {#beginner}
