@@ -8,7 +8,7 @@ Effective date: March 21, 2026
 
 Italian school of San Diego LLC is committed to making this website more accessible and usable for visitors with disabilities.
 
-## Our approach
+## Our approach {#approach}
 
 We aim to improve the website on an ongoing basis and use WCAG 2.1 Level AA as our working accessibility target.
 
@@ -20,11 +20,11 @@ We try to support:
 * labeled form fields
 * mobile-friendly reading and interaction
 
-## Third-party content
+## Third-party content {#third-party}
 
 Some parts of the user experience rely on third-party services or external websites, such as forms, calendars, analytics, or search tools. We do not control the accessibility of those third-party services, but we try to choose and use them in a practical and accessible way.
 
-## Need help or found a problem?
+## Need help or found a problem? {#contact}
 
 If you have difficulty using this website, need information in an alternative format, or want to report an accessibility issue, contact us and include the page or feature involved.
 

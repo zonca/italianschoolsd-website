@@ -5,7 +5,7 @@ subtitle: TK-12 grade
 ---
 
 
-## After-school group tutoring, homework and reading help
+## After-school group tutoring, homework and reading help {#group-tutoring}
 
 Come to [our school](/location) in Kearny Mesa twice a week for help from our expert tutors on Math, English, Spanish, Science (and more) homework, studying for a test, improve reading skills.
 
@@ -22,7 +22,7 @@ At pre-enrollment, the parent will be able to specify the drop-off and pickup ti
 
 The pricing is $20/hour for the first 3 hours per week, additional hours are charged $15. So for example 4 hours per week cost $75/week, 6 hours per week $105/week.
 
-## Private tutoring in-person or online
+## Private tutoring in-person or online {#private-tutoring}
 
 We offer private tutoring in-person or online for students TK to 12th grade. Our tutors are experts in their field and can help with any subject. Whether you need help with Math, Science, English, or any other subject, we have a tutor who can help.
 

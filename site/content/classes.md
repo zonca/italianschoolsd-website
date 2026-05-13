@@ -6,7 +6,7 @@ subtitle: "Children Classes 2025–2026"
 
 This page is for students in TK–6th grade. For teens, see our [accredited classes](/accredited-classes).
 
-## Italian Heritage Classes for Kids (TK–6)
+## Italian Heritage Classes for Kids (TK–6) {#heritage}
 
 > “*La lingua è l'ultima proprietà di chi parte per sempre*”  
 (Erri de Luca, I pesci non chiudono gli occhi)
@@ -24,7 +24,7 @@ In-person classes meet for 2 hours per week: **Thursdays, 4:15–6:15pm**. The f
 
 See the [Italian School of San Diego calendar](/calendar) for our Google Calendar schedule.
 
-## Italian as a Foreign Language (IFL) Classes for Kids (TK–6)
+## Italian as a Foreign Language (IFL) Classes for Kids (TK–6) {#ifl}
 
 Italian as a Foreign Language (IFL) classes are for students who are new to Italian or are beginners. Instruction is in English, starting with the basics of Italian using a conversation-first approach and engaging activities to reinforce language skills.
 
@@ -39,7 +39,7 @@ Students are grouped by age.
 
 See the [Italian School of San Diego calendar](/calendar) for our Google Calendar schedule.
 
-## Italian for Spanish Speakers (TK–6)
+## Italian for Spanish Speakers (TK–6) {#spanish-speakers}
 
 These classes are for children who already speak Spanish and want to learn Italian. The curriculum leverages the similarities between the two languages to make learning easier.
 
@@ -47,18 +47,18 @@ Instruction is provided in both English and Spanish, helping students use their 
 
 We do not plan to offer this program in 2025–2026. However, if you are interested, please [contact us](/contact) to express your interest. We may be able to arrange private or semi-private classes based on demand.
 
-## Location
+## Location {#location}
 
 * Our main location: 4550 Kearny Villa Rd, Suite 202. All kids' classes are held here. See our [dedicated page about our school](/location).
 
 
-## Pre-enrollment for All Programs
+## Pre-enrollment for All Programs {#pre-enrollment}
 
 <div class="tc">
 <a href="/enroll" class="btn raise">Tuition and pre-enrollment information</a>
 </div>
 
-## Italian Classes for Home-Schooled Kids
+## Italian Classes for Home-Schooled Kids {#home-schooled}
 
 We can organize Italian group classes in the morning for home-schooled children or preschoolers, either at our location or on-site. These classes use play and games to introduce children to Italian starting from age 3.
 

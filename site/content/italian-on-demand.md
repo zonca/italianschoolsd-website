@@ -14,7 +14,7 @@ This service is designed for:
 * intermediate and advanced learners who want a class tailored to their goals
 * adults preparing for travel, family communication, citizenship, school, or professional use
 
-## How it works
+## How it works {#how-it-works}
 
 1. View the available lesson times on our booking form.
 2. Choose the slot that works best for you.
@@ -45,7 +45,7 @@ Once a lesson is booked, it is **not refundable**.
 <a href="https://italianschoolsd.secureform.dev/ondemand" class="btn raise">Book Italian On Demand</a>
 </div>
 
-## Who it is for
+## Who it is for {#who-for}
 
 We can support learners from **complete beginner** through **intermediate** and **advanced** levels.
 
@@ -62,17 +62,17 @@ Lessons can focus on:
 
 Our teaching staff for this program is **native Italian**, and lessons are adapted to the student's level, pace, and objectives.
 
-## Teacher
+## Teacher {#teachers}
 
-### Federica
+### Federica {#federica}
 
 Federica is a native Italian language teacher with more than **7 years of experience** teaching children, teens, and adults. Her background includes foreign language teaching, Italian L2 instruction, private lessons, small-group lessons, summer programs, and school-based teaching. She has taught beginners as well as more experienced learners and is comfortable adapting lessons to different ages, goals, and learning styles.
 
-### Luisa
+### Luisa {#luisa}
 
 Luisa is a native Italian language teacher with nearly **10 years of experience** teaching adults in academic and cultural settings. Her background includes long-term Italian language instruction, advanced grammar teaching, and work with adult learners across different levels. She is especially well suited to students who want structured online lessons focused on grammar, conversation, and steady progress.
 
-## Looking for a standard class instead?
+## Looking for a standard class instead? {#standard-classes}
 
 If you prefer a regular weekly schedule, we also offer standard Italian classes:
 
@@ -81,7 +81,7 @@ If you prefer a regular weekly schedule, we also offer standard Italian classes:
 
 Italian On Demand is a flexible option for students who want a private class, but many families and adult learners are better served by our regular in-person and online programs.
 
-## Pilot program
+## Pilot program {#pilot-program}
 
 Italian On Demand is launching as a **pilot program**. We will use the first round of bookings to refine scheduling, teacher availability, and future expansion.
 

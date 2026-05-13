@@ -4,7 +4,7 @@ image: /img/milan.jpg
 subtitle: Classes for the Academic Year 2025-2026
 ---
 
-## Accredited Italian Classes for Middle and High School Students
+## Accredited Italian Classes for Middle and High School Students {#districts}
 
 The Italian School of San Diego LLC is accredited by both the San Diego Unified and San Dieguito Union High School Districts as an "Independent World Language School." Classes taken at the Italian School fulfill the language requirement for high school graduation at all public high schools within these two districts and also satisfy college admission requirements. Grades earned in Italian classes will be added to students' high school transcripts.
 
@@ -15,7 +15,7 @@ For more information, see:
 * [World Languages page of the Multilingual Education Department, San Diego Unified](https://www.sdusdmed.org/projects/independent-world-languages-schools)
 * [Off-Campus World Language Courses at San Dieguito](https://www.sduhsd.net/Departments/Educational-Services/Specialized-Programs/Off-Campus-Courses/Off-Campus-World-Language-Courses/index.html)
 
-### Class Levels and Schedule
+### Class Levels and Schedule {#schedule}
 
 <div class="tc">
   <div style="background-color: #f0f4f8; padding: 20px; border-radius: 8px; border: 1px solid #d1d9e6; margin-bottom: 20px;">
@@ -41,21 +41,21 @@ We also offer modified programs for students—generally of Italian heritage—w
 
 Students with prior Italian study may test into a higher level than 1-2. Please indicate this on the pre-enrollment form or contact us in advance. Note: If a student enrolls in, for example, `ifl5-6` during high school, they will receive three years of foreign language credit. Credit is tied to the class level, not the number of years attended.
 
-### Location
+### Location {#location}
 
 All classes are held via Zoom, with occasional in-person social gatherings.
 
-### Calendar
+### Calendar {#calendar}
 
 * 35 weekly classes, 2 hours each, plus 2 hours of independent study per week
 * Classes start the week of September 4th and end the first week of June
 * Most classes have a set schedule (see above). For classes with TBD schedules, timing will be decided based on teacher and student availability—generally the same day each week between 4:30 and 6:30 pm. You will receive an email after pre-enrollment.
 
-### Books
+### Books {#books}
 
 Book information will be provided after students are assigned to classes.
 
-## How to Enroll
+## How to Enroll {#how-to-enroll}
 
 * Middle school students can enroll directly with the Italian School—no school involvement required.
 * High school students must notify their school of their intent to pursue language education externally. Usually, a form must be completed and sent to the counselor.
@@ -66,7 +66,7 @@ See tuition details and submit a non-binding pre-enrollment form using the butto
 <a href="/enroll-accredited" class="btn raise">Tuition and Pre-Enrollment Information</a>
 </div>
 
-### Workload and Grading
+### Workload and Grading {#workload-grading}
 
 Accredited classes require at least 2 hours of homework per week (compared to 30 minutes to 1 hour for lower levels). Students should plan accordingly.
 
@@ -74,13 +74,13 @@ Grading is more structured: students will join our Google Classroom, submit week
 
 Parents receive grade reports four times a year. For public high school students in San Diego Unified or San Dieguito, January and June reports are also sent to the high school for transcript inclusion.
 
-### How Many Years Are Needed?
+### How Many Years Are Needed? {#years-needed}
 
 High school graduation and college admission require two years of a foreign language, but most colleges recommend three years, and some Ivy League schools (e.g., Harvard) recommend four. See the [E) requirement for admission to the University of California](https://admission.universityofcalifornia.edu/admission-requirements/first-year-requirements/subject-requirement-a-g.html):
 
 > Two years, or equivalent to the 2nd level of high school instruction, of the same language other than English are required. (Three years/3rd level of high school instruction recommended). Courses should emphasize speaking and understanding, and include instruction in grammar, vocabulary, reading, composition, and culture. [...] Courses taken in the seventh and eighth grades may be used to fulfill part or all of this requirement if the high school accepts them as equivalent to its own courses.
 
-### When Is the Best Time to Start?
+### When Is the Best Time to Start? {#best-time}
 
 We recommend enrolling in Italian 1-2 in 7th grade. This allows students to complete Italian 1-2 and 3-4 in middle school. While high schools do not grant credit for language classes taken in middle school, starting early allows students to satisfy requirements sooner. After passing Italian 5-6 in 9th grade, students are granted three years of language credit. They can then take Italian 7-8 in 10th grade for an additional year of language and AP Italian preparation. By 10th grade, students have satisfied their language requirement and can focus on electives in the last two years of high school.
 
@@ -106,7 +106,7 @@ Or start as early as 6th grade, finishing language requirements in 9th grade:
 
 Students already fluent in Italian, with grammar knowledge and cultural familiarity, may start at a higher level after evaluation.
 
-### Instructions for San Diego Unified School District
+### Instructions for San Diego Unified School District {#instructions-sdusd}
 
 [Contact us](/contact) with:
 
@@ -116,7 +116,7 @@ Students already fluent in Italian, with grammar knowledge and cultural familiar
 
 We will prepare the "Intent to Undertake Independent Language Study" form, sign it, and email it to you for printing, signing, and submission to the high school.
 
-### Instructions for San Dieguito Union High School District
+### Instructions for San Dieguito Union High School District {#instructions-sduhsd}
 
 Download the "SDUHSD Off-Campus Course Permission Form" at the bottom of this page:
 <https://www.sduhsd.net/Departments/Educational-Services/Specialized-Programs/Off-Campus-Courses/index.html>

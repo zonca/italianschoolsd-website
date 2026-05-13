@@ -14,7 +14,7 @@ Whether you're a complete beginner or looking to polish your conversational skil
 
 ---
 
-## Why Choose Private Lessons?
+## Why Choose Private Lessons? {#why-private}
 
 - **All levels welcome** — absolute beginner, intermediate, or advanced. We meet you where you are.
 - **Flexible scheduling** — choose the day and time that works best for you, and reschedule when life gets in the way.
@@ -24,7 +24,7 @@ Whether you're a complete beginner or looking to polish your conversational skil
 
 ---
 
-## How It Works
+## How It Works {#how-it-works}
 
 1. **Fill out the interest form** — tell us about your goals, current level, and scheduling preferences.
 2. **We match you with a teacher** — based on your needs and availability, we pair you with the right instructor.
@@ -32,7 +32,7 @@ Whether you're a complete beginner or looking to polish your conversational skil
 
 ---
 
-## Scheduling & Cancellation Policy
+## Scheduling & Cancellation Policy {#scheduling-cancellation}
 
 We know schedules change. Our private lesson policy is designed to be fair and flexible:
 
@@ -41,7 +41,7 @@ We know schedules change. Our private lesson policy is designed to be fair and f
 
 ---
 
-## Italian On Demand (Maximum Flexibility)
+## Italian On Demand (Maximum Flexibility) {#on-demand}
 
 If you prefer to book lessons one at a time without a recurring schedule, try **Italian On Demand**. You can book a private one-hour lesson online via Zoom with as little as 12 hours' notice.
 
@@ -53,7 +53,7 @@ If you prefer to book lessons one at a time without a recurring schedule, try **
 
 ---
 
-## Ready to Get Started?
+## Ready to Get Started? {#get-started}
 
 Fill out our interest form and we'll get back to you within a couple of days to discuss your goals and match you with a teacher.
 

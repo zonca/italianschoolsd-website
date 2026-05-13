@@ -10,7 +10,7 @@ Please **pre-enroll by July 31st** to secure a spot. Later enrollments will be c
 
 To finalize your enrollment, you must pay the invoice attached to the confirmation email by August 20th. Pre-enrollment is not binding until payment is received.
 
-## Tuition for Accredited Classes
+## Tuition for Accredited Classes {#tuition}
 
 Accredited classes follow an extensive curriculum approved by the school districts and require significantly more effort from both teachers and students compared to non-accredited classes. Districts require students to complete 140 hours of language education per year, with 2 hours in class and 2 hours of independent study each week. This means a higher workload for students, as well as for teachers, who must prepare and grade additional homework.
 
@@ -26,11 +26,11 @@ Legacy students who have been enrolled in Italian School for 4 years receive an 
 
 **$2,180** (unchanged since academic year **2022–2023**)
 
-## Materials Fee
+## Materials Fee {#materials}
 
 There is an additional $150 materials fee for all in-person classes. This covers office and craft supplies purchased throughout the year. The fee does not apply to online classes.
 
-## Late Enrollment
+## Late Enrollment {#late-enrollment}
 
 Parents who pay the enrollment invoice **after August 7th** or enroll during the school year will pay 5% higher tuition and are not eligible for returning or legacy discounts:
 

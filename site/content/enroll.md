@@ -12,7 +12,7 @@ No payment is needed at the time of pre-enrollment, we will email you a confirma
 
 You will need to pay the invoice attached to the confirmation email to finalize enrollment, pre-enrollment itself is not binding.
 
-## Tuition for Italian-heritage and for Italian as a Foreign language in-person 2-hour classes
+## Tuition for Italian-heritage and for Italian as a Foreign language in-person 2-hour classes {#tuition}
 
 Tuition for 9 months of instruction for early enrollment (payment **before August 7th**):
 
@@ -22,13 +22,13 @@ Tuition for 9 months of instruction for early enrollment (payment **before Augus
 
 **$1490** (legacy students, enrolled for 4 years or more)
 
-## Late enrollment
+## Late enrollment {#late-enrollment}
 
 Parents who pay the enrollment invoice **after August 7th** or enroll during the school year will have a tuition 5% higher and are not eligible for returning or legacy discounts:
 
 **$1932**
 
-## Material fee
+## Material fee {#materials}
 
 We are charging an additional $150 material fee for all kids joining in-person classes, this covers office and craft supplies we purchase during the year.
 

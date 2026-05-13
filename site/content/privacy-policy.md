@@ -8,7 +8,7 @@ Effective date: March 21, 2026
 
 Italian school of San Diego LLC operates this website. This page explains what information may be collected through the site, how it is used, and how to contact us with questions.
 
-## Information we collect
+## Information we collect {#collect}
 
 We may collect information that you provide directly, including:
 
@@ -21,7 +21,7 @@ We may also collect limited technical information automatically, including:
 * browser, device, and usage information collected through Google Analytics
 * information needed to operate search and embedded services used on the site
 
-## How we use information
+## How we use information {#use}
 
 We use information collected through the website to:
 
@@ -31,7 +31,7 @@ We use information collected through the website to:
 * operate, maintain, and improve the website
 * understand site traffic and usage patterns
 
-## Services and third parties
+## Services and third parties {#third-parties}
 
 This website uses or links to third-party services, including:
 
@@ -44,23 +44,23 @@ This website uses or links to third-party services, including:
 
 When you use a third-party form, embed, or external link, information may be collected directly by that provider under its own terms and privacy practices.
 
-## Cookies and similar technologies
+## Cookies and similar technologies {#cookies}
 
 This website uses analytics and similar technologies to understand site traffic and improve performance. These tools may use cookies or similar browser-based storage.
 
-## Do Not Track
+## Do Not Track {#dnt}
 
 Some browsers offer a `Do Not Track` setting. At this time, this website does not respond differently to browser `Do Not Track` signals.
 
-## Children
+## Children {#children}
 
 This website is intended for general audiences. We expect parents, guardians, or other adults to submit information for class inquiries and enrollment-related requests.
 
-## Changes to this policy
+## Changes to this policy {#changes}
 
 We may update this page from time to time. The current version will always be posted here with the effective date shown at the top.
 
-## Contact
+## Contact {#contact}
 
 If you have questions about this Privacy Policy, contact Italian school of San Diego LLC at:
 

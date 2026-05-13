@@ -12,7 +12,7 @@ Give your team a competitive edge with Italian language training designed for th
 
 ---
 
-## Why Italian for Your Business?
+## Why Italian for Your Business? {#why-business}
 
 - **Strengthen international relationships** — communicate directly with Italian partners, suppliers, and clients in their language.
 - **Boost team morale** — language learning is a proven team-building activity that employees genuinely enjoy.
@@ -21,7 +21,7 @@ Give your team a competitive edge with Italian language training designed for th
 
 ---
 
-## What We Offer
+## What We Offer {#what-offer}
 
 - **All levels** — from absolute beginners to advanced speakers. We assess each participant and tailor the program accordingly.
 - **Flexible formats** — group classes for your team, individual lessons for executives, or a mix of both.
@@ -31,7 +31,7 @@ Give your team a competitive edge with Italian language training designed for th
 
 ---
 
-## Flexible Scheduling
+## Flexible Scheduling {#scheduling}
 
 We work around your team's calendar, not the other way around:
 
@@ -41,7 +41,7 @@ We work around your team's calendar, not the other way around:
 
 ---
 
-## How to Get Started
+## How to Get Started {#get-started}
 
 1. **Fill out the interest form** — tell us about your company, team size, goals, and preferred schedule.
 2. **We design a proposal** — we'll recommend a format, frequency, and curriculum tailored to your needs.

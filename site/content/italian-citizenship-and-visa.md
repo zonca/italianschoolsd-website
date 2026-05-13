@@ -11,19 +11,19 @@ Unlock the door to Europe. Whether you are reconnecting with your roots or secur
 
 We combine the cultural heart of The Italian School with the elite precision of a trusted external attorney: a U.S.-licensed lawyer with an Italian law degree.
 
-## Why Become an Italian Citizen?
+## Why Become an Italian Citizen? {#why-citizenship}
 
 *   **For Your Children:** Give them the "EU Advantage." Italian citizenship is often passed to children automatically, granting them the right to live, work, and study across 27 European countries with free or low-cost university tuition.
 *   **For Your Spouse:** If you are an Italian citizen living in San Diego, your spouse can join you in dual nationality. We help navigate the Citizenship by Marriage process, ensuring your family stays united under two flags.
 *   **For Your Future:** Enjoy world-class healthcare, visa-free travel to 190+ countries, and the ability to own property or retire in Italy with ease.
 
-## The 3-Step "Concierge" Pathway
+## The 3-Step "Concierge" Pathway {#concierge-pathway}
 
 1.  **The Legal Viability Assessment:** Don't waste time or money on guesswork. An independent external attorney (NY licensed) with law degrees from Italy performs a professional audit to "green-light" your case. You will know exactly if you qualify before you spend a dime on document procurement.
 2.  **The Logistics "Deep Dive":** Once you are cleared, The Italian School takes over the legwork. We hunt down birth records in Italy, secure U.S. Apostilles, and get you ready for the mandatory B1 language exam. We handle the bureaucracy; you enjoy the journey.
 3.  **The Final Perfection Before Submission:** The external counsel returns to perform a final "white-glove" review. They draft the necessary legal documents and ensure your file is "consulate-ready" for the Italian Consulate in Los Angeles.
 
-## The Advantage: San Diego Heart, Italian Law Pedigree
+## The Advantage: San Diego Heart, Italian Law Pedigree {#advantage}
 
 Most Italian consulate services are run by clerical agencies. Our program is unique because it is vetted by a U.S.-qualified lawyer with a strong Italian legal pedigree.
 
@@ -31,7 +31,7 @@ Most Italian consulate services are run by clerical agencies. Our program is uni
 *   **Local Accountability:** As a U.S.-qualified attorney, your counsel is bound by strict professional ethics.
 *   **Deep Expertise:** Benefit from over two decades of experience in international legal matters.
 
-## Check Your Eligibility Today
+## Check Your Eligibility Today {#check-eligibility}
 
 Ready to bring Italy home to your family? Start our 60-second intake form to request your Legal Viability Assessment.
 
