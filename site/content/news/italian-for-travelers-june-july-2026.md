@@ -20,11 +20,11 @@ All sessions meet on **Wednesdays, 6:00pm–7:30pm** at our location in Kearny M
 
 ### June Session
 - **Dates:** June 10, 17, 24, July 1
-- [View session and enroll](https://italianschoolsd.square.site/product/italian-for-travelers-june-2026-session/17)
+- [View session and enroll](https://italianschoolsd.square.site/product/italian-for-travelers-june-2026-session/U7OOR6PALHP7K3XCPYV2K5DF)
 
 ### July Session
 - **Dates:** July 8, 15, 22, 29
-- [View session and enroll](https://italianschoolsd.square.site/product/italian-for-travelers-july-2026-session/18)
+- [View session and enroll](https://italianschoolsd.square.site/product/italian-for-travelers-july-2026-session/2LJ476TUJ4NNCQG4ELI7Z6RZ)
 
 ---
 
