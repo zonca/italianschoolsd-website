@@ -30,6 +30,7 @@ Operational guide for AI/code agents working on `italianschoolsd-website`.
 - For page copy updates, edit files in `site/content/` only.
 - For structure changes shared across pages, edit templates in `site/layouts/`.
 - Prefer Markdown structure (headings/lists/paragraphs) over inline HTML unless a styled component is required.
+- ALWAYS create manual heading anchors for all main sections using the `{#anchor-name}` syntax (e.g., `## My Section {#my-section}`). This allows users to link directly to specific parts of the page.
 - Keep tone concise, clear, and service-oriented.
 
 ## Typography and Spacing Guardrails

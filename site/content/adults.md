@@ -16,7 +16,7 @@ Note: All in-person adult classes meet at our school at [4550 Kearny Villa Rd Su
 
 ---
 
-## Italian for Travelers
+## Italian for Travelers {#travelers}
 
 Planning a trip to Italy? Get ready with our "Italian for Travelers" program! We are launching two separate sessions for June and July 2026.
 
@@ -26,7 +26,7 @@ Planning a trip to Italy? Get ready with our "Italian for Travelers" program! We
 
 ---
 
-## Spanish for Adults
+## Spanish for Adults {#spanish}
 
 Interested in learning another Romance language? We are launching a new Spanish beginner class this summer!
 
@@ -34,12 +34,12 @@ Interested in learning another Romance language? We are launching a new Spanish 
 
 ---
 
-## Summer 2026 Group Classes
+## Summer 2026 Group Classes {#summer-2026}
 
 Our summer session runs for **10 weeks** from **June 1st to August 7th**.
 Choose your level below and enroll online with your credit card.
 
-### Beginner class
+### Beginner class {#beginner}
 
 No prior Italian experience required.
 
@@ -47,7 +47,7 @@ Start your Italian journey with our friendly, hands-on beginner class! In 10 wee
 
 <div class="tc"><a href='{{< relref "news/adult-beginner-classes-summer-2026.md" >}}' class="btn raise">View summer beginner schedule & tuition</a></div>
 
-### Intermediate & Intermediate-Advanced
+### Intermediate & Intermediate-Advanced {#intermediate}
 
 For students with at least one year of Italian classes or equivalent self-study.
 
@@ -55,40 +55,40 @@ We offer multiple tracks to keep you challenged and progressing, including **in-
 
 <div class="tc"><a href='{{< relref "news/adult-intermediate-classes-summer-2026.md" >}}' class="btn raise">View summer intermediate schedules & tuition</a></div>
 
-### Advanced
+### Advanced {#advanced}
 
 For students with 3+ years of Italian, able to understand most spoken Italian and hold conversations.
 
 <div class="tc"><a href='{{< relref "news/adult-advanced-classes-summer-2026.md" >}}' class="btn raise">View summer advanced schedule & tuition</a></div>
 
-## Private & Custom Classes
+## Private & Custom Classes {#private-custom}
 
-### Private Lessons (In-person or via Zoom)
+### Private Lessons (In-person or via Zoom) {#private}
 
 One-on-one lessons tailored to your level and interests, from absolute beginner to advanced. All our instructors are experienced, native Italian speakers. Enjoy flexible scheduling and a 24-hour cancellation policy.
 
 <div class="tc"><a href='{{< relref "italian-private-classes.md" >}}' class="btn raise">Learn more about private lessons</a></div>
 
-### Italian On Demand (Flexible Private Lessons)
+### Italian On Demand (Flexible Private Lessons) {#on-demand}
 
 Need more flexibility? Book a private one-hour lesson online via Zoom with as little as 12 hours' notice. No long-term commitment—just pay for one class at a time when it fits your schedule.
 
 <div class="tc"><a href='{{< relref "italian-on-demand.md" >}}' class="btn raise">Learn more about Italian On Demand</a></div>
 
-### Italian for Businesses
+### Italian for Businesses {#business}
 
 Custom Italian language training for your team — in person in San Diego or online via Zoom. All levels, industry-specific content, and flexible scheduling.
 
 <div class="tc"><a href='{{< relref "italian-private-classes-business-san-diego.md" >}}' class="btn raise">Learn more about corporate Italian training</a></div>
 
-### Custom Group Classes
+### Custom Group Classes {#custom-group}
 
 Have a group of 5+ friends or colleagues interested in learning Italian together?
 We offer custom classes online, at our location, or even at your home. [Contact us!](/contact) to discuss your needs.
 
 ---
 
-## Previous Sessions
+## Previous Sessions {#previous-sessions}
 
 - [January-May 2026]( {{< ref "news/adult-beginner-classes-january-may-2026.md" >}} )
 - [Fall 2025]( {{< ref "news/italian-adult-classes-fall-2025.md" >}} )
@@ -96,13 +96,13 @@ We offer custom classes online, at our location, or even at your home. [Contact 
 
 ---
 
-## Policies & Discounts
+## Policies & Discounts {#policies}
 
-### Enrollment & Confirmation
+### Enrollment & Confirmation {#enrollment-confirmation}
 
 Classes are scheduled and confirmed once enough enrollments are received. If a class does not meet the minimum, we’ll offer to transfer you to another class or provide a full refund.
 
-### Cancellation Policy
+### Cancellation Policy {#cancellation}
 
 - Full refund if you cancel at least 1 week before the first class.
 - 50% refund if you cancel before the 2nd class.
@@ -110,7 +110,6 @@ Classes are scheduled and confirmed once enough enrollments are received. If a c
 
 To request a refund, email `admin` at our domain `italianschoolsd.com`.
 
-### Family Discount
+### Family Discount {#family-discount}
 
 - 10% off for all additional family members (applied automatically at checkout).
-
