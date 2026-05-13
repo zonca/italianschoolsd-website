@@ -10,7 +10,7 @@
 	    <h3 class="b lh-title mb2 text-center">{{.title}}</h3>
         {{ $imgPath := replaceRE "^/" "" .image }}
         {{ $lower := lower $imgPath }}
-        {{ if or (hasSuffix $lower ".jpg") (hasSuffix $lower ".jpeg") (hasSuffix $lower ".png") }}
+        {{ if or (strings.HasSuffix $lower ".jpg") (strings.HasSuffix $lower ".jpeg") (strings.HasSuffix $lower ".png") }}
           {{ with resources.Get $imgPath }}
             {{ $smWebp := .Fit "320x320 webp q80" }}
             {{ $mdWebp := .Fit "480x480 webp q80" }}
@@ -38,7 +38,7 @@
 	    <h3 class="b lh-title mb2 text-center">{{.title}}</h3>
         {{ $imgPath := replaceRE "^/" "" .image }}
         {{ $lower := lower $imgPath }}
-        {{ if or (hasSuffix $lower ".jpg") (hasSuffix $lower ".jpeg") (hasSuffix $lower ".png") }}
+        {{ if or (strings.HasSuffix $lower ".jpg") (strings.HasSuffix $lower ".jpeg") (strings.HasSuffix $lower ".png") }}
           {{ with resources.Get $imgPath }}
             {{ $smWebp := .Fit "320x320 webp q80" }}
             {{ $mdWebp := .Fit "480x480 webp q80" }}
