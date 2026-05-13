@@ -46,6 +46,7 @@ Our summer session runs for **10 weeks** from **June 1st to August 7th**.
 | **MONDAY** | **Intermediate** | **Sara** | 6:00 PM - 7:30 PM |
 | **MONDAY (Online)** | **Beginner** | **Tania Adami** | 6:00 PM - 7:30 PM |
 | **TUESDAY** | **Beg-Int (Easier)** | **Valentina** | **5:30 PM - 7:00 PM** |
+| **TUESDAY (Online)** | **Beg-Int** | **Tania Adami** | 6:00 PM - 7:30 PM (9 classes) |
 | **WEDNESDAY** | **Intermediate** | **Laura** | 6:00 PM - 7:30 PM |
 | **THURSDAY** | **Beg-Int (Challenging)** | **Sara** | 6:00 PM - 7:30 PM |
 | **THURSDAY** | **Conversation** | **Jessica** | 6:00 PM - 7:30 PM |
