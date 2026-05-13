@@ -48,7 +48,7 @@ Our summer session runs for **10 weeks** from **June 1st to August 7th**.
 | **TUESDAY** | **Beg-Int** | **Valentina** | **5:30 PM - 7:00 PM** |
 | **TUESDAY (Online)** | **Beg-Int** | **Tania Adami** | 6:00 PM - 7:30 PM (9 classes, no June 30) |
 | **WEDNESDAY** | **Intermediate** | **Laura** | 6:00 PM - 7:30 PM |
-| **THURSDAY** | **Spanish Beginner** | **Bilingual Teacher** | 6:00 PM - 7:30 PM |
+| **WEDNESDAY** | **Spanish Beginner** | **Bilingual Teacher** | 6:00 PM - 7:30 PM |
 | **THURSDAY** | **Beg-Int** | **Sara** | 6:00 PM - 7:30 PM |
 | **THURSDAY** | **Conversation** | **Jessica** | 6:00 PM - 7:30 PM |
 | **THURSDAY** | **Beginner** | **Valentina** | 6:00 PM - 7:30 PM |

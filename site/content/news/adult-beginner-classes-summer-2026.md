@@ -30,7 +30,7 @@ Start your Italian journey in person at our school with **Valentina**!
 Learn Italian from the comfort of your home via Zoom with **Tania**.
 
 - **Schedule:** Mondays, 6:00 pm–7:30 pm PST, June 1 – August 3, 2026 (10 classes)
-- **Tuition:** $330 for the full session (payment link below)
+- **Tuition:** $297 for the full session (payment link below)
 - **Textbook:** This class uses 'New Italian Project 1a'. Please purchase it independently (no bundle available for online classes).
 
 <div class="tc"><a href='https://italianschoolsd.square.site/product/summer-2026-italian-class-beginner-monday-online/ERN5QKWOVHCDS35OQPNFIVMO' class="btn raise">Pay and enroll (Monday Beginner, Online, $330)</a></div>
