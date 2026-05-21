@@ -120,7 +120,7 @@ Classes are scheduled and confirmed once enough enrollments are received. If a c
 
 ### Cancellation Policy {#cancellation}
 
-- Full refund if you cancel at least 1 week before the first class.
+- Full refund if you cancel at least 15 days before the first class.
 - 50% refund if you cancel before the 2nd class.
 - No refunds after the 2nd class.
 
