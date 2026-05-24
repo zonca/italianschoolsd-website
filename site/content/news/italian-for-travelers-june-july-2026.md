@@ -3,6 +3,7 @@ title: Italian classes for travelers to Italy — June and July 2026
 date: 2026-05-12
 description: Two separate sessions of Italian for Travelers in Summer 2026.
 aliases:
+  - /travelers
   - /travelers-summer
 ---
 
