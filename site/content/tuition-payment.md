@@ -4,7 +4,7 @@ image: /img/lastsupper.jpg
 subtitle: Details about paying for tuition for Italian classes
 ---
 
-Tuition payment is due in 1 payment on July 31st for early enrollment or August 28th for late enrollment, unless you opt for the monthly plan.
+Tuition payment is due in 1 payment by the deadline listed on the enrollment page, unless you opt for the monthly plan.
 
 ## 8-payments plan {#8-payments}
 
@@ -13,9 +13,9 @@ The 8-payments plan is a convenience so that you can pay in multiple installatio
 More details about the payment plan:
 
 * additional administrative fee of 20%
-* 1/8 of tuition is due on July 31st for early enrollment or August 28th for late enrollment with any payment method to confirm enrollment
+* 1/8 of tuition is due with any payment method to confirm enrollment
 * 7 monthly payments October 1st to April 1st (no checks accepted for these monthly payments)
-* for example, an in-person class with payment plan for a returning students costs a total of `$1656*1.2=1987`, it has 8 monthly payments of `$248.40`.
+* for example, an in-person class with payment plan for a returning student with tuition of `$1840` costs a total of `$1840*1.2=2208`, with 8 monthly payments of `$276`.
 * If the monthly payment invoice is more than 2 weeks late after the invoice is due, a $50 late payment fee will apply, the fee increases to $100 for invoices unpaid for more than 1 month, please enable autopay by saving your credit card on Wave or by setting scheduled payments on Zelle to avoid fees.
 
 ## Sibling discount {#sibling-discount}
@@ -45,8 +45,8 @@ Tuition will be fully reimbursed if cancellation is 3 weeks before school starts
 ## Late enrollments {#late-enrollments}
 
 Enrollments are open all year, pending availability of space in a class.
-Please first [contact us](/contact) so we can check if the age and the italian knowledge level of your kid are suitable for one of our in-person or online classes and that such class has avaiability.
+Please first [contact us](/contact) so we can check if your child's age and Italian level are suitable for one of our in-person or online classes and that the class has availability.
 
-Later we will ask to comple the pre-enrollment form so we can get all the necessary personal information.
+Later we will ask you to complete the pre-enrollment form so we can collect the necessary personal information.
 
-Finally we will send an invoice pro-rated based on the number of remaining classes in the year and the tuition for late enrollments, you can then choose to pay either monthly (with 20% admin fee) or in full.
+Finally we will send an invoice pro-rated based on the number of remaining classes in the year. Late enrollment tuition is **10% higher** than the regular tuition level for that class. You can then choose to pay either monthly (with the 20% administrative fee for the payment plan) or in full.

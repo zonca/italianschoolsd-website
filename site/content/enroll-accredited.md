@@ -1,14 +1,14 @@
 ---
-title: Pre-enrollment 2025–2026 for Accredited Classes
+title: Pre-enrollment 2026-2027 for Accredited Classes
 image: /img/lastsupper.jpg
-subtitle: Pre-enroll for accredited classes for the academic year 2025–2026
+subtitle: Pre-enroll for accredited classes for the academic year 2026-2027
 ---
 
 See [more information about accredited classes](/accredited-classes) before pre-enrolling, and be sure to follow the instructions on that page to notify your high school counselor so credits are properly recognized.
 
-Please **pre-enroll by July 31st** to secure a spot. Later enrollments will be considered if space is available. No payment is required at the time of pre-enrollment. We will email you a confirmation with all class details one week after pre-enrollment closes.
+Please **pre-enroll by July 31, 2026** to secure a spot. Later enrollments will be considered if space is available. No payment is required at the time of pre-enrollment. We will email you a confirmation with all class details after pre-enrollment closes.
 
-To finalize your enrollment, you must pay the invoice attached to the confirmation email by August 20th. Pre-enrollment is not binding until payment is received.
+To finalize your enrollment, you must pay the invoice attached to the confirmation email by **August 20, 2026**. Pre-enrollment is not binding until payment is received.
 
 ## Tuition for Accredited Classes {#tuition}
 
@@ -20,11 +20,11 @@ The total yearly tuition for 35 weeks of instruction (2 hours of class and 2 hou
 
 **$2,549** (new students)
 
-**$2,422** (10% discount for returning students enrolled in 2024–2025; this is the same tuition as last year)
+**$2,422** (discount for returning students enrolled in 2025-2026)
 
-Legacy students who have been enrolled in Italian School for 4 years receive an additional 10% discount:
+Legacy students who have been enrolled in Italian School for 4 years receive an additional discount:
 
-**$2,180** (unchanged since academic year **2022–2023**)
+**$2,180**
 
 ## Materials Fee {#materials}
 
@@ -32,7 +32,7 @@ There is an additional $150 materials fee for all in-person classes. This covers
 
 ## Late Enrollment {#late-enrollment}
 
-Parents who pay the enrollment invoice **after August 7th** or enroll during the school year will pay 5% higher tuition and are not eligible for returning or legacy discounts:
+Parents who pay the enrollment invoice **after August 7, 2026** or enroll during the school year will pay the late-enrollment tuition and are not eligible for returning or legacy discounts:
 
 **$2,677**
 
