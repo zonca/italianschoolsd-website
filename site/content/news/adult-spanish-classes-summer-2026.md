@@ -8,7 +8,7 @@ Expand your linguistic horizons this summer! We are excited to offer a new **Spa
 
 Spanish and Italian are very similar languages, making this a great opportunity to study them together and accelerate your learning in both!
 
-Our summer session runs for **10 weeks** from **June 1st to August 7th**.
+Our summer session runs for **10 weeks** from **June 1st to August 12th**.
 
 For other levels see [Adult classes overview]({{< relref "adults.md" >}}), where you’ll also find policies and discounts.
 
@@ -16,7 +16,7 @@ For other levels see [Adult classes overview]({{< relref "adults.md" >}}), where
 
 ## Wednesday Spanish Beginner (In person) {#wed-spanish}
 
-- **Schedule:** Wednesdays, 6:00 pm–7:30 pm, June 3 – August 5, 2026 (10 classes)
+- **Schedule:** Wednesdays, 6:00 pm–7:30 pm, June 10 – August 12, 2026 (10 classes)
 - **Tuition:** $360 for the full session
 
 <div class="tc"><a href='https://italianschoolsd.square.site/product/summer-2026-spanish-class-beginner-thursday/FQRBMFIFIJ4EDG4KUTO3TE43' class="btn raise">Pay and enroll (Wednesday Spanish Beginner, $360)</a></div>
