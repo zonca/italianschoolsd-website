@@ -6,7 +6,7 @@ description: Schedule and tuition details for intermediate-level adult Italian c
 
 Have at least a year of Italian under your belt—or the equivalent through self-study? Our intermediate tracks help you strengthen grammar, vocabulary, and conversational agility while keeping lessons lively and collaborative.
 
-Our summer session runs for **10 weeks** from **June 1st to August 7th**. All our teachers are native Italian speakers (Italian mother tongue).
+Our summer session runs for **10 weeks** from **June 1st to August 12th**. All our teachers are native Italian speakers (Italian mother tongue).
 
 For other levels see [Adult classes overview]({{< relref "adults.md" >}}), which also covers policies and discounts.
 
@@ -67,7 +67,7 @@ Learn Italian from anywhere via Zoom with **Tania**!
 
 ## Wednesday Intermediate {#wed-int}
 
-- **Schedule:** Wednesdays, 6:00 pm–7:30 pm, June 3 – August 5, 2026 (10 classes)
+- **Schedule:** Wednesdays, 6:00 pm–7:30 pm, June 10 – August 12, 2026 (10 classes)
 - **Teacher:** **Laura**
 - **Tuition:** $350 for the full session
 

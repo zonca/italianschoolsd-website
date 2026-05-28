@@ -36,7 +36,7 @@ Interested in learning another Romance language? We are launching a new Spanish 
 
 ## Summer 2026 Group Classes {#summer-2026}
 
-Our summer session runs for **10 weeks** from **June 1st to August 7th**.
+Our summer session runs for **10 weeks** from **June 1st to August 12th**.
 
 ## Detailed Weekly Schedule (All classes 1.5 hours)
 
