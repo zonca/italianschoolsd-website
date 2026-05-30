@@ -32,7 +32,21 @@ If you are bypassing the consulate and submitting your documents **directly to a
 
 ---
 
-## 3. Our Translation Policy
+## 3. Handling Out-of-State & Federal Documents
+
+### Documents from Other States (e.g., Nevada, Arizona, New Mexico)
+If your original document was issued in another state (for example, a marriage certificate from Clark County/Las Vegas in Nevada or a birth certificate from Phoenix, Arizona):
+*   **Original Document Apostille:** The original document must receive its Apostille from the Secretary of State of the **issuing state** (e.g., Nevada Secretary of State for Las Vegas certificates).
+*   **Translation Apostille (If Required):** Because the Italian School of San Diego LLC is a California-based organization and the translation certificate is signed here, any notarization of our translation must be performed by a **California Notary Public**, and the corresponding translation Apostille must be obtained from the **California Secretary of State**. 
+
+### Federal Documents (e.g., FBI Criminal Background Checks)
+If you are submitting a federal document, such as an FBI background check for an Elective Residency Visa or Citizenship:
+*   **Original Document Apostille:** The original FBI background check must receive a federal Apostille from the **U.S. Department of State** in Washington, D.C.
+*   **Translation:** We can translate the FBI background check into Italian. Just like state documents, the translation does not require a separate D.C. Apostille for consulate submissions; the printed PDF of our certified translation is accepted.
+
+---
+
+## 4. Our Translation Policy
 
 The Italian School of San Diego LLC is an educational institution. To keep our services secure, fast, and accessible, we operate under the following guidelines:
 
@@ -42,7 +56,7 @@ The Italian School of San Diego LLC is an educational institution. To keep our s
 
 ---
 
-## 4. How to Get a Translation Apostilled (If Required by a Comune)
+## 5. How to Get a Translation Apostilled (If Required by a Comune)
 
 If your Comune or legal counsel in Italy insists on having the translation itself apostilled, you can easily complete the process yourself using our certified PDF:
 
