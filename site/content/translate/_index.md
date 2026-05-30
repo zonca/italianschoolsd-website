@@ -38,9 +38,11 @@ We focus on clear, accurate translations that preserve meaning, tone, and cultur
 
 We provide a certificate of accurate translation signed by our school director, Maura D'Andrea. The certificate confirms the translation was completed by a qualified professional and is, to the best of our knowledge and professional judgment, complete and faithful to the source text. The certificate attests only to translation accuracy and does not verify the authenticity or content of the original document.
 
-## Apostilles {#apostilles}
+## Apostilles, Notaries & Certified Translations {#apostilles}
 
 An Apostille authenticates public officials' signatures on documents to be used outside the United States of America. We do not issue apostilles, but we can translate them. Note that we have received guidance from the Italian Consulate in Los Angeles that apostilles do not need to be translated and can be submitted in English.
+
+For detailed information on whether your translation itself needs an Apostille, how the Italian Consulate in Los Angeles differs from a Comune in Italy, and how to get your translation notarized/apostilled if required, please read our [Apostille & Notary Guide for Translations]({{< ref "apostille.md" >}}).
 
 If you need an apostille, it can be [requested from the California Secretary of State](https://www.sos.ca.gov/notary/request-apostille) by mail through their Sacramento office or in person at their Sacramento and Los Angeles offices.
 
