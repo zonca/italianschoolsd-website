@@ -29,7 +29,7 @@ Start your Italian journey in person at our school with **Valentina**!
 
 Learn Italian from the comfort of your home via Zoom with **Tania**.
 
-- **Schedule:** Mondays, 6:00 pm–7:30 pm PST, June 1 – August 3, 2026 (10 classes)
+- **Schedule:** Mondays, 6:00 pm–7:30 pm PST, June 8 – August 10, 2026 (10 classes)
 - **Tuition:** $297 for the full session (payment link below)
 - **Textbook:** This class uses 'New Italian Project 1a'. Please purchase it independently (no bundle available for online classes).
 
