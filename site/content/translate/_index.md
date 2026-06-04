@@ -5,6 +5,7 @@ image: /img/Decreto_Italia.jpg
 aliases:
     - /news/2025/07/professional-italian-translation-services-in-san-diego/
 description: Italian to English and English to Italian translations in San Diego for legal, business, academic, and personal documents.
+layout: single
 ---
 
 Italian School of San Diego LLC provides Italian to English and English to Italian translations for documents and written materials. All our translators are native (mother-tongue) Italian.
