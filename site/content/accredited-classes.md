@@ -12,7 +12,7 @@ The curriculum and programs were created, implemented, and district-approved by 
 
 For more information, see:
 
-* [World Languages page of the Multilingual Education Department, San Diego Unified](https://www.sdusdmed.org/projects/independent-world-languages-schools)
+* [World Languages page of the Multilingual Education Department, San Diego Unified](https://www.sdusdmed.org/world-languages)
 * [Off-Campus World Language Courses at San Dieguito](https://www.sduhsd.net/Departments/Educational-Services/Specialized-Programs/Off-Campus-Courses/Off-Campus-World-Language-Courses/index.html)
 
 ## Class Levels and Schedule {#schedule}
