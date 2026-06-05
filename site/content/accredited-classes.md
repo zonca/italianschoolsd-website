@@ -33,7 +33,7 @@ For the following levels, we form classes based on student interest. You can cho
 * **Italian 7-8 & AP Preparation (Foreign Language)** — *[See AP Italian page](/ap-italian-san-diego)*
 * **Italian 7-8 & AP Preparation (Italian Speakers)** — *[See AP Italian page](/ap-italian-san-diego)*
 
-Students with prior Italian study may test into a higher level than 1-2. Please indicate this on the pre-enrollment form or contact us in advance. Note: if a student enrolls in, for example, Italian 5-6 during high school, they will receive three years of foreign language credit. Credit is tied to the class level, not the number of years attended.
+Students with prior Italian study may test into a higher level than 1-2. Please indicate this on the pre-enrollment form or contact us in advance. *(Note: Direct enrollment into higher levels is subject to a [curriculum adjustment fee](/enroll-accredited#adjustment-fee).)* Note: if a student enrolls in, for example, Italian 5-6 during high school, they will receive three years of foreign language credit. Credit is tied to the class level, not the number of years attended.
 
 ## Location and Calendar {#location}
 
