@@ -11,9 +11,13 @@ The Italian School of San Diego LLC is accredited by San Diego Unified and San D
 
 ## 2026-2027 Schedule {#schedule}
 
-* **Italian as a Foreign Language 5-6:** Wednesdays, **4:00-6:00pm**, starting **August 19, 2026**.
-* **Italian 1-2, 3-4, and 7-8/AP Preparation:** schedule based on interested students. Please email us your preferred day and time.
-* **Italian for heritage speakers:** Thursday sections are available based on level and enrollment, starting **August 20, 2026**.
+**Scheduled In-Person Classes:**
+* **Italian 5-6 (Foreign Language):** Wednesdays, **4:00-6:00pm**, starting **August 19, 2026**.
+* **Italian 1-2, 3-4, and 5-6 (Italian Speakers):** Thursdays, **4:15-6:15pm**, starting **August 20, 2026**.
+
+**Flexible Classes (Schedule & Format Based on Interest):**
+* **Italian 1-2, 3-4, and 7-8/AP Preparation (Foreign Language):** Please email us your preferred day, time, and format (online or in-person).
+* **Italian 7-8/AP Preparation (Italian Speakers):** Please email us your preferred day, time, and format (online or in-person).
 
 Students with prior Italian study may test into a higher level than 1-2.
 

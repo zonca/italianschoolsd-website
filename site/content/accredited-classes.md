@@ -17,31 +17,30 @@ For more information, see:
 
 ## Class Levels and Schedule {#schedule}
 
-The Italian School offers four one-year classes for students learning Italian as a foreign language:
+We offer two main tracks: **Italian as a Foreign Language** (for new learners) and **Italian for Italian Speakers** (for heritage speakers).
 
-* `ifl1-2` Italian 1-2: For beginners. Schedule based on interested students; please [email us](/contact) with your preferred day and time.
-* `ifl3-4` Italian 3-4: Schedule based on interested students; please [email us](/contact) with your preferred day and time.
-* `ifl5-6` Italian 5-6: **Wednesdays, 4:00-6:00pm**. First class: **August 19, 2026**.
-* `ifl7-8` Italian 7-8 & AP Preparation: [See the AP Italian page](/ap-italian-san-diego). Schedule based on interested students; please [email us](/contact) with your preferred day and time.
+### Scheduled In-Person Classes
+These classes have a fixed schedule and meet in person at our [Kearny Mesa location](/location).
 
-We also offer modified programs for students, generally of Italian heritage, who already speak Italian:
+* **Italian 5-6 (Foreign Language):** Wednesdays, **4:00-6:00pm**. First class: **August 19, 2026**.
+* **Italian 1-2, 3-4, and 5-6 (Italian Speakers):** Thursdays, **4:15-6:15pm**. First class: **August 20, 2026**. *(Classes are divided by level).*
 
-* `ita1-2` Italian 1-2 for Italian speakers: Thursdays, 4:00-6:00pm. First class: **August 20, 2026**.
-* `ita3-4` Italian 3-4 for Italian speakers: Thursdays, 4:00-6:00pm. First class: **August 20, 2026**.
-* `ita5-6` Italian 5-6 for Italian speakers: Thursdays, 4:00-6:00pm. First class: **August 20, 2026**.
-* `ita7-8` Italian 7-8 & AP Preparation for Italian speakers: [See the AP Italian page](/ap-italian-san-diego). Schedule based on interested students.
+### Flexible Classes (Schedule Based on Interest)
+For the following levels, we form classes based on student interest. You can choose your preferred day, time, and format (online or in-person). Please [email us](/contact) to let us know your preferences.
 
-Students with prior Italian study may test into a higher level than 1-2. Please indicate this on the pre-enrollment form or contact us in advance. Note: if a student enrolls in, for example, `ifl5-6` during high school, they will receive three years of foreign language credit. Credit is tied to the class level, not the number of years attended.
+* **Italian 1-2 (Foreign Language)** — *For beginners*
+* **Italian 3-4 (Foreign Language)**
+* **Italian 7-8 & AP Preparation (Foreign Language)** — *[See AP Italian page](/ap-italian-san-diego)*
+* **Italian 7-8 & AP Preparation (Italian Speakers)** — *[See AP Italian page](/ap-italian-san-diego)*
 
-## Location {#location}
+Students with prior Italian study may test into a higher level than 1-2. Please indicate this on the pre-enrollment form or contact us in advance. Note: if a student enrolls in, for example, Italian 5-6 during high school, they will receive three years of foreign language credit. Credit is tied to the class level, not the number of years attended.
 
-Some sections meet in person at our [Kearny Mesa location](/location), while others may meet online depending on enrollment and teacher availability. The class format will be confirmed after pre-enrollment.
+## Location and Calendar {#location}
 
-## Calendar {#calendar}
+* **In-Person Classes:** Scheduled Wednesday and Thursday classes meet at our [Kearny Mesa location](/location). 
+* **Flexible Classes:** For classes based on student interest, the format (in-person or online) and schedule will be confirmed after pre-enrollment based on student and teacher availability.
 
-Accredited classes combine weekly class meetings with independent study so students can meet district requirements. Most classes have a set schedule; for classes with schedules based on student interest, timing will be decided after pre-enrollment based on teacher and student availability.
-
-See the [Italian School of San Diego calendar](/calendar) for the published class calendars.
+Accredited classes combine weekly class meetings with independent study so students can meet district requirements. See the [Italian School of San Diego calendar](/calendar) for the published class calendars.
 
 ## Books {#books}
 

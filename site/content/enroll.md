@@ -7,7 +7,7 @@ subtitle: Pre-enroll for classes for the academic year 2026-2027
 Enrollment for the 2026-2027 kids classes is open.
 See more information about [all the classes we offer](/classes) before pre-enrolling.
 
-Please **pre-enroll by July 31, 2026** to secure a spot. Later enrollments will be considered if space allows.
+Please **pre-enroll by July 31, 2026** to secure a spot.
 
 No payment is needed at the time of pre-enrollment. We will email you a confirmation of pre-enrollment with the proposed class and tuition details. To finalize enrollment, you will need to pay the invoice attached to the confirmation email. Pre-enrollment itself is not binding.
 
@@ -23,9 +23,9 @@ Tuition for 9 months of instruction:
 
 ## Materials Fee {#materials}
 
-We charge an additional **$150 materials fee** for all kids joining in-person classes. This covers office, classroom, and craft supplies purchased during the year.
+We charge an additional **$150 materials fee** for all kids joining in-person classes. This helps cover classroom supplies, photocopies, internet, utilities, and the cost of maintaining our school space. **Books are not included in this fee.**
 
-Check [the dedicated page for details on payment methods, cancellation policy, the 8-payment option, sibling discount, and late enrollment policy](/tuition-payment).
+Check [the dedicated page for details on payment methods, cancellation policy, the 8-payment option, and sibling discount](/tuition-payment).
 
 <div class="tc">
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSd4sac0Y2wdTd9gm2AF1Y9uuVPPyJzHfHEphJPA1iYPkrP43g/viewform?usp=sf_link" class="btn raise">Fill out the universal pre-enrollment form</a>

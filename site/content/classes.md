@@ -6,36 +6,34 @@ subtitle: "Children Classes 2026-2027"
 
 This page is for students in TK-6th grade. For teens, see our [accredited classes](/accredited-classes).
 
-## Italian Heritage Classes for Kids (TK-6) {#heritage}
+## In-Person Afternoon Classes (TK-6) {#afternoon}
+
+Our core afternoon classes meet once a week for two hours at our [Kearny Mesa location](/location). Classes are kept small (5-10 students) and are taught by native Italian instructors. These programs prepare students for our [accredited classes](/accredited-classes), which typically begin in 6th or 7th grade.
+
+### Italian Heritage Classes (Advanced/Fluent) {#heritage}
 
 > "*La lingua è l'ultima proprietà di chi parte per sempre*"  
 (Erri de Luca, I pesci non chiudono gli occhi)
 
-Italian Heritage classes are designed for children who are already advanced or fluent in Italian, though not necessarily native speakers. These classes deepen students' knowledge of the Italian language and include topics taught to their peers in Italy. Starting in 3rd grade, the curriculum includes history and geography from the Italian public school program.
+Designed for children who are already advanced or fluent in Italian, though not necessarily native speakers. These classes deepen students' knowledge of the Italian language and introduce topics taught to their peers in Italy, including history and geography starting in 3rd grade.
 
-Classes have 5-10 students and are taught in Italian by a native Italian instructor. Our program prepares students for [accredited classes](/accredited-classes), which typically begin in 6th or 7th grade.
+* **Schedule:** Thursdays, 4:15-6:15pm
+* **Calendar:** August 20, 2026 – May 13, 2027 (33 weeks of instruction). 
+* **Note:** Backup class date is May 20, 2027. No class on December 17, 2026.
 
-In-person classes meet for 2 hours per week: **Thursdays, 4:15-6:15pm**.
+### Italian as a Foreign Language (Beginners/New Learners) {#ifl}
 
-For 2026-2027, the first class is **August 20, 2026** and the last regular class is **May 13, 2027**, for a total of **33 weeks of instruction**. The backup class date is **May 20, 2027** in case of cancellations. There is **no class on December 17, 2026**.
+Designed for students who are new to Italian. Instruction begins in English and transitions to Italian, using a conversation-first approach with engaging activities that build vocabulary, pronunciation, and confidence. Students are grouped by age and level.
 
-See the [Italian School of San Diego calendar](/calendar) for our Google Calendar schedule.
+* **Schedule:** Wednesdays, 4:00-6:00pm
+* **Calendar:** August 19, 2026 – May 12, 2027 (33 weeks of instruction). 
+* **Note:** Backup class date is May 19, 2027.
 
-## Italian as a Foreign Language (IFL) Classes for Kids (TK-6) {#ifl}
+*See the [Italian School of San Diego calendar](/calendar) for our full Google Calendar schedule.*
 
-Italian as a Foreign Language (IFL) classes are for students who are new to Italian or are beginners. Instruction is in English at the beginning, with a conversation-first approach and engaging activities that build vocabulary, pronunciation, and confidence.
+## Specialty Programs {#specialty}
 
-Classes have 5-10 students.
-
-In-person afternoon classes meet for 2 hours per week: **Wednesdays, 4-6pm**.
-
-For 2026-2027, the first class is **August 19, 2026** and the last regular class is **May 12, 2027**, for a total of **33 weeks of instruction**. The backup class date is **May 19, 2027** in case of cancellations.
-
-Students are grouped by age and level.
-
-See the [Italian School of San Diego calendar](/calendar) for our Google Calendar schedule.
-
-## Italian Morning Program for Homeschoolers {#home-schooled}
+### Italian Morning Program for Homeschoolers {#home-schooled}
 
 We offer Italian group classes in the morning for home-schooled children and preschoolers, either at our location or on-site. These classes use play, games, songs, reading, and projects to introduce children to Italian starting from age 3.
 

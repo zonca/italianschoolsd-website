@@ -6,7 +6,7 @@ subtitle: Pre-enroll for accredited classes for the academic year 2026-2027
 
 See [more information about accredited classes](/accredited-classes) before pre-enrolling, and be sure to follow the instructions on that page to notify your high school counselor so credits are properly recognized.
 
-Please **pre-enroll by July 31, 2026** to secure a spot. Later enrollments will be considered if space is available. No payment is required at the time of pre-enrollment. We will email you a confirmation with all class details after pre-enrollment closes.
+Please **pre-enroll by July 31, 2026** to secure a spot. No payment is required at the time of pre-enrollment. We will email you a confirmation with all class details after pre-enrollment closes.
 
 To finalize your enrollment, you must pay the invoice attached to the confirmation email by **August 20, 2026**. Pre-enrollment is not binding until payment is received.
 
@@ -28,15 +28,7 @@ Legacy students who have been enrolled in Italian School for 4 years receive an 
 
 ## Materials Fee {#materials}
 
-There is an additional $150 materials fee for all in-person classes. This covers office and craft supplies purchased throughout the year. The fee does not apply to online classes.
-
-## Late Enrollment {#late-enrollment}
-
-Parents who pay the enrollment invoice **after August 7, 2026** or enroll during the school year will pay the late-enrollment tuition and are not eligible for returning or legacy discounts:
-
-**$2,677**
-
-If the Italian School is late in confirming a specific class, the late enrollment fee will not apply. In this case, invoices will be sent with the early enrollment discount, and parents will have two weeks to pay with the discounts applied.
+There is an additional $150 materials fee for all in-person classes. This helps cover classroom supplies, photocopies, internet, utilities, and the cost of maintaining our school space. **Books are not included in this fee.** The fee does not apply to online classes.
 
 See [the dedicated page for details on payment methods, cancellation policy, the 8-payment option, and sibling discount](/tuition-payment).
 
