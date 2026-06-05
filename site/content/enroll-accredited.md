@@ -30,13 +30,13 @@ Legacy students who have been enrolled in Italian School for 4 years receive an 
 
 There is an additional $150 materials fee for all in-person classes. This helps cover classroom supplies, photocopies, internet, utilities, and the cost of maintaining our school space. **Books are not included in this fee.** The fee does not apply to online classes.
 
-## Curriculum Adjustment Fee {#adjustment-fee}
+## Curriculum Alignment Fee {#alignment-fee}
 
-Students who test into and enroll directly in a higher level of the accredited program (without completing the previous levels at the Italian School of San Diego) are subject to a one-time curriculum adjustment fee. This fee covers the administrative and academic assessment required to integrate the student into the advanced curriculum:
+A curriculum alignment fee is required for students who test into and enroll directly in a level above 1-2 (without completing the previous levels at the Italian School of San Diego). This one-time fee covers the administrative and academic assessment required to integrate the student into the advanced curriculum:
 
-* Direct enrollment into **Level 3-4**: $100
-* Direct enrollment into **Level 5-6**: $200
-* Direct enrollment into **Level 7-8**: $300
+* Direct entry into **Italian 3-4**: $100
+* Direct entry into **Italian 5-6**: $200
+* Direct entry into **Italian 7-8 / AP Prep**: $300
 
 See [the dedicated page for details on payment methods, cancellation policy, the 8-payment option, and sibling discount](/tuition-payment).
 
