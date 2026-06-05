@@ -32,7 +32,7 @@ There is an additional $150 materials fee for all in-person classes. This helps 
 
 ## Curriculum Alignment Fee {#alignment-fee}
 
-A curriculum alignment fee is required for students who test into and enroll directly in a level above 1-2 (without completing the previous levels at the Italian School of San Diego). This one-time fee covers the administrative and academic assessment required to integrate the student into the advanced curriculum:
+Accredited students normally begin with Italian 1-2. Students with prior Italian study or strong Italian fluency may request a free placement evaluation for direct enrollment into a higher level. Because direct-entry students often need curriculum alignment support for prerequisite material not completed with our program, students who enroll directly into Italian 3-4, 5-6, or 7-8 pay a one-time curriculum alignment fee:
 
 * Direct entry into **Italian 3-4**: $100
 * Direct entry into **Italian 5-6**: $200
