@@ -12,9 +12,6 @@ Our core afternoon classes meet once a week for two hours at our [Kearny Mesa lo
 
 ### Italian Heritage Classes (Advanced/Fluent) {#heritage}
 
-> "*La lingua è l'ultima proprietà di chi parte per sempre*"  
-(Erri de Luca, I pesci non chiudono gli occhi)
-
 Designed for children who are already advanced or fluent in Italian, though not necessarily native speakers. These classes deepen students' knowledge of the Italian language and introduce topics taught to their peers in Italy, including history and geography starting in 3rd grade.
 
 * **Schedule:** Thursdays, 4:15-6:15pm
