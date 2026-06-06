@@ -6,9 +6,9 @@ subtitle: Pre-enroll for accredited classes for the academic year 2026-2027
 
 See [more information about accredited classes](/accredited-classes) before pre-enrolling, and be sure to follow the instructions on that page to notify your high school counselor so credits are properly recognized.
 
-Please **pre-enroll by July 31, 2026** to secure a spot. No payment is required at the time of pre-enrollment. We will email you a confirmation with all class details after pre-enrollment closes.
+Please **pre-enroll by July 20, 2026** to secure a spot. No payment is required at the time of pre-enrollment. We will email you a confirmation with all class details after pre-enrollment closes.
 
-To finalize your enrollment, you must pay the invoice attached to the confirmation email by **August 20, 2026**. Pre-enrollment is not binding until payment is received.
+To finalize your enrollment, you must pay the invoice attached to the confirmation email by **August 3, 2026**. Pre-enrollment is not binding until payment is received.
 
 ## Tuition for Accredited Classes {#tuition}
 
@@ -16,7 +16,7 @@ Accredited classes follow an extensive curriculum approved by the school distric
 
 The tuition reflects the increased teacher workload and the reporting requirements for high school credit.
 
-The total yearly tuition for 35 weeks of instruction (2 hours of class and 2 hours of homework per week) is:
+The total yearly tuition covers 33 weekly classes plus 2 Italian-related events (2 hours each, totaling 70 hours of instruction), along with 2 hours of weekly independent study:
 
 **$2,549** (new students)
 
