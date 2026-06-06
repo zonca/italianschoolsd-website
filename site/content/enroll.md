@@ -1,39 +1,32 @@
 ---
 title: Pre-enrollment for kids classes (TK-6)
 image: /img/lastsupper.jpg
-subtitle: Pre-enroll to classes for the academic year 2025-2026
+subtitle: Pre-enroll for classes for the academic year 2026-2027
 ---
 
-Enrollment for the 2025-2026 classes is open.
+Enrollment for the 2026-2027 kids classes is open.
 See more information about [all the classes we offer](/classes) before pre-enrolling.
 
-Please **pre-enroll by Saturday July 31st** to secure a spot, later enrollments will be considered if space allows.
-No payment is needed at the time of pre-enrollment, we will email you a confirmation of pre-enrollment with all details about the proposed class no later than July 17th.
+Please **pre-enroll by July 20, 2026** to secure a spot.
 
-You will need to pay the invoice attached to the confirmation email to finalize enrollment, pre-enrollment itself is not binding.
+No payment is needed at the time of pre-enrollment. We will email you a confirmation of pre-enrollment with the proposed class and tuition details. To finalize enrollment, you will need to pay the invoice attached to the confirmation email by **August 3, 2026**. Pre-enrollment itself is not binding.
 
-## Tuition for Italian-heritage and for Italian as a Foreign language in-person 2-hour classes {#tuition}
+## Tuition for In-Person 2-Hour Kids Classes {#tuition}
 
-Tuition for 9 months of instruction for early enrollment (payment **before August 7th**):
+Tuition for 9 months of instruction:
 
-**$1840** (new students)
+**$1,932** (new students)
 
-**$1656** (returning students, enrolled last year 2024-2025, this tuition is unchanged since 2022-2023)
+**$1,840** (returning students)
 
-**$1490** (legacy students, enrolled for 4 years or more)
+**$1,656** (families enrolled with us for 2 or more years)
 
-## Late enrollment {#late-enrollment}
+## Materials Fee {#materials}
 
-Parents who pay the enrollment invoice **after August 7th** or enroll during the school year will have a tuition 5% higher and are not eligible for returning or legacy discounts:
+We charge an additional **$150 materials fee** for all kids joining in-person classes. This helps cover classroom supplies, photocopies, internet, utilities, and the cost of maintaining our school space. **Books are not included in this fee.**
 
-**$1932**
-
-## Material fee {#materials}
-
-We are charging an additional $150 material fee for all kids joining in-person classes, this covers office and craft supplies we purchase during the year.
-
-Check [the dedicated page for details on payment methods, cancellation policy, the 8-payments option and sibling discount](/tuition-payment)
+Check [the dedicated page for details on payment methods, cancellation policy, the 8-payment option, and sibling discount](/tuition-payment).
 
 <div class="tc">
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSd4sac0Y2wdTd9gm2AF1Y9uuVPPyJzHfHEphJPA1iYPkrP43g/viewform?usp=sf_link" class="btn raise">Fill the universal pre-enrollment form</a>
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSd4sac0Y2wdTd9gm2AF1Y9uuVPPyJzHfHEphJPA1iYPkrP43g/viewform?usp=sf_link" class="btn raise">Fill out the universal pre-enrollment form</a>
 </div>

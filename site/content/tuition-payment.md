@@ -4,49 +4,40 @@ image: /img/lastsupper.jpg
 subtitle: Details about paying for tuition for Italian classes
 ---
 
-Tuition payment is due in 1 payment on July 31st for early enrollment or August 28th for late enrollment, unless you opt for the monthly plan.
+Tuition payment is due in 1 payment by the deadline listed on the enrollment page, unless you opt for the monthly plan.
 
-## 8-payments plan {#8-payments}
+## Payment Methods {#payment-method}
 
-The 8-payments plan is a convenience so that you can pay in multiple installations, you are still committing for the full year, in case you would like to proceed with cancellation, see the cancellation policy below.
+The preferred payment method is [**Zelle** (free and supported by most US banks)](https://www.zellepay.com/get-started). We also accept checks and credit cards. 
+* Please make checks payable to `Italian school of San Diego LLC` (do not forget "LLC").
+* Payments via credit cards incur a 3.6% payment processing fee.
 
-More details about the payment plan:
+## Payment Plans & Discounts {#plans-discounts}
 
-* additional administrative fee of 20%
-* 1/8 of tuition is due on July 31st for early enrollment or August 28th for late enrollment with any payment method to confirm enrollment
-* 7 monthly payments October 1st to April 1st (no checks accepted for these monthly payments)
-* for example, an in-person class with payment plan for a returning students costs a total of `$1656*1.2=1987`, it has 8 monthly payments of `$248.40`.
-* If the monthly payment invoice is more than 2 weeks late after the invoice is due, a $50 late payment fee will apply, the fee increases to $100 for invoices unpaid for more than 1 month, please enable autopay by saving your credit card on Wave or by setting scheduled payments on Zelle to avoid fees.
+### 8-Payment Plan {#8-payments}
+The 8-payment plan allows you to pay in multiple installments while still committing for the full year.
+* **Fee:** Includes an additional administrative fee of 20%.
+* **Schedule:** 1/8 of tuition is due immediately to confirm enrollment. The remaining 7 monthly payments are due October 1st to April 1st. (Checks are not accepted for monthly payments).
+* **Example:** An in-person class for a returning student (base tuition `$1840`) costs a total of `$2208` (`$1840 * 1.2`), split into 8 monthly payments of `$276`.
+* **Late Fees:** If a monthly payment is more than 2 weeks late, a $50 late fee applies. This increases to $100 for invoices unpaid for over 1 month. Please enable autopay via Wave or scheduled Zelle payments to avoid fees.
 
-## Sibling discount {#sibling-discount}
+### Sibling Discount {#sibling-discount}
+The first additional family member enrolled receives a 10% discount, the second a 15% discount, and so on (discounts are cumulative). For families with kids in both accredited and non-accredited classes, the higher discount applies to the lower tuition.
 
-The first additional family member enrolled has a 10% discount, the second 15% discount and so on (discounts are cumulative).
-In case of families with kids both in accredited and in non-accredited classes, the higher discount applies to the lower tuition.
+### Late Enrollments {#late-enrollments}
+Enrollments are open all year, pending availability. Please [contact us](/contact) first to check availability and ensure the class fits your child's age and level.
+* Late enrollment tuition is **10% higher** than the regular tuition for that class.
+* We will send a pro-rated invoice based on the remaining classes. You can choose to pay in full or use the 8-payment plan (which includes the 20% administrative fee).
 
-## Payment method {#payment-method}
+## Cancellation Policies {#cancellation}
+Refund requests must be sent via email to `admin@italianschoolsd.com`.
 
-The preferred payment method is [**Zelle** (free and supported by most US banks)](https://www.zellepay.com/get-started), we also accept checks and credit cards. Payments via credit cards incur a 3.6% payment processing fee.
-Please make the checks payable to `Italian school of San Diego LLC`, do not forget "LLC".
+### Full-Payment Option {#cancellation-full}
+* **100% Refund:** If cancellation is received 3 weeks before school starts.
+* **50% Refund:** If cancellation is received before the 3rd class.
+* **No Refunds:** After the 3rd class.
 
-## Cancellation for the full-payment option {#cancellation-full}
-
-Tuition will be fully reimbursed if cancellation is 3 weeks before school starts.
-50% will be refunded if cancellation is received before the 3rd class.
-No refunds after the 3rd class.
-
-Refund requests need to be sent via email to `admin` on our website domain `italianschoolsd.com`.
-
-## Cancellation for the monthly plan {#cancellation-monthly}
-
-Enrollment in the Italian school can be canceled with a 30-day advance notice via email (to `admin` on our website domain `italianschoolsd.com`), a $50 administrative fee will be added to the account. No cancellations are accepted after March 31st.
-
-Tuition will be fully reimbursed if cancellation is 3 weeks before school starts.
-
-## Late enrollments {#late-enrollments}
-
-Enrollments are open all year, pending availability of space in a class.
-Please first [contact us](/contact) so we can check if the age and the italian knowledge level of your kid are suitable for one of our in-person or online classes and that such class has avaiability.
-
-Later we will ask to comple the pre-enrollment form so we can get all the necessary personal information.
-
-Finally we will send an invoice pro-rated based on the number of remaining classes in the year and the tuition for late enrollments, you can then choose to pay either monthly (with 20% admin fee) or in full.
+### Monthly Plan Option {#cancellation-monthly}
+* **100% Refund:** If cancellation is received 3 weeks before school starts.
+* **Standard Cancellation:** Requires a 30-day advance notice via email. A $50 administrative fee will be added to the account.
+* **No Cancellations:** Accepted after March 31st.

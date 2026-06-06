@@ -45,4 +45,11 @@ All other classes have their own event in Google Calendar, if you have not been 
 
 ## Days when the school is closed {#school-closed}
 
-It is the same calendar of San Diego Unified, except we are closed 1 extra week for Winter break in January (Epifania!) and we are closed on Halloween 2024.
+We generally follow the San Diego Unified academic calendar, with one extra week of winter break in January for Epifania.
+
+For 2026-2027:
+
+* Wednesday IFL classes start **August 19, 2026**, with **May 19, 2027** reserved as a backup date.
+* Thursday Heritage classes start **August 20, 2026**, with **May 20, 2027** reserved as a backup date.
+* There is **no Thursday class on December 17, 2026**.
+* Halloween 2026 falls on **Saturday, October 31**, so it does not affect Wednesday or Thursday classes.

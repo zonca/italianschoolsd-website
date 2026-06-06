@@ -1,11 +1,13 @@
 ---
-title: Italian morning program for homeschoolers 2025-2026
-date: 2025-06-06T00:00:00.000Z
+title: Italian morning program for homeschoolers 2026-2027
+date: 2026-06-05T00:00:00.000Z
 image: /img/school_athens.jpg
+aliases:
+    - /homeschool/
 subtitle: New academic year, Wednesdays 10am–12pm, 16+16 classes
 ---
 
-We are excited to announce our Italian morning program for homeschoolers for the 2025-2026 academic year! This program is open to students from TK to 8th grade, with no previous Italian required. Students will be grouped by age based on enrollment.
+We are excited to announce our Italian morning program for homeschoolers for the 2026-2027 academic year! This program is open to students from TK to 8th grade, with no previous Italian required. Students will be grouped by age based on enrollment.
 
 <div class="tc">
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSd4sac0Y2wdTd9gm2AF1Y9uuVPPyJzHfHEphJPA1iYPkrP43g/viewform?usp=sf_link" class="btn raise">Fill the universal pre-enrollment form</a>
@@ -16,21 +18,21 @@ We are excited to announce our Italian morning program for homeschoolers for the
 - Day: **Wednesdays**
 - Time: **10am–12pm**
 - First session: **16 classes**
-- First class: **September 3, 2025**
-- No class on **November 26** (Thanksgiving), **December 17, 24, 31** (Christmas break)
-- Last class of first session: **January 14, 2026**
+- First class: **August 26, 2026**
+- No class on **November 25** (Thanksgiving break), and late December/early January for Winter break
+- Last class of first session: **January 13, 2027**
 
 The course introduces students to Italian language and culture, focusing on conversational skills and basic grammar, with games and activities to make learning fun. Classes are taught by a native Italian instructor. Students should expect 30–60 minutes of homework per week.
 
 ## Tuition
 
 - **$890** for 16 classes
-- **10% discount** for returning students (those who were enrolled in the 2024-2025 school year)
+- **10% discount** for returning students (those who were enrolled in the 2025-2026 school year)
 - Monthly payment plan available (please specify in the pre-enrollment form)
 
 ## Second session
 
-A second 16-class session will start the following week (**January 21, 2026**) and run through the end of May, with a break for spring (no class **April 1, 2026** for spring break). The last class will be **May 27, 2026**.
+A second 16-class session will start the following week (**January 20, 2027**) and run through the end of May, with a break for spring. The last regular class will be **May 12, 2027** (with May 19, 2027 reserved as a backup date).
 
 ## Location
 
