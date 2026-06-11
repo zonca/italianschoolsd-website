@@ -1,7 +1,7 @@
 ---
 title: In-Person Italian Classes in La Jolla
 date: 2026-06-11
-description: Private one-on-one Italian lessons with a native Italian teacher in a prestigious La Jolla office on Fay Ave, near The Lot La Jolla. Any day, any time.
+description: Private one-on-one Italian lessons with a native Italian teacher in a prestigious La Jolla office on Fay Ave, near The Lot La Jolla. Weekdays from 2 PM, anytime on weekends.
 ---
 
 We're excited to announce **in-person Italian classes in La Jolla**! Learn Italian one-on-one (or with a friend) in a prestigious office space on **Fay Avenue**, just steps from **The Lot La Jolla**.
