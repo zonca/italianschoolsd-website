@@ -19,7 +19,7 @@ products:
       link: /adults
 products2:
     - image: /flyers/italianschoolsd-flyer-italian-2026-2027-teens.png
-      title: "Italian for Teens — High School Credit & College Admission"
+      title: "Italian for Teens: High School Credit & College Admission"
       text: "Accredited classes for middle and high school students, recognized for graduation requirements and college admission. Online or in-person, from beginner to fluent, including AP preparation."
       link: /accredited-classes
     - image: /img/isola_bella.jpg

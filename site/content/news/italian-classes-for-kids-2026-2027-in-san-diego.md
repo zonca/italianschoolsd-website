@@ -33,7 +33,7 @@ Classes meet at the Italian School of San Diego in Kearny Mesa: [4550 Kearny Vil
 
 ## Please help us spread the word! {#share}
 
-Know a family who would love Italian classes for their kids? Please share our flyer — it makes a real difference for our small school.
+Know a family who would love Italian classes for their kids? Please share our flyer. It makes a real difference for our small school.
 
 [Download the printable flyer (PDF)](/flyers/italianschoolsd-flyer-italian-2026-2027-kids.pdf)
 

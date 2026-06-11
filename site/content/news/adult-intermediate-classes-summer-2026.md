@@ -1,10 +1,10 @@
 ---
-title: Intermediate Adult Italian Classes — Summer 2026
+title: "Intermediate Adult Italian Classes: Summer 2026"
 date: 2026-05-11
 description: Schedule and tuition details for intermediate-level adult Italian classes offered June through August 2026.
 ---
 
-Have at least a year of Italian under your belt—or the equivalent through self-study? Our intermediate tracks help you strengthen grammar, vocabulary, and conversational agility while keeping lessons lively and collaborative.
+Have at least a year of Italian under your belt or the equivalent through self-study? Our intermediate tracks help you strengthen grammar, vocabulary, and conversational agility while keeping lessons lively and collaborative.
 
 Our summer session runs for **10 weeks** from **June 1st to August 12th**. All our teachers are native Italian speakers (Italian mother tongue).
 

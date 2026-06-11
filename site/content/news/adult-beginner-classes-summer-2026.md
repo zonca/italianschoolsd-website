@@ -1,10 +1,10 @@
 ---
-title: Beginner Adult Italian Classes — Summer 2026
+title: "Beginner Adult Italian Classes: Summer 2026"
 date: 2026-05-11
 description: Full schedule, tuition, and enrollment links for beginner-level adult Italian classes running June through August 2026.
 ---
 
-Need a friendly place to start your Italian? These beginner sections keep things practical, interactive, and low-pressure so you can build confidence quickly. No prior Italian experience is required—come ready to learn from the ground up.
+Need a friendly place to start your Italian? These beginner sections keep things practical, interactive, and low-pressure so you can build confidence quickly. No prior Italian experience is required. Come ready to learn from the ground up.
 
 Our summer session runs for **10 weeks** from **June 1st to August 7th**. All our teachers are native Italian speakers (Italian mother tongue).
 

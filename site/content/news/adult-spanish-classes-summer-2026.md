@@ -1,5 +1,5 @@
 ---
-title: Beginner Spanish for Adults — Summer 2026
+title: "Beginner Spanish for Adults: Summer 2026"
 date: 2026-05-11
 description: Enrollment and schedule for our new beginner-level Spanish class for adults.
 ---

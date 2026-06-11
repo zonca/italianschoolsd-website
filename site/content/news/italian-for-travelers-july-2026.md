@@ -1,10 +1,10 @@
 ---
-title: Italian for Travelers — July 2026
+title: "Italian for Travelers: July 2026"
 date: 2026-06-11
 description: 4-class crash course in practical Italian for adults and families heading to Italy this summer. Wednesdays in July, Kearny Mesa.
 ---
 
-Heading to Italy this summer? Four Wednesday evening classes to get you speaking Italian at the airport, hotel, restaurant, and on the street — no prior experience needed. Kids 8+ welcome.
+Heading to Italy this summer? Four Wednesday evening classes to get you speaking Italian at the airport, hotel, restaurant, and on the street. No prior experience needed. Kids 8+ welcome.
 
 | | |
 |---|---|
@@ -16,6 +16,6 @@ Heading to Italy this summer? Four Wednesday evening classes to get you speaking
 
 <div class="tc"><a href="https://italianschoolsd.square.site/product/italian-for-travelers-july-2026-session/2LJ476TUJ4NNCQG4ELI7Z6RZ" class="btn raise">Enroll in July session</a></div>
 
-Family discounts apply automatically at checkout. Full refund available up to one week before the first class — [contact us]({{< relref "contact.md" >}}) to cancel.
+Family discounts apply automatically at checkout. Full refund available up to one week before the first class; [contact us]({{< relref "contact.md" >}}) to cancel.
 
 Want more than 4 classes? See our [Summer Beginner course]({{< relref "news/adult-beginner-classes-summer-2026.md" >}}).
