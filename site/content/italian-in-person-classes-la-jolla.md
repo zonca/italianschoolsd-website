@@ -10,6 +10,8 @@ Learn Italian one-on-one (or with a friend) in a prestigious office on **Fay Ave
 
 Whatever brings you to Italian, we shape the lessons around it: a trip to Italy, your family heritage, citizenship, a move abroad, or work.
 
+Applying for **Italian citizenship**? We can prepare you for the **B1 language requirement**. [Learn more about Italian citizenship and the B1 exam]({{< relref "italian-citizenship-and-visa.md" >}}).
+
 ## What's included {#included}
 
 - **Five one-hour lessons** per package. We recommend one lesson a week.
