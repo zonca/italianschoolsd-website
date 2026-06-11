@@ -26,14 +26,6 @@ Planning a trip to Italy? Get ready with our "Italian for Travelers" program! We
 
 ---
 
-## Spanish for Adults {#spanish}
-
-Interested in learning another Romance language? We are launching a new Spanish beginner class this summer!
-
-<div class="tc"><a href="{{< relref "news/adult-spanish-classes-summer-2026.md" >}}" class="btn raise">View summer Spanish schedule & tuition</a></div>
-
----
-
 ## Summer 2026 Group Classes {#summer-2026}
 
 Our summer session runs for **10 weeks** from **June 1st to August 12th**.
@@ -48,9 +40,7 @@ Our summer session runs for **10 weeks** from **June 1st to August 12th**.
 | **TUESDAY** | **Beg-Int** | **Valentina** | **5:30 PM - 7:00 PM** |
 | **TUESDAY (Online)** | **Beg-Int** | **Tania Adami** | 6:00 PM - 7:30 PM (9 classes, no June 30) |
 | **WEDNESDAY** | **Intermediate** | **Laura** | 6:00 PM - 7:30 PM |
-| **WEDNESDAY** | **Spanish Beginner** | **Bilingual Teacher** | 6:00 PM - 7:30 PM |
 | **THURSDAY** | **Beg-Int** | **Sara** | 6:00 PM - 7:30 PM |
-| **THURSDAY** | **Conversation** | **Jessica** | 6:00 PM - 7:30 PM |
 | **THURSDAY** | **Beginner** | **Valentina** | 6:00 PM - 7:30 PM |
 
 Choose your level below and enroll online with your credit card.
@@ -71,11 +61,11 @@ We offer multiple tracks to keep you challenged and progressing, including **in-
 
 <div class="tc"><a href='{{< relref "news/adult-intermediate-classes-summer-2026.md" >}}' class="btn raise">View summer intermediate schedules & tuition</a></div>
 
-### Advanced {#advanced}
+### Advanced & Conversation {#advanced}
 
-For students with 3+ years of Italian, able to understand most spoken Italian and hold conversations.
+Advanced and Conversation classes will resume in the Fall. In the meantime, advanced students are welcome to join our Intermediate-Advanced class.
 
-<div class="tc"><a href='{{< relref "news/adult-advanced-classes-summer-2026.md" >}}' class="btn raise">View summer advanced schedule & tuition</a></div>
+<div class="tc"><a href='{{< relref "news/adult-intermediate-classes-summer-2026.md" >}}' class="btn raise">View summer Intermediate-Advanced schedule & tuition</a></div>
 
 ## Private & Custom Classes {#private-custom}
 
@@ -85,7 +75,7 @@ One-on-one lessons tailored to your level and interests, from absolute beginner 
 
 <div class="tc"><a href='{{< relref "italian-private-classes.md" >}}' class="btn raise">Learn more about private lessons</a></div>
 
-### Italian On Demand (Flexible Private Lessons) {#on-demand}
+### Italian On Demand (Flexible Online Private Lessons) {#on-demand}
 
 Need more flexibility? Book a private one-hour lesson online via Zoom with as little as 12 hours' notice. No long-term commitment—just pay for one class at a time when it fits your schedule.
 
