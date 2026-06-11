@@ -20,19 +20,18 @@ Whatever brings you to Italian, we shape the lessons around it: a trip to Italy,
 
 ## Pricing {#pricing}
 
-We ask for a **5-hour commitment** to get started:
+Get started with a 5-hour package, and book more whenever you're ready to continue.
 
-| Students | 5-hour package |
-| :--- | :--- |
-| **1 person** | **$599** |
-| **2 people** | **$899** |
+**One student** &middot; $599 for 5 hours
 
 <div class="tc">
-<a href="https://italianschoolsd.square.site/product/in-person-italian-classes-la-jolla-1-person-5-hours/R3QJ6H3XBNPRFXALQS6MRRA7" class="btn raise">Purchase 5 hours, 1 person ($599)</a>
+<a href="https://italianschoolsd.square.site/product/in-person-italian-classes-la-jolla-1-person-5-hours/R3QJ6H3XBNPRFXALQS6MRRA7" class="btn raise">Purchase 5 hours for 1 person</a>
 </div>
 
+**Two students** &middot; $899 for 5 hours
+
 <div class="tc">
-<a href="https://italianschoolsd.square.site/product/in-person-italian-classes-la-jolla-2-people-5-hours/CBEN6APPV2A75VQBXS7QRWQS" class="btn raise">Purchase 5 hours, 2 people ($899)</a>
+<a href="https://italianschoolsd.square.site/product/in-person-italian-classes-la-jolla-2-people-5-hours/CBEN6APPV2A75VQBXS7QRWQS" class="btn raise">Purchase 5 hours for 2 people</a>
 </div>
 
 ## How it works {#how-it-works}
