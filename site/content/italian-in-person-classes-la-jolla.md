@@ -20,7 +20,7 @@ Whatever brings you to Italian, we build the lessons around it: planning a trip 
 
 ---
 
-## Why Choose These Classes? {#why}
+## Why choose these classes? {#why}
 
 - **Prestigious La Jolla location**: a professional office on Fay Ave, near The Lot La Jolla.
 - **Native Italian teacher**: all our instructors are native Italian speakers with experience teaching adults at every level.
@@ -51,7 +51,7 @@ We ask for a **5-hour commitment** to get started:
 
 ---
 
-## How It Works {#how-it-works}
+## How it works {#how-it-works}
 
 1. **Purchase your 5-hour package** above with your credit card.
 2. **We set up a call**: once you've booked, we'll reach out to schedule a short call to discuss your goals and find lesson times that work for you.
@@ -60,13 +60,13 @@ We ask for a **5-hour commitment** to get started:
 
 ---
 
-## Reschedule Policy {#reschedule}
+## Reschedule policy {#reschedule}
 
 Life happens. You can reschedule any lesson at no charge with at least **24 hours' notice**. Just let your teacher know in advance and we'll find a new time.
 
 ---
 
-## Give the Gift of Italian {#gift}
+## Give the gift of Italian {#gift}
 
 Looking for a memorable present? A La Jolla lesson package makes a unique gift for the language lover, the traveler planning a trip to Italy, or anyone reconnecting with their heritage. Purchase a package above and [contact us](/contact) to have it set up as a gift, and we'll coordinate scheduling directly with the recipient.
 
