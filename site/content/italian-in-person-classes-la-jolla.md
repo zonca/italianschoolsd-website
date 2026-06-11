@@ -39,7 +39,7 @@ Get started with a package of five one-hour lessons, and book more whenever you'
 
 1. Purchase your package above with your credit card.
 2. We reach out to set up a short call to discuss your goals and find times that work for you.
-3. Start learning in La Jolla. When your 5 hours are up, book another package to continue.
+3. Start learning in La Jolla. When you finish your five lessons, book another package to continue.
 
 ## Give the gift of Italian {#gift}
 
