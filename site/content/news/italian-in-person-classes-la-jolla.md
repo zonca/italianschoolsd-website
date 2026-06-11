@@ -11,5 +11,5 @@ Every lesson is taught by a **native Italian teacher** and tailored to your goal
 We offer 5-hour lesson packages for one or two students. After you sign up, we'll set up a quick call to discuss your goals and schedule. Packages also make a great gift.
 
 <div class="tc">
-<a href='{{< relref "italian-in-person-classes-la-jolla.md" >}}' class="btn raise">Learn more about our La Jolla classes</a>
+<a href='{{< relref "/italian-in-person-classes-la-jolla.md" >}}' class="btn raise">Learn more about our La Jolla classes</a>
 </div>
