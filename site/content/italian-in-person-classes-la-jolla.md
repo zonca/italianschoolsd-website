@@ -13,7 +13,7 @@ Learn Italian one-on-one (or with a friend) in the heart of La Jolla. Our lesson
 </div>
 
 <div class="tc">
-<a href="https://italianschoolsd.square.site/product/in-person-italian-classes-la-jolla-2-people-5-hours/CBEN6APPV2A75VQBXS7QRWQS" class="btn raise">Purchase 5 hours, 2 people ($799)</a>
+<a href="https://italianschoolsd.square.site/product/in-person-italian-classes-la-jolla-2-people-5-hours/CBEN6APPV2A75VQBXS7QRWQS" class="btn raise">Purchase 5 hours, 2 people ($899)</a>
 </div>
 
 ---
@@ -35,14 +35,14 @@ We ask for a **5-hour commitment** to get started:
 | Students | 5-hour package |
 | :--- | :--- |
 | **1 person** | **$599** |
-| **2 people** | **$799** |
+| **2 people** | **$899** |
 
 <div class="tc">
 <a href="https://italianschoolsd.square.site/product/in-person-italian-classes-la-jolla-1-person-5-hours/R3QJ6H3XBNPRFXALQS6MRRA7" class="btn raise">Purchase 5 hours, 1 person ($599)</a>
 </div>
 
 <div class="tc">
-<a href="https://italianschoolsd.square.site/product/in-person-italian-classes-la-jolla-2-people-5-hours/CBEN6APPV2A75VQBXS7QRWQS" class="btn raise">Purchase 5 hours, 2 people ($799)</a>
+<a href="https://italianschoolsd.square.site/product/in-person-italian-classes-la-jolla-2-people-5-hours/CBEN6APPV2A75VQBXS7QRWQS" class="btn raise">Purchase 5 hours, 2 people ($899)</a>
 </div>
 
 ---

@@ -13,14 +13,14 @@ Every lesson is taught by a **native Italian teacher** and tailored to your leve
 We ask for a **5-hour commitment** to get started:
 
 - **1 person:** $599 for 5 hours
-- **2 people:** $799 for 5 hours
+- **2 people:** $899 for 5 hours
 
 <div class="tc">
 <a href="https://italianschoolsd.square.site/product/in-person-italian-classes-la-jolla-1-person-5-hours/R3QJ6H3XBNPRFXALQS6MRRA7" class="btn raise">Purchase 5 hours, 1 person ($599)</a>
 </div>
 
 <div class="tc">
-<a href="https://italianschoolsd.square.site/product/in-person-italian-classes-la-jolla-2-people-5-hours/CBEN6APPV2A75VQBXS7QRWQS" class="btn raise">Purchase 5 hours, 2 people ($799)</a>
+<a href="https://italianschoolsd.square.site/product/in-person-italian-classes-la-jolla-2-people-5-hours/CBEN6APPV2A75VQBXS7QRWQS" class="btn raise">Purchase 5 hours, 2 people ($899)</a>
 </div>
 
 After you purchase, we'll contact you to arrange your schedule.
