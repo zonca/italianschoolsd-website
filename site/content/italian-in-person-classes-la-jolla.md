@@ -12,6 +12,7 @@ Whatever brings you to Italian, we shape the lessons around it: a trip to Italy,
 
 ## What's included {#included}
 
+- **Five one-hour lessons** per package. We recommend one lesson a week.
 - **Flexible scheduling**: weekdays from 2 PM onward, or anytime on weekends.
 - **One or two students**: learn solo, or split the lessons with a partner, friend, or colleague.
 - **Textbook included**, with nothing extra to buy.
@@ -20,18 +21,18 @@ Whatever brings you to Italian, we shape the lessons around it: a trip to Italy,
 
 ## Pricing {#pricing}
 
-Get started with a 5-hour package, and book more whenever you're ready to continue.
+Get started with a package of five one-hour lessons, and book more whenever you're ready to continue.
 
-**One student** &middot; $599 for 5 hours
+**One student** &middot; $599 for five one-hour lessons
 
 <div class="tc">
-<a href="https://italianschoolsd.square.site/product/in-person-italian-classes-la-jolla-1-person-5-hours/R3QJ6H3XBNPRFXALQS6MRRA7" class="btn raise">Purchase 5 hours for 1 person</a>
+<a href="https://italianschoolsd.square.site/product/in-person-italian-classes-la-jolla-1-person-5-hours/R3QJ6H3XBNPRFXALQS6MRRA7" class="btn raise">Purchase 5 lessons for 1 person</a>
 </div>
 
-**Two students** &middot; $899 for 5 hours
+**Two students** &middot; $899 for five one-hour lessons
 
 <div class="tc">
-<a href="https://italianschoolsd.square.site/product/in-person-italian-classes-la-jolla-2-people-5-hours/CBEN6APPV2A75VQBXS7QRWQS" class="btn raise">Purchase 5 hours for 2 people</a>
+<a href="https://italianschoolsd.square.site/product/in-person-italian-classes-la-jolla-2-people-5-hours/CBEN6APPV2A75VQBXS7QRWQS" class="btn raise">Purchase 5 lessons for 2 people</a>
 </div>
 
 ## How it works {#how-it-works}
