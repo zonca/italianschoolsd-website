@@ -69,6 +69,12 @@ Advanced and Conversation classes will resume in the Fall. In the meantime, adva
 
 ## Private & Custom Classes {#private-custom}
 
+### In-Person Italian Classes in La Jolla {#la-jolla}
+
+Prefer to learn in La Jolla? We offer private lessons with a native Italian teacher in a prestigious office on **Fay Ave**, near **The Lot La Jolla**. Learn solo or with a friend.
+
+<div class="tc"><a href='{{< relref "italian-in-person-classes-la-jolla.md" >}}' class="btn raise">Learn more about La Jolla in-person classes</a></div>
+
 ### Private Lessons (In-person or via Zoom) {#private}
 
 One-on-one lessons tailored to your level and interests, from absolute beginner to advanced. All our instructors are experienced, native Italian speakers. Enjoy flexible scheduling and a 24-hour cancellation policy.
