@@ -17,13 +17,12 @@ For other levels see [Adult classes overview]({{< relref "adults.md" >}}), which
 These classes are designed for students moving up from our Beginner level or those with equivalent experience. We offer three tracks:
 
 *   **Tuesday Track (In person):** Best for students who have studied Italian for approximately **2 months**. Taught by **Valentina**.
-*   **Thursday Track (In person):** Best for students who have studied Italian for approximately **4 months**. Taught by **Sara**.
 *   **Online Track (Tuesday):** A 9-week virtual session via Zoom with **Tania** (No class June 30).
 
 
 ### Tuesday Beginner-Intermediate (In person) {#tue-easier}
 
-- **Schedule:** Tuesdays, 5:30 pm–7:00 pm, June 2 – August 4, 2026 (10 classes)
+- **Schedule:** Tuesdays, 6:00 pm–7:30 pm, June 2 – August 4, 2026 (10 classes)
 - **Tuition:** $350 for the full session
 
 <div class="tc"><a href='https://italianschoolsd.square.site/product/summer-2026-italian-class-beg-int-easier-tuesday/VLOMIQVBYSVGNH2PFTS2SVMO' class="btn raise">Pay and enroll (Tuesday Beg-Int, $350)</a></div>
@@ -75,6 +74,20 @@ Learn Italian from anywhere via Zoom with **Tania**!
 
 ---
 
+
+---
+
+## Wednesday Intermediate {#wed-int}
+
+**Status: Not running for Summer 2026.**
+
+---
+
+### Thursday Beginner-Intermediate (In person) {#thu-challenging}
+
+**Status: Not running for Summer 2026.**
+
+---
 ### Family Discount
 
 - 10% off for all additional family members (applied automatically at checkout).
