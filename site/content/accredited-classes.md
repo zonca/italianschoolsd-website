@@ -24,14 +24,14 @@ We offer two tracks: **Italian as a Foreign Language** (for new learners) and **
 For students new to Italian. Lessons use a conversation-first approach focused on real conversation and everyday situations, building speaking confidence alongside grammar, vocabulary, reading, and writing.
 
 * **Italian 5-6:** Wednesdays, **4:00-6:00pm**, in person. First class: **August 19, 2026**.
-* **Italian 1-2** (*for beginners*)**, 3-4, and 7-8 & AP Preparation:** flexible schedule, arranged with enrolled students (online or in-person). *[See AP Italian page](/ap-italian-san-diego) for 7-8 & AP.*
+* **Italian 1-2** (*for beginners*)**, 3-4, and 7-8 & AP Preparation:** flexible schedule, arranged with enrolled students (online or in-person). *[See AP Italian page](/ap-italian-san-diego) for 7-8 & AP and [Private AP Preparation]({{< ref "private-ap-italian-prep.md" >}}).*
 
 ### Italian for Italian Speakers {#italian-speakers}
 
 For heritage speakers who are already fluent. As they progress, students follow the literature program taught in Italian high schools, reading and discussing Dante's *Divina Commedia*, Boccaccio's *Decameron*, Manzoni's *I Promessi Sposi*, and Homer's *Iliad* and *Odyssey*, alongside grammar, composition, and culture.
 
 * **Italian 1-2, 3-4, and 5-6:** Thursdays, **4:15-6:15pm**, in person. First class: **August 20, 2026**. *(Classes are divided by level.)*
-* **Italian 7-8 & AP Preparation:** flexible schedule, arranged with enrolled students (online or in-person). *[See AP Italian page](/ap-italian-san-diego).*
+* **Italian 7-8 & AP Preparation:** flexible schedule, arranged with enrolled students (online or in-person). *[See AP Italian page](/ap-italian-san-diego) and [Private AP Preparation]({{< ref "private-ap-italian-prep.md" >}}).*
 
 Students with prior Italian study may test into a higher level than 1-2. Please indicate this on the pre-enrollment form or contact us in advance. *(Note: Direct enrollment into levels above 1-2 requires a [curriculum alignment fee](/enroll-accredited#alignment-fee).)* Note: if a student enrolls in, for example, Italian 5-6 during high school, they will receive three years of foreign language credit. Credit is tied to the class level, not the number of years attended.
 
