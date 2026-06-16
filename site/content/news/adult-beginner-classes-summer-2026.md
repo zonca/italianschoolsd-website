@@ -12,7 +12,7 @@ For other levels see [Adult classes overview]({{< relref "adults.md" >}}), where
 
 ---
 
-## Thursday Beginner (In person) {#thu-beg}
+## Thursday Beginner (In person - FULL) {#thu-beg}
 
 Start your Italian journey in person at our school with **Valentina**!
 
