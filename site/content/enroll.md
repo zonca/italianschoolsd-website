@@ -21,6 +21,8 @@ Tuition for 9 months of instruction:
 
 **$1,656** (families enrolled with us for 2 or more years)
 
+We recommend paying via [**Zelle**](/zelle/) to avoid credit card fees.
+
 ## Materials Fee {#materials}
 
 We charge an additional **$150 materials fee** for all kids joining in-person classes. This helps cover classroom supplies, photocopies, internet, utilities, and the cost of maintaining our school space. **Books are not included in this fee.**

@@ -26,6 +26,8 @@ Legacy students who have been enrolled in Italian School for 4 years receive an 
 
 **$2,180**
 
+We recommend paying via [**Zelle**](/zelle/) to avoid credit card fees.
+
 ## Materials Fee {#materials}
 
 There is an additional $150 materials fee for all in-person classes. This helps cover classroom supplies, photocopies, internet, utilities, and the cost of maintaining our school space. **Books are not included in this fee.** The fee does not apply to online classes.
