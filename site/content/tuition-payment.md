@@ -8,7 +8,7 @@ Tuition payment is due in 1 payment by the deadline listed on the enrollment pag
 
 ## Payment Methods {#payment-method}
 
-The preferred payment method is [**Zelle** (free and supported by most US banks)](/zelle/). We also accept checks and credit cards. 
+The preferred payment method is [**Zelle** (free and supported by most US banks)]({{< relref "zelle.md" >}}). We also accept checks and credit cards. 
 * Please make checks payable to `Italian school of San Diego LLC` (do not forget "LLC").
 * Payments via credit cards incur a 3.6% payment processing fee.
 

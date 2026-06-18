@@ -30,7 +30,7 @@ The course introduces students to Italian language and culture, focusing on conv
 - **10% discount** for returning students (those who were enrolled in the 2025-2026 school year)
 - Monthly payment plan available (please specify in the pre-enrollment form)
 
-We recommend paying via [**Zelle**](/zelle/) to avoid credit card fees.
+We recommend paying via [**Zelle**]({{< relref "zelle.md" >}}) to avoid credit card fees.
 
 ## Second session
 

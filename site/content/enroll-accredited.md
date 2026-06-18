@@ -26,7 +26,7 @@ Legacy students who have been enrolled in Italian School for 4 years receive an 
 
 **$2,180**
 
-We recommend paying via [**Zelle**](/zelle/) to avoid credit card fees.
+We recommend paying via [**Zelle**]({{< relref "zelle.md" >}}) to avoid credit card fees.
 
 ## Materials Fee {#materials}
 

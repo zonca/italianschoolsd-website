@@ -21,7 +21,7 @@ Tuition for 9 months of instruction:
 
 **$1,656** (families enrolled with us for 2 or more years)
 
-We recommend paying via [**Zelle**](/zelle/) to avoid credit card fees.
+We recommend paying via [**Zelle**]({{< relref "zelle.md" >}}) to avoid credit card fees.
 
 ## Materials Fee {#materials}
 
