@@ -30,6 +30,8 @@ The course introduces students to Italian language and culture, focusing on conv
 - **10% discount** for returning students (those who were enrolled in the 2025-2026 school year)
 - Monthly payment plan available (please specify in the pre-enrollment form)
 
+We recommend paying via [**Zelle**](/zelle/) to avoid credit card fees.
+
 ## Second session
 
 A second 16-class session will start the following week (**January 20, 2027**) and run through the end of May, with a break for spring. The last regular class will be **May 12, 2027** (with May 19, 2027 reserved as a backup date).
