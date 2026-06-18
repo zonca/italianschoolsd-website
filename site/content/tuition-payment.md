@@ -25,7 +25,7 @@ The 8-payment plan allows you to pay in multiple installments while still commit
 The first additional family member enrolled receives a 10% discount, the second a 15% discount, and so on (discounts are cumulative). For families with kids in both accredited and non-accredited classes, the higher discount applies to the lower tuition.
 
 ### Late Enrollments {#late-enrollments}
-Enrollments are open all year, pending availability. Please [contact us](/contact) first to check availability and ensure the class fits your child's age and level.
+Enrollments are open all year, pending availability. Please [contact us]({{< relref "contact.md" >}}) first to check availability and ensure the class fits your child's age and level.
 * Late enrollment tuition is **10% higher** than the regular tuition for that class.
 * We will send a pro-rated invoice based on the remaining classes. You can choose to pay in full or use the 8-payment plan (which includes the 20% administrative fee).
 

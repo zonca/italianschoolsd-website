@@ -17,7 +17,7 @@ For more information, see:
 
 ## Class Levels and Schedule {#schedule}
 
-We offer two tracks: **Italian as a Foreign Language** (for new learners) and **Italian for Italian Speakers** (for heritage speakers). Some levels meet on a fixed in-person schedule at our [Kearny Mesa location](/location); others have a **flexible schedule** that we arrange together with the enrolled students — just [email us](/contact) your preferred day, time, and format (online or in-person).
+We offer two tracks: **Italian as a Foreign Language** (for new learners) and **Italian for Italian Speakers** (for heritage speakers). Some levels meet on a fixed in-person schedule at our [Kearny Mesa location]({{< relref "location.md" >}}); others have a **flexible schedule** that we arrange together with the enrolled students — just [email us](/contact) your preferred day, time, and format (online or in-person).
 
 ### Italian as a Foreign Language {#foreign-language}
 
@@ -37,7 +37,7 @@ Students with prior Italian study may test into a higher level than 1-2. Please 
 
 ## Location and Calendar {#location}
 
-* **In-Person Classes:** Scheduled Wednesday and Thursday classes meet at our [Kearny Mesa location](/location). 
+* **In-Person Classes:** Scheduled Wednesday and Thursday classes meet at our [Kearny Mesa location]({{< relref "location.md" >}}). 
 * **Flexible Classes:** For classes based on student interest, the format (in-person or online) and schedule will be confirmed after pre-enrollment based on student and teacher availability.
 
 Accredited classes combine weekly class meetings with independent study so students can meet district requirements. See the [Italian School of San Diego calendar](/calendar) for the published class calendars.

@@ -5,7 +5,7 @@ subtitle: Pre-enroll for classes for the academic year 2026-2027
 ---
 
 Enrollment for the 2026-2027 kids classes is open.
-See more information about [all the classes we offer](/classes) before pre-enrolling.
+See more information about [all the classes we offer]({{< relref "classes.md" >}}) before pre-enrolling.
 
 Please **pre-enroll by July 20, 2026** to secure a spot.
 
@@ -27,7 +27,7 @@ We recommend paying via [**Zelle**]({{< relref "zelle.md" >}}) to avoid credit c
 
 We charge an additional **$150 materials fee** for all kids joining in-person classes. This helps cover classroom supplies, photocopies, internet, utilities, and the cost of maintaining our school space. **Books are not included in this fee.**
 
-Check [the dedicated page for details on payment methods, cancellation policy, the 8-payment option, and sibling discount](/tuition-payment).
+Check [the dedicated page for details on payment methods, cancellation policy, the 8-payment option, and sibling discount]({{< relref "tuition-payment.md" >}}).
 
 <div class="tc">
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSd4sac0Y2wdTd9gm2AF1Y9uuVPPyJzHfHEphJPA1iYPkrP43g/viewform?usp=sf_link" class="btn raise">Fill out the universal pre-enrollment form</a>

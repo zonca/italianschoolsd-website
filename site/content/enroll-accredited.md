@@ -4,7 +4,7 @@ image: /img/lastsupper.jpg
 subtitle: Pre-enroll for accredited classes for the academic year 2026-2027
 ---
 
-See [more information about accredited classes](/accredited-classes) before pre-enrolling, and be sure to follow the instructions on that page to notify your high school counselor so credits are properly recognized.
+See [more information about accredited classes]({{< relref "accredited-classes.md" >}}) before pre-enrolling, and be sure to follow the instructions on that page to notify your high school counselor so credits are properly recognized.
 
 Please **pre-enroll by July 20, 2026** to secure a spot. No payment is required at the time of pre-enrollment. We will email you a confirmation with all class details after pre-enrollment closes.
 
@@ -40,7 +40,7 @@ Accredited students normally begin with Italian 1-2. Students with prior Italian
 * Direct entry into **Italian 5-6**: $200
 * Direct entry into **Italian 7-8 / AP Prep**: $300
 
-See [the dedicated page for details on payment methods, cancellation policy, the 8-payment option, and sibling discount](/tuition-payment).
+See [the dedicated page for details on payment methods, cancellation policy, the 8-payment option, and sibling discount]({{< relref "tuition-payment.md" >}}).
 
 The pre-enrollment form is the same for TK–6th grade students and for accredited classes.
 

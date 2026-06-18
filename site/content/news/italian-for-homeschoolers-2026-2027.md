@@ -46,4 +46,4 @@ If you are enrolled in the PCA or Dimensions homeschool programs, please fill th
 
 ## Private Italian classes
 
-We also offer private Italian classes online or in-person, tailored to your level and interests. Please [contact us](/contact) for more information.
+We also offer private Italian classes online or in-person, tailored to your level and interests. Please [contact us]({{< relref "contact.md" >}}) for more information.
