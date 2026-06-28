@@ -36,6 +36,7 @@ For students who want to master Italian fluency, syntax, and cultural idioms.
 - **Schedule:** Mondays, 6:00 PM – 7:30 PM, August 17 – December 14, 2026 (16 classes)
 - **Holidays (No Class):** September 7 (Labor Day), November 23 (Thanksgiving Week)
 - **Tuition:** $576 for the full session (or 5 monthly payments of $126.72)
+- **Textbook:** This class uses *The New Italian Project 1b* ([purchase it here](https://italianschoolsd.square.site/product/new-italian-project-1b/7QEYHDOUF5FWPGRPUBIKCWIC?cp=true&sa=false&sbp=false&q=true)).
 
 <div class="tc"><a href='https://italianschoolsd.square.site/product/MSMLQ47EKE7GGSPU627R2WNV' class="btn raise">Pay in Full ($576)</a></div>
 <div class="tc"><a href='https://square.link/u/cvuA1Q5d' class="btn raise">5 Monthly Payments of $126.72</a></div>
@@ -50,6 +51,7 @@ A conversation-heavy class focused on current topics, literature, and news.
 - **Schedule:** Thursdays, 6:30 PM – 8:00 PM, August 20 – December 10, 2026 (16 classes)
 - **Holidays (No Class):** November 26 (Thanksgiving Day), December 17 (Pre-winter break skip)
 - **Tuition:** $576 for the full session (or 5 monthly payments of $126.72)
+- **Textbook:** No textbook required — class materials are provided by the teacher.
 
 <div class="tc"><a href='https://italianschoolsd.square.site/product/GFEXH5UD5Z4ZZWZKUO3YIF4V' class="btn raise">Pay in Full ($576)</a></div>
 <div class="tc"><a href='https://square.link/u/KyqAr4HE' class="btn raise">5 Monthly Payments of $126.72</a></div>

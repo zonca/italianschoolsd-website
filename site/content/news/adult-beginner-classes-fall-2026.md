@@ -51,7 +51,7 @@ Learn Italian via Zoom from the comfort of your home with **Tania**.
 - **Schedule:** Thursdays, 6:00 PM – 7:30 PM PST, August 20 – December 10, 2026 (16 classes)
 - **Holidays (No Class):** November 26 (Thanksgiving Day), December 17 (Pre-winter break skip)
 - **Tuition:** $544 for the full session (or 5 monthly payments of $119.68)
-- **Textbook:** This class uses *New Italian Espresso (Beginner/Pre-Intermediate Updated Edition)* ([available on Amazon](https://a.co/d/0hAj20Up)).
+- **Textbook:** This class uses *New Italian Espresso (Beginner/Pre-Intermediate Updated Edition)*: [Textbook](https://a.co/d/0hAj20Up) and [Workbook](https://a.co/d/0fGK4Sfo) (available on Amazon).
 
 <div class="tc"><a href='https://italianschoolsd.square.site/product/F2G667EDMNL6VHRRTDGTZYNI' class="btn raise">Pay in Full ($544)</a></div>
 <div class="tc"><a href='https://square.link/u/1H7kAbQh' class="btn raise">5 Monthly Payments of $119.68</a></div>
