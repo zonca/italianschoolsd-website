@@ -23,8 +23,8 @@ Deepen your comprehension and expression skills in person.
 - **Tuition:** $576 for the full session (or 5 monthly payments of $126.72)
 - **Textbook:** This class uses *The New Italian Project 1b* ([purchase it here](https://italianschoolsd.square.site/product/new-italian-project-1b/7QEYHDOUF5FWPGRPUBIKCWIC?cp=true&sa=false&sbp=false&q=true)).
 
-<div class="tc"><a href='https://italianschoolsd.square.site/product/5BTXMJPCYI3OUY6PZ4YCUIXR' class="btn raise">Pay in Full ($576)</a></div>
-<div class="tc"><a href='https://square.link/u/5RwRRxk6' class="btn raise">5 Monthly Payments of $126.72</a></div>
+<div class="tc"><a href='https://italianschoolsd.square.site/product/LFK4ZDK4OWW6K552TEUARTTG' class="btn raise">Pay in Full ($576)</a></div>
+<div class="tc"><a href='https://square.link/u/XJGbZFpy' class="btn raise">5 Monthly Payments of $126.72</a></div>
 
 ---
 
@@ -37,8 +37,8 @@ For students who want to master Italian fluency, syntax, and cultural idioms.
 - **Holidays (No Class):** September 7 (Labor Day), November 23 (Thanksgiving Week)
 - **Tuition:** $576 for the full session (or 5 monthly payments of $126.72)
 
-<div class="tc"><a href='https://italianschoolsd.square.site/product/B6K2MUKZE2FM34N5KZQEQVIS' class="btn raise">Pay in Full ($576)</a></div>
-<div class="tc"><a href='https://square.link/u/SqD8oz3t' class="btn raise">5 Monthly Payments of $126.72</a></div>
+<div class="tc"><a href='https://italianschoolsd.square.site/product/MSMLQ47EKE7GGSPU627R2WNV' class="btn raise">Pay in Full ($576)</a></div>
+<div class="tc"><a href='https://square.link/u/cvuA1Q5d' class="btn raise">5 Monthly Payments of $126.72</a></div>
 
 ---
 
@@ -51,8 +51,8 @@ A conversation-heavy class focused on current topics, literature, and news.
 - **Holidays (No Class):** November 26 (Thanksgiving Day), December 17 (Pre-winter break skip)
 - **Tuition:** $576 for the full session (or 5 monthly payments of $126.72)
 
-<div class="tc"><a href='https://italianschoolsd.square.site/product/Q4WL53JZBURRX2GC56LT7FJO' class="btn raise">Pay in Full ($576)</a></div>
-<div class="tc"><a href='https://square.link/u/hu9NiyaI' class="btn raise">5 Monthly Payments of $126.72</a></div>
+<div class="tc"><a href='https://italianschoolsd.square.site/product/GFEXH5UD5Z4ZZWZKUO3YIF4V' class="btn raise">Pay in Full ($576)</a></div>
+<div class="tc"><a href='https://square.link/u/KyqAr4HE' class="btn raise">5 Monthly Payments of $126.72</a></div>
 
 ---
 

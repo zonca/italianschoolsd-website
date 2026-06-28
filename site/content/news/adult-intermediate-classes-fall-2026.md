@@ -23,8 +23,8 @@ Solidify your intermediate-level speaking and reading skills in person at our sc
 - **Tuition:** $576 for the full session (or 5 monthly payments of $126.72)
 - **Textbook:** This class uses *The New Italian Project 1a* ([purchase it here](https://italianschoolsd.square.site/product/new-italian-project-1a/1?cp=true&sa=false&sbp=false&q=true)).
 
-<div class="tc"><a href='https://italianschoolsd.square.site/product/CEIS4KXDAWNOY73U4XX2A5OV' class="btn raise">Pay in Full ($576)</a></div>
-<div class="tc"><a href='https://square.link/u/2tpwhhjb' class="btn raise">5 Monthly Payments of $126.72</a></div>
+<div class="tc"><a href='https://italianschoolsd.square.site/product/FW4NG6AUL43RJOFT4OR7VUFQ' class="btn raise">Pay in Full ($576)</a></div>
+<div class="tc"><a href='https://square.link/u/0qcToXY7' class="btn raise">5 Monthly Payments of $126.72</a></div>
 
 ---
 
@@ -37,8 +37,8 @@ A bridge class from beginner to intermediate, focused on strengthening conversat
 - **Holidays (No Class):** November 24 (Thanksgiving Week), December 15 (Pre-winter break skip)
 - **Tuition:** $576 for the full session (or 5 monthly payments of $126.72)
 
-<div class="tc"><a href='https://italianschoolsd.square.site/product/HRMZK5HMXIV2A5SFKVWKLFZ3' class="btn raise">Pay in Full ($576)</a></div>
-<div class="tc"><a href='https://square.link/u/TSu8SgSs' class="btn raise">5 Monthly Payments of $126.72</a></div>
+<div class="tc"><a href='https://italianschoolsd.square.site/product/ZAOWGJEZCVSL75CNRCC4EKTB' class="btn raise">Pay in Full ($576)</a></div>
+<div class="tc"><a href='https://square.link/u/AgTAJS9K' class="btn raise">5 Monthly Payments of $126.72</a></div>
 
 ---
 
@@ -51,8 +51,8 @@ Evening section to build grammar and conversation in person.
 - **Holidays (No Class):** November 26 (Thanksgiving Day), December 17 (Pre-winter break skip)
 - **Tuition:** $576 for the full session (or 5 monthly payments of $126.72)
 
-<div class="tc"><a href='https://italianschoolsd.square.site/product/RJ6A5YDUP4IFGXZHE2OKZFIG' class="btn raise">Pay in Full ($576)</a></div>
-<div class="tc"><a href='https://square.link/u/02P3Maxr' class="btn raise">5 Monthly Payments of $126.72</a></div>
+<div class="tc"><a href='https://italianschoolsd.square.site/product/CC4AAHXH5LVKOB6ZICWTLH7O' class="btn raise">Pay in Full ($576)</a></div>
+<div class="tc"><a href='https://square.link/u/6kVEfJDr' class="btn raise">5 Monthly Payments of $126.72</a></div>
 
 ---
 
@@ -66,8 +66,8 @@ Learn Italian via Zoom from home with **Tania**.
 - **Tuition:** $544 for the full session (or 5 monthly payments of $119.68)
 - **Textbook:** This class uses *New Italian Espresso (Beginner/Pre-Intermediate Updated Edition)* ([available on Amazon](https://a.co/d/0hAj20Up)).
 
-<div class="tc"><a href='https://italianschoolsd.square.site/product/ADZV3ZI3T2X2SAFESDK2MHN5' class="btn raise">Pay in Full ($544)</a></div>
-<div class="tc"><a href='https://square.link/u/xwtmIDeD' class="btn raise">5 Monthly Payments of $119.68</a></div>
+<div class="tc"><a href='https://italianschoolsd.square.site/product/QPX5HZQYK3XHAYFMEBBFTYHR' class="btn raise">Pay in Full ($544)</a></div>
+<div class="tc"><a href='https://square.link/u/XjuivUoU' class="btn raise">5 Monthly Payments of $119.68</a></div>
 
 ---
 
@@ -81,8 +81,8 @@ Continuing intermediate class via Zoom with **Tania**.
 - **Tuition:** $544 for the full session (or 5 monthly payments of $119.68)
 - **Textbook:** This class uses *New Italian Espresso (Beginner/Pre-Intermediate Updated Edition)* ([available on Amazon](https://a.co/d/0hAj20Up)).
 
-<div class="tc"><a href='https://italianschoolsd.square.site/product/52PMA5IELAB7DGNSAMSFAMFF' class="btn raise">Pay in Full ($544)</a></div>
-<div class="tc"><a href='https://square.link/u/RpMcCs5q' class="btn raise">5 Monthly Payments of $119.68</a></div>
+<div class="tc"><a href='https://italianschoolsd.square.site/product/SATQ6IVPXQOHZIDWF4YQLWTB' class="btn raise">Pay in Full ($544)</a></div>
+<div class="tc"><a href='https://square.link/u/srHUleCm' class="btn raise">5 Monthly Payments of $119.68</a></div>
 
 ---
 

@@ -23,8 +23,8 @@ Enjoy the classroom experience and learn in person at our Kearny Mesa facility.
 - **Tuition:** $576 for the full session (or 5 monthly payments of $126.72)
 - **Textbook:** This class uses *The New Italian Project 1a* ([purchase it here](https://italianschoolsd.square.site/product/new-italian-project-1a/1?cp=true&sa=false&sbp=false&q=true)).
 
-<div class="tc"><a href='https://italianschoolsd.square.site/product/E7URS2Q3P55X7JT6WZVFQZXX' class="btn raise">Pay in Full ($576)</a></div>
-<div class="tc"><a href='https://square.link/u/fiGWy7FF' class="btn raise">5 Monthly Payments of $126.72</a></div>
+<div class="tc"><a href='https://italianschoolsd.square.site/product/QO6IEA6FHPS5I7R2HTWGRUYC' class="btn raise">Pay in Full ($576)</a></div>
+<div class="tc"><a href='https://square.link/u/Cj77PKK0' class="btn raise">5 Monthly Payments of $126.72</a></div>
 
 ---
 
@@ -38,8 +38,8 @@ Weekend section for those looking to start their Italian journey in person on Sa
 - **Tuition:** $540 for the full session (or 5 monthly payments of $118.80)
 - **Textbook:** This class uses *The New Italian Project 1a* ([purchase it here](https://italianschoolsd.square.site/product/new-italian-project-1a/1?cp=true&sa=false&sbp=false&q=true)).
 
-<div class="tc"><a href='https://italianschoolsd.square.site/product/BVIR4IXALTMWUXHQRHSLZ745' class="btn raise">Pay in Full ($540)</a></div>
-<div class="tc"><a href='https://square.link/u/qetQriN2' class="btn raise">5 Monthly Payments of $118.80</a></div>
+<div class="tc"><a href='https://italianschoolsd.square.site/product/WCHSFNTH2BALIWGEIXS5IBEH' class="btn raise">Pay in Full ($540)</a></div>
+<div class="tc"><a href='https://square.link/u/AcNfjkG4' class="btn raise">5 Monthly Payments of $118.80</a></div>
 
 ---
 
@@ -53,8 +53,8 @@ Learn Italian via Zoom from the comfort of your home with **Tania**.
 - **Tuition:** $544 for the full session (or 5 monthly payments of $119.68)
 - **Textbook:** This class uses *New Italian Espresso (Beginner/Pre-Intermediate Updated Edition)* ([available on Amazon](https://a.co/d/0hAj20Up)).
 
-<div class="tc"><a href='https://italianschoolsd.square.site/product/FDLIIQOSM354P3FQRL7OHEVN' class="btn raise">Pay in Full ($544)</a></div>
-<div class="tc"><a href='https://square.link/u/VjVHjchu' class="btn raise">5 Monthly Payments of $119.68</a></div>
+<div class="tc"><a href='https://italianschoolsd.square.site/product/F2G667EDMNL6VHRRTDGTZYNI' class="btn raise">Pay in Full ($544)</a></div>
+<div class="tc"><a href='https://square.link/u/1H7kAbQh' class="btn raise">5 Monthly Payments of $119.68</a></div>
 
 ---
 
