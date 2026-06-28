@@ -23,7 +23,7 @@ For students who want to master Italian fluency, syntax, and cultural idioms.
 - **Tuition:** $576 for the full session (or 5 monthly payments of $126.72)
 - **Textbook:** This class uses *The New Italian Project 1b* ([purchase it here](https://italianschoolsd.square.site/product/new-italian-project-1b/7QEYHDOUF5FWPGRPUBIKCWIC?cp=true&sa=false&sbp=false&q=true)).
 
-<div class="tc"><a href='https://italianschoolsd.square.site/product/MSMLQ47EKE7GGSPU627R2WNV' class="btn raise">Pay in Full ($576)</a></div>
+<div class="tc"><a href='https://italianschoolsd.square.site/product/fall-2026-italian-class-advanced-monday/MSMLQ47EKE7GGSPU627R2WNV' class="btn raise">Pay in Full ($576)</a></div>
 <div class="tc"><a href='https://square.link/u/cvuA1Q5d' class="btn raise">5 Monthly Payments of $126.72</a></div>
 
 ---
@@ -38,7 +38,7 @@ A conversation-heavy class focused on current topics, literature, and news.
 - **Tuition:** $576 for the full session (or 5 monthly payments of $126.72)
 - **Textbook:** No textbook required — class materials are provided by the teacher.
 
-<div class="tc"><a href='https://italianschoolsd.square.site/product/GFEXH5UD5Z4ZZWZKUO3YIF4V' class="btn raise">Pay in Full ($576)</a></div>
+<div class="tc"><a href='https://italianschoolsd.square.site/product/fall-2026-italian-class-conversation-thursday/GFEXH5UD5Z4ZZWZKUO3YIF4V' class="btn raise">Pay in Full ($576)</a></div>
 <div class="tc"><a href='https://square.link/u/KyqAr4HE' class="btn raise">5 Monthly Payments of $126.72</a></div>
 
 ---
