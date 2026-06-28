@@ -23,7 +23,7 @@ Solidify your intermediate-level speaking and reading skills in person at our sc
 - **Tuition:** $576 for the full session (or 5 monthly payments of $126.72)
 - **Textbook:** This class uses *The New Italian Project 1b* ([purchase it here](https://italianschoolsd.square.site/product/new-italian-project-1b/7QEYHDOUF5FWPGRPUBIKCWIC?cp=true&sa=false&sbp=false&q=true)).
 
-<div class="tc"><a href='https://italianschoolsd.square.site/product/fall-2026-italian-class-intermediate-monday/FW4NG6AUL43RJOFT4OR7VUFQ' class="btn raise">Pay in Full ($576)</a></div>
+<div class="tc"><a href='https://italianschoolsd.square.site/product/fall-2026-italian-class-intermediate-monday/FW4NG6AUL43RJOFT4OR7VUFQ?cp=true&sa=false&sbp=false&q=false&category_id=HNRP2GMCHRKHHOJTPN3NQ4QW' class="btn raise">Pay in Full ($576)</a></div>
 <div class="tc"><a href='https://square.link/u/0qcToXY7' class="btn raise">5 Monthly Payments of $126.72</a></div>
 
 ---
@@ -38,7 +38,7 @@ For students who have completed intermediate Italian and want to push further in
 - **Tuition:** $576 for the full session (or 5 monthly payments of $126.72)
 - **Textbook:** This class uses *The New Italian Project 1b* ([purchase it here](https://italianschoolsd.square.site/product/new-italian-project-1b/7QEYHDOUF5FWPGRPUBIKCWIC?cp=true&sa=false&sbp=false&q=true)).
 
-<div class="tc"><a href='https://italianschoolsd.square.site/product/fall-2026-italian-class-intermediate-advanced-monday/LFK4ZDK4OWW6K552TEUARTTG' class="btn raise">Pay in Full ($576)</a></div>
+<div class="tc"><a href='https://italianschoolsd.square.site/product/fall-2026-italian-class-intermediate-advanced-monday/LFK4ZDK4OWW6K552TEUARTTG?cp=true&sa=false&sbp=false&q=false&category_id=HNRP2GMCHRKHHOJTPN3NQ4QW' class="btn raise">Pay in Full ($576)</a></div>
 <div class="tc"><a href='https://square.link/u/XJGbZFpy' class="btn raise">5 Monthly Payments of $126.72</a></div>
 
 ---
@@ -53,7 +53,7 @@ A bridge class from beginner to intermediate, focused on strengthening conversat
 - **Tuition:** $576 for the full session (or 5 monthly payments of $126.72)
 - **Textbook:** This class uses *The New Italian Project 1a* ([purchase it here](https://italianschoolsd.square.site/product/new-italian-project-1a/1?cp=true&sa=false&sbp=false&q=true)).
 
-<div class="tc"><a href='https://italianschoolsd.square.site/product/fall-2026-italian-class-beg-int-tuesday/ZAOWGJEZCVSL75CNRCC4EKTB' class="btn raise">Pay in Full ($576)</a></div>
+<div class="tc"><a href='https://italianschoolsd.square.site/product/fall-2026-italian-class-beg-int-tuesday/ZAOWGJEZCVSL75CNRCC4EKTB?cp=true&sa=false&sbp=false&q=false&category_id=HNRP2GMCHRKHHOJTPN3NQ4QW' class="btn raise">Pay in Full ($576)</a></div>
 <div class="tc"><a href='https://square.link/u/AgTAJS9K' class="btn raise">5 Monthly Payments of $126.72</a></div>
 
 ---
@@ -68,7 +68,7 @@ Evening section to build grammar and conversation in person.
 - **Tuition:** $576 for the full session (or 5 monthly payments of $126.72)
 - **Textbook:** This class uses *The New Italian Project 1a* ([purchase it here](https://italianschoolsd.square.site/product/new-italian-project-1a/1?cp=true&sa=false&sbp=false&q=true)).
 
-<div class="tc"><a href='https://italianschoolsd.square.site/product/fall-2026-italian-class-beg-int-thursday/CC4AAHXH5LVKOB6ZICWTLH7O' class="btn raise">Pay in Full ($576)</a></div>
+<div class="tc"><a href='https://italianschoolsd.square.site/product/fall-2026-italian-class-beg-int-thursday/CC4AAHXH5LVKOB6ZICWTLH7O?cp=true&sa=false&sbp=false&q=false&category_id=HNRP2GMCHRKHHOJTPN3NQ4QW' class="btn raise">Pay in Full ($576)</a></div>
 <div class="tc"><a href='https://square.link/u/6kVEfJDr' class="btn raise">5 Monthly Payments of $126.72</a></div>
 
 ---
@@ -83,7 +83,7 @@ Learn Italian via Zoom from home with **Tania**.
 - **Tuition:** $544 for the full session (or 5 monthly payments of $119.68)
 - **Textbook:** This class uses *New Italian Espresso (Beginner/Pre-Intermediate Updated Edition)*: [Textbook](https://a.co/d/0hAj20Up) and [Workbook](https://a.co/d/0fGK4Sfo) (available on Amazon).
 
-<div class="tc"><a href='https://italianschoolsd.square.site/product/fall-2026-italian-class-beg-int-monday-online/QPX5HZQYK3XHAYFMEBBFTYHR' class="btn raise">Pay in Full ($544)</a></div>
+<div class="tc"><a href='https://italianschoolsd.square.site/product/fall-2026-italian-class-beg-int-monday-online/QPX5HZQYK3XHAYFMEBBFTYHR?cp=true&sa=false&sbp=false&q=false&category_id=HNRP2GMCHRKHHOJTPN3NQ4QW' class="btn raise">Pay in Full ($544)</a></div>
 <div class="tc"><a href='https://square.link/u/XjuivUoU' class="btn raise">5 Monthly Payments of $119.68</a></div>
 
 ---
@@ -98,7 +98,7 @@ Continuing intermediate class via Zoom with **Tania**.
 - **Tuition:** $544 for the full session (or 5 monthly payments of $119.68)
 - **Textbook:** This class uses *New Italian Espresso (Beginner/Pre-Intermediate Updated Edition)*: [Textbook](https://a.co/d/0hAj20Up) and [Workbook](https://a.co/d/0fGK4Sfo) (available on Amazon).
 
-<div class="tc"><a href='https://italianschoolsd.square.site/product/fall-2026-italian-class-intermediate-tuesday-online/SATQ6IVPXQOHZIDWF4YQLWTB' class="btn raise">Pay in Full ($544)</a></div>
+<div class="tc"><a href='https://italianschoolsd.square.site/product/fall-2026-italian-class-intermediate-tuesday-online/SATQ6IVPXQOHZIDWF4YQLWTB?cp=true&sa=false&sbp=false&q=false&category_id=HNRP2GMCHRKHHOJTPN3NQ4QW' class="btn raise">Pay in Full ($544)</a></div>
 <div class="tc"><a href='https://square.link/u/srHUleCm' class="btn raise">5 Monthly Payments of $119.68</a></div>
 
 ---
