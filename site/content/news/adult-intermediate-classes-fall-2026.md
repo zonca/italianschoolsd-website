@@ -1,6 +1,7 @@
 ---
 title: "Intermediate Adult Italian Classes: Fall 2026"
 date: 2026-06-28
+weight: 2
 description: Schedule and tuition details for intermediate-level and beginner-intermediate adult Italian classes offered August through December 2026.
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: "Beginner Adult Italian Classes: Fall 2026"
 date: 2026-06-28
+weight: 1
 description: Full schedule, tuition, and enrollment links for beginner-level adult Italian classes running August through December 2026.
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: "Advanced & Conversation Adult Italian Classes: Fall 2026"
 date: 2026-06-28
+weight: 3
 description: Schedule and tuition details for advanced-level and conversation adult Italian classes offered in person August through December 2026.
 ---
 
