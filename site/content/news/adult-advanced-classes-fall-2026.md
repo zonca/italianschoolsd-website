@@ -13,21 +13,6 @@ For other levels, please see our [Adult classes overview]({{< relref "adults.md"
 
 ---
 
-## Monday Intermediate-Advanced (In person) {#mon-int-adv}
-
-Deepen your comprehension and expression skills in person.
-
-- **Teacher:** TBD
-- **Schedule:** Mondays, 6:00 PM – 7:30 PM, August 17 – December 14, 2026 (16 classes)
-- **Holidays (No Class):** September 7 (Labor Day), November 23 (Thanksgiving Week)
-- **Tuition:** $576 for the full session (or 5 monthly payments of $126.72)
-- **Textbook:** This class uses *The New Italian Project 1b* ([purchase it here](https://italianschoolsd.square.site/product/new-italian-project-1b/7QEYHDOUF5FWPGRPUBIKCWIC?cp=true&sa=false&sbp=false&q=true)).
-
-<div class="tc"><a href='https://italianschoolsd.square.site/product/LFK4ZDK4OWW6K552TEUARTTG' class="btn raise">Pay in Full ($576)</a></div>
-<div class="tc"><a href='https://square.link/u/XJGbZFpy' class="btn raise">5 Monthly Payments of $126.72</a></div>
-
----
-
 ## Monday Advanced (In person) {#mon-adv}
 
 For students who want to master Italian fluency, syntax, and cultural idioms.

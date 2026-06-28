@@ -1,8 +1,8 @@
 ---
-title: "Intermediate Adult Italian Classes: Fall 2026"
+title: "Intermediate & Intermediate-Advanced Adult Italian Classes: Fall 2026"
 date: 2026-06-28
 weight: 2
-description: Schedule and tuition details for intermediate-level and beginner-intermediate adult Italian classes offered August through December 2026.
+description: Schedule and tuition details for intermediate-level, beginner-intermediate, and intermediate-advanced adult Italian classes offered August through December 2026.
 ---
 
 Expand your Italian language skills with our intermediate and beginner-intermediate classes! These sections are designed for students who have studied basic Italian and want to deepen their understanding of vocabulary, conversational skills, and core grammar.
@@ -25,6 +25,21 @@ Solidify your intermediate-level speaking and reading skills in person at our sc
 
 <div class="tc"><a href='https://italianschoolsd.square.site/product/FW4NG6AUL43RJOFT4OR7VUFQ' class="btn raise">Pay in Full ($576)</a></div>
 <div class="tc"><a href='https://square.link/u/0qcToXY7' class="btn raise">5 Monthly Payments of $126.72</a></div>
+
+---
+
+## Monday Intermediate-Advanced (In person) {#mon-int-adv}
+
+For students who have completed intermediate Italian and want to push further into complex grammar, nuanced vocabulary, and fluent expression.
+
+- **Teacher:** TBD
+- **Schedule:** Mondays, 6:00 PM – 7:30 PM, August 17 – December 14, 2026 (16 classes)
+- **Holidays (No Class):** September 7 (Labor Day), November 23 (Thanksgiving Week)
+- **Tuition:** $576 for the full session (or 5 monthly payments of $126.72)
+- **Textbook:** This class uses *The New Italian Project 1b* ([purchase it here](https://italianschoolsd.square.site/product/new-italian-project-1b/7QEYHDOUF5FWPGRPUBIKCWIC?cp=true&sa=false&sbp=false&q=true)).
+
+<div class="tc"><a href='https://italianschoolsd.square.site/product/LFK4ZDK4OWW6K552TEUARTTG' class="btn raise">Pay in Full ($576)</a></div>
+<div class="tc"><a href='https://square.link/u/XJGbZFpy' class="btn raise">5 Monthly Payments of $126.72</a></div>
 
 ---
 

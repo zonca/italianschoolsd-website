@@ -44,11 +44,11 @@ Start your Italian journey with our friendly, hands-on beginner classes! In this
 
 <div class="tc"><a href='{{< relref "news/adult-beginner-classes-fall-2026.md" >}}' class="btn raise">View Fall Beginner schedule & tuition</a></div>
 
-### Intermediate & Beginner-Intermediate {#intermediate}
+### Intermediate & Intermediate-Advanced {#intermediate}
 
-For students with at least some prior study who want to expand their grammar, vocabulary, and conversational agility. We offer multiple tracks (in-person on Monday, Tuesday, or Thursday, and online on Monday or Tuesday) to help you find the perfect match for your current level and schedule.
+For students with at least some prior study who want to expand their grammar, vocabulary, and conversational agility. We offer multiple tracks — including a dedicated Intermediate-Advanced section — in person on Monday, Tuesday, or Thursday, and online on Monday or Tuesday.
 
-<div class="tc"><a href='{{< relref "news/adult-intermediate-classes-fall-2026.md" >}}' class="btn raise">View Fall Intermediate schedules & tuition</a></div>
+<div class="tc"><a href='{{< relref "news/adult-intermediate-classes-fall-2026.md" >}}' class="btn raise">View Fall Intermediate & Int-Advanced schedules & tuition</a></div>
 
 ### Advanced & Conversation {#advanced}
 
