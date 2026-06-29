@@ -109,3 +109,9 @@ exports.handler = async function handler(event) {
     return { statusCode: 400, body: 'Webhook error' };
   }
 };
+
+exports._test = {
+  addMonths,
+  handleEvent,
+  verifyStripeSignature,
+};

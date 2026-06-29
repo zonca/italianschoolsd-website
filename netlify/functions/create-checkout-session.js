@@ -23,6 +23,22 @@ function parseBody(event) {
   return new URLSearchParams(raw);
 }
 
+function validateSelection({ classId, paymentType, includeBook }) {
+  const selectedClass = CLASSES[classId];
+
+  if (!selectedClass) {
+    return { error: { statusCode: 400, body: 'Unknown class selection.' } };
+  }
+  if (!['full', 'monthly'].includes(paymentType)) {
+    return { error: { statusCode: 400, body: 'Unknown payment selection.' } };
+  }
+  if (includeBook && !selectedClass.bookId) {
+    return { error: { statusCode: 400, body: 'Book purchase is not available for this class.' } };
+  }
+
+  return { selectedClass };
+}
+
 function appendLineItem(params, index, item) {
   params.append(`line_items[${index}][quantity]`, String(item.quantity || 1));
   params.append(`line_items[${index}][price_data][currency]`, 'usd');
@@ -57,6 +73,68 @@ async function stripeRequest(path, params) {
   return data;
 }
 
+function buildCheckoutParams({ selectedClass, paymentType, includeBook, origin }) {
+  const returnPath = `${selectedClass.pagePath}?checkout=success#${selectedClass.anchor}`;
+  const cancelPath = `${selectedClass.pagePath}#${selectedClass.anchor}`;
+  const mode = paymentType === 'monthly' ? 'subscription' : 'payment';
+  const params = new URLSearchParams();
+  const metadata = {
+    class_id: selectedClass.id,
+    class_level: selectedClass.level,
+    class_format: selectedClass.format,
+    quarter: 'Fall 2026',
+    payment_type: paymentType,
+    includes_book: includeBook ? 'yes' : 'no',
+  };
+
+  params.append('mode', mode);
+  params.append('success_url', `${origin}${returnPath}`);
+  params.append('cancel_url', `${origin}${cancelPath}`);
+  params.append('client_reference_id', selectedClass.id);
+  params.append('metadata[class_id]', selectedClass.id);
+  params.append('metadata[payment_type]', paymentType);
+  params.append('metadata[includes_book]', includeBook ? 'yes' : 'no');
+
+  appendLineItem(params, 0, {
+    name: selectedClass.name,
+    amount: paymentType === 'monthly' ? selectedClass.monthlyAmount : selectedClass.fullAmount,
+    recurring: paymentType === 'monthly',
+    taxCode: CLASS_TAX_CODE,
+    metadata,
+  });
+
+  if (includeBook) {
+    const book = BOOKS[selectedClass.bookId];
+    appendLineItem(params, 1, {
+      name: book.name,
+      amount: book.amount,
+      images: [`${origin}${book.imagePath}`],
+      taxCode: BOOK_TAX_CODE,
+      metadata: {
+        item_type: 'book',
+        book_id: book.id,
+        paired_class_id: selectedClass.id,
+      },
+    });
+    params.append('automatic_tax[enabled]', 'true');
+    params.append('billing_address_collection', 'required');
+  }
+
+  if (paymentType === 'full') {
+    params.append('customer_creation', 'if_required');
+    params.append('allow_promotion_codes', 'true');
+    params.append('payment_intent_data[metadata][class_id]', selectedClass.id);
+    params.append('payment_intent_data[metadata][payment_type]', paymentType);
+  } else {
+    params.append('subscription_data[metadata][class_id]', selectedClass.id);
+    params.append('subscription_data[metadata][payment_type]', paymentType);
+    params.append('subscription_data[metadata][installments_total]', '5');
+    params.append('subscription_data[metadata][cancel_after_months]', '5');
+  }
+
+  return params;
+}
+
 exports.handler = async function handler(event) {
   try {
     if (event.httpMethod !== 'POST') {
@@ -70,77 +148,18 @@ exports.handler = async function handler(event) {
     const classId = body.get('classId');
     const paymentType = body.get('paymentType');
     const includeBook = body.get('includeBook') === 'yes';
-    const selectedClass = CLASSES[classId];
+    const { selectedClass, error } = validateSelection({ classId, paymentType, includeBook });
 
-    if (!selectedClass) {
-      return { statusCode: 400, body: 'Unknown class selection.' };
-    }
-    if (!['full', 'monthly'].includes(paymentType)) {
-      return { statusCode: 400, body: 'Unknown payment selection.' };
-    }
-    if (includeBook && !selectedClass.bookId) {
-      return { statusCode: 400, body: 'Book purchase is not available for this class.' };
+    if (error) {
+      return error;
     }
 
-    const origin = baseUrl(event);
-    const returnPath = `${selectedClass.pagePath}?checkout=success#${selectedClass.anchor}`;
-    const cancelPath = `${selectedClass.pagePath}#${selectedClass.anchor}`;
-    const mode = paymentType === 'monthly' ? 'subscription' : 'payment';
-    const params = new URLSearchParams();
-    const metadata = {
-      class_id: selectedClass.id,
-      class_level: selectedClass.level,
-      class_format: selectedClass.format,
-      quarter: 'Fall 2026',
-      payment_type: paymentType,
-      includes_book: includeBook ? 'yes' : 'no',
-    };
-
-    params.append('mode', mode);
-    params.append('success_url', `${origin}${returnPath}`);
-    params.append('cancel_url', `${origin}${cancelPath}`);
-    params.append('client_reference_id', selectedClass.id);
-    params.append('metadata[class_id]', selectedClass.id);
-    params.append('metadata[payment_type]', paymentType);
-    params.append('metadata[includes_book]', includeBook ? 'yes' : 'no');
-
-    appendLineItem(params, 0, {
-      name: selectedClass.name,
-      amount: paymentType === 'monthly' ? selectedClass.monthlyAmount : selectedClass.fullAmount,
-      recurring: paymentType === 'monthly',
-      taxCode: CLASS_TAX_CODE,
-      metadata,
+    const params = buildCheckoutParams({
+      selectedClass,
+      paymentType,
+      includeBook,
+      origin: baseUrl(event),
     });
-
-    if (includeBook) {
-      const book = BOOKS[selectedClass.bookId];
-      appendLineItem(params, 1, {
-        name: book.name,
-        amount: book.amount,
-        images: [`${origin}${book.imagePath}`],
-        taxCode: BOOK_TAX_CODE,
-        metadata: {
-          item_type: 'book',
-          book_id: book.id,
-          paired_class_id: selectedClass.id,
-        },
-      });
-      params.append('automatic_tax[enabled]', 'true');
-      params.append('billing_address_collection', 'required');
-    }
-
-    if (paymentType === 'full') {
-      params.append('customer_creation', 'if_required');
-      params.append('allow_promotion_codes', 'true');
-      params.append('payment_intent_data[metadata][class_id]', selectedClass.id);
-      params.append('payment_intent_data[metadata][payment_type]', paymentType);
-    } else {
-      params.append('subscription_data[metadata][class_id]', selectedClass.id);
-      params.append('subscription_data[metadata][payment_type]', paymentType);
-      params.append('subscription_data[metadata][installments_total]', '5');
-      params.append('subscription_data[metadata][cancel_after_months]', '5');
-    }
-
     const session = await stripeRequest('/checkout/sessions', params);
     return {
       statusCode: 303,
@@ -163,4 +182,9 @@ exports.handler = async function handler(event) {
       body: 'Checkout is temporarily unavailable. Please contact us and we will help you enroll.',
     };
   }
+};
+
+exports._test = {
+  buildCheckoutParams,
+  validateSelection,
 };
