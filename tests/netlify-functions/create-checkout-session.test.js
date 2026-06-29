@@ -1,8 +1,8 @@
 const assert = require('node:assert/strict');
 const test = require('node:test');
 
-const { CLASSES } = require('../lib/checkout/catalog');
-const { _test } = require('./create-checkout-session');
+const { CLASSES } = require('../../netlify/lib/checkout/catalog');
+const { _test } = require('../../netlify/functions/create-checkout-session');
 
 const ORIGIN = 'https://www.italianschoolsd.com';
 

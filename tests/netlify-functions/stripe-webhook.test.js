@@ -2,7 +2,7 @@ const assert = require('node:assert/strict');
 const crypto = require('node:crypto');
 const test = require('node:test');
 
-const { _test } = require('./stripe-webhook');
+const { _test } = require('../../netlify/functions/stripe-webhook');
 
 function signedHeader(payload, secret, timestamp = Math.floor(Date.now() / 1000)) {
   const signature = crypto
