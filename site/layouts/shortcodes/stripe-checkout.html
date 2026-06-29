@@ -1,0 +1,34 @@
+{{- $class := .Get "class" -}}
+{{- $full := .Get "full" -}}
+{{- $monthly := .Get "monthly" -}}
+{{- $book := .Get "book" -}}
+{{- $bookLabel := .Get "bookLabel" | default "Textbook" -}}
+{{- $fullBook := .Get "fullBook" -}}
+<div class="checkout-options" aria-label="Enrollment options">
+  <form action="/.netlify/functions/create-checkout-session" method="POST">
+    <input type="hidden" name="classId" value="{{ $class }}">
+    <input type="hidden" name="paymentType" value="full">
+    <button type="submit" class="btn raise checkout-button">Pay in Full (${{ $full }})</button>
+  </form>
+  {{- if $book }}
+  <form action="/.netlify/functions/create-checkout-session" method="POST">
+    <input type="hidden" name="classId" value="{{ $class }}">
+    <input type="hidden" name="paymentType" value="full">
+    <input type="hidden" name="includeBook" value="yes">
+    <button type="submit" class="btn raise checkout-button">Pay in Full + {{ $bookLabel }} (${{ $fullBook }} + tax)</button>
+  </form>
+  {{- end }}
+  <form action="/.netlify/functions/create-checkout-session" method="POST">
+    <input type="hidden" name="classId" value="{{ $class }}">
+    <input type="hidden" name="paymentType" value="monthly">
+    <button type="submit" class="btn raise checkout-button">5 Monthly Payments of ${{ $monthly }}</button>
+  </form>
+  {{- if $book }}
+  <form action="/.netlify/functions/create-checkout-session" method="POST">
+    <input type="hidden" name="classId" value="{{ $class }}">
+    <input type="hidden" name="paymentType" value="monthly">
+    <input type="hidden" name="includeBook" value="yes">
+    <button type="submit" class="btn raise checkout-button">5 Monthly Payments + {{ $bookLabel }} (${{ $monthly }}/mo + $49 book today)</button>
+  </form>
+  {{- end }}
+</div>

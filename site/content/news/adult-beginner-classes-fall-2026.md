@@ -21,10 +21,9 @@ Enjoy the classroom experience and learn in person at our Kearny Mesa facility.
 - **Schedule:** Thursdays, 6:30 PM – 8:00 PM, August 20 – December 10, 2026 (16 classes)
 - **Holidays (No Class):** November 26 (Thanksgiving), December 17 (Pre-winter break skip)
 - **Tuition:** $576 for the full session (or 5 monthly payments of $126.72)
-- **Textbook:** This class uses *The New Italian Project 1a* ([purchase it here](https://italianschoolsd.square.site/product/new-italian-project-1a/1?cp=true&sa=false&sbp=false&q=true)).
+- **Textbook:** This class uses *The New Italian Project 1a*, available as an enrollment option below.
 
-<div class="tc"><a href='https://italianschoolsd.square.site/product/fall-2026-italian-class-beginner-thursday/QO6IEA6FHPS5I7R2HTWGRUYC?cp=true&sa=false&sbp=false&q=false&category_id=HNRP2GMCHRKHHOJTPN3NQ4QW' class="btn raise">Pay in Full ($576)</a></div>
-<div class="tc"><a href='https://square.link/u/Cj77PKK0' class="btn raise">5 Monthly Payments of $126.72</a></div>
+{{< stripe-checkout class="fall-2026-thu-beg" full="576" monthly="126.72" book="project1a" bookLabel="Book" fullBook="625" >}}
 
 ---
 
@@ -36,10 +35,9 @@ Weekend section for those looking to start their Italian journey in person on Sa
 - **Schedule:** Saturdays, 10:00 AM – 11:30 AM, August 22 – December 12, 2026 (15 classes)
 - **Holidays (No Class):** September 5 (Labor Day Weekend), November 28 (Thanksgiving Weekend), December 19 (Pre-winter break skip)
 - **Tuition:** $540 for the full session (or 5 monthly payments of $118.80)
-- **Textbook:** This class uses *The New Italian Project 1a* ([purchase it here](https://italianschoolsd.square.site/product/new-italian-project-1a/1?cp=true&sa=false&sbp=false&q=true)).
+- **Textbook:** This class uses *The New Italian Project 1a*, available as an enrollment option below.
 
-<div class="tc"><a href='https://italianschoolsd.square.site/product/fall-2026-italian-class-beginner-saturday/WCHSFNTH2BALIWGEIXS5IBEH?cp=true&sa=false&sbp=false&q=false&category_id=HNRP2GMCHRKHHOJTPN3NQ4QW' class="btn raise">Pay in Full ($540)</a></div>
-<div class="tc"><a href='https://square.link/u/AcNfjkG4' class="btn raise">5 Monthly Payments of $118.80</a></div>
+{{< stripe-checkout class="fall-2026-sat-beg" full="540" monthly="118.80" book="project1a" bookLabel="Book" fullBook="589" >}}
 
 ---
 
@@ -53,14 +51,13 @@ Learn Italian via Zoom from the comfort of your home with **Tania**.
 - **Tuition:** $544 for the full session (or 5 monthly payments of $119.68)
 - **Textbook:** This class uses *New Italian Espresso (Beginner/Pre-Intermediate Updated Edition)*: [Textbook](https://a.co/d/0hAj20Up) and [Workbook](https://a.co/d/0fGK4Sfo) (available on Amazon).
 
-<div class="tc"><a href='https://italianschoolsd.square.site/product/fall-2026-italian-class-beginner-thursday-online/F2G667EDMNL6VHRRTDGTZYNI?cp=true&sa=false&sbp=false&q=false&category_id=HNRP2GMCHRKHHOJTPN3NQ4QW' class="btn raise">Pay in Full ($544)</a></div>
-<div class="tc"><a href='https://square.link/u/1H7kAbQh' class="btn raise">5 Monthly Payments of $119.68</a></div>
+{{< stripe-checkout class="fall-2026-thu-beg-online" full="544" monthly="119.68" >}}
 
 ---
 
 ### Policies & Discounts
 
-- **Family Discount:** 10% off for all additional family members enrolling together (applied automatically at checkout).
+- **Family Discount:** 10% off pay-in-full tuition for additional family members enrolling together. Use code `FAMILY10` at checkout.
 - **Payment Plan Commitment:** Choosing a payment plan is a commitment to the entire duration of the class. It is not a monthly subscription that can be canceled mid-session.
 - **Refunds:** Full refund if canceled 15 days before the first class; 50% refund before the second class; no refunds after the second class.
 
