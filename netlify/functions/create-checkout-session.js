@@ -29,6 +29,9 @@ function appendLineItem(params, index, item) {
   params.append(`line_items[${index}][price_data][unit_amount]`, String(item.amount));
   params.append(`line_items[${index}][price_data][product_data][name]`, item.name);
   params.append(`line_items[${index}][price_data][product_data][tax_code]`, item.taxCode);
+  (item.images || []).forEach((image, imageIndex) => {
+    params.append(`line_items[${index}][price_data][product_data][images][${imageIndex}]`, image);
+  });
   Object.entries(item.metadata || {}).forEach(([key, value]) => {
     params.append(`line_items[${index}][price_data][product_data][metadata][${key}]`, String(value));
   });
@@ -114,6 +117,7 @@ exports.handler = async function handler(event) {
       appendLineItem(params, 1, {
         name: book.name,
         amount: book.amount,
+        images: [`${origin}${book.imagePath}`],
         taxCode: BOOK_TAX_CODE,
         metadata: {
           item_type: 'book',

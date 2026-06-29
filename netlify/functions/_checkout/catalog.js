@@ -3,11 +3,13 @@ const BOOKS = {
     id: 'project1a',
     name: 'The New Italian Project 1a',
     amount: 4900,
+    imagePath: '/img/books/new-italian-project-1a.jpeg',
   },
   project1b: {
     id: 'project1b',
     name: 'The New Italian Project 1b',
     amount: 4900,
+    imagePath: '/img/books/new-italian-project-1b.webp',
   },
 };
 
