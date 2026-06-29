@@ -1,5 +1,5 @@
 const crypto = require('crypto');
-const { sendErrorAlert } = require('./_checkout/alerts');
+const { sendErrorAlert } = require('../lib/checkout/alerts');
 
 const TOLERANCE_SECONDS = 300;
 const STRIPE_API_VERSION = '2026-02-25.clover';

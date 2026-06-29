@@ -1,6 +1,6 @@
 const { URLSearchParams } = require('url');
-const { BOOKS, CLASSES } = require('./_checkout/catalog');
-const { sendErrorAlert } = require('./_checkout/alerts');
+const { BOOKS, CLASSES } = require('../lib/checkout/catalog');
+const { sendErrorAlert } = require('../lib/checkout/alerts');
 
 const STRIPE_API_VERSION = '2026-02-25.clover';
 const CLASS_TAX_CODE = 'txcd_00000000';

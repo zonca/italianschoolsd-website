@@ -31,6 +31,6 @@ Subscribe it to at least:
 
 - `checkout.session.completed`
 
-The checkout function keeps the class catalog server-side in `netlify/functions/_checkout/catalog.js`. Page content should call the `stripe-checkout` shortcode with the class ID and display prices; do not put Stripe secret keys or editable checkout amounts in Markdown.
+The checkout function keeps the class catalog server-side in `netlify/lib/checkout/catalog.js`. Page content should call the `stripe-checkout` shortcode with the class ID and display prices; do not put Stripe secret keys or editable checkout amounts in Markdown.
 
 Monthly class payments are created as Stripe subscriptions through Checkout. The webhook sets `cancel_at` on each monthly subscription so it stops after five monthly payments.
