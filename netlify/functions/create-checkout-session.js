@@ -176,17 +176,6 @@ function buildCheckoutParams({ selectedClass, paymentType, origin, additionalFam
       metadata,
     });
     lineIndex += 1;
-    if (!additionalFamilyMemberPriceId) {
-      throw new Error('Pay-in-full checkout requires a Stripe additional family member price.');
-    }
-    appendOptionalItem(params, optionalIndex, {
-      price: additionalFamilyMemberPriceId,
-      adjustableQuantity: {
-        minimum: 1,
-        maximum: 5,
-      },
-    });
-    optionalIndex += 1;
   } else {
     appendInlineLineItem(params, lineIndex, {
       name: selectedClass.name,
@@ -209,6 +198,20 @@ function buildCheckoutParams({ selectedClass, paymentType, origin, additionalFam
     optionalIndex += 1;
     params.append('automatic_tax[enabled]', 'true');
     params.append('billing_address_collection', 'required');
+  }
+
+  if (paymentType === 'full') {
+    if (!additionalFamilyMemberPriceId) {
+      throw new Error('Pay-in-full checkout requires a Stripe additional family member price.');
+    }
+    appendOptionalItem(params, optionalIndex, {
+      price: additionalFamilyMemberPriceId,
+      adjustableQuantity: {
+        minimum: 1,
+        maximum: 5,
+      },
+    });
+    optionalIndex += 1;
   }
 
   if (paymentType === 'full') {

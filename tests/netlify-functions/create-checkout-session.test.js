@@ -75,11 +75,13 @@ test('book checkout adds optional taxable book item with adjustable quantity', (
   assert.equal(params.get('automatic_tax[enabled]'), 'true');
   assert.equal(params.get('billing_address_collection'), 'required');
   assert.equal(params.get('metadata[book_choice]'), 'optional_in_checkout');
-  assert.equal(params.get('optional_items[1][price]'), 'price_book_project1a');
-  assert.equal(params.get('optional_items[1][quantity]'), '1');
-  assert.equal(params.get('optional_items[1][adjustable_quantity][enabled]'), 'true');
-  assert.equal(params.get('optional_items[1][adjustable_quantity][minimum]'), '1');
-  assert.equal(params.get('optional_items[1][adjustable_quantity][maximum]'), '6');
+  assert.equal(params.get('optional_items[0][price]'), 'price_book_project1a');
+  assert.equal(params.get('optional_items[0][quantity]'), '1');
+  assert.equal(params.get('optional_items[0][adjustable_quantity][enabled]'), 'true');
+  assert.equal(params.get('optional_items[0][adjustable_quantity][minimum]'), '1');
+  assert.equal(params.get('optional_items[0][adjustable_quantity][maximum]'), '6');
+  assert.equal(params.get('optional_items[1][price]'), 'price_additional_member');
+  assert.equal(params.get('optional_items[1][adjustable_quantity][maximum]'), '5');
 });
 
 test('monthly checkout can offer an optional book without changing class quantity', () => {
