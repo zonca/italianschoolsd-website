@@ -30,7 +30,7 @@ test('pay-in-full checkout does not include recurring data or manual promotion c
   assert.equal(params.has('subscription_data[metadata][installments_total]'), false);
 });
 
-test('pay-in-full checkout discounts only additional same-class siblings', () => {
+test('pay-in-full checkout discounts only additional same-class family members', () => {
   const selectedClass = CLASSES['fall-2026-thu-beg'];
   const params = _test.buildCheckoutParams({
     selectedClass,
@@ -41,10 +41,10 @@ test('pay-in-full checkout discounts only additional same-class siblings', () =>
   });
 
   assert.equal(params.get('mode'), 'payment');
-  assert.equal(params.get('line_items[0][price_data][product_data][name]'), `${selectedClass.name} - First student`);
+  assert.equal(params.get('line_items[0][price_data][product_data][name]'), `${selectedClass.name} - First family member`);
   assert.equal(params.get('line_items[0][price_data][unit_amount]'), '57600');
   assert.equal(params.get('line_items[0][quantity]'), '1');
-  assert.equal(params.get('line_items[1][price_data][product_data][name]'), `${selectedClass.name} - Additional sibling`);
+  assert.equal(params.get('line_items[1][price_data][product_data][name]'), `${selectedClass.name} - Additional family member`);
   assert.equal(params.get('line_items[1][price_data][unit_amount]'), '51840');
   assert.equal(params.get('line_items[1][quantity]'), '2');
   assert.equal(params.get('line_items[1][price_data][product_data][metadata][family_discount]'), '10_percent');
@@ -148,6 +148,6 @@ test('student counts are bounded and multi-student checkout is pay-in-full only'
   );
   assert.equal(
     _test.validateSelection({ classId: 'fall-2026-thu-beg', paymentType: 'monthly', includeBook: false, studentCount: 2 }).error.body,
-    'Multiple-student checkout is available only for pay-in-full enrollment.'
+    'Monthly payment checkout is for one student at a time. Use pay-in-full checkout to enroll multiple family members together.'
   );
 });

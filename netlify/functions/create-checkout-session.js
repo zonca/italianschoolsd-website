@@ -40,7 +40,7 @@ function validateSelection({ classId, paymentType, includeBook, studentCount }) 
     return { error: { statusCode: 400, body: 'Student count must be between 1 and 6.' } };
   }
   if (studentCount > 1 && paymentType !== 'full') {
-    return { error: { statusCode: 400, body: 'Multiple-student checkout is available only for pay-in-full enrollment.' } };
+    return { error: { statusCode: 400, body: 'Monthly payment checkout is for one student at a time. Use pay-in-full checkout to enroll multiple family members together.' } };
   }
 
   return { selectedClass };
@@ -107,14 +107,14 @@ function buildCheckoutParams({ selectedClass, paymentType, includeBook, origin, 
   let lineIndex = 0;
   if (paymentType === 'full' && studentCount > 1) {
     appendLineItem(params, lineIndex, {
-      name: `${selectedClass.name} - First student`,
+      name: `${selectedClass.name} - First family member`,
       amount: selectedClass.fullAmount,
       taxCode: CLASS_TAX_CODE,
       metadata,
     });
     lineIndex += 1;
     appendLineItem(params, lineIndex, {
-      name: `${selectedClass.name} - Additional sibling`,
+      name: `${selectedClass.name} - Additional family member`,
       amount: Math.round(selectedClass.fullAmount * 0.9),
       quantity: studentCount - 1,
       taxCode: CLASS_TAX_CODE,
