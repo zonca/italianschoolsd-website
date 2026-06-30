@@ -1,4 +1,4 @@
-const { URL, URLSearchParams } = require('url');
+const { URLSearchParams } = require('url');
 const { BOOKS, CLASSES } = require('../lib/checkout/catalog');
 const { sendErrorAlert } = require('../lib/checkout/alerts');
 
@@ -19,7 +19,12 @@ function parseBody(event) {
   return new URLSearchParams(raw);
 }
 
-function validateSelection({ classId, paymentType }) {
+function parseCount(value, fallback = 0) {
+  const count = Number.parseInt(value ?? String(fallback), 10);
+  return Number.isInteger(count) ? count : fallback;
+}
+
+function validateSelection({ classId, paymentType, familyMemberCount, bookQuantity }) {
   const selectedClass = CLASSES[classId];
 
   if (!selectedClass) {
@@ -27,6 +32,18 @@ function validateSelection({ classId, paymentType }) {
   }
   if (!['full', 'monthly'].includes(paymentType)) {
     return { error: { statusCode: 400, body: 'Unknown payment selection.' } };
+  }
+  if (familyMemberCount < 1 || familyMemberCount > 6) {
+    return { error: { statusCode: 400, body: 'Family member count must be between 1 and 6.' } };
+  }
+  if (paymentType === 'monthly' && familyMemberCount !== 1) {
+    return { error: { statusCode: 400, body: 'Monthly checkout is for one student at a time.' } };
+  }
+  if (bookQuantity < 0 || bookQuantity > 6) {
+    return { error: { statusCode: 400, body: 'Book quantity must be between 0 and 6.' } };
+  }
+  if (bookQuantity > 0 && !selectedClass.bookId) {
+    return { error: { statusCode: 400, body: 'Book purchase is not available for this class.' } };
   }
 
   return { selectedClass };
@@ -49,32 +66,16 @@ function appendInlineLineItem(params, index, item) {
   }
 }
 
-function appendOptionalItem(params, index, item) {
-  params.append(`optional_items[${index}][price]`, item.price);
-  params.append(`optional_items[${index}][quantity]`, String(item.quantity || 1));
-  if (item.adjustableQuantity) {
-    params.append(`optional_items[${index}][adjustable_quantity][enabled]`, 'true');
-    params.append(`optional_items[${index}][adjustable_quantity][minimum]`, String(item.adjustableQuantity.minimum));
-    params.append(`optional_items[${index}][adjustable_quantity][maximum]`, String(item.adjustableQuantity.maximum));
-  }
-}
-
-async function stripeRequest(path, params, method = 'POST') {
-  const url = new URL(`https://api.stripe.com/v1${path}`);
-  const request = {
-    method,
+async function stripeRequest(path, params) {
+  const response = await fetch(`https://api.stripe.com/v1${path}`, {
+    method: 'POST',
     headers: {
       Authorization: `Bearer ${process.env.STRIPE_SECRET_KEY}`,
       'Stripe-Version': STRIPE_API_VERSION,
       'Content-Type': 'application/x-www-form-urlencoded',
     },
-  };
-  if (method === 'GET') {
-    params.forEach((value, key) => url.searchParams.append(key, value));
-  } else {
-    request.body = params;
-  }
-  const response = await fetch(url, request);
+    body: params,
+  });
   const data = await response.json();
   if (!response.ok) {
     throw new Error(`Stripe ${path} failed: ${data.error?.message || JSON.stringify(data)}`);
@@ -82,67 +83,7 @@ async function stripeRequest(path, params, method = 'POST') {
   return data;
 }
 
-async function findActivePriceByLookupKey(lookupKey) {
-  const params = new URLSearchParams();
-  params.append('lookup_keys[]', lookupKey);
-  params.append('active', 'true');
-  params.append('limit', '1');
-  const result = await stripeRequest('/prices', params, 'GET');
-  return result.data?.[0]?.id || null;
-}
-
-async function getOrCreateAdditionalFamilyMemberPrice(selectedClass) {
-  const additionalAmount = Math.round(selectedClass.fullAmount * 0.9);
-  const lookupKey = `fall_2026_additional_member_${selectedClass.id}_${additionalAmount}_v1`;
-  const existing = await findActivePriceByLookupKey(lookupKey);
-  if (existing) {
-    return existing;
-  }
-
-  const params = new URLSearchParams();
-  params.append('currency', 'usd');
-  params.append('lookup_key', lookupKey);
-  params.append('unit_amount', String(additionalAmount));
-  params.append('product_data[name]', `${selectedClass.name} - Additional family member`);
-  params.append('product_data[tax_code]', CLASS_TAX_CODE);
-  params.append('product_data[unit_label]', 'member');
-  params.append('metadata[class_id]', selectedClass.id);
-  params.append('metadata[family_discount]', '10_percent');
-  const price = await stripeRequest('/prices', params);
-  return price.id;
-}
-
-async function getOrCreateBookPrice(book) {
-  const lookupKey = `book_${book.id}_${book.amount}_v1`;
-  const existing = await findActivePriceByLookupKey(lookupKey);
-  if (existing) {
-    return existing;
-  }
-
-  const params = new URLSearchParams();
-  params.append('currency', 'usd');
-  params.append('lookup_key', lookupKey);
-  params.append('unit_amount', String(book.amount));
-  params.append('product_data[name]', book.name);
-  params.append('product_data[tax_code]', BOOK_TAX_CODE);
-  params.append('metadata[item_type]', 'book');
-  params.append('metadata[book_id]', book.id);
-  const price = await stripeRequest('/prices', params);
-  return price.id;
-}
-
-async function resolveCheckoutPrices({ selectedClass, paymentType }) {
-  const bookPriceId = selectedClass.bookId
-    ? await getOrCreateBookPrice(BOOKS[selectedClass.bookId])
-    : null;
-  const additionalFamilyMemberPriceId = paymentType === 'full'
-    ? await getOrCreateAdditionalFamilyMemberPrice(selectedClass)
-    : null;
-
-  return { bookPriceId, additionalFamilyMemberPriceId };
-}
-
-function buildCheckoutParams({ selectedClass, paymentType, origin, additionalFamilyMemberPriceId, bookPriceId }) {
+function buildCheckoutParams({ selectedClass, paymentType, origin, familyMemberCount = 1, bookQuantity = 0 }) {
   const returnPath = `${selectedClass.pagePath}?checkout=success#${selectedClass.anchor}`;
   const cancelPath = `${selectedClass.pagePath}#${selectedClass.anchor}`;
   const mode = paymentType === 'monthly' ? 'subscription' : 'payment';
@@ -153,8 +94,8 @@ function buildCheckoutParams({ selectedClass, paymentType, origin, additionalFam
     class_format: selectedClass.format,
     quarter: 'Fall 2026',
     payment_type: paymentType,
-    book_choice: bookPriceId ? 'optional_in_checkout' : 'none',
-    quantity_choice: paymentType === 'full' ? 'additional_family_members_optional_in_checkout' : 'one_student',
+    family_member_count: String(familyMemberCount),
+    book_quantity: String(bookQuantity),
   };
 
   params.append('mode', mode);
@@ -163,11 +104,10 @@ function buildCheckoutParams({ selectedClass, paymentType, origin, additionalFam
   params.append('client_reference_id', selectedClass.id);
   params.append('metadata[class_id]', selectedClass.id);
   params.append('metadata[payment_type]', paymentType);
-  params.append('metadata[book_choice]', metadata.book_choice);
-  params.append('metadata[quantity_choice]', metadata.quantity_choice);
+  params.append('metadata[family_member_count]', String(familyMemberCount));
+  params.append('metadata[book_quantity]', String(bookQuantity));
 
   let lineIndex = 0;
-  let optionalIndex = 0;
   if (paymentType === 'full') {
     appendInlineLineItem(params, lineIndex, {
       name: `${selectedClass.name} - First family member`,
@@ -176,6 +116,19 @@ function buildCheckoutParams({ selectedClass, paymentType, origin, additionalFam
       metadata,
     });
     lineIndex += 1;
+    if (familyMemberCount > 1) {
+      appendInlineLineItem(params, lineIndex, {
+        name: `${selectedClass.name} - Additional family member`,
+        amount: Math.round(selectedClass.fullAmount * 0.9),
+        quantity: familyMemberCount - 1,
+        taxCode: CLASS_TAX_CODE,
+        metadata: {
+          ...metadata,
+          family_discount: '10_percent',
+        },
+      });
+      lineIndex += 1;
+    }
   } else {
     appendInlineLineItem(params, lineIndex, {
       name: selectedClass.name,
@@ -187,37 +140,31 @@ function buildCheckoutParams({ selectedClass, paymentType, origin, additionalFam
     lineIndex += 1;
   }
 
-  if (bookPriceId) {
-    appendOptionalItem(params, optionalIndex, {
-      price: bookPriceId,
-      adjustableQuantity: {
-        minimum: 1,
-        maximum: 6,
+  if (bookQuantity > 0) {
+    const book = BOOKS[selectedClass.bookId];
+    appendInlineLineItem(params, lineIndex, {
+      name: book.name,
+      amount: book.amount,
+      quantity: bookQuantity,
+      images: [`${origin}${book.imagePath}`],
+      taxCode: BOOK_TAX_CODE,
+      metadata: {
+        item_type: 'book',
+        book_id: book.id,
+        paired_class_id: selectedClass.id,
       },
     });
-    optionalIndex += 1;
     params.append('automatic_tax[enabled]', 'true');
     params.append('billing_address_collection', 'required');
-  }
-
-  if (paymentType === 'full') {
-    if (!additionalFamilyMemberPriceId) {
-      throw new Error('Pay-in-full checkout requires a Stripe additional family member price.');
-    }
-    appendOptionalItem(params, optionalIndex, {
-      price: additionalFamilyMemberPriceId,
-      adjustableQuantity: {
-        minimum: 1,
-        maximum: 5,
-      },
-    });
-    optionalIndex += 1;
+    lineIndex += 1;
   }
 
   if (paymentType === 'full') {
     params.append('customer_creation', 'if_required');
     params.append('payment_intent_data[metadata][class_id]', selectedClass.id);
     params.append('payment_intent_data[metadata][payment_type]', paymentType);
+    params.append('payment_intent_data[metadata][family_member_count]', String(familyMemberCount));
+    params.append('payment_intent_data[metadata][book_quantity]', String(bookQuantity));
   } else {
     params.append('subscription_data[metadata][class_id]', selectedClass.id);
     params.append('subscription_data[metadata][payment_type]', paymentType);
@@ -240,22 +187,20 @@ exports.handler = async function handler(event) {
     const body = parseBody(event);
     const classId = body.get('classId');
     const paymentType = body.get('paymentType');
-    const { selectedClass, error } = validateSelection({ classId, paymentType });
+    const familyMemberCount = paymentType === 'monthly' ? 1 : parseCount(body.get('familyMemberCount'), 1);
+    const bookQuantity = parseCount(body.get('bookQuantity'), 0);
+    const { selectedClass, error } = validateSelection({ classId, paymentType, familyMemberCount, bookQuantity });
 
     if (error) {
       return error;
     }
 
     const origin = baseUrl(event);
-    const { bookPriceId, additionalFamilyMemberPriceId } = await resolveCheckoutPrices({
-      selectedClass,
-      paymentType,
-    });
     const params = buildCheckoutParams({
       selectedClass,
       paymentType,
-      bookPriceId,
-      additionalFamilyMemberPriceId,
+      familyMemberCount,
+      bookQuantity,
       origin,
     });
     const session = await stripeRequest('/checkout/sessions', params);
@@ -284,8 +229,6 @@ exports.handler = async function handler(event) {
 
 exports._test = {
   buildCheckoutParams,
-  findActivePriceByLookupKey,
-  getOrCreateBookPrice,
-  getOrCreateAdditionalFamilyMemberPrice,
+  parseCount,
   validateSelection,
 };

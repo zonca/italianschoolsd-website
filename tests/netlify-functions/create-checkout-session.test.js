@@ -11,7 +11,8 @@ test('pay-in-full checkout does not include recurring data or manual promotion c
   const params = _test.buildCheckoutParams({
     selectedClass,
     paymentType: 'full',
-    additionalFamilyMemberPriceId: 'price_additional_member',
+    familyMemberCount: 1,
+    bookQuantity: 0,
     origin: ORIGIN,
   });
 
@@ -22,83 +23,92 @@ test('pay-in-full checkout does not include recurring data or manual promotion c
   assert.equal(params.get('line_items[0][price_data][unit_amount]'), '57600');
   assert.equal(params.get('line_items[0][quantity]'), '1');
   assert.equal(params.get('line_items[0][price_data][product_data][tax_code]'), 'txcd_00000000');
-  assert.equal(params.get('optional_items[0][price]'), 'price_additional_member');
-  assert.equal(params.get('optional_items[0][quantity]'), '1');
-  assert.equal(params.get('optional_items[0][adjustable_quantity][enabled]'), 'true');
-  assert.equal(params.get('optional_items[0][adjustable_quantity][minimum]'), '1');
-  assert.equal(params.get('optional_items[0][adjustable_quantity][maximum]'), '5');
   assert.equal(params.has('line_items[0][price_data][recurring][interval]'), false);
+  assert.equal(params.has('line_items[1][price_data][product_data][name]'), false);
+  assert.equal(params.has('optional_items[0][price]'), false);
   assert.equal(params.has('subscription_data[metadata][installments_total]'), false);
 });
 
-test('pay-in-full checkout requires an additional family member Stripe price', () => {
+test('pay-in-full checkout discounts additional same-class family members', () => {
   const selectedClass = CLASSES['fall-2026-thu-beg'];
-  assert.throws(
-    () => _test.buildCheckoutParams({
-      selectedClass,
-      paymentType: 'full',
-      origin: ORIGIN,
-    }),
-    /requires a Stripe additional family member price/
-  );
+  const params = _test.buildCheckoutParams({
+    selectedClass,
+    paymentType: 'full',
+    familyMemberCount: 3,
+    bookQuantity: 0,
+    origin: ORIGIN,
+  });
+
+  assert.equal(params.get('metadata[family_member_count]'), '3');
+  assert.equal(params.get('line_items[0][price_data][product_data][name]'), `${selectedClass.name} - First family member`);
+  assert.equal(params.get('line_items[0][price_data][unit_amount]'), '57600');
+  assert.equal(params.get('line_items[0][quantity]'), '1');
+  assert.equal(params.get('line_items[1][price_data][product_data][name]'), `${selectedClass.name} - Additional family member`);
+  assert.equal(params.get('line_items[1][price_data][unit_amount]'), '51840');
+  assert.equal(params.get('line_items[1][quantity]'), '2');
+  assert.equal(params.get('line_items[1][price_data][product_data][metadata][family_discount]'), '10_percent');
 });
 
-test('monthly checkout uses subscription mode and never sends customer_creation', () => {
+test('monthly checkout uses subscription mode and one student', () => {
   const selectedClass = CLASSES['fall-2026-thu-beg'];
   const params = _test.buildCheckoutParams({
     selectedClass,
     paymentType: 'monthly',
+    bookQuantity: 0,
     origin: ORIGIN,
   });
 
   assert.equal(params.get('mode'), 'subscription');
   assert.equal(params.get('customer_creation'), null);
   assert.equal(params.get('allow_promotion_codes'), null);
+  assert.equal(params.get('metadata[family_member_count]'), '1');
   assert.equal(params.get('line_items[0][price_data][unit_amount]'), '12672');
   assert.equal(params.get('line_items[0][quantity]'), '1');
-  assert.equal(params.get('metadata[quantity_choice]'), 'one_student');
   assert.equal(params.get('line_items[0][price_data][recurring][interval]'), 'month');
   assert.equal(params.get('subscription_data[metadata][installments_total]'), '5');
   assert.equal(params.get('subscription_data[metadata][cancel_after_months]'), '5');
 });
 
-test('book checkout adds optional taxable book item with adjustable quantity', () => {
+test('book checkout adds selected taxable book quantity', () => {
   const selectedClass = CLASSES['fall-2026-thu-beg'];
   const params = _test.buildCheckoutParams({
     selectedClass,
     paymentType: 'full',
-    additionalFamilyMemberPriceId: 'price_additional_member',
-    bookPriceId: 'price_book_project1a',
+    familyMemberCount: 2,
+    bookQuantity: 2,
     origin: ORIGIN,
   });
 
   assert.equal(params.get('automatic_tax[enabled]'), 'true');
   assert.equal(params.get('billing_address_collection'), 'required');
-  assert.equal(params.get('metadata[book_choice]'), 'optional_in_checkout');
-  assert.equal(params.get('optional_items[0][price]'), 'price_book_project1a');
-  assert.equal(params.get('optional_items[0][quantity]'), '1');
-  assert.equal(params.get('optional_items[0][adjustable_quantity][enabled]'), 'true');
-  assert.equal(params.get('optional_items[0][adjustable_quantity][minimum]'), '1');
-  assert.equal(params.get('optional_items[0][adjustable_quantity][maximum]'), '6');
-  assert.equal(params.get('optional_items[1][price]'), 'price_additional_member');
-  assert.equal(params.get('optional_items[1][adjustable_quantity][maximum]'), '5');
+  assert.equal(params.get('metadata[book_quantity]'), '2');
+  assert.equal(params.get('line_items[2][price_data][product_data][name]'), 'The New Italian Project 1a');
+  assert.equal(params.get('line_items[2][price_data][unit_amount]'), '4900');
+  assert.equal(params.get('line_items[2][quantity]'), '2');
+  assert.equal(params.get('line_items[2][price_data][product_data][tax_code]'), 'txcd_99999999');
+  assert.equal(
+    params.get('line_items[2][price_data][product_data][images][0]'),
+    `${ORIGIN}/img/books/new-italian-project-1a.jpeg`
+  );
+  assert.equal(params.has('optional_items[0][price]'), false);
 });
 
-test('monthly checkout can offer an optional book without changing class quantity', () => {
+test('monthly checkout can include selected book quantity without changing class quantity', () => {
   const selectedClass = CLASSES['fall-2026-thu-beg'];
   const params = _test.buildCheckoutParams({
     selectedClass,
     paymentType: 'monthly',
-    bookPriceId: 'price_book_project1a',
+    bookQuantity: 2,
     origin: ORIGIN,
   });
 
   assert.equal(params.get('mode'), 'subscription');
   assert.equal(params.get('line_items[0][quantity]'), '1');
   assert.equal(params.get('line_items[0][price_data][recurring][interval]'), 'month');
-  assert.equal(params.get('optional_items[0][price]'), 'price_book_project1a');
-  assert.equal(params.get('optional_items[0][adjustable_quantity][enabled]'), 'true');
-  assert.equal(params.get('metadata[quantity_choice]'), 'one_student');
+  assert.equal(params.get('line_items[1][price_data][product_data][name]'), 'The New Italian Project 1a');
+  assert.equal(params.get('line_items[1][price_data][unit_amount]'), '4900');
+  assert.equal(params.get('line_items[1][quantity]'), '2');
+  assert.equal(params.has('line_items[1][price_data][recurring][interval]'), false);
 });
 
 test('Wednesday Fall classes have valid checkout catalog entries', () => {
@@ -114,7 +124,7 @@ test('Wednesday Fall classes have valid checkout catalog entries', () => {
   const params = _test.buildCheckoutParams({
     selectedClass: beginner,
     paymentType: 'full',
-    additionalFamilyMemberPriceId: 'price_additional_member',
+    familyMemberCount: 1,
     origin: ORIGIN,
   });
 
@@ -126,11 +136,57 @@ test('Wednesday Fall classes have valid checkout catalog entries', () => {
 
 test('unknown class and payment selections are rejected', () => {
   assert.equal(
-    _test.validateSelection({ classId: 'missing', paymentType: 'full' }).error.body,
+    _test.validateSelection({ classId: 'missing', paymentType: 'full', familyMemberCount: 1, bookQuantity: 0 }).error.body,
     'Unknown class selection.'
   );
   assert.equal(
-    _test.validateSelection({ classId: 'fall-2026-thu-beg', paymentType: 'weekly' }).error.body,
+    _test.validateSelection({
+      classId: 'fall-2026-thu-beg',
+      paymentType: 'weekly',
+      familyMemberCount: 1,
+      bookQuantity: 0,
+    }).error.body,
     'Unknown payment selection.'
+  );
+});
+
+test('counts are bounded and monthly family count remains one', () => {
+  assert.equal(_test.parseCount('2', 0), 2);
+  assert.equal(_test.parseCount('missing', 4), 4);
+  assert.equal(
+    _test.validateSelection({
+      classId: 'fall-2026-thu-beg',
+      paymentType: 'full',
+      familyMemberCount: 7,
+      bookQuantity: 0,
+    }).error.body,
+    'Family member count must be between 1 and 6.'
+  );
+  assert.equal(
+    _test.validateSelection({
+      classId: 'fall-2026-thu-beg',
+      paymentType: 'monthly',
+      familyMemberCount: 2,
+      bookQuantity: 0,
+    }).error.body,
+    'Monthly checkout is for one student at a time.'
+  );
+  assert.equal(
+    _test.validateSelection({
+      classId: 'fall-2026-thu-beg',
+      paymentType: 'full',
+      familyMemberCount: 1,
+      bookQuantity: 7,
+    }).error.body,
+    'Book quantity must be between 0 and 6.'
+  );
+  assert.equal(
+    _test.validateSelection({
+      classId: 'fall-2026-thu-beg-online',
+      paymentType: 'full',
+      familyMemberCount: 1,
+      bookQuantity: 1,
+    }).error.body,
+    'Book purchase is not available for this class.'
   );
 });

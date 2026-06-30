@@ -7,18 +7,45 @@
   <form action="/.netlify/functions/create-checkout-session" method="POST">
     <input type="hidden" name="classId" value="{{ $class }}">
     <input type="hidden" name="paymentType" value="full">
+    <label class="checkout-label" for="family-{{ $class }}-full">Family members</label>
+    <select class="checkout-select" id="family-{{ $class }}-full" name="familyMemberCount">
+      <option value="1">1 family member</option>
+      <option value="2">2 family members</option>
+      <option value="3">3 family members</option>
+      <option value="4">4 family members</option>
+    </select>
+    {{- if $book -}}
+      <label class="checkout-label" for="book-{{ $class }}-full">{{ $bookLabel }}</label>
+      <select class="checkout-select" id="book-{{ $class }}-full" name="bookQuantity">
+        <option value="0">No book</option>
+        <option value="1">1 book</option>
+        <option value="2">2 books</option>
+        <option value="3">3 books</option>
+        <option value="4">4 books</option>
+      </select>
+    {{- end -}}
     <button type="submit" class="btn raise checkout-button">Pay in Full (${{ $full }})</button>
   </form>
   <form action="/.netlify/functions/create-checkout-session" method="POST">
     <input type="hidden" name="classId" value="{{ $class }}">
     <input type="hidden" name="paymentType" value="monthly">
+    {{- if $book -}}
+      <label class="checkout-label" for="book-{{ $class }}-monthly">{{ $bookLabel }}</label>
+      <select class="checkout-select" id="book-{{ $class }}-monthly" name="bookQuantity">
+        <option value="0">No book</option>
+        <option value="1">1 book</option>
+        <option value="2">2 books</option>
+        <option value="3">3 books</option>
+        <option value="4">4 books</option>
+      </select>
+    {{- end -}}
     <button type="submit" class="btn raise checkout-button">5 Monthly Payments of ${{ $monthly }} (1 student)</button>
   </form>
   <p class="checkout-note">
     {{- if $book -}}
-      In Stripe Checkout, pay-in-full includes the first family member and lets you add optional additional family members; {{ lower $bookLabel }} quantity is optional. Monthly checkout is for 1 student.
+      Choose family members and book quantity here; Stripe Checkout will show the final line items. Monthly checkout is for 1 student.
     {{- else -}}
-      In Stripe Checkout, pay-in-full includes the first family member and lets you add optional additional family members. Monthly checkout is for 1 student.
+      Choose family members here; Stripe Checkout will show the final line items. Monthly checkout is for 1 student.
     {{- end -}}
   </p>
 </div>

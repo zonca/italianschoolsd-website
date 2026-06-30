@@ -71,7 +71,7 @@ Learn Italian via Zoom from the comfort of your home with **Tania**.
 
 ### Policies & Discounts
 
-- **Family Discount:** For pay-in-full same-class enrollment, the first family member pays full price and each additional family member receives 10% off automatically when you add additional family members in Stripe Checkout.
+- **Family Discount:** For pay-in-full same-class enrollment, select the number of family members before checkout. The first family member pays full price and each additional family member receives 10% off automatically.
 - **Payment Plan Commitment:** Monthly checkout is for one student at a time. Choosing a payment plan is a commitment to the entire duration of the class. It is not a monthly subscription that can be canceled mid-session.
 - **Refunds:** Full refund if canceled 15 days before the first class; 50% refund before the second class; no refunds after the second class.
 
