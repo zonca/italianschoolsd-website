@@ -42,6 +42,9 @@ function validateSelection({ classId, paymentType, familyMemberCount, bookQuanti
   if (bookQuantity < 0 || bookQuantity > 6) {
     return { error: { statusCode: 400, body: 'Book quantity must be between 0 and 6.' } };
   }
+  if (paymentType === 'monthly' && bookQuantity > 1) {
+    return { error: { statusCode: 400, body: 'Monthly checkout allows at most 1 book.' } };
+  }
   if (bookQuantity > 0 && !selectedClass.bookId) {
     return { error: { statusCode: 400, body: 'Book purchase is not available for this class.' } };
   }
@@ -110,7 +113,7 @@ function buildCheckoutParams({ selectedClass, paymentType, origin, familyMemberC
   let lineIndex = 0;
   if (paymentType === 'full') {
     appendInlineLineItem(params, lineIndex, {
-      name: `${selectedClass.name} - First family member`,
+      name: `${selectedClass.name} - Student`,
       amount: selectedClass.fullAmount,
       taxCode: CLASS_TAX_CODE,
       metadata,
@@ -118,7 +121,7 @@ function buildCheckoutParams({ selectedClass, paymentType, origin, familyMemberC
     lineIndex += 1;
     if (familyMemberCount > 1) {
       appendInlineLineItem(params, lineIndex, {
-        name: `${selectedClass.name} - Additional family member`,
+        name: `${selectedClass.name} - Additional student from same family`,
         amount: Math.round(selectedClass.fullAmount * 0.9),
         quantity: familyMemberCount - 1,
         taxCode: CLASS_TAX_CODE,

@@ -43,7 +43,7 @@ A conversation-heavy class focused on current topics, literature, and news.
 
 ### Policies & Discounts
 
-- **Family Discount:** For pay-in-full same-class enrollment, select the number of family members before checkout. The first family member pays full price and each additional family member receives 10% off automatically.
+- **Family Discount:** For pay-in-full same-class enrollment, select the number of students from the same family before checkout. The first student pays full price and each additional student from the same family receives 10% off automatically.
 - **Payment Plan Commitment:** Monthly checkout is for one student at a time. Choosing a payment plan is a commitment to the entire duration of the class. It is not a monthly subscription that can be canceled mid-session.
 - **Refunds:** Full refund if canceled 15 days before the first class; 50% refund before the second class; no refunds after the second class.
 
