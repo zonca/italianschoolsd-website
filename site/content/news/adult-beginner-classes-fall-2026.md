@@ -32,7 +32,7 @@ Enjoy the classroom experience and learn in person at our Kearny Mesa facility.
 Evening section for students starting Italian from the beginning, with a weekday option between the Thursday and Saturday sections.
 
 - **Teacher:** TBD
-- **Schedule:** Wednesdays, 6:30 PM – 8:00 PM, August 19 – December 9, 2026 (16 classes)
+- **Schedule:** Wednesdays, 6:15 PM – 7:45 PM, August 19 – December 9, 2026 (16 classes)
 - **Holidays (No Class):** November 25 (Thanksgiving Week), December 16 (Pre-winter break skip)
 - **Tuition:** $576 for the full session (or 5 monthly payments of $126.72)
 - **Textbook:** This class uses *The New Italian Project 1a*, available as an enrollment option below.

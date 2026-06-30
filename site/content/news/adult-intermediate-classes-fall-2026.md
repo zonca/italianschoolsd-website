@@ -46,7 +46,7 @@ For students who have completed intermediate Italian and want to push further in
 A bridge class from beginner to intermediate, focused on strengthening conversational basics.
 
 - **Teacher:** TBD
-- **Schedule:** Wednesdays, 5:30 PM – 7:00 PM, August 19 – December 9, 2026 (16 classes)
+- **Schedule:** Wednesdays, 6:15 PM – 7:45 PM, August 19 – December 9, 2026 (16 classes)
 - **Holidays (No Class):** November 25 (Thanksgiving Week), December 16 (Pre-winter break skip)
 - **Tuition:** $576 for the full session (or 5 monthly payments of $126.72)
 - **Textbook:** This class uses *The New Italian Project 1a*, available as an enrollment option below.
