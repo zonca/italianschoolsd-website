@@ -56,7 +56,32 @@
 }
 
 .checkout-options form {
+  align-items: center;
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--spacing-extra-small);
+  justify-content: center;
   margin: 0;
+}
+
+.checkout-label {
+  background: transparent;
+  color: var(--black);
+  font-size: 0.875rem;
+  font-weight: 800;
+  line-height: 1;
+  opacity: 1;
+  padding: 0;
+  pointer-events: auto;
+  position: static;
+}
+
+.checkout-select {
+  background-color: var(--white);
+  border: 1px solid var(--grey-2);
+  border-radius: var(--border-radius);
+  min-height: 2.75rem;
+  padding: 0 0.5rem;
 }
 
 .checkout-button {

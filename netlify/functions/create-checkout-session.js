@@ -12,10 +12,6 @@ function baseUrl(event) {
   return process.env.URL || process.env.DEPLOY_PRIME_URL || `${proto}://${host}`;
 }
 
-function dollars(cents) {
-  return `$${(cents / 100).toFixed(2).replace(/\\.00$/, '')}`;
-}
-
 function parseBody(event) {
   const raw = event.isBase64Encoded
     ? Buffer.from(event.body || '', 'base64').toString('utf8')
@@ -23,7 +19,12 @@ function parseBody(event) {
   return new URLSearchParams(raw);
 }
 
-function validateSelection({ classId, paymentType, includeBook }) {
+function parseStudentCount(value) {
+  const count = Number.parseInt(value || '1', 10);
+  return Number.isInteger(count) ? count : 1;
+}
+
+function validateSelection({ classId, paymentType, includeBook, studentCount }) {
   const selectedClass = CLASSES[classId];
 
   if (!selectedClass) {
@@ -34,6 +35,12 @@ function validateSelection({ classId, paymentType, includeBook }) {
   }
   if (includeBook && !selectedClass.bookId) {
     return { error: { statusCode: 400, body: 'Book purchase is not available for this class.' } };
+  }
+  if (studentCount < 1 || studentCount > 6) {
+    return { error: { statusCode: 400, body: 'Student count must be between 1 and 6.' } };
+  }
+  if (studentCount > 1 && paymentType !== 'full') {
+    return { error: { statusCode: 400, body: 'Multiple-student checkout is available only for pay-in-full enrollment.' } };
   }
 
   return { selectedClass };
@@ -73,7 +80,7 @@ async function stripeRequest(path, params) {
   return data;
 }
 
-function buildCheckoutParams({ selectedClass, paymentType, includeBook, origin }) {
+function buildCheckoutParams({ selectedClass, paymentType, includeBook, origin, studentCount = 1 }) {
   const returnPath = `${selectedClass.pagePath}?checkout=success#${selectedClass.anchor}`;
   const cancelPath = `${selectedClass.pagePath}#${selectedClass.anchor}`;
   const mode = paymentType === 'monthly' ? 'subscription' : 'payment';
@@ -85,6 +92,7 @@ function buildCheckoutParams({ selectedClass, paymentType, includeBook, origin }
     quarter: 'Fall 2026',
     payment_type: paymentType,
     includes_book: includeBook ? 'yes' : 'no',
+    student_count: String(studentCount),
   };
 
   params.append('mode', mode);
@@ -94,20 +102,45 @@ function buildCheckoutParams({ selectedClass, paymentType, includeBook, origin }
   params.append('metadata[class_id]', selectedClass.id);
   params.append('metadata[payment_type]', paymentType);
   params.append('metadata[includes_book]', includeBook ? 'yes' : 'no');
+  params.append('metadata[student_count]', String(studentCount));
 
-  appendLineItem(params, 0, {
-    name: selectedClass.name,
-    amount: paymentType === 'monthly' ? selectedClass.monthlyAmount : selectedClass.fullAmount,
-    recurring: paymentType === 'monthly',
-    taxCode: CLASS_TAX_CODE,
-    metadata,
-  });
+  let lineIndex = 0;
+  if (paymentType === 'full' && studentCount > 1) {
+    appendLineItem(params, lineIndex, {
+      name: `${selectedClass.name} - First student`,
+      amount: selectedClass.fullAmount,
+      taxCode: CLASS_TAX_CODE,
+      metadata,
+    });
+    lineIndex += 1;
+    appendLineItem(params, lineIndex, {
+      name: `${selectedClass.name} - Additional sibling`,
+      amount: Math.round(selectedClass.fullAmount * 0.9),
+      quantity: studentCount - 1,
+      taxCode: CLASS_TAX_CODE,
+      metadata: {
+        ...metadata,
+        family_discount: '10_percent',
+      },
+    });
+    lineIndex += 1;
+  } else {
+    appendLineItem(params, lineIndex, {
+      name: selectedClass.name,
+      amount: paymentType === 'monthly' ? selectedClass.monthlyAmount : selectedClass.fullAmount,
+      recurring: paymentType === 'monthly',
+      taxCode: CLASS_TAX_CODE,
+      metadata,
+    });
+    lineIndex += 1;
+  }
 
   if (includeBook) {
     const book = BOOKS[selectedClass.bookId];
-    appendLineItem(params, 1, {
+    appendLineItem(params, lineIndex, {
       name: book.name,
       amount: book.amount,
+      quantity: studentCount,
       images: [`${origin}${book.imagePath}`],
       taxCode: BOOK_TAX_CODE,
       metadata: {
@@ -122,9 +155,9 @@ function buildCheckoutParams({ selectedClass, paymentType, includeBook, origin }
 
   if (paymentType === 'full') {
     params.append('customer_creation', 'if_required');
-    params.append('allow_promotion_codes', 'true');
     params.append('payment_intent_data[metadata][class_id]', selectedClass.id);
     params.append('payment_intent_data[metadata][payment_type]', paymentType);
+    params.append('payment_intent_data[metadata][student_count]', String(studentCount));
   } else {
     params.append('subscription_data[metadata][class_id]', selectedClass.id);
     params.append('subscription_data[metadata][payment_type]', paymentType);
@@ -148,7 +181,8 @@ exports.handler = async function handler(event) {
     const classId = body.get('classId');
     const paymentType = body.get('paymentType');
     const includeBook = body.get('includeBook') === 'yes';
-    const { selectedClass, error } = validateSelection({ classId, paymentType, includeBook });
+    const studentCount = parseStudentCount(body.get('studentCount'));
+    const { selectedClass, error } = validateSelection({ classId, paymentType, includeBook, studentCount });
 
     if (error) {
       return error;
@@ -158,6 +192,7 @@ exports.handler = async function handler(event) {
       selectedClass,
       paymentType,
       includeBook,
+      studentCount,
       origin: baseUrl(event),
     });
     const session = await stripeRequest('/checkout/sessions', params);
@@ -167,7 +202,7 @@ exports.handler = async function handler(event) {
         Location: session.url,
         'Cache-Control': 'no-store',
       },
-      body: `Redirecting to Stripe for ${dollars(paymentType === 'monthly' ? selectedClass.monthlyAmount : selectedClass.fullAmount)} checkout.`,
+      body: 'Redirecting to Stripe checkout.',
     };
   } catch (error) {
     console.error(error);
@@ -186,5 +221,6 @@ exports.handler = async function handler(event) {
 
 exports._test = {
   buildCheckoutParams,
+  parseStudentCount,
   validateSelection,
 };

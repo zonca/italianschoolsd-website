@@ -57,7 +57,7 @@ Learn Italian via Zoom from the comfort of your home with **Tania**.
 
 ### Policies & Discounts
 
-- **Family Discount:** 10% off pay-in-full tuition for additional family members enrolling together. Use code `FAMILY10` at checkout.
+- **Family Discount:** For pay-in-full same-class enrollment, the first student pays full price and each additional sibling receives 10% off automatically when you select 2 or more students at checkout.
 - **Payment Plan Commitment:** Choosing a payment plan is a commitment to the entire duration of the class. It is not a monthly subscription that can be canceled mid-session.
 - **Refunds:** Full refund if canceled 15 days before the first class; 50% refund before the second class; no refunds after the second class.
 
