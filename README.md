@@ -35,4 +35,4 @@ The checkout function keeps the class catalog server-side in `netlify/lib/checko
 
 Monthly class payments are for one student at a time and are created as Stripe subscriptions through Checkout. The webhook sets `cancel_at` on each monthly subscription so it stops after five monthly payments.
 
-Pay-in-full same-class family enrollment is handled automatically in the checkout function: the first student is charged full tuition, and each additional family member in the same transaction is charged 90% tuition. Books are charged at full price for each selected student.
+Pay-in-full same-class family enrollment is handled in Stripe Checkout: the first family member is the main line item, and additional family members are optional Checkout items charged at 90% tuition. Eligible classes show books as optional Checkout items with adjustable quantity, so families can choose how many books they need.

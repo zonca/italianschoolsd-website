@@ -92,6 +92,13 @@
   min-height: 2.75rem;
 }
 
+.checkout-note {
+  flex-basis: 100%;
+  font-size: 0.95rem;
+  margin: 0.25rem 0 0;
+  text-align: center;
+}
+
 .site-footer {
   background:
     radial-gradient(1200px 600px at 10% 0%, rgba(13, 155, 255, 0.18), transparent 55%),

@@ -23,7 +23,7 @@ Solidify your intermediate-level speaking and reading skills in person at our sc
 - **Tuition:** $576 for the full session (or 5 monthly payments of $126.72)
 - **Textbook:** This class uses *The New Italian Project 1b*, available as an enrollment option below.
 
-{{< stripe-checkout class="fall-2026-mon-int" full="576" monthly="126.72" book="project1b" bookLabel="Book" fullBook="625" >}}
+{{< stripe-checkout class="fall-2026-mon-int" full="576" monthly="126.72" book="project1b" bookLabel="Book" >}}
 
 ---
 
@@ -37,7 +37,7 @@ For students who have completed intermediate Italian and want to push further in
 - **Tuition:** $576 for the full session (or 5 monthly payments of $126.72)
 - **Textbook:** This class uses *The New Italian Project 1b*, available as an enrollment option below.
 
-{{< stripe-checkout class="fall-2026-mon-int-adv" full="576" monthly="126.72" book="project1b" bookLabel="Book" fullBook="625" >}}
+{{< stripe-checkout class="fall-2026-mon-int-adv" full="576" monthly="126.72" book="project1b" bookLabel="Book" >}}
 
 ---
 
@@ -51,7 +51,7 @@ A bridge class from beginner to intermediate, focused on strengthening conversat
 - **Tuition:** $576 for the full session (or 5 monthly payments of $126.72)
 - **Textbook:** This class uses *The New Italian Project 1a*, available as an enrollment option below.
 
-{{< stripe-checkout class="fall-2026-wed-beg-int" full="576" monthly="126.72" book="project1a" bookLabel="Book" fullBook="625" >}}
+{{< stripe-checkout class="fall-2026-wed-beg-int" full="576" monthly="126.72" book="project1a" bookLabel="Book" >}}
 
 ---
 
@@ -65,7 +65,7 @@ Evening section to build grammar and conversation in person.
 - **Tuition:** $576 for the full session (or 5 monthly payments of $126.72)
 - **Textbook:** This class uses *The New Italian Project 1a*, available as an enrollment option below.
 
-{{< stripe-checkout class="fall-2026-thu-beg-int" full="576" monthly="126.72" book="project1a" bookLabel="Book" fullBook="625" >}}
+{{< stripe-checkout class="fall-2026-thu-beg-int" full="576" monthly="126.72" book="project1a" bookLabel="Book" >}}
 
 ---
 
@@ -99,8 +99,8 @@ Continuing intermediate class via Zoom with **Tania**.
 
 ### Policies & Discounts
 
-- **Family Discount:** For pay-in-full same-class enrollment, the first family member pays full price and each additional family member receives 10% off automatically when you select 2 or more family members at checkout.
-- **Payment Plan Commitment:** Monthly payment checkout is for one student at a time. Choosing a payment plan is a commitment to the entire duration of the class. It is not a monthly subscription that can be canceled mid-session.
+- **Family Discount:** For pay-in-full same-class enrollment, the first family member pays full price and each additional family member receives 10% off automatically when you add additional family members in Stripe Checkout.
+- **Payment Plan Commitment:** Monthly checkout is for one student at a time. Choosing a payment plan is a commitment to the entire duration of the class. It is not a monthly subscription that can be canceled mid-session.
 - **Refunds:** Full refund if canceled 15 days before the first class; 50% refund before the second class; no refunds after the second class.
 
 Questions? [Contact us]({{< relref "contact.md" >}}) and we'll be happy to help!

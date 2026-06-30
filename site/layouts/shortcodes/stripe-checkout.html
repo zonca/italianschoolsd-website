@@ -3,46 +3,22 @@
 {{- $monthly := .Get "monthly" -}}
 {{- $book := .Get "book" -}}
 {{- $bookLabel := .Get "bookLabel" | default "Textbook" -}}
-{{- $fullBook := .Get "fullBook" -}}
 <div class="checkout-options" aria-label="Enrollment options">
   <form action="/.netlify/functions/create-checkout-session" method="POST">
     <input type="hidden" name="classId" value="{{ $class }}">
     <input type="hidden" name="paymentType" value="full">
-    <label class="checkout-label" for="{{ $class }}-full-students">Pay in full</label>
-    <select id="{{ $class }}-full-students" name="studentCount" class="checkout-select">
-      <option value="1">1 family member</option>
-      <option value="2">2 family members, 10% off second</option>
-      <option value="3">3 family members, 10% off additional</option>
-      <option value="4">4 family members, 10% off additional</option>
-    </select>
     <button type="submit" class="btn raise checkout-button">Pay in Full (${{ $full }})</button>
   </form>
-  {{- if $book }}
-  <form action="/.netlify/functions/create-checkout-session" method="POST">
-    <input type="hidden" name="classId" value="{{ $class }}">
-    <input type="hidden" name="paymentType" value="full">
-    <input type="hidden" name="includeBook" value="yes">
-    <label class="checkout-label" for="{{ $class }}-full-book-students">Pay in full</label>
-    <select id="{{ $class }}-full-book-students" name="studentCount" class="checkout-select">
-      <option value="1">1 family member</option>
-      <option value="2">2 family members, 10% off second</option>
-      <option value="3">3 family members, 10% off additional</option>
-      <option value="4">4 family members, 10% off additional</option>
-    </select>
-    <button type="submit" class="btn raise checkout-button">Pay in Full + {{ $bookLabel }} (${{ $fullBook }} + tax)</button>
-  </form>
-  {{- end }}
   <form action="/.netlify/functions/create-checkout-session" method="POST">
     <input type="hidden" name="classId" value="{{ $class }}">
     <input type="hidden" name="paymentType" value="monthly">
     <button type="submit" class="btn raise checkout-button">5 Monthly Payments of ${{ $monthly }} (1 student)</button>
   </form>
-  {{- if $book }}
-  <form action="/.netlify/functions/create-checkout-session" method="POST">
-    <input type="hidden" name="classId" value="{{ $class }}">
-    <input type="hidden" name="paymentType" value="monthly">
-    <input type="hidden" name="includeBook" value="yes">
-    <button type="submit" class="btn raise checkout-button">5 Monthly Payments + {{ $bookLabel }} (${{ $monthly }}/mo + $49 book today, 1 student)</button>
-  </form>
-  {{- end }}
+  <p class="checkout-note">
+    {{- if $book -}}
+      In Stripe Checkout, pay-in-full includes the first family member and lets you add optional additional family members; {{ lower $bookLabel }} quantity is optional. Monthly checkout is for 1 student.
+    {{- else -}}
+      In Stripe Checkout, pay-in-full includes the first family member and lets you add optional additional family members. Monthly checkout is for 1 student.
+    {{- end -}}
+  </p>
 </div>

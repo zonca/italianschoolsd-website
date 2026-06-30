@@ -23,7 +23,7 @@ Enjoy the classroom experience and learn in person at our Kearny Mesa facility.
 - **Tuition:** $576 for the full session (or 5 monthly payments of $126.72)
 - **Textbook:** This class uses *The New Italian Project 1a*, available as an enrollment option below.
 
-{{< stripe-checkout class="fall-2026-thu-beg" full="576" monthly="126.72" book="project1a" bookLabel="Book" fullBook="625" >}}
+{{< stripe-checkout class="fall-2026-thu-beg" full="576" monthly="126.72" book="project1a" bookLabel="Book" >}}
 
 ---
 
@@ -37,7 +37,7 @@ Evening section for students starting Italian from the beginning, with a weekday
 - **Tuition:** $576 for the full session (or 5 monthly payments of $126.72)
 - **Textbook:** This class uses *The New Italian Project 1a*, available as an enrollment option below.
 
-{{< stripe-checkout class="fall-2026-wed-beg" full="576" monthly="126.72" book="project1a" bookLabel="Book" fullBook="625" >}}
+{{< stripe-checkout class="fall-2026-wed-beg" full="576" monthly="126.72" book="project1a" bookLabel="Book" >}}
 
 ---
 
@@ -51,7 +51,7 @@ Weekend section for those looking to start their Italian journey in person on Sa
 - **Tuition:** $540 for the full session (or 5 monthly payments of $118.80)
 - **Textbook:** This class uses *The New Italian Project 1a*, available as an enrollment option below.
 
-{{< stripe-checkout class="fall-2026-sat-beg" full="540" monthly="118.80" book="project1a" bookLabel="Book" fullBook="589" >}}
+{{< stripe-checkout class="fall-2026-sat-beg" full="540" monthly="118.80" book="project1a" bookLabel="Book" >}}
 
 ---
 
@@ -71,8 +71,8 @@ Learn Italian via Zoom from the comfort of your home with **Tania**.
 
 ### Policies & Discounts
 
-- **Family Discount:** For pay-in-full same-class enrollment, the first family member pays full price and each additional family member receives 10% off automatically when you select 2 or more family members at checkout.
-- **Payment Plan Commitment:** Monthly payment checkout is for one student at a time. Choosing a payment plan is a commitment to the entire duration of the class. It is not a monthly subscription that can be canceled mid-session.
+- **Family Discount:** For pay-in-full same-class enrollment, the first family member pays full price and each additional family member receives 10% off automatically when you add additional family members in Stripe Checkout.
+- **Payment Plan Commitment:** Monthly checkout is for one student at a time. Choosing a payment plan is a commitment to the entire duration of the class. It is not a monthly subscription that can be canceled mid-session.
 - **Refunds:** Full refund if canceled 15 days before the first class; 50% refund before the second class; no refunds after the second class.
 
 Questions? [Contact us]({{< relref "contact.md" >}}) and we'll be happy to help!
