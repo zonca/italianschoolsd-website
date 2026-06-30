@@ -92,6 +92,30 @@ test('book checkout adds taxable book line with public image URL', () => {
   assert.deepEqual(entries(params, 'metadata[includes_book]'), ['yes']);
 });
 
+test('Wednesday Fall classes have valid checkout catalog entries', () => {
+  const beginner = CLASSES['fall-2026-wed-beg'];
+  const beginnerIntermediate = CLASSES['fall-2026-wed-beg-int'];
+
+  assert.equal(beginner.name, 'Fall 2026 Italian Class - Beginner Wednesday');
+  assert.equal(beginner.anchor, 'wed-beg');
+  assert.equal(beginner.bookId, 'project1a');
+  assert.equal(beginnerIntermediate.name, 'Fall 2026 Italian Class - Beginner-Intermediate Wednesday');
+  assert.equal(beginnerIntermediate.anchor, 'wed-beg-int');
+
+  const params = _test.buildCheckoutParams({
+    selectedClass: beginner,
+    paymentType: 'full',
+    includeBook: false,
+    studentCount: 1,
+    origin: ORIGIN,
+  });
+
+  assert.equal(
+    params.get('success_url'),
+    `${ORIGIN}/news/2026/06/beginner-adult-italian-classes-fall-2026/?checkout=success#wed-beg`
+  );
+});
+
 test('online classes cannot include school-sold book bundle', () => {
   const result = _test.validateSelection({
     classId: 'fall-2026-thu-beg-online',
