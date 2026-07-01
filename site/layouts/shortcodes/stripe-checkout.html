@@ -42,6 +42,10 @@
         </select>
       </div>
     {{- end -}}
+    <label class="checkout-commitment" for="commitment-{{ $class }}-monthly">
+      <input id="commitment-{{ $class }}-monthly" type="checkbox" name="monthlyCommitmentAccepted" required>
+      <span>I understand the monthly plan includes a 10% administrative fee and commits me to all 5 payments.</span>
+    </label>
     <button type="submit" class="checkout-button"><span>Monthly Plan</span><strong>5 x ${{ $monthly }}</strong><small>1 student</small></button>
   </form>
   <p class="checkout-note">

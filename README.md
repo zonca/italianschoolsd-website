@@ -33,6 +33,6 @@ Subscribe it to at least:
 
 The checkout function keeps the class catalog server-side in `netlify/lib/checkout/catalog.js`. Page content should call the `stripe-checkout` shortcode with the class ID and display prices; do not put Stripe secret keys or editable checkout amounts in Markdown.
 
-Monthly class payments are for one student at a time and are created as Stripe subscriptions through Checkout. The webhook sets `cancel_at` on each monthly subscription so it stops after five monthly payments.
+Monthly class payments are for one student at a time, include a 10% administrative fee, and are created as Stripe subscriptions through Checkout. The website form requires students to accept the commitment to all five payments before creating a monthly Checkout Session. The webhook sets `cancel_at` on each monthly subscription so it stops after five monthly payments.
 
 Pay-in-full same-class family enrollment is selected on the website checkout form: the first student is the main line item, and additional students from the same family are charged at 90% tuition. Eligible classes show book quantity on the website checkout form, then Stripe Checkout shows the final line items. Monthly checkout is limited to one student and at most one book.

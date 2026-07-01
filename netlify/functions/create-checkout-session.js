@@ -24,7 +24,13 @@ function parseCount(value, fallback = 0) {
   return Number.isInteger(count) ? count : fallback;
 }
 
-function validateSelection({ classId, paymentType, familyMemberCount, bookQuantity }) {
+function validateSelection({
+  classId,
+  paymentType,
+  familyMemberCount,
+  bookQuantity,
+  monthlyCommitmentAccepted = false,
+}) {
   const selectedClass = CLASSES[classId];
 
   if (!selectedClass) {
@@ -38,6 +44,9 @@ function validateSelection({ classId, paymentType, familyMemberCount, bookQuanti
   }
   if (paymentType === 'monthly' && familyMemberCount !== 1) {
     return { error: { statusCode: 400, body: 'Monthly checkout is for one student at a time.' } };
+  }
+  if (paymentType === 'monthly' && !monthlyCommitmentAccepted) {
+    return { error: { statusCode: 400, body: 'Monthly payment commitment must be accepted.' } };
   }
   if (bookQuantity < 0 || bookQuantity > 6) {
     return { error: { statusCode: 400, body: 'Book quantity must be between 0 and 6.' } };
@@ -86,7 +95,14 @@ async function stripeRequest(path, params) {
   return data;
 }
 
-function buildCheckoutParams({ selectedClass, paymentType, origin, familyMemberCount = 1, bookQuantity = 0 }) {
+function buildCheckoutParams({
+  selectedClass,
+  paymentType,
+  origin,
+  familyMemberCount = 1,
+  bookQuantity = 0,
+  monthlyCommitmentAccepted = false,
+}) {
   const returnPath = `${selectedClass.pagePath}?checkout=success#${selectedClass.anchor}`;
   const cancelPath = `${selectedClass.pagePath}#${selectedClass.anchor}`;
   const mode = paymentType === 'monthly' ? 'subscription' : 'payment';
@@ -99,6 +115,7 @@ function buildCheckoutParams({ selectedClass, paymentType, origin, familyMemberC
     payment_type: paymentType,
     family_member_count: String(familyMemberCount),
     book_quantity: String(bookQuantity),
+    monthly_commitment_accepted: paymentType === 'monthly' && monthlyCommitmentAccepted ? 'true' : 'not_applicable',
   };
 
   params.append('mode', mode);
@@ -109,6 +126,7 @@ function buildCheckoutParams({ selectedClass, paymentType, origin, familyMemberC
   params.append('metadata[payment_type]', paymentType);
   params.append('metadata[family_member_count]', String(familyMemberCount));
   params.append('metadata[book_quantity]', String(bookQuantity));
+  params.append('metadata[monthly_commitment_accepted]', metadata.monthly_commitment_accepted);
 
   let lineIndex = 0;
   if (paymentType === 'full') {
@@ -173,6 +191,7 @@ function buildCheckoutParams({ selectedClass, paymentType, origin, familyMemberC
     params.append('subscription_data[metadata][payment_type]', paymentType);
     params.append('subscription_data[metadata][installments_total]', '5');
     params.append('subscription_data[metadata][cancel_after_months]', '5');
+    params.append('subscription_data[metadata][monthly_commitment_accepted]', metadata.monthly_commitment_accepted);
   }
 
   return params;
@@ -192,7 +211,14 @@ exports.handler = async function handler(event) {
     const paymentType = body.get('paymentType');
     const familyMemberCount = paymentType === 'monthly' ? 1 : parseCount(body.get('familyMemberCount'), 1);
     const bookQuantity = parseCount(body.get('bookQuantity'), 0);
-    const { selectedClass, error } = validateSelection({ classId, paymentType, familyMemberCount, bookQuantity });
+    const monthlyCommitmentAccepted = body.get('monthlyCommitmentAccepted') === 'on';
+    const { selectedClass, error } = validateSelection({
+      classId,
+      paymentType,
+      familyMemberCount,
+      bookQuantity,
+      monthlyCommitmentAccepted,
+    });
 
     if (error) {
       return error;
@@ -204,6 +230,7 @@ exports.handler = async function handler(event) {
       paymentType,
       familyMemberCount,
       bookQuantity,
+      monthlyCommitmentAccepted,
       origin,
     });
     const session = await stripeRequest('/checkout/sessions', params);

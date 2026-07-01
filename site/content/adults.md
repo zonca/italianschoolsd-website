@@ -98,7 +98,7 @@ Classes are confirmed once they meet the minimum required enrollment. If a class
 
 ### Payment Plans (Installments) {#payment-plans}
 
-We offer convenient monthly payment plans consisting of **5 payments** for all our adult classes (via credit card subscription). Please note that these plans are **not monthly enrollments**—the commitment is still for the entire duration of the course (15 or 16 classes). If you enroll using a payment plan, you are committing to completing all 5 monthly payments.
+We offer monthly payment plans consisting of **5 payments** for adult classes. Monthly plans include a 10% administrative fee and are **not monthly enrollments**. If you enroll using a payment plan, you are committing to completing all 5 monthly payments for the full course (15 or 16 classes).
 
 ### Cancellation & Refund Policy {#cancellation}
 

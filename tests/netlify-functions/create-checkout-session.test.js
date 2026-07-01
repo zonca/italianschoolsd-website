@@ -55,6 +55,7 @@ test('monthly checkout uses subscription mode and one student', () => {
     selectedClass,
     paymentType: 'monthly',
     bookQuantity: 0,
+    monthlyCommitmentAccepted: true,
     origin: ORIGIN,
   });
 
@@ -62,11 +63,13 @@ test('monthly checkout uses subscription mode and one student', () => {
   assert.equal(params.get('customer_creation'), null);
   assert.equal(params.get('allow_promotion_codes'), null);
   assert.equal(params.get('metadata[family_member_count]'), '1');
+  assert.equal(params.get('metadata[monthly_commitment_accepted]'), 'true');
   assert.equal(params.get('line_items[0][price_data][unit_amount]'), '12672');
   assert.equal(params.get('line_items[0][quantity]'), '1');
   assert.equal(params.get('line_items[0][price_data][recurring][interval]'), 'month');
   assert.equal(params.get('subscription_data[metadata][installments_total]'), '5');
   assert.equal(params.get('subscription_data[metadata][cancel_after_months]'), '5');
+  assert.equal(params.get('subscription_data[metadata][monthly_commitment_accepted]'), 'true');
 });
 
 test('book checkout adds selected taxable book quantity', () => {
@@ -99,6 +102,7 @@ test('monthly checkout can include one book without changing class quantity', ()
     selectedClass,
     paymentType: 'monthly',
     bookQuantity: 1,
+    monthlyCommitmentAccepted: true,
     origin: ORIGIN,
   });
 
@@ -168,8 +172,19 @@ test('counts are bounded and monthly family count remains one', () => {
       paymentType: 'monthly',
       familyMemberCount: 2,
       bookQuantity: 0,
+      monthlyCommitmentAccepted: true,
     }).error.body,
     'Monthly checkout is for one student at a time.'
+  );
+  assert.equal(
+    _test.validateSelection({
+      classId: 'fall-2026-thu-beg',
+      paymentType: 'monthly',
+      familyMemberCount: 1,
+      bookQuantity: 0,
+      monthlyCommitmentAccepted: false,
+    }).error.body,
+    'Monthly payment commitment must be accepted.'
   );
   assert.equal(
     _test.validateSelection({
@@ -186,6 +201,7 @@ test('counts are bounded and monthly family count remains one', () => {
       paymentType: 'monthly',
       familyMemberCount: 1,
       bookQuantity: 2,
+      monthlyCommitmentAccepted: true,
     }).error.body,
     'Monthly checkout allows at most 1 book.'
   );
