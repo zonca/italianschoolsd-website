@@ -27,6 +27,9 @@ jobs:
 
       - name: Install JS deps (for PostCSS)
         run: yarn install --frozen-lockfile
+
+      - name: Test Netlify Functions
+        run: yarn test:functions
       
       - name: Build site with Hugo
         run: hugo -d dist -s site

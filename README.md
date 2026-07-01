@@ -7,3 +7,32 @@ All instructors of the [Italian language school in San Diego](https://www.italia
 See the [available Italian in-person classes in San Diego](https://www.italianschoolsd.com/classes), they are split in 2 tracks, one for people looking to learn Italian, one for kids that have Italian heritage and want to follow the same program taught in Italy's public school system.
 
 Classes are online and in-person in Kearny Mesa, San Diego
+
+## Stripe Checkout
+
+Fall 2026 class enrollment uses Netlify Functions and Stripe Checkout.
+
+Required Netlify environment variables:
+
+- `STRIPE_SECRET_KEY` (server API key with permission to create Checkout Sessions and update Subscriptions)
+- `STRIPE_WEBHOOK_SECRET`
+- `RESEND_API_KEY`
+- `CHECKOUT_ALERT_FROM` (default: `Italian School Alerts <alerts@sandiegodata.science>`)
+- `CHECKOUT_ALERT_TO` (default: `andrea.zonca@gmail.com`)
+- `CHECKOUT_ALERT_REPLY_TO` (default: `andrea.zonca@gmail.com`)
+
+Configure a Stripe webhook endpoint at:
+
+```text
+https://www.italianschoolsd.com/.netlify/functions/stripe-webhook
+```
+
+Subscribe it to at least:
+
+- `checkout.session.completed`
+
+The checkout function keeps the class catalog server-side in `netlify/lib/checkout/catalog.js`. Page content should call the `stripe-checkout` shortcode with the class ID and display prices; do not put Stripe secret keys or editable checkout amounts in Markdown.
+
+Monthly class payments are for one student at a time, include a 10% administrative fee, and are created as Stripe subscriptions through Checkout. The website form requires students to accept the commitment to all five payments before creating a monthly Checkout Session. The webhook sets `cancel_at` on each monthly subscription so it stops after five monthly payments.
+
+Pay-in-full same-class family enrollment is selected on the website checkout form: the first student is the main line item, and additional students from the same family are charged at 90% tuition. Eligible classes show book quantity on the website checkout form, then Stripe Checkout shows the final line items. Monthly checkout is limited to one student and at most one book.
