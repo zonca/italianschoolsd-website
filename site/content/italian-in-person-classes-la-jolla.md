@@ -30,16 +30,22 @@ If you want focused instruction in a polished La Jolla setting, start with a fiv
 
 Start with a five-lesson package. After the first package, you can continue with additional sessions as needed.
 
-**One student** &middot; $599 for five one-hour lessons
-
-<div class="tc">
-<a href="https://italianschoolsd.square.site/product/in-person-italian-classes-la-jolla-1-person-5-hours/R3QJ6H3XBNPRFXALQS6MRRA7" class="btn raise">Purchase 5 lessons for 1 person</a>
-</div>
-
-**Two students** &middot; $899 for five one-hour lessons
-
-<div class="tc">
-<a href="https://italianschoolsd.square.site/product/in-person-italian-classes-la-jolla-2-people-5-hours/CBEN6APPV2A75VQBXS7QRWQS" class="btn raise">Purchase 5 lessons for 2 people</a>
+<div class="checkout-options" aria-label="La Jolla lesson package options">
+  <form class="checkout-card" action="https://italianschoolsd.square.site/product/in-person-italian-classes-la-jolla-1-person-5-hours/R3QJ6H3XBNPRFXALQS6MRRA7" method="GET">
+    <button type="submit" class="checkout-button">
+      <span>One Student</span>
+      <strong>$599</strong>
+      <small>5 private lessons</small>
+    </button>
+  </form>
+  <form class="checkout-card" action="https://italianschoolsd.square.site/product/in-person-italian-classes-la-jolla-2-people-5-hours/CBEN6APPV2A75VQBXS7QRWQS" method="GET">
+    <button type="submit" class="checkout-button">
+      <span>Two Students</span>
+      <strong>$899</strong>
+      <small>5 private lessons</small>
+    </button>
+  </form>
+  <p class="checkout-note">Each package includes five one-hour lessons. Textbook included.</p>
 </div>
 
 ## How it works {#how-it-works}

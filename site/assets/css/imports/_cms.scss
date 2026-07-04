@@ -46,6 +46,17 @@
 		}
 	}
 
+	& a.checkout-button {
+		color: var(--white);
+		text-decoration: none;
+
+		&:hover,
+		&:focus {
+			background-color: var(--highlight);
+			color: var(--white);
+		}
+	}
+
 	/* Lists */
 	& ul, & ol, & li {
 		position: relative;
