@@ -15,7 +15,7 @@ Applying for **Italian citizenship**? We can prepare you for the **B1 language r
 ## What's included {#included}
 
 - **Five one-hour lessons** per package. We recommend one lesson a week.
-- **Current availability with Valentina**: Wednesday and Friday evenings after 6 PM, available through August 17, 2026.
+- **Current availability**: Wednesday and Friday evenings after 6 PM.
 - **One or two students**: learn solo, or split the lessons with a partner, friend, or colleague.
 - **Textbook included**, with nothing extra to buy.
 - **All levels**, from beginner to advanced.
