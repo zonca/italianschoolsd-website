@@ -48,6 +48,8 @@ Start with a five-lesson package. After the first package, you can continue with
   <p class="checkout-note">Each package includes five one-hour lessons. Textbook included.</p>
 </div>
 
+Prefer to organize private Italian lessons at your home or another La Jolla location? [Contact us](/contact) and we can discuss a tailored arrangement.
+
 ## How it works {#how-it-works}
 
 1. Purchase your package above with your credit card.
