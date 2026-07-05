@@ -14,7 +14,7 @@ fieldset
   padding: 0;
 }
 
-input, textarea {
+input, textarea, select {
   background-color: var(--grey-2);
   border-radius: var(--border-radius);
   padding: 12px 16px 10px;
@@ -31,6 +31,26 @@ input, textarea {
     pointer-events: auto;
     transform: translateY(-120%);
   }
+}
+
+select {
+  border: 0;
+  min-height: 3.25rem;
+}
+
+.contact-select-field {
+  display: flex;
+  flex-direction: column;
+}
+
+.contact-select-label {
+  background-color: transparent;
+  color: var(--primary);
+  margin-bottom: var(--spacing-extra-small);
+  opacity: 1;
+  padding: 0;
+  pointer-events: auto;
+  position: static;
 }
 
 ::-webkit-input-placeholder {
