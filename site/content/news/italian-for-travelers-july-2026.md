@@ -10,7 +10,7 @@ Heading to Italy this summer? Four Wednesday evening classes to get you speaking
 |---|---|
 | **Dates** | Wednesdays: July 8, 15, 22, 29 |
 | **Time** | 6:00 pm – 7:30 pm |
-| **Location** | Kearny Mesa |
+| **Location** | In person: [4550 Kearny Villa Rd Suite 202, San Diego, CA](/location) |
 | **Adults** | $180 (first), $135 each additional family member |
 | **Kids under 18** | $90 |
 

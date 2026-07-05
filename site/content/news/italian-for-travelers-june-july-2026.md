@@ -17,7 +17,7 @@ Looking for a more comprehensive beginner class? See our [Summer Beginner classe
 
 ## Schedule
 
-All sessions meet on **Wednesdays, 6:00pm–7:30pm** at our location in Kearny Mesa.
+All sessions meet **in person** on **Wednesdays, 6:00pm–7:30pm** at our school: [4550 Kearny Villa Rd Suite 202, San Diego, CA](/location).
 
 ### June Session
 - **Dates:** June 10, 17, 24, July 1
