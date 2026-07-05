@@ -20,7 +20,7 @@ If you want focused instruction in a polished La Jolla setting, start with a fiv
 
 - **Five private one-hour lessons** per package, with a weekly rhythm recommended for steady progress.
 - **Convenient La Jolla setting** in a professional office on Fay Avenue, near The Lot La Jolla.
-- **Current availability**: Wednesday and Friday evenings after 6 PM.
+- **Current availability**: Wednesday and Friday evenings after 6 PM. If you prefer another time, [contact us](/contact) to inquire.
 - **One or two students**: choose dedicated individual instruction or a private pair format.
 - **Textbook included**, with nothing extra to buy.
 - **Personalized curriculum** for all levels, from beginner to advanced.
