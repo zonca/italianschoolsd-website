@@ -1,7 +1,7 @@
 ---
 title: "Travel & Scouting for Nomads"
 subtitle: "Trying on your new life, checking internet speeds, and local integration"
-image: /img/digital-nomad-travel.jpg
+image: /img/digital-nomad-italy/travel-settling.jpg
 description: "Planning scouting trips, checking co-working spaces, language integration classes, and settling support for remote workers in Italy."
 date: 2026-07-06
 lastmod: 2026-07-06

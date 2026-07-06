@@ -1,7 +1,7 @@
 ---
 title: "Nomad Coordination Team"
 subtitle: "Integrated expertise across immigration law, cross-border tax, housing, and relocation logistics"
-image: /img/digital-nomad-team.jpg
+image: /img/digital-nomad-italy/team-background.jpg
 description: "Biographies and credentials for the integrated team guiding your relocation to Italy: immigration law, dual-country taxation, registered lease strategy, and travel logistics."
 date: 2026-07-06
 lastmod: 2026-07-06

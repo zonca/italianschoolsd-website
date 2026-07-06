@@ -1,7 +1,7 @@
 ---
 title: "Digital Nomad Italy"
 subtitle: "Professional coordination for remote workers and freelancers relocating to Italy."
-image: /img/digital-nomad-tuscany.png
+image: /img/digital-nomad-italy/tuscany-landscape.jpg
 description: "Expert assistance for remote workers and freelancers moving to Italy. We coordinate digital nomad visa applications, cross-border tax planning, registered lease acquisition, and logistics."
 date: 2026-07-06
 lastmod: 2026-07-06
@@ -13,7 +13,7 @@ Moving to Italy as a digital nomad or remote worker involves navigating unique l
 
 We replace the fragmentation of separate advisors with a fully coordinated approach, managing your visa, tax setup, and housing through a single point of contact.
 
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSca8YTbSVtgq0xJLCx-pVuoSRKeCx9LWc5v85jCRpfJmz2Kbw/viewform?usp=publish-editor" class="btn">Schedule a Consultation</a>
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSeFcvepRUx6equ80iNXxVZnKNVIMczvMtlBiwZaEqYxeiMQ1w/viewform" class="btn">Schedule a Consultation</a>
 
 ## Core Services for Nomads
 

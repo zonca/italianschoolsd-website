@@ -1,7 +1,7 @@
 ---
 title: "Housing & Registered Leases for Nomads"
 subtitle: "Securing consulate-compliant accommodation and avoiding visa denials"
-image: /img/digital-nomad-housing.jpg
+image: /img/digital-nomad-italy/housing-property.jpg
 description: "Guidelines for obtaining registered long-term leases in Italy, mandatory tax authority registration, and professional real estate support."
 date: 2026-07-06
 lastmod: 2026-07-06

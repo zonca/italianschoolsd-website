@@ -1,7 +1,7 @@
 ---
 title: "Healthcare & Nomad Logistics"
 subtitle: "Setting up your digital infrastructure, health coverage, and local registration"
-image: /img/digital-nomad-logistics.jpg
+image: /img/digital-nomad-italy/healthcare-logistics.jpg
 description: "Practical logistics for remote workers relocating to Italy: private health insurance, bank accounts, high-speed internet, and local residency registration."
 date: 2026-07-06
 lastmod: 2026-07-06

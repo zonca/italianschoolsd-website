@@ -1,7 +1,7 @@
 ---
 title: "Taxes & Business Setup in Italy"
 subtitle: "Navigating cross-border taxation, Partita IVA, and payroll compliance"
-image: /img/digital-nomad-taxes.jpg
+image: /img/digital-nomad-italy/taxes-finance.jpg
 description: "Tax regimes, self-employment Partita IVA setup, Regime Forfettario, W-2 remote worker compliance, and US-Italy tax treaty navigation."
 date: 2026-07-06
 lastmod: 2026-07-06

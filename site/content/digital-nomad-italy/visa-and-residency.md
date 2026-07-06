@@ -1,7 +1,7 @@
 ---
 title: "Digital Nomad Visa & Residency"
 subtitle: "The legal path for remote professionals relocating to Italy"
-image: /img/digital-nomad-visa.jpg
+image: /img/digital-nomad-italy/visa-residency.jpg
 description: "Requirements, eligibility criteria, and step-by-step application process for the Italian Digital Nomad and Remote Worker Visa."
 date: 2026-07-06
 lastmod: 2026-07-06
