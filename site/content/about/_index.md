@@ -9,17 +9,17 @@ values:
     imageUrl: "img/italian_blackboard.jpg"
 ---
 
-## The legacy of IAASD
+## The legacy of IAASD {#legacy}
 
 [Learn more about the history of IAASD](/about/legacy-iaasd)
 
-## Our location
+## Our location {#location}
 
 [See the dedicated space about the space that hosts our school](/location)
 
-## Our founders
+## Our founders {#founders}
 
-### Maura D'Andrea - School director and teacher
+### Maura D'Andrea - School director and teacher {#maura}
 
 ![Maura D'Andrea](/img/maura_dandrea.jpg)
 
@@ -38,7 +38,7 @@ With joy and enthusiasm she also organizes informal events for Italian families 
 
 In 2021 Maura decided to open the Italian school of San Diego to continue the mission undertaken by the Italian American Academy of San Diego of teaching Italian and Italy's culture.
 
-### Marilisa Dowling - Director of K-3 classes and teacher
+### Marilisa Dowling - Director of K-3 classes and teacher {#marilisa}
 
 ![Marilisa Dowling](/img/marilisa_dowling.jpg)
 
@@ -48,7 +48,7 @@ In 2015 Marilisa returned to San Diego with her husband and their two young chil
 
 Marilisa currently works as a parent volunteer at her children’s elementary school, focusing on reading and literacy skills. She is also a substitute teacher with Chula Vista Elementary School District and Sweetwater High School District.
 
-### Andrea Zonca - Director of Operations
+### Andrea Zonca - Director of Operations {#andrea}
 
 ![Andrea Zonca](/img/andrea_zonca.jpg)
 
@@ -60,9 +60,9 @@ Andrea moonlights to handle business operations, accounting, tech support and we
 
 He also loves learning languages as a hobby: he speaks Italian, English, Spanish, some French, some Russian and is now studying Japanese.
 
-## Our instructors
+## Our instructors {#instructors}
 
-### Marina Johnson
+### Marina Johnson {#marina}
 
 ![Marina Johnson](/img/marina_johnson.jpg)
 
@@ -72,7 +72,7 @@ Mother of three kids, she cultivated her interest in Education volunteering for 
 
 Her focus is to make the class fun and interactive.
 
-### Francesca Galimi
+### Francesca Galimi {#francesca}
 
 ![Francesca Galimi](/img/francesca_galimi.jpg)
 
@@ -80,7 +80,7 @@ Francesca was born in San Diego, California, and grew up bilingual, speaking Ita
 
 She recently graduated from UC Berkeley with a bachelor’s degree in Integrative Biology and plans to pursue graduate school in the future. Outside of academics, she enjoys reading, cooking, and trying new foods. Teaching is a passion, and she has taught a wide range of ages. She hopes to inspire students to love learning and Italian language and culture as she does!
 
-### Ilana Battaglia
+### Ilana Battaglia {#ilana}
 
 ![Ilana Battaglia](/img/ilana_battaglia.jpg)
 
@@ -94,13 +94,13 @@ the Oxford Teacher’s Academy as well as The Canadian Institute of English and 
 
 
 
-### Emanuela Rossi
+### Emanuela Rossi {#emanuela}
 
 ![Emanuela Rossi](/img/emanuela_rossi.jpg)
 
 Emanuela was born in Milan and lived in various Italian regions. She is interested in foreign languages, neurolinguistic, anthropology and earned a Degree in Foreign Languages and a Master Degree in Foreign Languages for International Communication (Laurea Specialistica) at the University of Verona in Italy. She has lived, studied and worked in France, Spain, Greece, Australia and South Africa. In 2014, she moved to San Diego. She believes in continuous learning and takes advantage of all the opportunities to learn new skills. She is very active and has an enthusiastic personality. With hobbies like hiking, camping, woodworking and many others, she thinks that days are always too short.
 
-### Daniela Gnerre
+### Daniela Gnerre {#daniela}
 
 ![Daniela Gnerre](/img/daniela_gnerre.jpg)
 
@@ -112,7 +112,7 @@ After a couple of years in Berkeley, where her two sons were born, her family mo
 
 She became involved in the schools to better understand the American school system. She started out as a volunteer, both in class and in after school programs, to later commit to a full time TA position. Daniela also taught Italian and Spanish in after school programs for both elementary school students and preschoolers, and at various adult enrichment classes.
 
-### Viviana Maura Ferretto
+### Viviana Maura Ferretto {#viviana}
 
 ![Viviana Maura Ferretto](/img/viviana_ferretto.jpg)
 
@@ -124,7 +124,7 @@ At the end of 2022 she moved to Southern California with her family and she imme
 
 During her youth Viviana has always had a passion for teaching kids and teenagers, tutoring during her university years. She is now very excited to teach her mother tongue and the culture of the most beautiful country in the world at the Italian School of San Diego.
 
-### Luisa Vampore
+### Luisa Vampore {#luisa-vampore}
 
 ![Luisa Vampore](/img/luisa_vampore.jpg)
 
@@ -134,9 +134,9 @@ A native Italian speaker, Luisa is also fluent in French, having lived and worke
 
 In 2022, Luisa relocated to San Diego with her husband. She enjoys cooking, especially baking, hiking, and spending time at the beach. Luisa is enthusiastic about teaching her native language and sharing the rich culture of Italy at the Italian School of San Diego.
 
-## Our staff
+## Our staff {#staff}
 
-### Iris Zonca - Social media manager
+### Iris Zonca - Social media manager {#iris}
 
 ![Iris Zonca](/img/iris_zonca.jpg)
 

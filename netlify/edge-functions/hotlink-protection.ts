@@ -1,10 +1,13 @@
-import type { Context } from "<https://edge.netlify.com>";
+import type { Context } from "https://edge.netlify.com";
 
 export default async (
   request: Request,
   context: Context
 ): Promise<Response> => {
+  // Hotlink protection disabled by user request
+  return;
 
+  /*
   const url = new URL(request.url);
   if (url.pathname.startsWith('/img/favicon')) {
     return;
@@ -20,4 +23,5 @@ if (
 ) {
   return new Response("Forbidden", { status: 403 });
 }
+  */
 };

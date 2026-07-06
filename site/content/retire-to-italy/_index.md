@@ -17,7 +17,7 @@ We replace the fragmentation of separate advisors with a fully coordinated appro
 
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSca8YTbSVtgq0xJLCx-pVuoSRKeCx9LWc5v85jCRpfJmz2Kbw/viewform?usp=publish-editor" class="btn">Schedule a Consultation</a>
 
-## Core Services
+## Core Services {#services}
 
 We provide comprehensive support across the five critical pillars of relocation:
 
@@ -27,7 +27,7 @@ We provide comprehensive support across the five critical pillars of relocation:
 - **Logistics:** Assistance with National Health Service (SSN) registration, banking setup, and administrative essentials.
 - **Integration:** Structured travel planning and on-the-ground support to facilitate your settlement.
 
-## Professional Team
+## Professional Team {#team}
 
 Our approach integrates distinct fields of expertise into a unified relocation strategy:
 
@@ -37,7 +37,7 @@ Our approach integrates distinct fields of expertise into a unified relocation s
 - **Real Estate Liaison — Claudia Cencelli:** Specialist in bridging U.S. client needs with the Italian property market.
 - **Logistics & Travel — Manuela Broccolini:** Expert planning for scouting trips and settling-in requirements.
 
-## Our Process
+## Our Process {#process}
 
 We follow a structured methodology to ensure transparency and results:
 
@@ -48,7 +48,7 @@ We follow a structured methodology to ensure transparency and results:
 
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSca8YTbSVtgq0xJLCx-pVuoSRKeCx9LWc5v85jCRpfJmz2Kbw/viewform?usp=publish-editor" class="btn">Schedule a Consultation</a>
 
-## Detailed Information
+## Detailed Information {#detailed-info}
 
 Each item below links to its own detailed page with specialized guidance:
 

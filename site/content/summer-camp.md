@@ -21,12 +21,12 @@ We are happy to open pre-enrollment for our Summer Camps:
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSdcPxDJt3UrxM-hUf6EiFsGu8nv9CJcKh-VmeP9MgptwQ9vIQ/viewform?usp=sf_link" class="btn raise">Fill the pre-enrollment form</a>
 </div>
 
-### Practicalities
+### Practicalities {#practicalities}
 
 * What to bring: a backpack with water bottle, lunch box with snacks and lunch (No nuts and no candies), closed-toe shoes (no flip-flops)
 * COVID-19 policy: air purification devices available in each room, kids will not be accepted if coughing or if they have fever.
 
-### Terms and conditions
+### Terms and conditions {#terms-conditions}
 
 * After pre-enrollment, the parent will receive notice of acceptance with an invoice, paying the invoice finalizes enrollment
 * Refund except a $50 administrative fee until May 27th, no refunds afterwards.

@@ -4,6 +4,8 @@ image: /img/milan.jpg
 subtitle: Take AP Italian during High School for College credit
 ---
 
+## AP Italian Overview {#overview}
+
 > Update — AP Italian 2026 for San Diego Unified (SDUSD) will be hosted at our location. Exam: May 8, 2026 at 8:00 AM. Read the [announcement]({{< ref "news/ap-italian-2026-hosted-at-italian-school-san-diego.md" >}}) or see our [location](/location).
 
 Several High Schools in San Diego give the students the possibility of taking
@@ -23,3 +25,11 @@ Italian school of San Diego students which have reached year 4 of the [accredite
 It is important to stress that it is the cumulative instructions from the 4 levels
 of Italian classes that prepare the students for the AP test, many topics useful
 for the AP test are covered in Italian 1-2, Italian 3-4 and Italian 5-6.
+
+## Private Tutoring and Dedicated Preparation {#private-prep}
+
+For students who need a more personalized approach or want to focus specifically on the exam's technical expectations, we offer **private, one-on-one preparation sessions** with our School Director.
+
+These sessions are available both online and in person and are specifically designed to address the challenges of the AP Italian exam, including the new digital format and Course Project requirements.
+
+* [Learn more about Private AP Italian Preparation]({{< ref "private-ap-italian-prep.md" >}})

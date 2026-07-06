@@ -1,0 +1,58 @@
+{{- $class := .Get "class" -}}
+{{- $full := .Get "full" -}}
+{{- $monthly := .Get "monthly" -}}
+{{- $book := .Get "book" -}}
+{{- $bookLabel := .Get "bookLabel" | default "Textbook" -}}
+<div class="checkout-options" aria-label="Enrollment options">
+  <form class="checkout-card checkout-card-full" action="/.netlify/functions/create-checkout-session" method="POST">
+    <input type="hidden" name="classId" value="{{ $class }}">
+    <input type="hidden" name="paymentType" value="full">
+    <div class="checkout-field">
+      <label class="checkout-label" for="family-{{ $class }}-full">Students in this family</label>
+      <select class="checkout-select" id="family-{{ $class }}-full" name="familyMemberCount">
+        <option value="1">1 student</option>
+        <option value="2">2 students, same family</option>
+        <option value="3">3 students, same family</option>
+        <option value="4">4 students, same family</option>
+      </select>
+    </div>
+    {{- if $book -}}
+      <div class="checkout-field">
+        <label class="checkout-label" for="book-{{ $class }}-full">{{ $bookLabel }}</label>
+        <select class="checkout-select" id="book-{{ $class }}-full" name="bookQuantity">
+          <option value="0">No book</option>
+          <option value="1">1 book</option>
+          <option value="2">2 books</option>
+          <option value="3">3 books</option>
+          <option value="4">4 books</option>
+        </select>
+      </div>
+    {{- end -}}
+    <button type="submit" class="checkout-button"><span>Pay in Full</span><strong>${{ $full }}</strong></button>
+  </form>
+  <form class="checkout-card checkout-card-monthly" action="/.netlify/functions/create-checkout-session" method="POST">
+    <input type="hidden" name="classId" value="{{ $class }}">
+    <input type="hidden" name="paymentType" value="monthly">
+    {{- if $book -}}
+      <div class="checkout-field">
+        <label class="checkout-label" for="book-{{ $class }}-monthly">{{ $bookLabel }}</label>
+        <select class="checkout-select" id="book-{{ $class }}-monthly" name="bookQuantity">
+          <option value="0">No book</option>
+          <option value="1">1 book</option>
+        </select>
+      </div>
+    {{- end -}}
+    <label class="checkout-commitment" for="commitment-{{ $class }}-monthly">
+      <input id="commitment-{{ $class }}-monthly" type="checkbox" name="monthlyCommitmentAccepted" required>
+      <span>I understand the monthly plan includes a 10% administrative fee and commits me to all 5 payments.</span>
+    </label>
+    <button type="submit" class="checkout-button"><span>Monthly Plan</span><strong>5 x ${{ $monthly }}</strong><small>1 student</small></button>
+  </form>
+  <p class="checkout-note">
+    {{- if $book -}}
+      Stripe will show the final line items. Monthly checkout is for 1 student and at most 1 book.
+    {{- else -}}
+      Stripe will show the final line items. Monthly checkout is for 1 student.
+    {{- end -}}
+  </p>
+</div>

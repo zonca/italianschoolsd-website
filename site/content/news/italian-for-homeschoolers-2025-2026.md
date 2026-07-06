@@ -2,8 +2,6 @@
 title: Italian morning program for homeschoolers 2025-2026
 date: 2025-06-06T00:00:00.000Z
 image: /img/school_athens.jpg
-aliases:
-    - /homeschool/
 subtitle: New academic year, Wednesdays 10am–12pm, 16+16 classes
 ---
 

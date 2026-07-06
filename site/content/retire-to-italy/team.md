@@ -22,7 +22,7 @@ A designated coordinator from the Italian school of San Diego staff serves as yo
 
 ## Immigration & Citizenship Law
 
-Italian‑American attorney with law degrees from both the U.S. and Italy. Our external counsel advises on visa selection (e.g., Elective Residence), application preparation, residency registration, and broader risk management for timing and compliance. Prior experience includes Linklaters (Rome & London) and corporate compliance at JPMorgan Chase (New York). Available for in‑person meetings in San Diego or remote consultations.
+Italian‑American attorney with law degrees from both the U.S. and Italy. Our external counsel advises on visa selection (e.g., Elective Residence, Digital Nomad), application preparation, residency registration, and broader risk management for timing and compliance. With a career spanning over two decades, he offers a deep understanding of the issues that are key for a successful Italian visa application and productive consular interviews. Available for in-person meetings in San Diego or remote consultations.
 <div style="clear: both;"></div>
 
 ## **Luigi Parente, CPA (US & Italy)** – Cross‑Border Taxation

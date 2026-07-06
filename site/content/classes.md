@@ -1,67 +1,65 @@
 ---
 title: Italian Classes in San Diego
 image: /img/isola_bella.jpg
-subtitle: "Children Classes 2025–2026"
+subtitle: "Children Classes 2026-2027"
 ---
 
-This page is for students in TK–6th grade. For teens, see our [accredited classes](/accredited-classes).
+This page is for students in TK-6th grade. For teens, see our [accredited classes](/accredited-classes).
 
-## Italian Heritage Classes for Kids (TK–6)
+## In-Person Afternoon Classes (TK-6) {#afternoon}
 
-> “*La lingua è l'ultima proprietà di chi parte per sempre*”  
-(Erri de Luca, I pesci non chiudono gli occhi)
+> *"L'italiano è più di una lingua: è una porta aperta sulla bellezza, la cultura e l'arte di vivere."*  
+> (Italian is more than a language: it is an open door to beauty, culture, and the art of living.)
 
-Italian Heritage classes are designed for children who are already advanced or fluent in Italian, though not necessarily native speakers. These classes help deepen their knowledge of the Italian language and cover many topics taught to their peers in Italy, focusing on the four basic language skills: comprehension, reading, writing, and speaking. Starting in 3rd grade, the curriculum includes history and geography topics from the Italian public school program. All classes are taught in Italian by a native Italian instructor.
+Our core afternoon classes meet once a week for two hours at our [Kearny Mesa location](/location). Classes are kept small (5-10 students) and are taught by native Italian instructors. These programs prepare students for our [accredited classes](/accredited-classes), which typically begin in 6th or 7th grade.
 
-Classes have 5–10 students and are held in person. Our program prepares students for [accredited classes](/accredited-classes), which typically begin in 6th or 7th grade.
+### Italian Heritage Classes (Advanced/Fluent) {#heritage}
 
-In-person classes meet for 2 hours per week: **Thursdays, 4:15–6:15pm**. The first class is on **August 28th, 2025** and the last class is on **May 21st, 2026**, for a total of 33 weeks of instruction (+1 backup week in case of cancellations).
+Designed for children who are already advanced or fluent in Italian, though not necessarily native speakers. These classes deepen students' knowledge of the Italian language and introduce topics taught to their peers in Italy, including history and geography starting in 3rd grade.
 
+* **Schedule:** Thursdays, 4:15-6:15pm
+* **Calendar:** August 20, 2026 – May 13, 2027 (33 weeks of instruction). 
+* **Note:** Backup class date is May 20, 2027. No class on December 17, 2026.
 
-<div class="bg-highlight" style="padding: 1em; border-radius: 0.5em; margin-bottom: 1em;">
-<strong>New for 2025–2026:</strong> Classes start at 4:15pm (instead of 4:00pm) to give families more time to arrive from school.
-</div>
+### Italian as a Foreign Language (Beginners/New Learners) {#ifl}
 
-See the [Italian School of San Diego calendar](/calendar) for our Google Calendar schedule.
+Designed for students who are new to Italian. Instruction begins in English and transitions to Italian, using a conversation-first approach with engaging activities that build vocabulary, pronunciation, and confidence. Students are grouped by age and level.
 
-## Italian as a Foreign Language (IFL) Classes for Kids (TK–6)
+* **Schedule:** Wednesdays, 4:00-6:00pm
+* **Calendar:** August 19, 2026 – May 12, 2027 (33 weeks of instruction). 
+* **Note:** Backup class date is May 19, 2027.
 
-Italian as a Foreign Language (IFL) classes are for students who are new to Italian or are beginners. Instruction is in English, starting with the basics of Italian using a conversation-first approach and engaging activities to reinforce language skills.
+*See the [Italian School of San Diego calendar](/calendar) for our full Google Calendar schedule.*
 
-Classes have 5–10 students.
+## Specialty Programs {#specialty}
 
-In-person classes are 2 hours per week:
+### Italian Morning Program for Homeschoolers {#home-schooled}
 
-* Afternoon program: **Wednesdays, 4–6pm**. First class: **August 27th, 2025**. 33 classes + 1 backup in case of cancellation. Last class (backup): **May 20th, 2026**.
-* Morning program for home-schoolers: **Wednesdays, 10am–12pm**. First class: **August 27th, 2025**. Last class: **May 20th, 2026**. This program is also available to students of Pacific Coast Academy.
+We offer Italian group classes in the morning for home-schooled children and preschoolers, either at our location or on-site. These classes use play, games, songs, reading, and projects to introduce children to Italian starting from age 3.
 
-Students are grouped by age.
+For 2026-2027, the Kearny Mesa morning program meets **Wednesdays, 10am-12pm** and is organized as two 16-class sessions:
 
-See the [Italian School of San Diego calendar](/calendar) for our Google Calendar schedule.
+* Session 1: **August 26, 2026-January 13, 2027**
+* Session 2: **January 20-May 12, 2027**
 
-## Italian for Spanish Speakers (TK–6)
+The backup class date is **May 19, 2027** if needed.
+
+The Italian School is a vendor for [Pacific Coast Academy](https://pacificcoastacademy.org/), so you can use charter funds to pay for our classes. If your child is enrolled in another charter, please contact us; we can apply to become vendors.
+
+## Italian for Spanish Speakers (TK-6) {#spanish-speakers}
 
 These classes are for children who already speak Spanish and want to learn Italian. The curriculum leverages the similarities between the two languages to make learning easier.
 
 Instruction is provided in both English and Spanish, helping students use their Spanish knowledge to learn Italian. The focus is on building vocabulary, improving pronunciation, and developing conversational skills.
 
-We do not plan to offer this program in 2025–2026. However, if you are interested, please [contact us](/contact) to express your interest. We may be able to arrange private or semi-private classes based on demand.
+We do not plan to offer this program in 2026-2027. However, if you are interested, please [contact us](/contact) to express your interest. We may be able to arrange private or semi-private classes based on demand.
 
-## Location
+## Location {#location}
 
-* Our main location: 4550 Kearny Villa Rd, Suite 202. All kids' classes are held here. See our [dedicated page about our school](/location).
+Our main location is [4550 Kearny Villa Rd, Suite 202](/location). Kids' in-person classes are held there unless a specific class listing says otherwise.
 
-
-## Pre-enrollment for All Programs
+## Pre-Enrollment for All Programs {#pre-enrollment}
 
 <div class="tc">
 <a href="/enroll" class="btn raise">Tuition and pre-enrollment information</a>
 </div>
-
-## Italian Classes for Home-Schooled Kids
-
-We can organize Italian group classes in the morning for home-schooled children or preschoolers, either at our location or on-site. These classes use play and games to introduce children to Italian starting from age 3.
-
-[Contact us](/contact) to schedule a call and discuss options.
-
-The Italian School is a vendor for [Pacific Coast Academy](https://pacificcoastacademy.org/), so you can use charter funds to pay for our classes. If your child is enrolled in another charter, please contact us—we can apply to become vendors.

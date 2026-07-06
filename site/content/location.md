@@ -11,14 +11,22 @@ We acquired a new 1500 square feet space in January 2024, it is located at [4550
 * 1 open-space, originally 4 offices, that can be split in 3 spaces via screens
 * 1 meeting room with kitchen
 
-## Photos
+## Photos {#photos}
 
 [Google Photo Album](https://photos.app.goo.gl/xQtxNfHBV1fobiMe8)
 
-## Instruction on how to access
+## Instruction on how to access {#access-instructions}
 
 When you enter the parking lot, find a parking spot just after the first corner of the building, you should see building 4550 (Not 4540), we are at the second floor in suite 202, look for the Italian school logo at the window.  Notice there is 1-way circulation around the building, i.e. you cannot exit the way you entered but need to go all around the buildings.
 
-## Organize your events at Italian school
+## Accessibility note {#accessibility}
+
+Unfortunately, there is currently no wheelchair access to our suite. We are on the second floor and access requires two flights of stairs.
+
+## Internet connectivity {#internet}
+
+We have Wi-Fi with a fiber internet connection available on site.
+
+## Organize your events at Italian school {#organize-events}
 
 We are interested in partnerships with other schools, other businesses or individuals to organize classes, meetings, parties in our space, please [contact us!](/contact). We can provide a music system, microphone, projector, very fast wifi and more.
