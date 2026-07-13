@@ -1,7 +1,7 @@
 ---
 title: "Italian, Clearly"
 subtitle: "A Visual Grammar Cheat Sheet for English Speakers"
-description: "A compact A1-A2 Italian grammar reference with visual patterns, original bilingual examples, common traps, and quick checks."
+description: "A compact A1-A2 Italian grammar reference built around concise rules, visual tables, and original bilingual examples."
 image: /img/book_collage_may2026.jpg
 ---
 
@@ -9,7 +9,7 @@ image: /img/book_collage_may2026.jpg
   <img src="/img/italian-clearly-cover.svg" alt="Cover of Italian, Clearly: A Visual Grammar Cheat Sheet for English Speakers" style="width: min(100%, 420px);">
 </div>
 
-**Italian, Clearly** is a compact A1-A2 grammar reference created for English-speaking learners. It explains essential Italian patterns in plain English, then reinforces each one with new bilingual examples and two quick checks.
+**Italian, Clearly** is a compact A1-A2 grammar reference created for English-speaking learners. It presents essential Italian through concise rules, visual tables, and original bilingual examples.
 
 Written and published by **Italian school of San Diego LLC**.
 
@@ -27,18 +27,15 @@ The book is in final editorial and print-proof review. Purchase links will appea
 
 ## What makes it clear {#what-makes-it-clear}
 
-Every grammar topic follows the same six-part map:
+Every grammar topic follows the same three-part format:
 
-1. **Rule:** the shortest accurate explanation
-2. **Pattern:** a table that makes the moving parts visible
-3. **English connection:** where English habits can interfere
-4. **Examples:** three original Italian sentences with natural English meanings
-5. **Common trap:** a frequent mistake and how to avoid it
-6. **Quick check:** two short questions, with answers at the back
+1. **Rule:** only the explanation needed to use the pattern
+2. **Pattern:** a table showing the forms or choices
+3. **Examples:** three original Italian sentences with natural English meanings
 
 ## What is inside {#what-is-inside}
 
-The 84-page first-edition draft covers:
+The 72-page first-edition draft covers:
 
 * Italian sounds, spelling, and syllables
 * nouns, articles, plurals, adjectives, and possessives
@@ -46,7 +43,7 @@ The 84-page first-edition draft covers:
 * reflexive verbs and *piacere*
 * questions, negation, pronouns, adverbs, and prepositions
 * *passato prossimo*, *imperfetto*, and the future tense
-* quick-reference tables, an answer key, and a compact index
+* quick-reference tables and a compact index
 
 ## Original examples {#original-examples}
 
