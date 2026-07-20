@@ -142,6 +142,33 @@ const CLASSES = {
     fullAmount: 57600,
     monthlyAmount: 12672,
   },
+  'fall-2026-tue-spanish-beg': {
+    id: 'fall-2026-tue-spanish-beg',
+    name: 'Fall 2026 Beginner Spanish for Adults',
+    level: 'Beginner',
+    format: 'In person',
+    pagePath: '/news/2026/08/world-language-classes-san-diego-fall-2026/',
+    anchor: 'spanish',
+    fullAmount: 43200,
+  },
+  'fall-2026-tue-german-beg': {
+    id: 'fall-2026-tue-german-beg',
+    name: 'Fall 2026 Beginner German for Adults',
+    level: 'Beginner',
+    format: 'In person',
+    pagePath: '/news/2026/08/world-language-classes-san-diego-fall-2026/',
+    anchor: 'german',
+    fullAmount: 43200,
+  },
+  'fall-2026-tue-english-spanish': {
+    id: 'fall-2026-tue-english-spanish',
+    name: 'Fall 2026 English for Spanish-Speaking Adults',
+    level: 'Beginner',
+    format: 'In person',
+    pagePath: '/news/2026/08/world-language-classes-san-diego-fall-2026/',
+    anchor: 'english',
+    fullAmount: 43200,
+  },
 };
 
 module.exports = {

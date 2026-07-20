@@ -30,6 +30,7 @@
     {{- end -}}
     <button type="submit" class="checkout-button"><span>Pay in Full</span><strong>${{ $full }}</strong></button>
   </form>
+  {{- if $monthly -}}
   <form class="checkout-card checkout-card-monthly" action="/.netlify/functions/create-checkout-session" method="POST">
     <input type="hidden" name="classId" value="{{ $class }}">
     <input type="hidden" name="paymentType" value="monthly">
@@ -48,11 +49,16 @@
     </label>
     <button type="submit" class="checkout-button"><span>Monthly Plan</span><strong>5 x ${{ $monthly }}</strong><small>1 student</small></button>
   </form>
+  {{- end -}}
   <p class="checkout-note">
-    {{- if $book -}}
+    {{- if and $book $monthly -}}
       Stripe will show the final line items. Monthly checkout is for 1 student and at most 1 book.
-    {{- else -}}
+    {{- else if $book -}}
+      Stripe will show the final line items, including any selected books.
+    {{- else if $monthly -}}
       Stripe will show the final line items. Monthly checkout is for 1 student.
+    {{- else -}}
+      Stripe will show the final line items before payment.
     {{- end -}}
   </p>
 </div>

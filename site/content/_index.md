@@ -26,6 +26,10 @@ products2:
       title: "Italian Morning Program for Homeschoolers"
       text: "Weekday morning Italian classes for homeschooled children and preschoolers, from age 3. Charter-funded through PCA and Dimensions. Learning through play, songs, reading, and projects."
       link: /classes#home-schooled
+    - image: /img/illustrations-tutorials.svg
+      title: "World Languages for Adults"
+      text: "In-person beginner Spanish, German, and English classes for adults on Tuesday evenings in Kearny Mesa."
+      link: /news/2026/08/world-language-classes-san-diego-fall-2026/
 values:
     heading: About
     text: Our instructors are native Italian speakers who bring experience, warmth, and high standards to every class. Led by Director and CEO Maura D'Andrea (founder, 2021), we focus on an authentic, engaging learning experience for kids, teens, and adults.

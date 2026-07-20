@@ -39,6 +39,6 @@ See [the dedicated page for details on payment methods, cancellation policy, the
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSd4sac0Y2wdTd9gm2AF1Y9uuVPPyJzHfHEphJPA1iYPkrP43g/viewform?usp=sf_link" class="btn raise">Fill out the universal pre-enrollment form</a>
 </div>
 
-## Beginner Spanish Class for Adults
+## Beginner Spanish Class for Adults {#adult-spanish}
 
-[Interested in Spanish for adults? See our dedicated page.]({{< relref "spanish-adult-beginners-san-diego-may-2025/" >}})
+[Interested in Spanish for adults? See our current in-person Adult Spanish Classes in San Diego.](/spanish-classes-san-diego/)

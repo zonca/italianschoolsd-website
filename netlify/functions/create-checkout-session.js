@@ -39,6 +39,9 @@ function validateSelection({
   if (!['full', 'monthly'].includes(paymentType)) {
     return { error: { statusCode: 400, body: 'Unknown payment selection.' } };
   }
+  if (paymentType === 'monthly' && !selectedClass.monthlyAmount) {
+    return { error: { statusCode: 400, body: 'Monthly payment is not available for this class.' } };
+  }
   if (familyMemberCount < 1 || familyMemberCount > 6) {
     return { error: { statusCode: 400, body: 'Family member count must be between 1 and 6.' } };
   }

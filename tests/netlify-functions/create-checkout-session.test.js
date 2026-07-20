@@ -138,6 +138,42 @@ test('Wednesday Fall classes have valid checkout catalog entries', () => {
   );
 });
 
+test('World Languages classes support full payment only', () => {
+  const spanish = CLASSES['fall-2026-tue-spanish-beg'];
+  const german = CLASSES['fall-2026-tue-german-beg'];
+  const english = CLASSES['fall-2026-tue-english-spanish'];
+
+  assert.equal(spanish.fullAmount, 43200);
+  assert.equal(spanish.anchor, 'spanish');
+  assert.equal(german.fullAmount, 43200);
+  assert.equal(german.anchor, 'german');
+  assert.equal(english.fullAmount, 43200);
+  assert.equal(english.anchor, 'english');
+
+  const params = _test.buildCheckoutParams({
+    selectedClass: spanish,
+    paymentType: 'full',
+    familyMemberCount: 1,
+    origin: ORIGIN,
+  });
+
+  assert.equal(params.get('line_items[0][price_data][unit_amount]'), '43200');
+  assert.equal(
+    params.get('success_url'),
+    `${ORIGIN}/news/2026/08/world-language-classes-san-diego-fall-2026/?checkout=success#spanish`
+  );
+  assert.equal(
+    _test.validateSelection({
+      classId: 'fall-2026-tue-spanish-beg',
+      paymentType: 'monthly',
+      familyMemberCount: 1,
+      bookQuantity: 0,
+      monthlyCommitmentAccepted: true,
+    }).error.body,
+    'Monthly payment is not available for this class.'
+  );
+});
+
 test('unknown class and payment selections are rejected', () => {
   assert.equal(
     _test.validateSelection({ classId: 'missing', paymentType: 'full', familyMemberCount: 1, bookQuantity: 0 }).error.body,
