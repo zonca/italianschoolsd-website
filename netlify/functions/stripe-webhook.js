@@ -10,6 +10,11 @@ function addMonths(timestampSeconds, months) {
   return Math.floor(date.getTime() / 1000);
 }
 
+function installmentCount(value) {
+  const count = Number.parseInt(value || '5', 10);
+  return Number.isInteger(count) && count > 0 && count <= 24 ? count : 5;
+}
+
 function rawBody(event) {
   return event.isBase64Encoded
     ? Buffer.from(event.body || '', 'base64').toString('utf8')
@@ -55,11 +60,12 @@ async function handleEvent(event) {
       throw new Error(`Completed monthly Checkout Session has no subscription: ${session.id}`);
     }
     if (session.mode === 'subscription' && session.metadata?.payment_type === 'monthly') {
-      const cancelAt = addMonths(session.created, 5);
+      const installments = installmentCount(session.metadata.installments_total);
+      const cancelAt = addMonths(session.created, installments);
       const params = new URLSearchParams();
       params.append('cancel_at', String(cancelAt));
-      params.append('metadata[installments_total]', '5');
-      params.append('metadata[cancel_after_months]', '5');
+      params.append('metadata[installments_total]', String(installments));
+      params.append('metadata[cancel_after_months]', String(installments));
       await stripeRequest(`/subscriptions/${session.subscription}`, params);
     }
   }
@@ -113,5 +119,6 @@ exports.handler = async function handler(event) {
 exports._test = {
   addMonths,
   handleEvent,
+  installmentCount,
   verifyStripeSignature,
 };

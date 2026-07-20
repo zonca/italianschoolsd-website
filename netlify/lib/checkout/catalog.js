@@ -150,6 +150,8 @@ const CLASSES = {
     pagePath: '/news/2026/08/world-language-classes-san-diego-fall-2026/',
     anchor: 'spanish',
     fullAmount: 43200,
+    monthlyAmount: 11880,
+    monthlyInstallments: 4,
   },
   'fall-2026-tue-german-beg': {
     id: 'fall-2026-tue-german-beg',
@@ -159,6 +161,8 @@ const CLASSES = {
     pagePath: '/news/2026/08/world-language-classes-san-diego-fall-2026/',
     anchor: 'german',
     fullAmount: 43200,
+    monthlyAmount: 11880,
+    monthlyInstallments: 4,
   },
   'fall-2026-tue-english-spanish': {
     id: 'fall-2026-tue-english-spanish',
@@ -168,6 +172,8 @@ const CLASSES = {
     pagePath: '/news/2026/08/world-language-classes-san-diego-fall-2026/',
     anchor: 'english',
     fullAmount: 43200,
+    monthlyAmount: 11880,
+    monthlyInstallments: 4,
   },
 };
 

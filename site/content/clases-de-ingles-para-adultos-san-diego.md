@@ -1,6 +1,7 @@
 ---
 title: "Clases presenciales de inglés para adultos en San Diego"
 description: Clases de inglés para adultos hispanohablantes en Kearny Mesa, San Diego, enfocadas en comunicación práctica y habilidades fundamentales.
+image: /img/world-languages/english-classes-spanish-speakers-san-diego.webp
 ---
 
 Aprende inglés en un curso presencial, estructurado y acogedor para adultos hispanohablantes. La clase para principiantes desarrolla habilidades prácticas de conversación, comprensión auditiva, vocabulario, lectura, escritura y gramática fundamental.
@@ -12,7 +13,7 @@ Aprende inglés en un curso presencial, estructurado y acogedor para adultos his
 - **No hay clase:** 24 de noviembre
 - **Duración:** 12 clases de 90 minutos
 - **Lugar:** [4550 Kearny Villa Rd, Suite 202, San Diego](/location/)
-- **Matrícula:** $432
+- **Matrícula:** $432 en un solo pago o cuatro pagos mensuales de $118.80
 
 El curso está diseñado para adultos que empiezan a estudiar inglés. La información sobre el libro de texto se proporcionará antes de la primera clase.
 

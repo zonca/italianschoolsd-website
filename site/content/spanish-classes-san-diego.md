@@ -1,6 +1,7 @@
 ---
 title: "In-Person Adult Spanish Classes in San Diego"
 description: Beginner Spanish group classes for adults in Kearny Mesa, San Diego, with practical conversation, vocabulary, listening, and grammar.
+image: /img/world-languages/spanish-classes-san-diego.webp
 ---
 
 Learn Spanish in a welcoming, structured group class for adults. Our in-person beginner course builds practical communication skills through conversation, listening, vocabulary, reading, writing, and foundational grammar.
@@ -12,7 +13,7 @@ Learn Spanish in a welcoming, structured group class for adults. Our in-person b
 - **No class:** November 24
 - **Length:** 12 classes, 90 minutes each
 - **Location:** [4550 Kearny Villa Rd, Suite 202, San Diego](/location/)
-- **Tuition:** $432
+- **Tuition:** $432 in full or four monthly payments of $118.80
 
 This course is intended for adults starting Spanish from the beginning. Textbook information will be provided before the first class.
 

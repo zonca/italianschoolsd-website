@@ -71,6 +71,45 @@ test('handleEvent updates monthly subscription cancel_at for five months later',
   assert.match(body.get('cancel_at'), /^[0-9]+$/);
 });
 
+test('handleEvent honors a four-payment subscription', async () => {
+  const calls = [];
+  const originalFetch = global.fetch;
+  process.env.STRIPE_SECRET_KEY = 'sk_test_unit';
+  global.fetch = async (url, options) => {
+    calls.push({ url, options });
+    return {
+      ok: true,
+      async json() {
+        return { id: 'sub_world_languages' };
+      },
+    };
+  };
+
+  try {
+    await _test.handleEvent({
+      type: 'checkout.session.completed',
+      data: {
+        object: {
+          id: 'cs_world_languages',
+          mode: 'subscription',
+          subscription: 'sub_world_languages',
+          created: 1782766000,
+          metadata: { payment_type: 'monthly', installments_total: '4' },
+        },
+      },
+    });
+  } finally {
+    global.fetch = originalFetch;
+    delete process.env.STRIPE_SECRET_KEY;
+  }
+
+  assert.equal(calls.length, 1);
+  const body = calls[0].options.body;
+  assert.equal(body.get('metadata[installments_total]'), '4');
+  assert.equal(body.get('metadata[cancel_after_months]'), '4');
+  assert.equal(body.get('cancel_at'), String(_test.addMonths(1782766000, 4)));
+});
+
 test('handleEvent rejects completed monthly sessions without subscription id', async () => {
   await assert.rejects(
     _test.handleEvent({

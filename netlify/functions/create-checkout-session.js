@@ -109,6 +109,7 @@ function buildCheckoutParams({
   const returnPath = `${selectedClass.pagePath}?checkout=success#${selectedClass.anchor}`;
   const cancelPath = `${selectedClass.pagePath}#${selectedClass.anchor}`;
   const mode = paymentType === 'monthly' ? 'subscription' : 'payment';
+  const monthlyInstallments = selectedClass.monthlyInstallments || 5;
   const params = new URLSearchParams();
   const metadata = {
     class_id: selectedClass.id,
@@ -190,10 +191,12 @@ function buildCheckoutParams({
     params.append('payment_intent_data[metadata][family_member_count]', String(familyMemberCount));
     params.append('payment_intent_data[metadata][book_quantity]', String(bookQuantity));
   } else {
+    params.append('metadata[installments_total]', String(monthlyInstallments));
+    params.append('metadata[cancel_after_months]', String(monthlyInstallments));
     params.append('subscription_data[metadata][class_id]', selectedClass.id);
     params.append('subscription_data[metadata][payment_type]', paymentType);
-    params.append('subscription_data[metadata][installments_total]', '5');
-    params.append('subscription_data[metadata][cancel_after_months]', '5');
+    params.append('subscription_data[metadata][installments_total]', String(monthlyInstallments));
+    params.append('subscription_data[metadata][cancel_after_months]', String(monthlyInstallments));
     params.append('subscription_data[metadata][monthly_commitment_accepted]', metadata.monthly_commitment_accepted);
   }
 

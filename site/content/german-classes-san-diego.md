@@ -1,6 +1,7 @@
 ---
 title: "In-Person Adult German Classes in San Diego"
 description: Beginner German group classes for adults in Kearny Mesa, San Diego, focused on practical communication and foundational language skills.
+image: /img/world-languages/german-classes-san-diego.webp
 ---
 
 Start learning German in a structured, supportive group class for adults. This in-person beginner course develops practical communication through conversation, listening, vocabulary, reading, writing, and foundational grammar.
@@ -12,7 +13,7 @@ Start learning German in a structured, supportive group class for adults. This i
 - **No class:** November 24
 - **Length:** 12 classes, 90 minutes each
 - **Location:** [4550 Kearny Villa Rd, Suite 202, San Diego](/location/)
-- **Tuition:** $432
+- **Tuition:** $432 in full or four monthly payments of $118.80
 
 This course is intended for adults starting German from the beginning. Textbook information will be provided before the first class.
 

@@ -64,6 +64,7 @@ test('monthly checkout uses subscription mode and one student', () => {
   assert.equal(params.get('allow_promotion_codes'), null);
   assert.equal(params.get('metadata[family_member_count]'), '1');
   assert.equal(params.get('metadata[monthly_commitment_accepted]'), 'true');
+  assert.equal(params.get('metadata[installments_total]'), '5');
   assert.equal(params.get('line_items[0][price_data][unit_amount]'), '12672');
   assert.equal(params.get('line_items[0][quantity]'), '1');
   assert.equal(params.get('line_items[0][price_data][recurring][interval]'), 'month');
@@ -138,16 +139,22 @@ test('Wednesday Fall classes have valid checkout catalog entries', () => {
   );
 });
 
-test('World Languages classes support full payment only', () => {
+test('World Languages classes support full payment and four monthly payments', () => {
   const spanish = CLASSES['fall-2026-tue-spanish-beg'];
   const german = CLASSES['fall-2026-tue-german-beg'];
   const english = CLASSES['fall-2026-tue-english-spanish'];
 
   assert.equal(spanish.fullAmount, 43200);
+  assert.equal(spanish.monthlyAmount, 11880);
+  assert.equal(spanish.monthlyInstallments, 4);
   assert.equal(spanish.anchor, 'spanish');
   assert.equal(german.fullAmount, 43200);
+  assert.equal(german.monthlyAmount, 11880);
+  assert.equal(german.monthlyInstallments, 4);
   assert.equal(german.anchor, 'german');
   assert.equal(english.fullAmount, 43200);
+  assert.equal(english.monthlyAmount, 11880);
+  assert.equal(english.monthlyInstallments, 4);
   assert.equal(english.anchor, 'english');
 
   const params = _test.buildCheckoutParams({
@@ -162,6 +169,18 @@ test('World Languages classes support full payment only', () => {
     params.get('success_url'),
     `${ORIGIN}/news/2026/08/world-language-classes-san-diego-fall-2026/?checkout=success#spanish`
   );
+  const monthlyParams = _test.buildCheckoutParams({
+    selectedClass: spanish,
+    paymentType: 'monthly',
+    monthlyCommitmentAccepted: true,
+    origin: ORIGIN,
+  });
+
+  assert.equal(monthlyParams.get('line_items[0][price_data][unit_amount]'), '11880');
+  assert.equal(monthlyParams.get('metadata[installments_total]'), '4');
+  assert.equal(monthlyParams.get('metadata[cancel_after_months]'), '4');
+  assert.equal(monthlyParams.get('subscription_data[metadata][installments_total]'), '4');
+  assert.equal(monthlyParams.get('subscription_data[metadata][cancel_after_months]'), '4');
   assert.equal(
     _test.validateSelection({
       classId: 'fall-2026-tue-spanish-beg',
@@ -169,8 +188,8 @@ test('World Languages classes support full payment only', () => {
       familyMemberCount: 1,
       bookQuantity: 0,
       monthlyCommitmentAccepted: true,
-    }).error.body,
-    'Monthly payment is not available for this class.'
+    }).error,
+    undefined
   );
 });
 
