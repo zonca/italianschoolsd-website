@@ -27,7 +27,7 @@ products2:
       text: "Weekday morning Italian classes for homeschooled children and preschoolers, from age 3. Charter-funded through PCA and Dimensions. Learning through play, songs, reading, and projects."
       link: /classes#home-schooled
     - image: /img/illustrations-tutorials.svg
-      title: "World Languages for Adults"
+      title: "World languages for adults"
       text: "In-person beginner Spanish, German, and English classes for adults on Tuesday evenings in Kearny Mesa."
       link: /news/2026/08/world-language-classes-san-diego-fall-2026/
 values:

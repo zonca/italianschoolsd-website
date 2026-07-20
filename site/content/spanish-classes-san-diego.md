@@ -1,12 +1,12 @@
 ---
-title: "In-Person Adult Spanish Classes in San Diego"
-description: Beginner Spanish group classes for adults in Kearny Mesa, San Diego, with practical conversation, vocabulary, listening, and grammar.
+title: "In-person adult Spanish classes in San Diego"
+description: In-person beginner Spanish classes for adults in Kearny Mesa, San Diego, focused on conversation and practical communication.
 image: /img/world-languages/spanish-classes-san-diego.webp
 ---
 
-Learn Spanish in a welcoming, structured group class for adults. Our in-person beginner course builds practical communication skills through conversation, listening, vocabulary, reading, writing, and foundational grammar.
+Learn Spanish in a welcoming, structured class designed for adult beginners. Through guided conversation and skill-building activities, you will develop a practical foundation in speaking, listening, reading, writing, vocabulary, and grammar.
 
-## Fall 2026 Beginner Class {#fall-2026}
+## Fall 2026 beginner class {#fall-2026}
 
 - **Day and time:** Tuesdays, 6:00 PM-7:30 PM
 - **Dates:** September 15-December 8, 2026
@@ -15,11 +15,11 @@ Learn Spanish in a welcoming, structured group class for adults. Our in-person b
 - **Location:** [4550 Kearny Villa Rd, Suite 202, San Diego](/location/)
 - **Tuition:** $432 in full or four monthly payments of $118.80
 
-This course is intended for adults starting Spanish from the beginning. Textbook information will be provided before the first class.
+This course is designed for adults with little or no prior knowledge of Spanish. We will share textbook information before the first class.
 
-<div class="tc"><a href="/news/2026/08/world-language-classes-san-diego-fall-2026/#spanish" class="btn raise">View details and enroll in Beginner Spanish</a></div>
+<div class="tc"><a href="/news/2026/08/world-language-classes-san-diego-fall-2026/#spanish" class="btn raise">View details and enroll</a></div>
 
-## What You Will Practice {#course-content}
+## What you will practice {#course-content}
 
 - Everyday conversation and pronunciation
 - Essential vocabulary and expressions
@@ -27,6 +27,4 @@ This course is intended for adults starting Spanish from the beginning. Textbook
 - Reading and writing at the beginner level
 - Foundational grammar used in practical situations
 
-Looking for Spanish classes for children? See our [Spanish program for kids](/spanish/).
-
-Questions? [Contact us](/contact/) and we will help you determine whether this class is a good fit.
+Questions about the course? [Contact us](/contact/) and we will help you decide whether it is a good fit.

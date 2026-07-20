@@ -80,11 +80,11 @@ Custom language and cultural training for your team, delivered in person in San 
 
 Interested in learning Italian with a group of friends, family members, or colleagues? We can set up custom group sessions online, at our facility, or at your preferred location. [Contact us!](/contact) to discuss details.
 
-## World Languages for Adults {#world-languages}
+## World languages for adults {#world-languages}
 
 Beginning September 15, 2026, we are offering in-person beginner Spanish, German, and English classes on Tuesdays from 6:00 PM to 7:30 PM. The English class is designed for Spanish-speaking adults.
 
-<div class="tc"><a href='/news/2026/08/world-language-classes-san-diego-fall-2026/' class="btn raise">View World Languages schedules and enrollment</a></div>
+<div class="tc"><a href='/news/2026/08/world-language-classes-san-diego-fall-2026/' class="btn raise">View world language schedules and enrollment</a></div>
 
 ---
 

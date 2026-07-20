@@ -31,6 +31,7 @@ Operational guide for AI/code agents working on `italianschoolsd-website`.
 - For structure changes shared across pages, edit templates in `site/layouts/`.
 - Prefer Markdown structure (headings/lists/paragraphs) over inline HTML unless a styled component is required.
 - ALWAYS create manual heading anchors for all main sections using the `{#anchor-name}` syntax (e.g., `## My Section {#my-section}`). This allows users to link directly to specific parts of the page.
+- Use sentence case for all public-facing headings and page titles: capitalize only the first word and proper nouns. Never use title case such as `What You Will Practice`; write `What you will practice` instead.
 - Keep tone concise, clear, and service-oriented.
 
 ## Mandatory Verification
