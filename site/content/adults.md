@@ -82,6 +82,8 @@ Interested in learning Italian with a group of friends, family members, or colle
 
 ## World languages for adults {#world-languages}
 
+Since 2021, Italian school of San Diego LLC has built a community around language and culture education. We are expanding our adult program beyond Italian to make small, structured, in-person language classes available to more San Diego learners while keeping the same focus on practical communication and community.
+
 Beginning September 15, 2026, we are offering in-person beginner Spanish, German, and English classes on Tuesdays from 6:00 PM to 7:30 PM. The English class is designed for Spanish-speaking adults.
 
 <div class="tc"><a href='/news/2026/08/world-language-classes-san-diego-fall-2026/' class="btn raise">View world language schedules and enrollment</a></div>

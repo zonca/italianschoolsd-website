@@ -29,6 +29,6 @@ Este curso está dirigido a adultos con poco o ningún conocimiento previo de in
 
 ## Experiencia docente {#experiencia-docente}
 
-La instructora es hablante nativa de español y cuenta con una maestría en lenguas modernas, una licenciatura en enseñanza de idiomas, certificación de inglés de nivel C1 y experiencia enseñando a personas adultas.
+La instructora es hablante nativa de español y cuenta con más de ocho años de experiencia enseñando idiomas a jóvenes y personas adultas, una maestría en lenguas modernas, una licenciatura en enseñanza de idiomas y certificación de inglés de nivel C1.
 
 ¿Tienes preguntas sobre el curso? [Contáctanos](/contact/) y te ayudaremos a decidir si es adecuado para ti.
