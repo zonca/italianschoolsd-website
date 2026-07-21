@@ -24,7 +24,6 @@ values:
 ![Maura D'Andrea](/img/maura_dandrea.jpg)
 
 Maura was born and raised in Milan, Italy, and obtained her Master Degree in Educational Science, specializing in training processes, at the Universita' del Sacro Cuore in Milan.
-She also earned a first-level Master ITALS in Teaching and Promoting Italian Language and Culture to Foreigners, following the L2 track, at Ca' Foscari University of Venice.
 Before graduation, she spent a period of study in Spain at the Autonomous University of Madrid, where she became fluent in Spanish.
 She then moved, 12 years ago, to the United States, first to Santa Barbara then to San Diego, with her family.
 
@@ -38,6 +37,8 @@ She volunteers hundreds of hours each year at the elementary school attended by 
 With joy and enthusiasm she also organizes informal events for Italian families to facilitate the integration of newcomers and the practice of the Italian language and culture.
 
 In 2021 Maura decided to open the Italian school of San Diego to continue the mission undertaken by the Italian American Academy of San Diego of teaching Italian and Italy's culture.
+
+In 2023, she earned a first-level Master ITALS in Teaching and Promoting Italian Language and Culture to Foreigners at Ca' Foscari University of Venice, specializing in teaching Italian as a second language.
 
 ### Marilisa Dowling - Director of K-3 classes and teacher {#marilisa}
 
