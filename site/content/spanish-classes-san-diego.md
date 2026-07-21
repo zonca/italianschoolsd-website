@@ -27,4 +27,8 @@ This course is designed for adults with little or no prior knowledge of Spanish.
 - Reading and writing at the beginner level
 - Foundational grammar used in practical situations
 
+## Instructor experience {#instructor}
+
+The course instructor brings experience teaching Spanish and English as a Second Language (ESL) to adults, with a focus on practical communication and supporting beginner learners.
+
 Questions about the course? [Contact us](/contact/) and we will help you decide whether it is a good fit.

@@ -27,4 +27,8 @@ This course is designed for adults with little or no prior knowledge of German. 
 - Reading and writing at the beginner level
 - Foundational grammar used in practical situations
 
+## Instructor experience {#instructor}
+
+The course instructor is multilingual and brings more than ten years of language-teaching experience, including interactive lesson planning and cross-cultural communication.
+
 Questions about the course? [Contact us](/contact/) and we will help you decide whether it is a good fit.

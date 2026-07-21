@@ -27,4 +27,8 @@ Este curso está dirigido a adultos con poco o ningún conocimiento previo de in
 - Lectura y escritura para principiantes
 - Gramática fundamental aplicada a situaciones prácticas
 
+## Experiencia docente {#experiencia-docente}
+
+La instructora es hablante nativa de español y cuenta con una maestría en lenguas modernas, una licenciatura en enseñanza de idiomas, certificación de inglés de nivel C1 y experiencia enseñando a personas adultas.
+
 ¿Tienes preguntas sobre el curso? [Contáctanos](/contact/) y te ayudaremos a decidir si es adecuado para ti.
