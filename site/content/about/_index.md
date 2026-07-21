@@ -39,6 +39,7 @@ With joy and enthusiasm she also organizes informal events for Italian families 
 In 2021 Maura decided to open the Italian school of San Diego to continue the mission undertaken by the Italian American Academy of San Diego of teaching Italian and Italy's culture.
 
 In 2023, she earned a first-level Master ITALS in Teaching and Promoting Italian Language and Culture to Foreigners at Ca' Foscari University of Venice, specializing in teaching Italian as a second language.
+Founded in 1868, Ca' Foscari has more than 150 years of academic history and an international reputation for language studies.
 
 ### Marilisa Dowling - Director of K-3 classes and teacher {#marilisa}
 
