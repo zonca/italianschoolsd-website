@@ -29,6 +29,6 @@ This course is designed for adults with little or no prior knowledge of Spanish.
 
 ## Instructor experience {#instructor}
 
-The course instructor brings more than five years of experience teaching Spanish and English as a Second Language (ESL) to adults, with a focus on practical communication and supporting beginner learners.
+Spanish is the course instructor's native language. She brings more than five years of experience teaching Spanish and English as a Second Language (ESL) to adults, with a focus on practical communication and supporting beginner learners.
 
 Questions about the course? [Contact us](/contact/) and we will help you decide whether it is a good fit.
