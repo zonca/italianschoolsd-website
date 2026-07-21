@@ -19,27 +19,21 @@ values:
 
 ## Our founders {#founders}
 
-### Maura D'Andrea - School director and teacher {#maura}
+### Maura D’Andrea - School Director and Teacher {#maura}
 
-![Maura D'Andrea](/img/maura_dandrea.jpg)
+![Maura D’Andrea](/img/maura_dandrea.jpg)
 
-Maura was born and raised in Milan, Italy, and obtained her Master Degree in Educational Science, specializing in training processes, at the Universita' del Sacro Cuore in Milan.
-Before graduation, she spent a period of study in Spain at the Autonomous University of Madrid, where she became fluent in Spanish.
-She then moved, 12 years ago, to the United States, first to Santa Barbara then to San Diego, with her family.
+Maura was born and raised in Milan, Italy. She earned a master’s degree in Education Sciences, specializing in training processes, from Università Cattolica del Sacro Cuore in Milan. During her studies, she also attended the Autonomous University of Madrid, where she became fluent in Spanish.
 
-Mother of two girls, she cultivated her interest in Education attending the Continuing Education "3-5 preschool experience" classes for 5 years. The courses focused on building social, emotional, physical, cognitive and language skills that prepare the preschooler for Kindergarten.
+After moving to California with her family, first to Santa Barbara and later to San Diego, Maura continued her training in education. For five years, she attended continuing education courses focused on the social, emotional, physical, cognitive, and language development of preschool-aged children.
 
-Maura has been teaching Italian language, literature and writing to children and adults. She joined the Italian American Academy of San Diego faculty in 2019 and taught 2nd and 4th grade classes.
+Maura has taught Italian language, literature, and writing to children and adults. In 2019, she joined the Italian American Academy of San Diego, where she taught second- and fourth-grade classes. Her teaching combines language and literature with interdisciplinary activities that encourage creativity, dialogue, and collaboration.
 
-She specializes in maximizing interdisciplinary learning opportunities in different school settings. Creative and compassionate literature is always part of her curriculum. She emphasize dialogue, collaboration and innovation.
+She has also contributed hundreds of volunteer hours to classroom activities in mathematics, literature, and art. Outside the classroom, she organizes events that welcome newcomers, connect Italian families, and create opportunities to practice and preserve the Italian language and culture.
 
-She volunteers hundreds of hours each year at the elementary school attended by her daughters as room representative, PTA member, dance performance facilitator and teacher's support in class for Math, Literature and Art.
-With joy and enthusiasm she also organizes informal events for Italian families to facilitate the integration of newcomers and the practice of the Italian language and culture.
+In 2021, Maura founded the Italian school of San Diego, continuing the Italian American Academy’s mission of teaching Italian and sharing Italy’s culture with the San Diego community.
 
-In 2021 Maura decided to open the Italian school of San Diego to continue the mission undertaken by the Italian American Academy of San Diego of teaching Italian and Italy's culture.
-
-In 2023, she earned a first-level Master ITALS in Teaching and Promoting Italian Language and Culture to Foreigners at Ca' Foscari University of Venice, specializing in teaching Italian as a second language.
-Founded in 1868, Ca' Foscari has more than 150 years of academic history and an international reputation for language studies.
+In 2023, she completed the postgraduate Master ITALS program in Teaching and Promoting Italian Language and Culture to Foreigners at Ca’ Foscari University of Venice, specializing in teaching Italian as a second language. Founded in 1868, Ca’ Foscari is a historic university with an international reputation for language studies.
 
 ### Marilisa Dowling - Director of K-3 classes and teacher {#marilisa}
 
