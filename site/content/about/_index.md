@@ -24,6 +24,7 @@ values:
 ![Maura D'Andrea](/img/maura_dandrea.jpg)
 
 Maura was born and raised in Milan, Italy, and obtained her Master Degree in Educational Science, specializing in training processes, at the Universita' del Sacro Cuore in Milan.
+She also earned a first-level Master ITALS in Teaching and Promoting Italian Language and Culture to Foreigners, following the L2 track, at Ca' Foscari University of Venice.
 Before graduation, she spent a period of study in Spain at the Autonomous University of Madrid, where she became fluent in Spanish.
 She then moved, 12 years ago, to the United States, first to Santa Barbara then to San Diego, with her family.
 
