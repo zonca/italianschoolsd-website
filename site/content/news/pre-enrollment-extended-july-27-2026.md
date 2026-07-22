@@ -1,6 +1,6 @@
 ---
 title: "Pre-Enrollment Deadline Extended to July 27 for 2026-2027 Kids & Teens Classes"
-date: 2026-07-22T00:00:00.000Z
+date: 2026-07-21T00:00:00.000Z
 description: "The pre-enrollment deadline for 2026-2027 kids and accredited teen Italian classes has been extended to July 27, 2026."
 image: /flyers/italianschoolsd-flyer-italian-2026-2027-kids.png
 ---
