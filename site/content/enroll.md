@@ -7,9 +7,9 @@ subtitle: Pre-enroll for classes for the academic year 2026-2027
 Enrollment for the 2026-2027 kids classes is open.
 See more information about [all the classes we offer]({{< relref "classes.md" >}}) before pre-enrolling.
 
-Please **pre-enroll by July 20, 2026** to secure a spot.
+Please pre-enroll by ~~July 20, 2026~~ **July 27, 2026** to secure a spot.
 
-No payment is needed at the time of pre-enrollment. We will email you a confirmation of pre-enrollment with the proposed class and tuition details. To finalize enrollment, you will need to pay the invoice attached to the confirmation email by **August 3, 2026**. Pre-enrollment itself is not binding.
+No payment is needed at the time of pre-enrollment. We will email you a confirmation of pre-enrollment with the proposed class and tuition details. To finalize enrollment, you will need to pay the invoice attached to the confirmation email by **August 3, 2026** (or within **1 week** after receiving the payment email). Pre-enrollment itself is not binding.
 
 ## Tuition for In-Person 2-Hour Kids Classes {#tuition}
 

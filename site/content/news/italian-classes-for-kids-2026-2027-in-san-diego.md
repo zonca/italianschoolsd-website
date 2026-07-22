@@ -21,7 +21,7 @@ Classes have 5-10 students and are grouped by age and level.
 
 ## Pre-Enrollment {#pre-enrollment}
 
-Please pre-enroll by **July 20, 2026** to secure a spot. Pre-enrollment is not binding; we will confirm the proposed class and send an invoice to finalize enrollment.
+Please pre-enroll by ~~July 20, 2026~~ **July 27, 2026** to secure a spot. Pre-enrollment is not binding; we will confirm the proposed class and send an invoice to finalize enrollment. Payment is due by **August 3, 2026** or within 1 week after receiving the payment email.
 
 <div class="tc">
 <a href="/enroll" class="btn raise">Tuition and pre-enrollment information</a>

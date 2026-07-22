@@ -27,7 +27,7 @@ Students with prior Italian study may test into a higher level than 1-2.
 
 ## Pre-Enrollment {#pre-enrollment}
 
-Please pre-enroll by **July 20, 2026**. High school students should also notify their school counselor of their intent to take an outside language course so credit can be properly recognized.
+Please pre-enroll by ~~July 20, 2026~~ **July 27, 2026**. High school students should also notify their school counselor of their intent to take an outside language course so credit can be properly recognized.
 
 <div class="tc">
 <a href="/enroll-accredited" class="btn raise">Tuition and pre-enrollment information</a>
