@@ -9,6 +9,8 @@ subtitle: New academic year, Wednesdays 10am–12pm, 16+16 classes
 
 We are excited to announce our Italian morning program for homeschoolers for the 2026-2027 academic year! This program is open to students from TK to 8th grade, with no previous Italian required. Students will be grouped by age based on enrollment.
 
+**Fall enrollment closes August 3, 2026.**
+
 <div class="tc">
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSd4sac0Y2wdTd9gm2AF1Y9uuVPPyJzHfHEphJPA1iYPkrP43g/viewform?usp=sf_link" class="btn raise">Fill the universal pre-enrollment form</a>
 </div>
@@ -46,3 +48,11 @@ If you are enrolled in the PCA or Dimensions homeschool programs, please fill th
 ## Private Italian classes
 
 We also offer private Italian classes online or in-person, tailored to your level and interests. Please [contact us]({{< relref "contact.md" >}}) for more information.
+
+## Please share with friends
+
+Know a homeschool family who would enjoy learning Italian? Please share our flyer with friends and your homeschool community. It makes a real difference for our small school.
+
+[![Italian for homeschoolers 2026-2027 flyer](/flyers/italianschoolsd-flyer-homeschool-2026-2027.png)](/flyers/italianschoolsd-flyer-homeschool-2026-2027.png)
+
+[Open or download the flyer (PNG)](/flyers/italianschoolsd-flyer-homeschool-2026-2027.png)
