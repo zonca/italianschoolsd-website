@@ -24,7 +24,7 @@ products2:
       link: /accredited-classes
     - image: /img/isola_bella.jpg
       title: "Italian Morning Program for Homeschoolers"
-      text: "Weekday morning Italian classes for homeschooled children and preschoolers, from age 3. Charter-funded through PCA and Dimensions. Learning through play, songs, reading, and projects."
+      text: "Weekday morning Italian classes for homeschooled children and preschoolers, from age 3. Charter-funded through Pacific Coast Academy. Learning through play, songs, reading, and projects."
       link: /classes#home-schooled
     - image: /img/illustrations-tutorials.svg
       title: "World languages for adults"

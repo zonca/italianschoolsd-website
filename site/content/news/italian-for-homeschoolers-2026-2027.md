@@ -41,9 +41,9 @@ A second 16-class session will start the following week (**January 20, 2027**) a
 
 Italian school of San Diego in Kearny Mesa: [4550 Kearny Villa Rd Suite 202](https://goo.gl/maps/KqGhZAXJfkkLLsvYA)
 
-## Notice for PCA and Dimensions families
+## Notice for Pacific Coast Academy families
 
-If you are enrolled in the PCA or Dimensions homeschool programs, please fill the pre-enrollment form and specify your program in the notes. Then, submit an order through your program’s catalog. We will confirm your enrollment upon receiving the order from PCA or Dimensions.
+If you are enrolled in the Pacific Coast Academy homeschool program, please fill the pre-enrollment form and specify your program in the notes. Then, submit an order through the Pacific Coast Academy catalog. We will confirm your enrollment upon receiving the order from Pacific Coast Academy.
 
 ## Private Italian classes
 
