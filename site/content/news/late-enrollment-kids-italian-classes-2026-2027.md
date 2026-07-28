@@ -5,7 +5,7 @@ description: "A few spots are still available in our 2026-2027 Italian classes f
 image: /flyers/italianschoolsd-flyer-italian-2026-2027-kids.png
 ---
 
-**A few spots are still open** in our 2026-2027 Italian classes for children in San Diego. Classes start the week of **August 19, 2026**, and you can still join.
+**Openings are available in every program**, for every age group, in our 2026-2027 Italian classes for children in San Diego. Classes start the week of **August 19, 2026**, and you can still join.
 
 **No Italian at home? No problem.** Our Italian as a Foreign Language classes are built for children who are completely new to the language. Instruction starts in English and moves gradually into Italian.
 
@@ -13,7 +13,7 @@ image: /flyers/italianschoolsd-flyer-italian-2026-2027-kids.png
 <a href="#enroll" class="btn raise">Reserve a spot</a>
 </div>
 
-## Classes with availability {#classes}
+## Programs open for 2026-2027 {#classes}
 
 * **Italian as a Foreign Language (new learners), TK-6th grade**
   Wednesdays, **4:00-6:00pm**, August 19, 2026 - May 12, 2027
@@ -49,7 +49,7 @@ The morning homeschool program is priced per 16-class session. We are a vendor f
 
 Pre-enrollment is not binding, and we will help you choose the right level before you commit.
 
-Spots are limited and classes begin the week of **August 19**, so please pre-enroll by **August 14, 2026**. If you are reading this later, [contact us](/contact) anyway; we may still be able to place your child.
+Classes begin the week of **August 19**, so please pre-enroll by **August 14, 2026**. If you are reading this later, [contact us](/contact) anyway; we may still be able to place your child.
 
 <div class="tc">
 <a href="/enroll" class="btn raise">Pre-Enroll Kids (TK-6)</a>
