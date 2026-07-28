@@ -1,0 +1,9 @@
+{{/*
+  Meta pixel fallback for visitors with JavaScript disabled.
+  Must live in <body>, so it is a separate partial from meta-pixel.html.
+*/}}
+{{ $id := .Site.Params.metaPixelId }}
+{{ if and $id hugo.IsProduction }}
+<noscript><img height="1" width="1" style="display:none" alt=""
+  src="https://www.facebook.com/tr?id={{ $id }}&ev=PageView&noscript=1"></noscript>
+{{ end }}

@@ -11,6 +11,11 @@ rssLimit = 20
 disableKinds = ["taxonomy"]
 ignoreErrors = ["error-disable-taxonomy"]
 
+[params]
+  # Meta (Facebook/Instagram) pixel / dataset ID from Events Manager.
+  # Leave empty to disable the pixel entirely. Only loads on production builds.
+  metaPixelId = ""
+
 [author]
 name = "Italian school of San Diego"
 

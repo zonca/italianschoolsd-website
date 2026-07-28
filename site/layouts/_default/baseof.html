@@ -3,6 +3,8 @@
   {{ partial "head" . }}
   <body class="sans-serif">
 
+    {{ partial "meta-pixel-noscript" . }}
+
     {{ block "header" . }}{{ partial "nav" . }}{{end}}
 
     {{ block "main" . }}{{ end }}
