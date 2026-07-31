@@ -77,8 +77,7 @@ Tuition covers the full academic year of 29 two-hour classes.
 A **$150 materials fee** per student is added to all in-person classes. It covers classroom supplies, photocopies, and the cost of the space. Books are not included.
 
 * **New students:** $1,698 tuition + $150 materials = **$1,848**
-* **Returning for a second year:** $1,617 + $150 = **$1,767**
-* **Enrolled with us for two or more years:** $1,455 + $150 = **$1,605**
+* **Returning students, second year or more:** $1,617 + $150 = **$1,767**
 
 We recommend paying by [Zelle](/zelle) to avoid credit card fees. See the [payment and cancellation page](/tuition-payment) for the sibling discount, the eight-payment plan, and our refund policy.
 

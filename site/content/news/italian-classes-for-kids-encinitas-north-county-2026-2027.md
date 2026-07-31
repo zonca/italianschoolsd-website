@@ -30,7 +30,7 @@ Easy to reach from Encinitas, Cardiff-by-the-Sea, Leucadia, Olivenhain, Solana B
 
 ## Tuition {#tuition}
 
-$1,698 for the full year for new students, plus the $150 materials fee, for a total of $1,848. Returning families pay less. [See the full tuition table and holiday calendar](/italian-classes-encinitas/#tuition).
+$1,698 for the full year for new students, plus the $150 materials fee, for a total of $1,848. Returning students pay $1,767. [See the tuition details and holiday calendar](/italian-classes-encinitas/#tuition).
 
 ## How to pre-enroll {#enroll}
 
