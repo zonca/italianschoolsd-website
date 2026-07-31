@@ -24,7 +24,7 @@ Classes are kept to 5-10 students. **No previous knowledge of Italian is require
 * **Mondays, 4:00-6:00 PM**, September 14, 2026 through May 17, 2027, 29 classes
 * **San Dieguito United Methodist Church**, [170 Calle Magdalena, Encinitas, CA 92024](https://maps.google.com/?q=170+Calle+Magdalena,+Encinitas,+CA+92024)
 
-The classrooms are bright and sized for small groups, there is ample free parking on site for drop-off and pick-up, and the children take their mid-class break at a shaded table in an enclosed outdoor area.
+There is ample free parking on site for drop-off and pick-up, and the children take their mid-class break at a table in an enclosed outdoor area.
 
 Easy to reach from Encinitas, Cardiff-by-the-Sea, Leucadia, Olivenhain, Solana Beach, Del Mar, Rancho Santa Fe, Carlsbad, and San Marcos.
 

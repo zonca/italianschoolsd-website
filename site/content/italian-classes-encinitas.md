@@ -54,7 +54,7 @@ Monday, May 24, 2027 is held as a backup date, used only if a class has to be mo
 **San Dieguito United Methodist Church**
 [170 Calle Magdalena, Encinitas, CA 92024](https://maps.google.com/?q=170+Calle+Magdalena,+Encinitas,+CA+92024)
 
-The church hosts our classes in its education building. There is ample free parking on site, so drop-off and pick-up are quick even at 4:00 PM. The classrooms are bright, carpeted, and sized for small groups, and there is an enclosed outdoor area with a shaded table where the children take their mid-class break.
+The church hosts our classes in two classrooms of its education building. There is ample free parking on site, so drop-off and pick-up are quick even at 4:00 PM, and there is an enclosed outdoor area with a table where the children take their mid-class break.
 
 Convenient for families in Encinitas, Cardiff-by-the-Sea, Leucadia, Olivenhain, Solana Beach, Del Mar, Rancho Santa Fe, Carlsbad, and San Marcos.
 
