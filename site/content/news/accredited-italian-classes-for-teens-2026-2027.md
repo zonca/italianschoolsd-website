@@ -7,6 +7,8 @@ image: /img/milan.jpg
 
 Pre-enrollment is open for our **2026-2027 accredited Italian classes** for middle and high school students.
 
+> **Schedule update, July 30, 2026:** Fixed-schedule classes will start August 26 and 27. Enrollment is open through August 21, and the 33-class total remains unchanged. [Read the full announcement]({{< ref "news/kids-and-teen-italian-classes-postponed-by-one-week.md" >}}).
+
 The Italian School of San Diego LLC is accredited by San Diego Unified and San Dieguito Union High School Districts as an Independent World Language School. Classes can fulfill language requirements for high school graduation at public high schools within these districts and can satisfy college admission requirements.
 
 [![Accredited Italian classes for teens 2026-2027 flyer](/flyers/italianschoolsd-flyer-italian-2026-2027-teens.png)](/flyers/italianschoolsd-flyer-italian-2026-2027-teens.pdf)
@@ -16,18 +18,18 @@ The Italian School of San Diego LLC is accredited by San Diego Unified and San D
 We offer two tracks. Some levels meet on a fixed in-person schedule; others have a **flexible schedule** that we arrange together with the enrolled students. Just email us your preferred day, time, and format (online or in-person).
 
 **Italian as a Foreign Language (for new learners):** a conversation-first approach focused on real conversation and everyday situations.
-* **Italian 5-6:** Wednesdays, **4:00-6:00pm**, in person, starting **August 19, 2026**.
+* **Italian 5-6:** Wednesdays, **4:00-6:00pm**, in person, **August 26, 2026-May 19, 2027**.
 * **Italian 1-2, 3-4, and 7-8/AP Preparation:** flexible schedule, arranged with enrolled students.
 
 **Italian for Italian Speakers (for heritage speakers):** as they progress, students follow the literature program taught in Italian high schools, reading Dante's *Divina Commedia*, Boccaccio's *Decameron*, Manzoni's *I Promessi Sposi*, and Homer's *Iliad* and *Odyssey*.
-* **Italian 1-2, 3-4, and 5-6:** Thursdays, **4:15-6:15pm**, in person, starting **August 20, 2026**.
+* **Italian 1-2, 3-4, and 5-6:** Thursdays, **4:15-6:15pm**, in person, **August 27, 2026-May 20, 2027**.
 * **Italian 7-8/AP Preparation:** flexible schedule, arranged with enrolled students.
 
 Students with prior Italian study may test into a higher level than 1-2.
 
 ## Pre-Enrollment {#pre-enrollment}
 
-We have openings in every program and age group. Please pre-enroll by **August 14, 2026**. High school students should also notify their school counselor of their intent to take an outside language course so credit can be properly recognized.
+We have openings in every program and age group. Please pre-enroll by **August 21, 2026**. High school students should also notify their school counselor of their intent to take an outside language course so credit can be properly recognized.
 
 <div class="tc">
 <a href="/enroll-accredited" class="btn raise">Tuition and pre-enrollment information</a>

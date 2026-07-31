@@ -6,6 +6,8 @@ subtitle: "Children Classes 2026-2027"
 
 This page is for students in TK-6th grade. For teens, see our [accredited classes](/accredited-classes).
 
+> **Schedule update, July 30, 2026:** Afternoon classes will start August 26 and 27, and the homeschool morning program will start September 2. Enrollment is open through August 21. The number of classes remains unchanged because the scheduled backup week will be used for regular instruction. [Read the full announcement]({{< ref "news/kids-and-teen-italian-classes-postponed-by-one-week.md" >}}).
+
 ## In-Person Afternoon Classes (TK-6) {#afternoon}
 
 > *"L'italiano è più di una lingua: è una porta aperta sulla bellezza, la cultura e l'arte di vivere."*  
@@ -18,16 +20,15 @@ Our core afternoon classes meet once a week for two hours at our [Kearny Mesa lo
 Designed for children who are already advanced or fluent in Italian, though not necessarily native speakers. These classes deepen students' knowledge of the Italian language and introduce topics taught to their peers in Italy, including history and geography starting in 3rd grade.
 
 * **Schedule:** Thursdays, 4:15-6:15pm
-* **Calendar:** August 20, 2026 – May 13, 2027 (33 weeks of instruction). 
-* **Note:** Backup class date is May 20, 2027. No class on December 17, 2026.
+* **Calendar:** August 27, 2026-May 20, 2027 (33 weeks of instruction).
+* **Note:** No class on December 17, 2026.
 
 ### Italian as a Foreign Language (Beginners/New Learners) {#ifl}
 
 Designed for students who are new to Italian. Instruction begins in English and transitions to Italian, using a conversation-first approach with engaging activities that build vocabulary, pronunciation, and confidence. Students are grouped by age and level.
 
 * **Schedule:** Wednesdays, 4:00-6:00pm
-* **Calendar:** August 19, 2026 – May 12, 2027 (33 weeks of instruction). 
-* **Note:** Backup class date is May 19, 2027.
+* **Calendar:** August 26, 2026-May 19, 2027 (33 weeks of instruction).
 
 *See the [Italian School of San Diego calendar](/calendar) for our full Google Calendar schedule.*
 
@@ -39,10 +40,8 @@ We offer Italian group classes in the morning for home-schooled children and pre
 
 For 2026-2027, the Kearny Mesa morning program meets **Wednesdays, 10am-12pm** and is organized as two 16-class sessions:
 
-* Session 1: **August 26, 2026-January 13, 2027**
-* Session 2: **January 20-May 12, 2027**
-
-The backup class date is **May 19, 2027** if needed.
+* Session 1: **September 2, 2026-January 20, 2027**
+* Session 2: **January 27-May 19, 2027**
 
 The Italian School is a vendor for [Pacific Coast Academy](https://pacificcoastacademy.org/), so you can use charter funds to pay for our classes. If your child is enrolled in another charter, please contact us; we can apply to become vendors.
 

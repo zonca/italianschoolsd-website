@@ -9,7 +9,9 @@ subtitle: New academic year, Wednesdays 10am–12pm, 16+16 classes
 
 We are excited to announce our Italian morning program for homeschoolers for the 2026-2027 academic year! This program is open to students from TK to 8th grade, with no previous Italian required. Students will be grouped by age based on enrollment.
 
-**Fall enrollment closes August 3, 2026.**
+> **Schedule update, July 30, 2026:** The morning program will start September 2. Both sessions still include 16 classes, and enrollment is open through August 21. [Read the full announcement]({{< ref "news/kids-and-teen-italian-classes-postponed-by-one-week.md" >}}).
+
+**Fall enrollment closes August 21, 2026.**
 
 <div class="tc">
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSd4sac0Y2wdTd9gm2AF1Y9uuVPPyJzHfHEphJPA1iYPkrP43g/viewform?usp=sf_link" class="btn raise">Fill the universal pre-enrollment form</a>
@@ -20,9 +22,9 @@ We are excited to announce our Italian morning program for homeschoolers for the
 - Day: **Wednesdays**
 - Time: **10am–12pm**
 - First session: **16 classes**
-- First class: **August 26, 2026**
+- First class: **September 2, 2026**
 - No class on **November 25** (Thanksgiving break), and late December/early January for Winter break
-- Last class of first session: **January 13, 2027**
+- Last class of first session: **January 20, 2027**
 
 The course introduces students to Italian language and culture, focusing on conversational skills and basic grammar, with games and activities to make learning fun. Classes are taught by a native Italian instructor. Students should expect 30–60 minutes of homework per week.
 
@@ -35,7 +37,7 @@ We recommend paying via [**Zelle**]({{< relref "zelle.md" >}}) to avoid credit c
 
 ## Second session
 
-A second 16-class session will start the following week (**January 20, 2027**) and run through the end of May, with a break for spring. The last regular class will be **May 12, 2027** (with May 19, 2027 reserved as a backup date).
+A second 16-class session will start the following week (**January 27, 2027**) and run through **May 19, 2027**, with a break for spring.
 
 ## Location
 

@@ -3,6 +3,9 @@ title: Calendar
 image: /img/lastsupper.jpg
 subtitle: Academic calendar
 ---
+
+> **Schedule update, July 30, 2026:** Wednesday afternoon classes will start August 26, Thursday afternoon classes will start August 27, and the homeschool morning program will start September 2. The existing backup week will be used for regular instruction, so class totals remain unchanged. [Read the full announcement]({{< ref "news/kids-and-teen-italian-classes-postponed-by-one-week.md" >}}).
+
 Below are the school Google Calendars. You can add them to your own calendar in a few different ways.
 
 ### How to add these calendars to yours {#how-to-add}
@@ -49,7 +52,8 @@ We generally follow the San Diego Unified academic calendar, with one extra week
 
 For 2026-2027:
 
-* Wednesday IFL classes start **August 19, 2026**, with **May 19, 2027** reserved as a backup date.
-* Thursday Heritage classes start **August 20, 2026**, with **May 20, 2027** reserved as a backup date.
+* Wednesday IFL classes run **August 26, 2026-May 19, 2027**.
+* Thursday Heritage classes run **August 27, 2026-May 20, 2027**.
+* The Wednesday homeschool morning program runs in two 16-class sessions: **September 2, 2026-January 20, 2027** and **January 27-May 19, 2027**.
 * There is **no Thursday class on December 17, 2026**.
 * Halloween 2026 falls on **Saturday, October 31**, so it does not affect Wednesday or Thursday classes.

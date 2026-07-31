@@ -5,7 +5,7 @@ description: "The pre-enrollment deadline for 2026-2027 kids and accredited teen
 image: /flyers/italianschoolsd-flyer-italian-2026-2027-kids.png
 ---
 
-**Update:** we have openings in every program and age group, and late enrollment is now accepted through **August 14, 2026**. See [Late Enrollment Open: Italian Classes for Kids 2026-2027](/news/2026/07/late-enrollment-open-italian-classes-for-kids-2026-2027-in-san-diego/).
+**Update, July 30, 2026:** late enrollment is now accepted through **August 21, 2026**, and fixed-schedule kids and teen classes will start one week later. [Read the current schedule announcement]({{< ref "news/kids-and-teen-italian-classes-postponed-by-one-week.md" >}}).
 
 We have extended the pre-enrollment deadline for our **2026-2027 Italian classes for kids and teens** to **July 27, 2026**.
 

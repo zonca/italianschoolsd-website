@@ -7,7 +7,9 @@ subtitle: Pre-enroll for classes for the academic year 2026-2027
 Enrollment for the 2026-2027 kids classes is open.
 See more information about [all the classes we offer]({{< relref "classes.md" >}}) before pre-enrolling.
 
-We have openings in every program and age group. Please pre-enroll by **August 14, 2026** to secure a spot. Classes start the week of **August 19, 2026**.
+> **Schedule update, July 30, 2026:** Afternoon classes will start August 26 and 27, and the homeschool morning program will start September 2. The number of classes remains unchanged. [Read the full announcement]({{< ref "news/kids-and-teen-italian-classes-postponed-by-one-week.md" >}}).
+
+We have openings in every program and age group. Please pre-enroll by **August 21, 2026** to secure a spot.
 
 No payment is needed at the time of pre-enrollment. We will email you a confirmation of pre-enrollment with the proposed class and tuition details. To finalize enrollment, you will need to pay the invoice attached to the confirmation email within **1 week** after receiving the payment email. Pre-enrollment itself is not binding.
 

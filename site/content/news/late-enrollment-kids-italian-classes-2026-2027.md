@@ -5,7 +5,9 @@ description: "A few spots are still available in our 2026-2027 Italian classes f
 image: /flyers/italianschoolsd-flyer-italian-2026-2027-kids.png
 ---
 
-**Openings are available in every program**, for every age group, in our 2026-2027 Italian classes for children in San Diego. Classes start the week of **August 19, 2026**, and you can still join.
+> **Schedule update, July 30, 2026:** Afternoon classes will start August 26 and 27, and the morning program will start September 2. Enrollment is open through August 21, and class totals remain unchanged. [Read the full announcement]({{< ref "news/kids-and-teen-italian-classes-postponed-by-one-week.md" >}}).
+
+**Openings are available in every program**, for every age group, in our 2026-2027 Italian classes for children in San Diego.
 
 **No Italian at home? No problem.** Our Italian as a Foreign Language classes are built for children who are completely new to the language. Instruction starts in English and moves gradually into Italian.
 
@@ -16,11 +18,11 @@ image: /flyers/italianschoolsd-flyer-italian-2026-2027-kids.png
 ## Programs open for 2026-2027 {#classes}
 
 * **Italian as a Foreign Language (new learners), TK-6th grade**
-  Wednesdays, **4:00-6:00pm**, August 19, 2026 - May 12, 2027
+  Wednesdays, **4:00-6:00pm**, August 26, 2026-May 19, 2027
 * **Italian Heritage classes (advanced or fluent children), TK-6th grade**
-  Thursdays, **4:15-6:15pm**, August 20, 2026 - May 13, 2027
+  Thursdays, **4:15-6:15pm**, August 27, 2026-May 20, 2027
 * **Morning program for homeschoolers**, from age 3
-  Wednesdays, **10am-12pm**, starting August 26, 2026
+  Wednesdays, **10am-12pm**, September 2, 2026-May 19, 2027
 
 Classes have **5-10 students** and are grouped by age and level, so your child will be placed with peers at the same stage. All our teachers are native Italian speakers.
 
@@ -49,7 +51,7 @@ The morning homeschool program is priced per 16-class session. We are a vendor f
 
 Pre-enrollment is not binding, and we will help you choose the right level before you commit.
 
-Classes begin the week of **August 19**, so please pre-enroll by **August 14, 2026**. If you are reading this later, [contact us](/contact) anyway; we may still be able to place your child.
+Afternoon classes begin the week of **August 26**, and the morning program begins **September 2**. Please pre-enroll by **August 21, 2026**. If you are reading this later, [contact us](/contact) anyway; we may still be able to place your child.
 
 <div class="tc">
 <a href="/enroll" class="btn raise">Pre-Enroll Kids (TK-6)</a>
