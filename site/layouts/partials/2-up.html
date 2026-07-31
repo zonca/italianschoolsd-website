@@ -31,7 +31,8 @@
       </div>
       {{ end }}
     </div>
-    <div class="flex-ns mhn2-ns mb3 ">
+    {{/* flex-wrap lets a 4th card drop to a second row instead of squeezing the first. */}}
+    <div class="flex-ns flex-wrap mhn2-ns mb3">
       {{ $products2Width := cond (eq (len .products2) 3) "w-third-ns" "w-50-ns" }}
       {{ range .products2 }}
       <div class="ph2-ns {{ $products2Width }}">
