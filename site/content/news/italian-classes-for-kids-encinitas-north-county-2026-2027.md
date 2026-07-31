@@ -3,47 +3,15 @@ title: "New: Italian classes for kids in Encinitas, North County"
 date: 2026-07-30T00:00:00.000Z
 url: "/news/2026/07/italian-classes-for-kids-encinitas-north-county-2026-2027/"
 description: We are opening a second in-person location for children in Encinitas. Mondays 4-6pm, September 2026 to May 2027, two small classes for TK-2nd and 3rd-5th grade.
-image: /img/cefalu.jpg
+image: /flyers/italianschoolsd-flyer-encinitas-2026-2027.png
 ---
 
 Over the past year, several North County families told us the same thing: they wanted Italian for their children, but the drive down to Kearny Mesa on a weekday afternoon made it impossible. We spent the spring looking for the right space up north, and we found it.
 
-[![Italian classes for kids in Encinitas, 2026-2027 flyer](/flyers/italianschoolsd-flyer-encinitas-2026-2027.png)](/flyers/italianschoolsd-flyer-encinitas-2026-2027.pdf)
-
-## What we are offering {#program}
-
-Two small classes, running side by side in two adjacent classrooms, each with its own native Italian teacher:
-
-* **TK to 2nd grade**, an introduction to Italian through songs, games, picture books, and movement
-* **3rd to 5th grade**, a conversation-first course that also introduces reading and writing
-
-Classes are kept to 5-10 students. **No previous knowledge of Italian is required**, both groups start from the beginning. Siblings in different age groups can attend at the same time.
-
-## When and where {#when-where}
-
-* **Mondays, 4:00-6:00 PM**, September 14, 2026 through May 17, 2027, 29 classes
-* **San Dieguito United Methodist Church**, [170 Calle Magdalena, Encinitas, CA 92024](https://maps.google.com/?q=170+Calle+Magdalena,+Encinitas,+CA+92024)
-
-There is ample free parking on site for drop-off and pick-up, and the children take their mid-class break at a table in an enclosed outdoor area.
-
-Easy to reach from Encinitas, Cardiff-by-the-Sea, Leucadia, Olivenhain, Solana Beach, Del Mar, Rancho Santa Fe, Carlsbad, and San Marcos.
-
-## Tuition {#tuition}
-
-$1,698 for the full year for new students, plus the $150 materials fee, for a total of $1,848. Returning students pay $1,767. [See the tuition details and holiday calendar](/italian-classes-encinitas/#tuition).
-
-## How to pre-enroll {#enroll}
-
-Fill out our pre-enrollment form and choose **"NEW! In-person Italian classes for kids (TK-5th) in Encinitas"**. No payment is due at pre-enrollment, and it is not binding. We will email you a confirmation with the assigned class and an invoice.
-
-This class runs only if it reaches a minimum number of enrolled students. If we do not reach it, we will cancel the class and refund every payment in full.
+Classes meet at San Dieguito United Methodist Church, [170 Calle Magdalena](https://maps.google.com/?q=170+Calle+Magdalena,+Encinitas,+CA+92024), with a native Italian teacher for each age group. No previous knowledge of Italian is required.
 
 <div class="tc">
-<a href="/italian-classes-encinitas/" class="btn raise">All the details</a>
-</div>
-
-<div class="tc">
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSd4sac0Y2wdTd9gm2AF1Y9uuVPPyJzHfHEphJPA1iYPkrP43g/viewform?usp=sf_link" class="btn raise">Fill out the pre-enrollment form</a>
+<a href="/italian-classes-encinitas/" class="btn raise">Schedule, tuition, and pre-enrollment</a>
 </div>
 
 Questions? Call **(619) 800-0797** or [send us a message](/contact).
