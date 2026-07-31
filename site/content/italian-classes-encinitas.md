@@ -95,6 +95,10 @@ No payment is due at the time of pre-enrollment, and pre-enrollment is not bindi
 
 This class runs only if it reaches a minimum number of enrolled students. If we do not reach it, we will cancel the class and refund every payment in full.
 
+## Private lessons in North County {#private}
+
+If the Monday group class does not fit your schedule, we also offer [private Italian lessons](/italian-private-classes) in North County: online, in person at the church, or at your home. [Contact us](/contact) to arrange one.
+
 ## Questions {#questions}
 
 Call us at **(619) 800-0797** or [send us a message](/contact). We are happy to help you choose the right group for your child.
