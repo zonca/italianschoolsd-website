@@ -7,7 +7,7 @@ blurb:
     text: "Italian opens the door to a rich world of art, history, literature, and cuisine. For kids, starting early builds confidence fast and can lead to high school credit through Advanced Placement or accredited programs. For adults, it means traveling with ease, connecting more deeply with locals, and enjoying Italian films and books in the original language."
 intro:
     heading: "Italian school programs"
-    text: "Unless noted otherwise, our in-person programs are held at 4550 Kearny Villa Rd, Suite 202, San Diego, CA. We also offer online options."
+    text: "Unless noted otherwise, our in-person programs are held at 4550 Kearny Villa Rd, Suite 202, San Diego, CA. New for 2026-2027, we also teach children's classes in Encinitas, North County. We also offer online options."
 products:
     - image: /flyers/italianschoolsd-flyer-italian-2026-2027-kids.png
       title: "Italian for TK to 6th Graders"
@@ -26,6 +26,10 @@ products2:
       title: "Italian Morning Program for Homeschoolers"
       text: "Weekday morning Italian classes for homeschooled children and preschoolers, from age 3. Charter-funded through Pacific Coast Academy. Learning through play, songs, reading, and projects."
       link: /classes#home-schooled
+    - image: /flyers/italianschoolsd-flyer-encinitas-2026-2027.png
+      title: "Italian for kids in Encinitas, North County"
+      text: "New for 2026-2027. Two small in-person classes for TK-2nd and 3rd-5th grade, Mondays 4-6pm in Encinitas, taught by native Italian teachers. Beginners welcome."
+      link: /italian-classes-encinitas/
     - image: /img/illustrations-tutorials.svg
       title: "World languages for adults"
       text: "In-person beginner Spanish, German, and English classes for adults on Tuesday evenings in Kearny Mesa."

@@ -1,0 +1,165 @@
+---
+title: Italian classes for kids in Encinitas
+description: In-person Italian classes for children TK-5th grade in Encinitas, North County San Diego. Mondays 4-6pm, September 2026 to May 2027. Beginners welcome.
+image: /img/cefalu.jpg
+aliases:
+    - /encinitas
+    - /north-county
+---
+
+The Italian school of San Diego is opening a second in-person location for children, in **Encinitas**, for the 2026-2027 academic year. Classes meet **Mondays, 4:00-6:00 PM**, from September 14, 2026 through May 17, 2027.
+
+Several families in North County told us the same thing: the drive down to Kearny Mesa was the only thing standing between their children and Italian class. So we brought the class to them.
+
+Children are grouped by age into two small classes, each led by its own native Italian teacher. **No previous knowledge of Italian is required.**
+
+<div class="tc">
+<a href="#enroll" class="btn raise">Pre-enroll now</a>
+</div>
+
+## Two classes, grouped by age {#classes}
+
+Both classes run at the same time, in two adjacent classrooms, so siblings of different ages can attend together.
+
+### TK to 2nd grade {#tk-2}
+
+An introduction to Italian built around play. Children learn through songs, movement, picture books, games, and hands-on projects, hearing Italian spoken naturally from the first day. The focus is on listening, pronunciation, and the confidence to say a first sentence out loud.
+
+### 3rd to 5th grade {#grades-3-5}
+
+A conversation-first course for older elementary students. Alongside speaking and listening, children begin reading and writing in Italian, build vocabulary for everyday situations, and explore Italian geography, food, holidays, and daily life.
+
+Each class is kept small, between 5 and 10 students. No previous knowledge of Italian is required in either group: both start from the beginning. Children who already speak some Italian at home are welcome too, and we place each child in the group that fits.
+
+## Schedule {#schedule}
+
+* **Day and time:** Mondays, 4:00-6:00 PM (two hours, with a break)
+* **First class:** Monday, September 14, 2026
+* **Last class:** Monday, May 17, 2027
+* **Total:** 29 classes across the academic year
+* **Ages:** TK through 5th grade
+
+### No class on these Mondays {#holidays}
+
+* November 23, 2026 (Thanksgiving week)
+* December 21 and December 28, 2026, and January 4, 2027 (winter break through the Epifania)
+* January 18, 2027 (Martin Luther King Jr. Day)
+* February 15, 2027 (Presidents Day)
+* March 29, 2027 (spring break)
+
+Monday, May 24, 2027 is held as a backup date, used only if a class has to be moved during the year. The total of 29 classes does not change.
+
+## Where we meet {#location}
+
+**San Dieguito United Methodist Church**
+[170 Calle Magdalena, Encinitas, CA 92024](https://maps.google.com/?q=170+Calle+Magdalena,+Encinitas,+CA+92024)
+
+The church hosts our classes in its education building. There is ample free parking on site, so drop-off and pick-up are quick even at 4:00 PM. The classrooms are bright, carpeted, and sized for small groups, and there is an enclosed outdoor area with a shaded table where the children take their mid-class break.
+
+Convenient for families in Encinitas, Cardiff-by-the-Sea, Leucadia, Olivenhain, Solana Beach, Del Mar, Rancho Santa Fe, Carlsbad, and San Marcos.
+
+Our main campus remains at [4550 Kearny Villa Rd, Suite 202, San Diego](/location), where our [Wednesday and Thursday kids classes](/classes) and all teen and adult programs are held.
+
+## Your teachers {#teachers}
+
+Both Encinitas classes are taught by native Italian speakers who live in North County. One teacher stays with each age group for the full year.
+
+**Our TK-2nd grade teacher** was born and raised in Milan and holds a five-year degree from Bocconi University. She began teaching as a preschool teacher at a Milan-area nursery school and went on to teach cooking and pastry classes to children aged 4 to 14, and to work as a certified Zumba Kids instructor for the same age range. Her classroom is built on movement, food, music, and a great deal of patience.
+
+**Our 3rd-5th grade teacher** was educated in Italy at the University of Milan and the University of Parma, and has lived in North County for years. She previously served as co-director of a children and family ministry in Carlsbad, where she designed programs for children and families and was responsible for volunteer background checks and child safety protocols, and later managed food service operations for an elementary school district. She brings more than fifteen years of leading teams and looking after children to the classroom.
+
+All our instructors complete a background check before working with students.
+
+## Tuition {#tuition}
+
+Tuition covers the full academic year of 29 two-hour classes.
+
+A **$150 materials fee** per student is added to all in-person classes. It covers classroom supplies, photocopies, and the cost of the space. Books are not included.
+
+* **New students:** $1,698 tuition + $150 materials = **$1,848**
+* **Returning for a second year:** $1,617 + $150 = **$1,767**
+* **Enrolled with us for two or more years:** $1,455 + $150 = **$1,605**
+
+We recommend paying by [Zelle](/zelle) to avoid credit card fees. See the [payment and cancellation page](/tuition-payment) for the sibling discount, the eight-payment plan, and our refund policy.
+
+## How to pre-enroll {#enroll}
+
+1. Fill out the pre-enrollment form below and choose **"NEW! In-person Italian classes for kids (TK-5th) in Encinitas"**.
+2. We email you a confirmation with the assigned class and an invoice.
+3. Pay the invoice within one week to secure the spot.
+
+No payment is due at the time of pre-enrollment, and pre-enrollment is not binding.
+
+<div class="tc">
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSd4sac0Y2wdTd9gm2AF1Y9uuVPPyJzHfHEphJPA1iYPkrP43g/viewform?usp=sf_link" class="btn raise">Fill out the pre-enrollment form</a>
+</div>
+
+This class runs only if it reaches a minimum number of enrolled students. If we do not reach it, we will cancel the class and refund every payment in full.
+
+## Questions {#questions}
+
+Call us at **(619) 800-0797** or [send us a message](/contact). We are happy to help you choose the right group for your child.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Course",
+  "name": "Italian classes for kids in Encinitas, 2026-2027",
+  "description": "In-person Italian language classes for children from TK to 5th grade in Encinitas, North County San Diego. Two small groups by age, taught by native Italian teachers, Mondays 4:00-6:00 PM.",
+  "url": "https://www.italianschoolsd.com/italian-classes-encinitas/",
+  "inLanguage": "en",
+  "teaches": "Italian language and culture",
+  "educationalLevel": "Elementary school (TK-5th grade)",
+  "provider": {
+    "@type": "EducationalOrganization",
+    "name": "Italian school of San Diego LLC",
+    "url": "https://www.italianschoolsd.com/",
+    "telephone": "+1-619-800-0797",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "4550 Kearny Villa Rd, Suite 202",
+      "addressLocality": "San Diego",
+      "addressRegion": "CA",
+      "postalCode": "92123",
+      "addressCountry": "US"
+    }
+  },
+  "hasCourseInstance": {
+    "@type": "CourseInstance",
+    "courseMode": "onsite",
+    "startDate": "2026-09-14",
+    "endDate": "2027-05-17",
+    "courseWorkload": "PT2H",
+    "location": {
+      "@type": "Place",
+      "name": "San Dieguito United Methodist Church",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "170 Calle Magdalena",
+        "addressLocality": "Encinitas",
+        "addressRegion": "CA",
+        "postalCode": "92024",
+        "addressCountry": "US"
+      }
+    },
+    "courseSchedule": {
+      "@type": "Schedule",
+      "repeatFrequency": "P1W",
+      "byDay": "https://schema.org/Monday",
+      "startTime": "16:00",
+      "endTime": "18:00",
+      "startDate": "2026-09-14",
+      "endDate": "2027-05-17",
+      "scheduleTimezone": "America/Los_Angeles"
+    },
+    "offers": {
+      "@type": "Offer",
+      "price": "1848",
+      "priceCurrency": "USD",
+      "category": "Tuition and materials fee, new students",
+      "url": "https://www.italianschoolsd.com/italian-classes-encinitas/#tuition",
+      "availability": "https://schema.org/InStock"
+    }
+  }
+}
+</script>

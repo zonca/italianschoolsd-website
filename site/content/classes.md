@@ -6,6 +6,8 @@ subtitle: "Children Classes 2026-2027"
 
 This page is for students in TK-6th grade. For teens, see our [accredited classes](/accredited-classes).
 
+> **New for 2026-2027:** we are opening a second in-person location in North County. [Italian classes for kids in Encinitas](/italian-classes-encinitas/), Mondays 4:00-6:00 PM.
+
 > **Schedule update, July 30, 2026:** Afternoon classes will start August 26 and 27, and the homeschool morning program will start September 2. Enrollment is open through August 21. The number of classes remains unchanged because the scheduled backup week will be used for regular instruction. [Read the full announcement]({{< ref "news/kids-and-teen-italian-classes-postponed-by-one-week.md" >}}).
 
 ## In-Person Afternoon Classes (TK-6) {#afternoon}
@@ -56,6 +58,14 @@ We do not plan to offer this program in 2026-2027. However, if you are intereste
 ## Location {#location}
 
 Our main location is [4550 Kearny Villa Rd, Suite 202](/location). Kids' in-person classes are held there unless a specific class listing says otherwise.
+
+### North County: Encinitas {#north-county}
+
+For 2026-2027 we also teach in Encinitas, at San Dieguito United Methodist Church, [170 Calle Magdalena](https://maps.google.com/?q=170+Calle+Magdalena,+Encinitas,+CA+92024). Two classes meet there on **Mondays, 4:00-6:00 PM**, one for TK-2nd grade and one for 3rd-5th grade, September 14, 2026 through May 17, 2027. Tuition differs from the Kearny Mesa classes because the North County year is 29 classes rather than 33.
+
+<div class="tc">
+<a href="/italian-classes-encinitas/" class="btn raise">Italian classes for kids in Encinitas</a>
+</div>
 
 ## Pre-Enrollment for All Programs {#pre-enrollment}
 

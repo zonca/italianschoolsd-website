@@ -13,6 +13,8 @@ We have openings in every program and age group. Please pre-enroll by **August 2
 
 No payment is needed at the time of pre-enrollment. We will email you a confirmation of pre-enrollment with the proposed class and tuition details. To finalize enrollment, you will need to pay the invoice attached to the confirmation email within **1 week** after receiving the payment email. Pre-enrollment itself is not binding.
 
+Enrolling in our new **Encinitas** Monday class? The tuition below applies to the Kearny Mesa classes. The North County year is 29 classes instead of 33, so it has [its own tuition table](/italian-classes-encinitas/#tuition).
+
 ## Tuition for In-Person 2-Hour Kids Classes {#tuition}
 
 Tuition for 9 months of instruction:
