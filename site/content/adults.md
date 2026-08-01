@@ -13,18 +13,18 @@ subtitle: Italian classes in person across San Diego County and online via Zoom
   <h2 id="adult-welcome">Find the right class for your level and schedule</h2>
   <p>Choose from weekly group classes, flexible private lessons, and custom programs. All Italian classes are led by native Italian-speaking instructors.</p>
   <div class="adult-hero-actions">
-    <a href="#weekly-schedule" class="btn btn-cta">See the Fall schedule</a>
+    <a href='{{< relref "adults.md" >}}#weekly-schedule' class="btn btn-cta">See the Fall schedule</a>
     <a href="https://forms.gle/LHR7Htpeb3mQzV838" class="btn btn-cta">Tell us what you need</a>
   </div>
 </section>
 
 <nav class="adult-jump-links" aria-label="Adult classes page sections">
-  <a href="#fall-2026">Fall group classes</a>
-  <a href="#course-levels">Choose your level</a>
-  <a href="#encinitas">Encinitas classes</a>
-  <a href="#private-custom">Flexible options</a>
-  <a href="#world-languages">Other languages</a>
-  <a href="#policies">Policies and discounts</a>
+  <a href='{{< relref "adults.md" >}}#fall-2026'>Fall group classes</a>
+  <a href='{{< relref "adults.md" >}}#course-levels'>Choose your level</a>
+  <a href='{{< relref "adults.md" >}}#encinitas'>Encinitas classes</a>
+  <a href='{{< relref "adults.md" >}}#private-custom'>Flexible options</a>
+  <a href='{{< relref "adults.md" >}}#world-languages'>Other languages</a>
+  <a href='{{< relref "adults.md" >}}#policies'>Policies and discounts</a>
 </nav>
 
 <p class="adult-location-note"><strong>In-person classes:</strong> Most classes meet at our school at <a href='{{< relref "location.md" >}}'>4550 Kearny Villa Rd, Suite 202</a> in Kearny Mesa. Friday classes meet at our <a href='{{< relref "italian-classes-encinitas.md" >}}'>Encinitas location</a>.</p>
