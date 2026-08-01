@@ -13,9 +13,9 @@ We acquired a new 1500 square feet space in January 2024, it is located at [4550
 
 ## North County location: Encinitas {#north-county}
 
-Starting September 2026 we also teach children's classes in North County, at San Dieguito United Methodist Church, [170 Calle Magdalena, Encinitas, CA 92024](https://maps.google.com/?q=170+Calle+Magdalena,+Encinitas,+CA+92024). Classes meet there on Mondays, 4:00-6:00 PM, in two classrooms of the education building. There is ample free parking on site and an enclosed outdoor area with a table used for the mid-class break.
+Starting September 2026 we also teach in North County, at San Dieguito United Methodist Church, [170 Calle Magdalena, Encinitas, CA 92024](https://maps.google.com/?q=170+Calle+Magdalena,+Encinitas,+CA+92024), in two classrooms of the education building. Children's classes meet on Mondays, 4:00-6:00 PM, and adult classes on Fridays, 6:00-7:30 PM. There is ample free parking on site and an enclosed outdoor area with a table used for the mid-class break.
 
-See [Italian classes for kids in Encinitas](/italian-classes-encinitas/) for the schedule and tuition.
+See [Italian classes in Encinitas]({{< relref "italian-classes-encinitas.md" >}}) for schedules and tuition, for both [kids]({{< relref "italian-classes-encinitas.md#classes" >}}) and [adults]({{< relref "italian-classes-encinitas.md#adults" >}}).
 
 ## Photos {#photos}
 

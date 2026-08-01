@@ -1,23 +1,24 @@
 ---
-title: Italian classes for kids in Encinitas
-description: In-person Italian classes for children TK-5th grade in Encinitas, North County San Diego. Mondays 4-6pm, September 2026 to May 2027. Beginners welcome.
+title: Italian classes in Encinitas, North County San Diego
+description: In-person Italian classes in Encinitas, North County San Diego. Kids TK-5th grade on Mondays 4-6pm, adults on Fridays 6-7:30pm. Beginners welcome.
 image: /img/cefalu.jpg
 aliases:
     - /encinitas
     - /north-county
 ---
 
-The Italian school of San Diego is opening a second in-person location for children, in **Encinitas**, for the 2026-2027 academic year. Classes meet **Mondays, 4:00-6:00 PM**, from September 14, 2026 through May 17, 2027.
+The Italian school of San Diego is opening a second in-person location in **Encinitas**, for the 2026-2027 academic year. Classes for children meet **Mondays, 4:00-6:00 PM**, from September 14, 2026 through May 17, 2027. New for the fall, we also teach **adults on Fridays, 6:00-7:30 PM**.
 
-Several families in North County told us the same thing: the drive down to Kearny Mesa was the only thing standing between their children and Italian class. So we brought the class to them.
+Several families in North County told us the same thing: the drive down to Kearny Mesa was the only thing standing between them and Italian class. So we brought the class to them.
 
 Children are grouped by age into two small classes, each led by its own native Italian teacher. **No previous knowledge of Italian is required.**
 
 <div class="tc">
-<a href="#enroll" class="btn raise">Pre-enroll now</a>
+<a href="#enroll" class="btn raise">Pre-enroll your child</a>
+<a href="#adults" class="btn raise">Adult classes on Fridays</a>
 </div>
 
-## Two classes, grouped by age {#classes}
+## Italian classes for kids: two classes, grouped by age {#classes}
 
 Both classes run at the same time, in two adjacent classrooms, so siblings of different ages can attend together.
 
@@ -31,7 +32,7 @@ A conversation-first course for older elementary students. Alongside speaking an
 
 Each class is kept small, between 5 and 10 students. No previous knowledge of Italian is required in either group: both start from the beginning. Children who already speak some Italian at home are welcome too, and we place each child in the group that fits.
 
-## Schedule {#schedule}
+## Kids schedule {#schedule}
 
 * **Day and time:** Mondays, 4:00-6:00 PM (two hours, with a break)
 * **First class:** Monday, September 14, 2026
@@ -54,13 +55,13 @@ Monday, May 24, 2027 is held as a backup date, used only if a class has to be mo
 **San Dieguito United Methodist Church**
 [170 Calle Magdalena, Encinitas, CA 92024](https://maps.google.com/?q=170+Calle+Magdalena,+Encinitas,+CA+92024)
 
-The church hosts our classes in two classrooms of its education building. There is ample free parking on site, so drop-off and pick-up are quick even at 4:00 PM, and there is an enclosed outdoor area with a table where the children take their mid-class break.
+The church hosts our classes in two classrooms of its education building. There is ample free parking on site, so drop-off and pick-up are quick even at 4:00 PM, and there is an enclosed outdoor area with a table where the children take their mid-class break. The [Friday evening adult classes](#adults) meet in the same two classrooms.
 
-Convenient for families in Encinitas, Cardiff-by-the-Sea, Leucadia, Olivenhain, Solana Beach, Del Mar, Rancho Santa Fe, Carlsbad, and San Marcos.
+Convenient for families and adults in Encinitas, Cardiff-by-the-Sea, Leucadia, Olivenhain, Solana Beach, Del Mar, Rancho Santa Fe, Carlsbad, and San Marcos.
 
-Our main campus remains at [4550 Kearny Villa Rd, Suite 202, San Diego](/location), where our [Wednesday and Thursday kids classes](/classes) and all teen and adult programs are held.
+Our main campus remains at [4550 Kearny Villa Rd, Suite 202, San Diego]({{< relref "location.md" >}}), where our [Wednesday and Thursday kids classes]({{< relref "classes.md" >}}), all teen programs, and most [adult classes]({{< relref "adults.md" >}}) are held.
 
-## Your teachers {#teachers}
+## Your kids teachers {#teachers}
 
 Both Encinitas classes are taught by native Italian speakers who live in North County. One teacher stays with each age group for the full year.
 
@@ -70,7 +71,7 @@ Both Encinitas classes are taught by native Italian speakers who live in North C
 
 All our instructors complete a background check before working with students.
 
-## Tuition {#tuition}
+## Kids tuition {#tuition}
 
 Tuition covers the full academic year of 29 two-hour classes.
 
@@ -79,9 +80,9 @@ A **$150 materials fee** per student is added to all in-person classes. It cover
 * **New students:** $1,698 tuition + $150 materials = **$1,848**
 * **Returning students, second year or more:** $1,617 + $150 = **$1,767**
 
-We recommend paying by [Zelle](/zelle) to avoid credit card fees. See the [payment and cancellation page](/tuition-payment) for the sibling discount, the eight-payment plan, and our refund policy.
+We recommend paying by [Zelle]({{< relref "zelle.md" >}}) to avoid credit card fees. See the [payment and cancellation page]({{< relref "tuition-payment.md" >}}) for the sibling discount, the eight-payment plan, and our refund policy.
 
-## How to pre-enroll {#enroll}
+## How to pre-enroll your child {#enroll}
 
 1. Fill out the pre-enrollment form below and choose **"NEW! In-person Italian classes for kids (TK-5th) in Encinitas"**.
 2. We email you a confirmation with the assigned class and an invoice.
@@ -95,13 +96,28 @@ No payment is due at the time of pre-enrollment, and pre-enrollment is not bindi
 
 This class runs only if it reaches a minimum number of enrolled students. If we do not reach it, we will cancel the class and refund every payment in full.
 
+## Italian classes for adults in Encinitas {#adults}
+
+Adults have their own evening classes in the same building, on **Fridays from 6:00 PM to 7:30 PM**. Two sections run at the same time in adjacent classrooms:
+
+* **Beginner:** for adults with little or no prior Italian
+* **Intermediate:** for adults who already have a foundation and want to speak with more confidence
+
+The fall session is 13 classes, from September 18 to December 18, 2026, with no class on November 27. Tuition is $468 in full, or four monthly payments of $128.70. Enrollment is online.
+
+<div class="tc">
+<a href='{{< relref "news/adult-italian-classes-encinitas-north-county-fall-2026.md" >}}' class="btn raise">Adult schedule, tuition, and enrollment</a>
+</div>
+
+Adults looking for other days, levels, or online options will find the full program on our [adult classes page]({{< relref "adults.md" >}}).
+
 ## Private lessons in North County {#private}
 
-If the Monday group class does not fit your schedule, we also offer [private Italian lessons](/italian-private-classes) in North County: online, in person at the church, or at your home. [Contact us](/contact) to arrange one.
+If the group classes do not fit your schedule, we also offer [private Italian lessons]({{< relref "italian-private-classes.md" >}}) in North County: online, in person at the church, or at your home. [Contact us]({{< relref "contact.md" >}}) to arrange one.
 
 ## Questions {#questions}
 
-Call us at **(619) 800-0797** or [send us a message](/contact). We are happy to help you choose the right group for your child.
+Call us at **(619) 800-0797** or [send us a message]({{< relref "contact.md" >}}). We are happy to help you choose the right group, for your child or for yourself.
 
 <script type="application/ld+json">
 {

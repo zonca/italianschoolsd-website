@@ -12,13 +12,13 @@ Welcome! Below you’ll find all our current and upcoming Italian classes for ad
 <a href="https://forms.gle/LHR7Htpeb3mQzV838" class="btn raise">Adult Italian lesson interest form</a>
 </div>
 
-Note: All in-person adult classes meet at our school at [4550 Kearny Villa Rd Suite 202]( {{< ref "location.md" >}} ).
+Note: In-person adult classes meet at our school at [4550 Kearny Villa Rd Suite 202]( {{< ref "location.md" >}} ), except the Friday classes in [Encinitas]( {{< ref "italian-classes-encinitas.md" >}} ), our North County location.
 
 ---
 
 ## Fall 2026 Group Classes {#fall-2026}
 
-Our Fall session runs for **16 weeks** (15 weeks for Saturday classes) from **August 17th to December 19th, 2026**. We offer both in-person classes in Kearny Mesa and online virtual classes via Zoom. All of our instructors are native Italian speakers (mother tongue).
+Our Fall session runs for **16 weeks** (15 weeks for Saturday classes) from **August 17th to December 19th, 2026**. We offer in-person classes in Kearny Mesa, new in-person classes in Encinitas (North County) on Friday evenings, and online virtual classes via Zoom. All of our instructors are native Italian speakers (mother tongue).
 
 ## Detailed Weekly Schedule (All classes 1.5 hours)
 
@@ -34,19 +34,21 @@ Our Fall session runs for **16 weeks** (15 weeks for Saturday classes) from **Au
 | **THURSDAY** | **Beg-Int** | **TBD** | 6:30 PM - 8:00 PM |
 | **THURSDAY** | **Conversation** | **TBD** | 6:30 PM - 8:00 PM |
 | **THURSDAY (Online)** | **Beginner** | **Tania Adami** | 6:00 PM - 7:30 PM |
+| **FRIDAY (Encinitas)** | **Beginner** | **TBD** | 6:00 PM - 7:30 PM (13 classes) |
+| **FRIDAY (Encinitas)** | **Intermediate** | **TBD** | 6:00 PM - 7:30 PM (13 classes) |
 | **SATURDAY** | **Beginner** | **TBD** | 10:00 AM - 11:30 AM (15 classes) |
 
 Choose your level below to view schedule details, holidays, and enroll online.
 
 ### Beginner Classes {#beginner}
 
-Start your Italian journey with our friendly, hands-on beginner classes! In this session, you'll build a solid foundation in Italian conversation, vocabulary, grammar, and culture—perfect for travel, family connection, or personal enrichment. No prior experience is required. We offer in-person sections (Thursday evening or Saturday morning) and an online section (Thursday evening).
+Start your Italian journey with our friendly, hands-on beginner classes! In this session, you'll build a solid foundation in Italian conversation, vocabulary, grammar, and culture—perfect for travel, family connection, or personal enrichment. No prior experience is required. We offer in-person sections (Thursday evening or Saturday morning in Kearny Mesa, Friday evening in Encinitas) and an online section (Thursday evening).
 
 <div class="tc"><a href='{{< relref "news/adult-beginner-classes-fall-2026.md" >}}' class="btn raise">View Fall Beginner schedule & tuition</a></div>
 
 ### Intermediate & Intermediate-Advanced {#intermediate}
 
-For students with at least some prior study who want to expand their grammar, vocabulary, and conversational agility. We offer multiple tracks — including a dedicated Intermediate-Advanced section — in person on Monday, Tuesday, or Thursday, and online on Monday or Tuesday.
+For students with at least some prior study who want to expand their grammar, vocabulary, and conversational agility. We offer multiple tracks — including a dedicated Intermediate-Advanced section — in person on Monday, Tuesday, or Thursday in Kearny Mesa, on Friday in Encinitas, and online on Monday or Tuesday.
 
 <div class="tc"><a href='{{< relref "news/adult-intermediate-classes-fall-2026.md" >}}' class="btn raise">View Fall Intermediate & Int-Advanced schedules & tuition</a></div>
 
@@ -55,6 +57,12 @@ For students with at least some prior study who want to expand their grammar, vo
 Designed for students who can already hold conversations in Italian and want to refine their fluency, master advanced grammar structures, and discuss Italian literature, news, and culture in a collaborative setting.
 
 <div class="tc"><a href='{{< relref "news/adult-advanced-classes-fall-2026.md" >}}' class="btn raise">View Fall Advanced & Conversation schedule & tuition</a></div>
+
+## North County: Friday classes in Encinitas {#encinitas}
+
+New for Fall 2026: in-person Italian classes for adults in **Encinitas**, at San Dieguito United Methodist Church, [170 Calle Magdalena](https://maps.google.com/?q=170+Calle+Magdalena,+Encinitas,+CA+92024). A beginner and an intermediate section meet **Fridays, 6:00 PM - 7:30 PM**, September 18 to December 18, 2026 (13 classes). Tuition is $468 in full or four monthly payments of $128.70.
+
+<div class="tc"><a href='{{< relref "news/adult-italian-classes-encinitas-north-county-fall-2026.md" >}}' class="btn raise">View Encinitas Friday schedules & tuition</a></div>
 
 ## Private & Custom Classes {#private-custom}
 
