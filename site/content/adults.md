@@ -3,127 +3,240 @@ title: Adult classes
 image: /img/lastsupper.jpg
 aliases:
     - /enroll-adults
-subtitle: Italian classes In-person in San Diego & via Zoom
+subtitle: Italian classes in person across San Diego County and online via Zoom
 ---
 
-Welcome! Below you’ll find all our current and upcoming Italian classes for adults. If you don’t see a class that fits your needs, please fill out our interest form and we’ll contact you within a couple of days to discuss options:
+<div class="adult-page">
 
-<div class="tc">
-<a href="https://forms.gle/LHR7Htpeb3mQzV838" class="btn raise">Adult Italian lesson interest form</a>
+<section class="adult-hero-panel" aria-labelledby="adult-welcome">
+  <p class="adult-eyebrow">Learn Italian your way</p>
+  <h2 id="adult-welcome">Find the right class for your level and schedule</h2>
+  <p>Choose from weekly group classes, flexible private lessons, and custom programs. All Italian classes are led by native Italian-speaking instructors.</p>
+  <div class="adult-hero-actions">
+    <a href='{{< relref "adults.md" >}}#weekly-schedule' class="btn btn-cta">See the Fall schedule</a>
+    <a href="https://forms.gle/LHR7Htpeb3mQzV838" class="btn btn-cta">Tell us what you need</a>
+  </div>
+</section>
+
+<nav class="adult-jump-links" aria-label="Adult classes page sections">
+  <a href='{{< relref "adults.md" >}}#fall-2026'>Fall group classes</a>
+  <a href='{{< relref "adults.md" >}}#course-levels'>Choose your level</a>
+  <a href='{{< relref "adults.md" >}}#encinitas'>Encinitas classes</a>
+  <a href='{{< relref "adults.md" >}}#private-custom'>Flexible options</a>
+  <a href='{{< relref "adults.md" >}}#policies'>Policies and discounts</a>
+</nav>
+
+<p class="adult-location-note"><strong>In-person classes:</strong> Most classes meet at our school at <a href='{{< relref "location.md" >}}'>4550 Kearny Villa Rd, Suite 202</a> in Kearny Mesa. Friday classes meet at our <a href='{{< relref "italian-classes-encinitas.md" >}}'>Encinitas location</a>.</p>
+
+## Fall 2026 group classes {#fall-2026}
+
+The Fall session runs from **August 17 to December 19, 2026**, with classes in Kearny Mesa, new Friday classes in Encinitas, and online classes via Zoom.
+
+<dl class="adult-session-facts">
+  <div>
+    <dt>Session</dt>
+    <dd>13–16 weeks</dd>
+    <span>Varies by section</span>
+  </div>
+  <div>
+    <dt>Class length</dt>
+    <dd>90 minutes</dd>
+    <span>One class each week</span>
+  </div>
+  <div>
+    <dt>Formats</dt>
+    <dd>In person + online</dd>
+    <span>Native Italian instructors</span>
+  </div>
+</dl>
+
+## Weekly class schedule {#weekly-schedule}
+
+Scan by day, then use the level guides below for full dates, tuition, holidays, and enrollment.
+
+<div class="adult-schedule-grid">
+  <article class="adult-day-card">
+    <h3 id="monday-classes">Monday</h3>
+    <div class="adult-class-row">
+      <div><strong>Intermediate</strong><span class="adult-format adult-format-in-person">Kearny Mesa</span></div>
+      <p><span>6:00–7:30 PM</span><small>Teacher to be announced</small></p>
+    </div>
+    <div class="adult-class-row">
+      <div><strong>Intermediate–Advanced</strong><span class="adult-format adult-format-in-person">Kearny Mesa</span></div>
+      <p><span>6:00–7:30 PM</span><small>Teacher to be announced</small></p>
+    </div>
+    <div class="adult-class-row">
+      <div><strong>Advanced</strong><span class="adult-format adult-format-in-person">Kearny Mesa</span></div>
+      <p><span>6:00–7:30 PM</span><small>Teacher to be announced</small></p>
+    </div>
+    <div class="adult-class-row">
+      <div><strong>Beginner–Intermediate</strong><span class="adult-format adult-format-online">Online</span></div>
+      <p><span>6:00–7:30 PM</span><small>Tania Adami</small></p>
+    </div>
+  </article>
+
+  <article class="adult-day-card">
+    <h3 id="tuesday-classes">Tuesday</h3>
+    <div class="adult-class-row">
+      <div><strong>Beginner–Intermediate</strong><span class="adult-format adult-format-in-person">Kearny Mesa</span></div>
+      <p><span>5:30–7:00 PM</span><small>Teacher to be announced</small></p>
+    </div>
+    <div class="adult-class-row">
+      <div><strong>Intermediate</strong><span class="adult-format adult-format-online">Online</span></div>
+      <p><span>6:00–7:30 PM</span><small>Tania Adami</small></p>
+    </div>
+  </article>
+
+  <article class="adult-day-card">
+    <h3 id="thursday-classes">Thursday</h3>
+    <div class="adult-class-row">
+      <div><strong>Beginner</strong><span class="adult-format adult-format-in-person">Kearny Mesa</span></div>
+      <p><span>6:30–8:00 PM</span><small>Teacher to be announced</small></p>
+    </div>
+    <div class="adult-class-row">
+      <div><strong>Beginner–Intermediate</strong><span class="adult-format adult-format-in-person">Kearny Mesa</span></div>
+      <p><span>6:30–8:00 PM</span><small>Teacher to be announced</small></p>
+    </div>
+    <div class="adult-class-row">
+      <div><strong>Conversation</strong><span class="adult-format adult-format-in-person">Kearny Mesa</span></div>
+      <p><span>6:30–8:00 PM</span><small>Teacher to be announced</small></p>
+    </div>
+    <div class="adult-class-row">
+      <div><strong>Beginner</strong><span class="adult-format adult-format-online">Online</span></div>
+      <p><span>6:00–7:30 PM</span><small>Tania Adami</small></p>
+    </div>
+  </article>
+
+  <article class="adult-day-card">
+    <h3 id="friday-classes">Friday · Encinitas</h3>
+    <div class="adult-class-row">
+      <div><strong>Beginner</strong><span class="adult-format adult-format-encinitas">Encinitas</span></div>
+      <p><span>6:00–7:30 PM</span><small>13 classes · Teacher to be announced</small></p>
+    </div>
+    <div class="adult-class-row">
+      <div><strong>Intermediate</strong><span class="adult-format adult-format-encinitas">Encinitas</span></div>
+      <p><span>6:00–7:30 PM</span><small>13 classes · Teacher to be announced</small></p>
+    </div>
+  </article>
+
+  <article class="adult-day-card adult-day-card-compact">
+    <h3 id="saturday-classes">Saturday</h3>
+    <div class="adult-class-row">
+      <div><strong>Beginner</strong><span class="adult-format adult-format-in-person">Kearny Mesa</span></div>
+      <p><span>10:00–11:30 AM</span><small>15 classes · Teacher to be announced</small></p>
+    </div>
+  </article>
 </div>
 
-Note: In-person adult classes meet at our school at [4550 Kearny Villa Rd Suite 202]( {{< ref "location.md" >}} ), except the Friday classes in [Encinitas]( {{< ref "italian-classes-encinitas.md" >}} ), our North County location.
+## Choose your level {#course-levels}
 
----
+<div class="adult-option-grid adult-level-grid">
+  <article class="adult-option-card">
+    <p class="adult-card-kicker">Start here</p>
+    <h3 id="beginner">Beginner</h3>
+    <p>Build a foundation in practical conversation, vocabulary, grammar, and Italian culture. Choose Kearny Mesa, Encinitas, or online. No prior experience is required.</p>
+    <a href='{{< relref "news/adult-beginner-classes-fall-2026.md" >}}' class="btn btn-cta">Beginner schedule and tuition</a>
+  </article>
 
-## Fall 2026 Group Classes {#fall-2026}
+  <article class="adult-option-card">
+    <p class="adult-card-kicker">Keep progressing</p>
+    <h3 id="intermediate">Intermediate</h3>
+    <p>Expand your grammar, vocabulary, and conversational agility, with tracks from Beginner–Intermediate through Intermediate–Advanced in Kearny Mesa, Encinitas, or online.</p>
+    <a href='{{< relref "news/adult-intermediate-classes-fall-2026.md" >}}' class="btn btn-cta">Intermediate schedule and tuition</a>
+  </article>
 
-Our Fall session runs for **16 weeks** (15 weeks for Saturday classes) from **August 17th to December 19th, 2026**. We offer in-person classes in Kearny Mesa, new in-person classes in Encinitas (North County) on Friday evenings, and online virtual classes via Zoom. All of our instructors are native Italian speakers (mother tongue).
+  <article class="adult-option-card">
+    <p class="adult-card-kicker">Build fluency</p>
+    <h3 id="advanced">Advanced and conversation</h3>
+    <p>Refine your fluency and advanced grammar while discussing Italian literature, news, and culture in a collaborative setting.</p>
+    <a href='{{< relref "news/adult-advanced-classes-fall-2026.md" >}}' class="btn btn-cta">Advanced schedule and tuition</a>
+  </article>
+</div>
 
-## Detailed Weekly Schedule (All classes 1.5 hours)
+<aside class="adult-help-strip">
+  <div>
+    <strong>Not sure which level fits?</strong>
+    <span>Share your experience and availability, and we’ll help you choose.</span>
+  </div>
+  <a href="https://forms.gle/LHR7Htpeb3mQzV838" class="btn btn-cta">Complete the interest form</a>
+</aside>
 
-| DAY | LEVEL | TEACHER | Time |
-| :--- | :--- | :--- | :--- |
-| **MONDAY** | **Intermediate** | **TBD** | 6:00 PM - 7:30 PM |
-| **MONDAY** | **Intermediate-Advanced** | **TBD** | 6:00 PM - 7:30 PM |
-| **MONDAY** | **Advanced** | **TBD** | 6:00 PM - 7:30 PM |
-| **MONDAY (Online)** | **Beg-Int** | **Tania Adami** | 6:00 PM - 7:30 PM |
-| **TUESDAY** | **Beg-Int** | **TBD** | 5:30 PM - 7:00 PM |
-| **TUESDAY (Online)** | **Intermediate** | **Tania Adami** | 6:00 PM - 7:30 PM |
-| **THURSDAY** | **Beginner** | **TBD** | 6:30 PM - 8:00 PM |
-| **THURSDAY** | **Beg-Int** | **TBD** | 6:30 PM - 8:00 PM |
-| **THURSDAY** | **Conversation** | **TBD** | 6:30 PM - 8:00 PM |
-| **THURSDAY (Online)** | **Beginner** | **Tania Adami** | 6:00 PM - 7:30 PM |
-| **FRIDAY (Encinitas)** | **Beginner** | **TBD** | 6:00 PM - 7:30 PM (13 classes) |
-| **FRIDAY (Encinitas)** | **Intermediate** | **TBD** | 6:00 PM - 7:30 PM (13 classes) |
-| **SATURDAY** | **Beginner** | **TBD** | 10:00 AM - 11:30 AM (15 classes) |
+## North County classes in Encinitas {#encinitas}
 
-Choose your level below to view schedule details, holidays, and enroll online.
+<section class="adult-feature-callout" aria-labelledby="encinitas-details">
+  <div>
+    <p class="adult-card-kicker">New for Fall 2026</p>
+    <h3 id="encinitas-details">Beginner and intermediate Italian on Fridays</h3>
+    <p>Meet at San Dieguito United Methodist Church, <a href="https://maps.google.com/?q=170+Calle+Magdalena,+Encinitas,+CA+92024">170 Calle Magdalena</a>, from <strong>6:00–7:30 PM</strong>, September 18 to December 18 (13 classes).</p>
+    <p><strong>Tuition:</strong> $468 in full or four monthly payments of $128.70.</p>
+  </div>
+  <a href='{{< relref "news/adult-italian-classes-encinitas-north-county-fall-2026.md" >}}' class="btn btn-cta">Encinitas schedule and tuition</a>
+</section>
 
-### Beginner Classes {#beginner}
+## Private and custom classes {#private-custom}
 
-Start your Italian journey with our friendly, hands-on beginner classes! In this session, you'll build a solid foundation in Italian conversation, vocabulary, grammar, and culture—perfect for travel, family connection, or personal enrichment. No prior experience is required. We offer in-person sections (Thursday evening or Saturday morning in Kearny Mesa, Friday evening in Encinitas) and an online section (Thursday evening).
+<div class="adult-option-grid">
+  <article class="adult-option-card">
+    <p class="adult-card-kicker">Personalized</p>
+    <h3 id="private">Private lessons</h3>
+    <p>One-on-one lessons in person or via Zoom, with flexible scheduling, a custom curriculum, and a 24-hour cancellation policy. All levels are welcome.</p>
+    <a href='{{< relref "italian-private-classes.md" >}}' class="adult-text-link">Explore private lessons <span aria-hidden="true">→</span></a>
+  </article>
 
-<div class="tc"><a href='{{< relref "news/adult-beginner-classes-fall-2026.md" >}}' class="btn raise">View Fall Beginner schedule & tuition</a></div>
+  <article class="adult-option-card">
+    <p class="adult-card-kicker">Most flexible · Online only</p>
+    <h3 id="on-demand">Italian On Demand</h3>
+    <p>Book an online private lesson with as little as 12 hours’ notice and pay per session, with no long-term commitment.</p>
+    <a href='{{< relref "italian-on-demand.md" >}}' class="adult-text-link">Explore online lessons <span aria-hidden="true">→</span></a>
+  </article>
 
-### Intermediate & Intermediate-Advanced {#intermediate}
+  <article class="adult-option-card">
+    <p class="adult-card-kicker">For organizations</p>
+    <h3 id="business">Italian for businesses</h3>
+    <p>Custom language and cultural training for your team, delivered in San Diego or online and adapted to your industry.</p>
+    <a href='{{< relref "italian-private-classes-business-san-diego.md" >}}' class="adult-text-link">Explore corporate training <span aria-hidden="true">→</span></a>
+  </article>
 
-For students with at least some prior study who want to expand their grammar, vocabulary, and conversational agility. We offer multiple tracks — including a dedicated Intermediate-Advanced section — in person on Monday, Tuesday, or Thursday in Kearny Mesa, on Friday in Encinitas, and online on Monday or Tuesday.
+  <article class="adult-option-card">
+    <p class="adult-card-kicker">Learn together</p>
+    <h3 id="custom-group">Custom group classes</h3>
+    <p>Create a program for friends, family, or colleagues, online, at our school, or at another location.</p>
+    <a href="/contact" class="adult-text-link">Discuss a custom class <span aria-hidden="true">→</span></a>
+  </article>
+</div>
 
-<div class="tc"><a href='{{< relref "news/adult-intermediate-classes-fall-2026.md" >}}' class="btn raise">View Fall Intermediate & Int-Advanced schedules & tuition</a></div>
+## Policies, discounts, and payment plans {#policies}
 
-### Advanced & Conversation {#advanced}
+<div class="adult-policy-list">
+  <details>
+    <summary id="enrollment-confirmation">Enrollment and confirmation</summary>
+    <p>Classes are confirmed once they meet the minimum required enrollment. If a class is canceled due to low enrollment, we will offer to transfer you to another section or issue a full refund.</p>
+  </details>
+  <details>
+    <summary id="payment-plans">Payment plans</summary>
+    <p>We offer monthly payment plans consisting of <strong>5 payments</strong>. Plans include a 10% administrative fee and are not monthly enrollments. Enrollment commits you to all 5 payments for the full 15- or 16-class course.</p>
+  </details>
+  <details>
+    <summary id="cancellation">Cancellation and refunds</summary>
+    <ul>
+      <li>Full refund if you cancel at least 15 days before the first class.</li>
+      <li>50% refund if you cancel after the first class but before the second class.</li>
+      <li>No refunds after the start of the second class.</li>
+    </ul>
+    <p>To request a cancellation and refund, email <code>admin</code> at our <code>italianschoolsd.com</code> domain.</p>
+  </details>
+  <details>
+    <summary id="family-discount">Family discount</summary>
+    <p>Additional family members enrolling together receive a 10% discount, applied automatically at checkout.</p>
+  </details>
+</div>
 
-Designed for students who can already hold conversations in Italian and want to refine their fluency, master advanced grammar structures, and discuss Italian literature, news, and culture in a collaborative setting.
+## Previous sessions {#previous-sessions}
 
-<div class="tc"><a href='{{< relref "news/adult-advanced-classes-fall-2026.md" >}}' class="btn raise">View Fall Advanced & Conversation schedule & tuition</a></div>
+<div class="adult-archive-links">
+  <a href='{{< relref "news/adult-beginner-classes-summer-2026.md" >}}'>Summer 2026</a>
+  <a href='{{< relref "news/adult-beginner-classes-january-may-2026.md" >}}'>January–May 2026</a>
+  <a href='{{< relref "news/italian-adult-classes-fall-2025.md" >}}'>Fall 2025</a>
+</div>
 
-## North County: Friday classes in Encinitas {#encinitas}
-
-New for Fall 2026: in-person Italian classes for adults in **Encinitas**, at San Dieguito United Methodist Church, [170 Calle Magdalena](https://maps.google.com/?q=170+Calle+Magdalena,+Encinitas,+CA+92024). A beginner and an intermediate section meet **Fridays, 6:00 PM - 7:30 PM**, September 18 to December 18, 2026 (13 classes). Tuition is $468 in full or four monthly payments of $128.70.
-
-<div class="tc"><a href='{{< relref "news/adult-italian-classes-encinitas-north-county-fall-2026.md" >}}' class="btn raise">View Encinitas Friday schedules & tuition</a></div>
-
-## Private & Custom Classes {#private-custom}
-
-### Private Lessons (In-person or via Zoom) {#private}
-
-One-on-one lessons tailored to your specific goals and pace. Enjoy flexible scheduling, custom curriculum design, and a 24-hour cancellation policy. All levels are welcome, from absolute beginner to advanced.
-
-<div class="tc"><a href='{{< relref "italian-private-classes.md" >}}' class="btn raise">Learn more about private lessons</a></div>
-
-### Italian On Demand (Flexible Online Private Lessons) {#on-demand}
-
-Need ultimate flexibility? Book virtual private lessons online via Zoom with as little as 12 hours' notice. Pay per session when it fits your schedule, without any long-term commitment. **Note: Italian On Demand is online only.**
-
-<div class="tc"><a href='{{< relref "italian-on-demand.md" >}}' class="btn raise">Learn more about Italian On Demand</a></div>
-
-### Italian for Businesses {#business}
-
-Custom language and cultural training for your team, delivered in person in San Diego or online via Zoom. We adapt our content to fit your specific industry needs.
-
-<div class="tc"><a href='{{< relref "italian-private-classes-business-san-diego.md" >}}' class="btn raise">Learn more about corporate Italian training</a></div>
-
-### Custom Group Classes {#custom-group}
-
-Interested in learning Italian with a group of friends, family members, or colleagues? We can set up custom group sessions online, at our facility, or at your preferred location. [Contact us!](/contact) to discuss details.
-
-## World languages for adults {#world-languages}
-
-Since 2021, Italian school of San Diego LLC has built a community around language and culture education. We are expanding our adult program beyond Italian to make small, structured, in-person language classes available to more San Diego learners while keeping the same focus on practical communication and community.
-
-Beginning September 15, 2026, we are offering in-person beginner Spanish, German, and English classes on Tuesdays from 6:00 PM to 7:30 PM. The English class is designed for Spanish-speaking adults.
-
-<div class="tc"><a href='/news/2026/08/world-language-classes-san-diego-fall-2026/' class="btn raise">View world language schedules and enrollment</a></div>
-
----
-
-## Previous Sessions {#previous-sessions}
-
-- [Summer 2026]( {{< ref "news/adult-beginner-classes-summer-2026.md" >}} )
-- [January-May 2026]( {{< ref "news/adult-beginner-classes-january-may-2026.md" >}} )
-- [Fall 2025]( {{< ref "news/italian-adult-classes-fall-2025.md" >}} )
-
----
-
-## Policies, Discounts, and Payment Plans {#policies}
-
-### Enrollment & Confirmation {#enrollment-confirmation}
-
-Classes are confirmed once they meet the minimum required enrollment. If a class is canceled due to low enrollment, we will offer to transfer you to another section or issue a full refund.
-
-### Payment Plans (Installments) {#payment-plans}
-
-We offer monthly payment plans consisting of **5 payments** for adult classes. Monthly plans include a 10% administrative fee and are **not monthly enrollments**. If you enroll using a payment plan, you are committing to completing all 5 monthly payments for the full course (15 or 16 classes).
-
-### Cancellation & Refund Policy {#cancellation}
-
-- Full refund if you cancel at least 15 days before the first class.
-- 50% refund if you cancel after the first class but before the second class.
-- No refunds will be issued after the start of the second class.
-
-To request a cancellation and refund, please email `admin` at our domain `italianschoolsd.com`.
-
-### Family Discount {#family-discount}
-
-- 10% discount for all additional family members enrolling together (applied automatically at checkout).
+</div>
