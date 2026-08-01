@@ -23,7 +23,6 @@ subtitle: Italian classes in person across San Diego County and online via Zoom
   <a href='{{< relref "adults.md" >}}#course-levels'>Choose your level</a>
   <a href='{{< relref "adults.md" >}}#encinitas'>Encinitas classes</a>
   <a href='{{< relref "adults.md" >}}#private-custom'>Flexible options</a>
-  <a href='{{< relref "adults.md" >}}#world-languages'>Other languages</a>
   <a href='{{< relref "adults.md" >}}#policies'>Policies and discounts</a>
 </nav>
 
@@ -205,18 +204,6 @@ Scan by day, then use the level guides below for full dates, tuition, holidays, 
     <a href="/contact" class="adult-text-link">Discuss a custom class <span aria-hidden="true">→</span></a>
   </article>
 </div>
-
-## World languages for adults {#world-languages}
-
-<section class="adult-feature-callout adult-feature-callout-language" aria-labelledby="world-language-details">
-  <div>
-    <p class="adult-card-kicker">More ways to learn</p>
-    <h3 id="world-language-details">Beginner Spanish, German, and English</h3>
-    <p>Starting September 15, 2026, small in-person classes meet on Tuesdays from <strong>6:00–7:30 PM</strong>. The English class is designed for Spanish-speaking adults.</p>
-    <p>These programs bring our practical, community-centered approach to languages beyond Italian.</p>
-  </div>
-  <a href="/news/2026/08/world-language-classes-san-diego-fall-2026/" class="btn btn-cta">World language schedules</a>
-</section>
 
 ## Policies, discounts, and payment plans {#policies}
 
