@@ -8,6 +8,8 @@ This page is for students in TK-6th grade. For teens, see our [accredited classe
 
 > **New for 2026-2027:** we are opening a second in-person location in North County. [Italian classes for kids in Encinitas](/italian-classes-encinitas/), Mondays 4:00-6:00 PM.
 
+> **Come meet us in person, Thursday, August 13, 6:00-7:00 PM.** A free one hour info night at [our Kearny Mesa school](/location): see the classrooms, meet us, and ask anything before you enroll. We cover everything from TK to 12th grade, including the accredited middle and high school classes and AP Italian preparation. [See the event](https://www.facebook.com/events/1716300052926552/).
+
 > **Schedule update, July 30, 2026:** Afternoon classes will start August 26 and 27, and the homeschool morning program will start September 2. Enrollment is open through August 21. The number of classes remains unchanged because the scheduled backup week will be used for regular instruction. [Read the full announcement]({{< ref "news/kids-and-teen-italian-classes-postponed-by-one-week.md" >}}).
 
 ## In-Person Afternoon Classes (TK-6) {#afternoon}

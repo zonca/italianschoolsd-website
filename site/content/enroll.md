@@ -9,9 +9,17 @@ See more information about [all the classes we offer]({{< relref "classes.md" >}
 
 > **Schedule update, July 30, 2026:** Afternoon classes will start August 26 and 27, and the homeschool morning program will start September 2. The number of classes remains unchanged. [Read the full announcement]({{< ref "news/kids-and-teen-italian-classes-postponed-by-one-week.md" >}}).
 
-We have openings in every program and age group. Please pre-enroll by **August 21, 2026** to secure a spot.
+We have openings in every program and age group. Please pre-enroll by **August 21, 2026** for the Kearny Mesa classes. The new [Encinitas Monday class](/italian-classes-encinitas/) starts later, on September 14, so pre-enrollment for it stays open until **August 31, 2026**.
 
 No payment is needed at the time of pre-enrollment. We will email you a confirmation of pre-enrollment with the proposed class and tuition details. To finalize enrollment, you will need to pay the invoice attached to the confirmation email within **1 week** after receiving the payment email. Pre-enrollment itself is not binding.
+
+## Come meet us in person: free info night {#info-nights}
+
+Before you decide, come see the classrooms and meet us.
+
+**Thursday, August 13, 6:00-7:00 PM** at [4550 Kearny Villa Rd, Suite 202]({{< relref "location.md" >}}). One hour, free, no obligation. We cover everything from TK to 12th grade, including the accredited middle and high school classes and AP Italian preparation. [See the event on Facebook](https://www.facebook.com/events/1716300052926552/).
+
+If you cannot make that evening, call us at **(619) 800-0797** or [send us a message]({{< relref "contact.md" >}}) and we will answer your questions just as happily.
 
 Enrolling in our new **Encinitas** Monday class? The tuition below applies to the Kearny Mesa classes. The North County year is 29 classes instead of 33, so it has [its own tuition table](/italian-classes-encinitas/#tuition).
 

@@ -84,6 +84,8 @@ We recommend paying by [Zelle]({{< relref "zelle.md" >}}) to avoid credit card f
 
 ## How to pre-enroll your child {#enroll}
 
+**Pre-enrollment closes Monday, August 31, 2026.** This class starts later than our Kearny Mesa classes, so it has its own, later deadline.
+
 1. Fill out the pre-enrollment form below and choose **"NEW! In-person Italian classes for kids (TK-5th) in Encinitas"**.
 2. We email you a confirmation with the assigned class and an invoice.
 3. Pay the invoice within one week to secure the spot.
