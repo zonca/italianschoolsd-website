@@ -9,7 +9,7 @@ This page is for students in TK-6th grade. For teens, see our [accredited classe
 > **New for 2026-2027:** we are opening a second in-person location in North County. [Italian classes for kids in Encinitas](/italian-classes-encinitas/), Mondays 4:00-6:00 PM.
 
 {{< infonight location="Kearny Mesa" date="Thursday, August 13, 2026" time="6:00-7:00 PM" address="4550 Kearny Villa Rd, Suite 202, San Diego" parking="Free parking in the lot, right next to building 4550" accent="green" link="https://www.facebook.com/events/1716300052926552/" linkText="RSVP on Facebook" >}}
-See the classrooms, meet us, and ask anything before you enroll. We cover everything from TK to 12th grade, including the accredited middle and high school classes and AP Italian preparation. Free and one hour. Please RSVP on Facebook so we know how many chairs to set out.
+See the classrooms, meet us, and ask anything before you enroll. We cover everything from TK to 12th grade, including the accredited middle and high school classes and AP Italian preparation. Free and one hour. Please RSVP on Facebook so we know how many chairs to set out, or email info@italianschoolsd.com if you are not on Facebook.
 
 There is a [second info night in Encinitas](/infonight/) on Tuesday, August 25.
 {{< /infonight >}}

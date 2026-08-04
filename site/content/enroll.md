@@ -15,7 +15,7 @@ No payment is needed at the time of pre-enrollment. We will email you a confirma
 
 ## Come meet us in person: free info nights {#info-nights}
 
-Before you decide, come see the classrooms and meet us. One hour each, free and no obligation. Please RSVP on Facebook so we know how many chairs to set out.
+Before you decide, come see the classrooms and meet us. One hour each, free and no obligation. Please RSVP on Facebook so we know how many chairs to set out, or email info@italianschoolsd.com if you are not on Facebook.
 
 {{< infonight location="Kearny Mesa" date="Thursday, August 13, 2026" time="6:00-7:00 PM" address="4550 Kearny Villa Rd, Suite 202, San Diego" parking="Free parking in the lot, right next to building 4550" accent="green" link="https://www.facebook.com/events/1716300052926552/" linkText="RSVP on Facebook" >}}
 For the Wednesday and Thursday afternoon classes and the homeschool morning program. We cover everything from TK to 12th grade, including the accredited middle and high school classes and AP Italian preparation.

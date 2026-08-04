@@ -22,7 +22,9 @@ For the new Monday afternoon classes in North County, TK to 5th grade.
 
 We will show you the classrooms your child would actually sit in, introduce ourselves, and then answer questions for as long as you have them. Nothing is presented at you, and nothing is sold: this is an evening for parents, and most of it is conversation.
 
-**Both evenings are free. Please RSVP on Facebook** so we know how many chairs to set out and how many people to expect: [Kearny Mesa, August 13](https://www.facebook.com/events/1716300052926552/) and [Encinitas, August 25](https://www.facebook.com/events/1032345532982984/).
+**Both evenings are free. Please RSVP on Facebook** so we know how many chairs to set out: [Kearny Mesa, August 13](https://www.facebook.com/events/1716300052926552/) and [Encinitas, August 25](https://www.facebook.com/events/1032345532982984/).
+
+Not on Facebook? Email us at [info@italianschoolsd.com](mailto:info@italianschoolsd.com) with the evening you plan to come to, and that is your RSVP.
 
 ## The dates that follow {#deadlines}
 
