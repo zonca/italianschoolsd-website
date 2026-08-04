@@ -1,0 +1,20 @@
+{{- /* One free info night. Takes the accent from the location so the two
+       evenings read as a pair without being identical: green for Kearny
+       Mesa, blue for Encinitas, matching the map pins in the video ad. */ -}}
+{{- /* The accent class is written out in full rather than assembled from the
+       parameter: PurgeCSS scans this file for literal class names, and a
+       concatenated "info-night-{{ $accent }}" would leave the colour rules
+       stripped from the production stylesheet. */ -}}
+{{- $accent := cond (eq (.Get "accent") "blue") "info-night-blue" "info-night-green" -}}
+<div class="info-night {{ $accent }}">
+  <p class="info-night-kicker">Free info night</p>
+  <p class="info-night-where">{{ .Get "location" }}</p>
+  <p class="info-night-when">{{ .Get "date" }}, {{ .Get "time" }}</p>
+  <p class="info-night-address">{{ .Get "address" }}</p>
+  <div class="info-night-body">
+    {{ .Inner | markdownify }}
+  </div>
+  {{- with .Get "link" }}
+  <p class="info-night-link"><a href="{{ . }}">{{ $.Get "linkText" | default "More about this evening" }}</a></p>
+  {{- end }}
+</div>

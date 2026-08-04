@@ -285,3 +285,72 @@
     box-shadow: inset 0 -4px 0 var(--primary);
   }
 }
+
+/* Free info nights.
+
+   A panel rather than a blockquote: the class pages already carry two or
+   three blockquote notices (schedule changes, the new North County
+   location) and a dated evening that a parent has to physically show up
+   to needs to outrank them. The date is the largest thing in the box
+   because it is the only part anyone has to remember. */
+.info-night {
+  background: linear-gradient(135deg, var(--white), var(--grey-1));
+  border: 1px solid var(--grey-2);
+  border-left: 6px solid var(--primary);
+  border-radius: 0.5rem;
+  box-shadow: 0 10px 24px rgba(43, 37, 35, 0.09);
+  margin: var(--spacing-medium) 0;
+  padding: 1.25rem 1.4rem;
+}
+
+.info-night-green {
+  border-left-color: #009246;
+}
+
+.info-night-blue {
+  border-left-color: var(--primary);
+}
+
+.info-night p {
+  margin: 0;
+}
+
+.info-night-kicker {
+  color: #ce2b37;
+  font-size: 0.75rem;
+  font-weight: 800;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+}
+
+.info-night-where {
+  font-size: 1.35rem;
+  font-weight: 800;
+  line-height: 1.2;
+  margin-top: 0.35rem !important;
+}
+
+.info-night-when {
+  color: var(--primary);
+  font-size: 1.15rem;
+  font-weight: 700;
+  margin-top: 0.2rem !important;
+}
+
+.info-night-address {
+  color: var(--grey-4);
+  margin-top: 0.15rem !important;
+}
+
+.info-night-body {
+  margin-top: 0.7rem;
+}
+
+.info-night-body p {
+  margin-bottom: 0.5rem;
+}
+
+.info-night-link {
+  font-weight: 700;
+  margin-top: 0.6rem !important;
+}
