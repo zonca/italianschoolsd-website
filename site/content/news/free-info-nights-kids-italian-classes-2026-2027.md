@@ -10,11 +10,11 @@ image: /flyers/italianschoolsd-flyer-italian-2026-2027-kids.png
 
 Choosing a language school for your child from a website is hard. So before the year starts we are opening both of our locations for an evening, one hour each, and you can simply walk in.
 
-{{< infonight location="Kearny Mesa" date="Thursday, August 13, 2026" time="6:00-7:00 PM" address="4550 Kearny Villa Rd, Suite 202, San Diego" parking="Free parking in the lot, right next to building 4550" accent="green" link="https://www.facebook.com/events/1716300052926552/" linkText="See the event on Facebook" >}}
+{{< infonight location="Kearny Mesa" date="Thursday, August 13, 2026" time="6:00-7:00 PM" address="4550 Kearny Villa Rd, Suite 202, San Diego" parking="Free parking in the lot, right next to building 4550" accent="green" link="https://www.facebook.com/events/1716300052926552/" linkText="RSVP on Facebook" >}}
 For the Wednesday and Thursday afternoon classes and the homeschool morning program. We cover everything from TK to 12th grade here, including the accredited middle and high school classes and AP Italian preparation.
 {{< /infonight >}}
 
-{{< infonight location="Encinitas" date="Tuesday, August 25, 2026" time="6:00-7:00 PM" address="Room 11/12, San Dieguito United Methodist Church, 170 Calle Magdalena" parking="Ample free parking on site, right next to the classrooms" accent="blue" link="/italian-classes-encinitas/" linkText="About the Encinitas classes" >}}
+{{< infonight location="Encinitas" date="Tuesday, August 25, 2026" time="6:00-7:00 PM" address="Room 11/12, San Dieguito United Methodist Church, 170 Calle Magdalena" parking="Ample free parking on site, right next to the classrooms" accent="blue" link="https://www.facebook.com/events/1032345532982984/" linkText="RSVP on Facebook" >}}
 For the new Monday afternoon classes in North County, TK to 5th grade.
 {{< /infonight >}}
 
@@ -22,9 +22,7 @@ For the new Monday afternoon classes in North County, TK to 5th grade.
 
 We will show you the classrooms your child would actually sit in, introduce ourselves, and then answer questions for as long as you have them. Nothing is presented at you, and nothing is sold: this is an evening for parents, and most of it is conversation.
 
-The questions we get asked most are how we place a child who has never heard a word of Italian, how the accredited high school credit works, and what a two hour class really looks like for a five year old. Bring those, or bring your own.
-
-**No sign-up, no obligation, and both evenings are free.** Just come.
+**Both evenings are free. Please RSVP on Facebook** so we know how many chairs to set out and how many people to expect: [Kearny Mesa, August 13](https://www.facebook.com/events/1716300052926552/) and [Encinitas, August 25](https://www.facebook.com/events/1032345532982984/).
 
 ## The dates that follow {#deadlines}
 
