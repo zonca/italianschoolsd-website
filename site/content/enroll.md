@@ -13,13 +13,15 @@ We have openings in every program and age group. Please pre-enroll by **August 2
 
 No payment is needed at the time of pre-enrollment. We will email you a confirmation of pre-enrollment with the proposed class and tuition details. To finalize enrollment, you will need to pay the invoice attached to the confirmation email within **1 week** after receiving the payment email. Pre-enrollment itself is not binding.
 
-## Come meet us in person: free info night {#info-nights}
+## Come meet us in person: free info nights {#info-nights}
 
-Before you decide, come see the classrooms and meet us.
+Before you decide, come see the classrooms and meet us. One hour, free, no obligation, at each location.
 
-**Thursday, August 13, 6:00-7:00 PM** at [4550 Kearny Villa Rd, Suite 202]({{< relref "location.md" >}}). One hour, free, no obligation. We cover everything from TK to 12th grade, including the accredited middle and high school classes and AP Italian preparation. [See the event on Facebook](https://www.facebook.com/events/1716300052926552/).
+**Kearny Mesa: Thursday, August 13, 6:00-7:00 PM** at [4550 Kearny Villa Rd, Suite 202]({{< relref "location.md" >}}). We cover everything from TK to 12th grade, including the accredited middle and high school classes and AP Italian preparation. [See the event on Facebook](https://www.facebook.com/events/1716300052926552/).
 
-If you cannot make that evening, call us at **(619) 800-0797** or [send us a message]({{< relref "contact.md" >}}) and we will answer your questions just as happily.
+**Encinitas: Tuesday, August 25, 6:00-7:00 PM**, Room 11/12 at San Dieguito United Methodist Church, 170 Calle Magdalena. For the new [Monday kids class in North County](/italian-classes-encinitas/#info-night).
+
+If you cannot make either evening, call us at **(619) 800-0797** or [send us a message]({{< relref "contact.md" >}}) and we will answer your questions just as happily.
 
 Enrolling in our new **Encinitas** Monday class? The tuition below applies to the Kearny Mesa classes. The North County year is 29 classes instead of 33, so it has [its own tuition table](/italian-classes-encinitas/#tuition).
 

@@ -14,9 +14,18 @@ Several families in North County told us the same thing: the drive down to Kearn
 Children are grouped by age into two small classes, each led by its own native Italian teacher. **No previous knowledge of Italian is required.**
 
 <div class="tc">
+<a href="#info-night" class="btn raise">Come to our free info night</a>
 <a href="#enroll" class="btn raise">Pre-enroll your child</a>
 <a href="#adults" class="btn raise">Adult classes on Fridays</a>
 </div>
+
+## Come meet us in person: Tuesday, August 25 {#info-night}
+
+Before you decide, come see the classrooms and meet us.
+
+**Tuesday, August 25, 2026, 6:00-7:00 PM**, in Room 11/12 at [San Dieguito United Methodist Church](#location), 170 Calle Magdalena, Encinitas. One hour, free, no obligation, no need to sign up. This is an evening for parents: we will show you the two classrooms the children use, explain how we place a child who has never heard a word of Italian, and answer whatever you want to ask.
+
+If you cannot make that evening, call us at **(619) 800-0797** or [send us a message]({{< relref "contact.md" >}}).
 
 ## Italian classes for kids: two classes, grouped by age {#classes}
 
@@ -84,7 +93,7 @@ We recommend paying by [Zelle]({{< relref "zelle.md" >}}) to avoid credit card f
 
 ## How to pre-enroll your child {#enroll}
 
-**Pre-enrollment closes Monday, August 31, 2026.** This class starts later than our Kearny Mesa classes, so it has its own, later deadline.
+**Pre-enrollment closes Monday, August 31, 2026.** This class starts later than our Kearny Mesa classes, so it has its own, later deadline. That leaves you the rest of the week after the [August 25 info night](#info-night) to decide.
 
 1. Fill out the pre-enrollment form below and choose **"NEW! In-person Italian classes for kids (TK-5th) in Encinitas"**.
 2. We email you a confirmation with the assigned class and an invoice.
