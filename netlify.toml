@@ -28,3 +28,18 @@
   for = "/fonts/*"
   [headers.values]
     Cache-Control = "public, max-age=31536000, immutable"
+
+# /infonight is printed on the video ad and given out over the phone, so it
+# gets a real 301 rather than Hugo's meta-refresh alias page, which flashes a
+# blank frame first. Hugo still emits the alias; this rule runs before it.
+[[redirects]]
+  from = "/infonight"
+  to = "/news/2026/08/free-info-nights-kids-italian-classes-2026-2027/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/infonight/"
+  to = "/news/2026/08/free-info-nights-kids-italian-classes-2026-2027/"
+  status = 301
+  force = true
