@@ -5,7 +5,7 @@ url: "/news/2026/08/free-info-nights-kids-italian-classes-2026-2027/"
 aliases:
     - /infonight
 description: Two free one hour evenings for parents before the 2026-2027 year starts. Kearny Mesa on Thursday, August 13, and Encinitas on Tuesday, August 25, both 6:00-7:00 PM.
-image: /flyers/italianschoolsd-flyer-italian-2026-2027-kids.png
+image: /img/garda-spring.jpg
 ---
 
 Choosing a language school for your child from a website is hard. So before the year starts we are opening both of our locations for an evening, one hour each, and you can simply walk in.
