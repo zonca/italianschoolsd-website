@@ -21,8 +21,8 @@ Children are grouped by age into two small classes, each led by its own native I
 
 ## Come meet us in person: Tuesday, August 25 {#info-night}
 
-{{< infonight location="Encinitas" date="Tuesday, August 25, 2026" time="6:00-7:00 PM" address="Room 11/12, San Dieguito United Methodist Church, 170 Calle Magdalena" accent="blue" link="/infonight/" linkText="Both info nights, and what happens at one" >}}
-One hour, free, no obligation, no need to sign up. This is an evening for parents: we will show you the two classrooms the children use, explain how we place a child who has never heard a word of Italian, and answer whatever you want to ask. There is [ample free parking on site](#location).
+{{< infonight location="Encinitas" date="Tuesday, August 25, 2026" time="6:00-7:00 PM" address="Room 11/12, San Dieguito United Methodist Church, 170 Calle Magdalena" parking="Ample free parking on site, right next to the classrooms" accent="blue" link="/infonight/" linkText="Both info nights, and what happens at one" >}}
+One hour, free, no obligation, no need to sign up. This is an evening for parents: we will show you the two classrooms the children use, explain how we place a child who has never heard a word of Italian, and answer whatever you want to ask.
 {{< /infonight >}}
 
 It falls six days before pre-enrollment closes on August 31, so you can come, look, and still have the rest of the week to decide.

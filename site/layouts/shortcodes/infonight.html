@@ -11,6 +11,12 @@
   <p class="info-night-where">{{ .Get "location" }}</p>
   <p class="info-night-when">{{ .Get "date" }}, {{ .Get "time" }}</p>
   <p class="info-night-address">{{ .Get "address" }}</p>
+  {{- /* Parking gets its own line rather than a clause inside the body: it is
+         the first thing a parent worries about on a weekday at 6pm, and both
+         locations happen to have an easy answer. */}}
+  {{- with .Get "parking" }}
+  <p class="info-night-parking">{{ . }}</p>
+  {{- end }}
   <div class="info-night-body">
     {{ .Inner | markdownify }}
   </div>

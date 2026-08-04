@@ -10,12 +10,12 @@ image: /flyers/italianschoolsd-flyer-italian-2026-2027-kids.png
 
 Choosing a language school for your child from a website is hard. So before the year starts we are opening both of our locations for an evening, one hour each, and you can simply walk in.
 
-{{< infonight location="Kearny Mesa" date="Thursday, August 13, 2026" time="6:00-7:00 PM" address="4550 Kearny Villa Rd, Suite 202, San Diego" accent="green" link="https://www.facebook.com/events/1716300052926552/" linkText="See the event on Facebook" >}}
+{{< infonight location="Kearny Mesa" date="Thursday, August 13, 2026" time="6:00-7:00 PM" address="4550 Kearny Villa Rd, Suite 202, San Diego" parking="Free parking in the lot, right next to building 4550" accent="green" link="https://www.facebook.com/events/1716300052926552/" linkText="See the event on Facebook" >}}
 For the Wednesday and Thursday afternoon classes and the homeschool morning program. We cover everything from TK to 12th grade here, including the accredited middle and high school classes and AP Italian preparation.
 {{< /infonight >}}
 
-{{< infonight location="Encinitas" date="Tuesday, August 25, 2026" time="6:00-7:00 PM" address="Room 11/12, San Dieguito United Methodist Church, 170 Calle Magdalena" accent="blue" link="/italian-classes-encinitas/" linkText="About the Encinitas classes" >}}
-For the new Monday afternoon classes in North County, TK to 5th grade. There is ample free parking on site.
+{{< infonight location="Encinitas" date="Tuesday, August 25, 2026" time="6:00-7:00 PM" address="Room 11/12, San Dieguito United Methodist Church, 170 Calle Magdalena" parking="Ample free parking on site, right next to the classrooms" accent="blue" link="/italian-classes-encinitas/" linkText="About the Encinitas classes" >}}
+For the new Monday afternoon classes in North County, TK to 5th grade.
 {{< /infonight >}}
 
 ## What happens {#what-happens}

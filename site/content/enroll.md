@@ -17,11 +17,11 @@ No payment is needed at the time of pre-enrollment. We will email you a confirma
 
 Before you decide, come see the classrooms and meet us. One hour each, free, no obligation, no need to sign up.
 
-{{< infonight location="Kearny Mesa" date="Thursday, August 13, 2026" time="6:00-7:00 PM" address="4550 Kearny Villa Rd, Suite 202, San Diego" accent="green" >}}
+{{< infonight location="Kearny Mesa" date="Thursday, August 13, 2026" time="6:00-7:00 PM" address="4550 Kearny Villa Rd, Suite 202, San Diego" parking="Free parking in the lot, right next to building 4550" accent="green" >}}
 For the Wednesday and Thursday afternoon classes and the homeschool morning program. We cover everything from TK to 12th grade, including the accredited middle and high school classes and AP Italian preparation.
 {{< /infonight >}}
 
-{{< infonight location="Encinitas" date="Tuesday, August 25, 2026" time="6:00-7:00 PM" address="Room 11/12, San Dieguito United Methodist Church, 170 Calle Magdalena" accent="blue" >}}
+{{< infonight location="Encinitas" date="Tuesday, August 25, 2026" time="6:00-7:00 PM" address="Room 11/12, San Dieguito United Methodist Church, 170 Calle Magdalena" parking="Ample free parking on site, right next to the classrooms" accent="blue" >}}
 For the new Monday afternoon classes in North County, TK to 5th grade.
 {{< /infonight >}}
 
