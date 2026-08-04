@@ -17,13 +17,15 @@ No payment is needed at the time of pre-enrollment. We will email you a confirma
 
 Before you decide, come see the classrooms and meet us. One hour each, free, no obligation, no need to sign up.
 
-{{< infonight location="Kearny Mesa" date="Thursday, August 13, 2026" time="6:00-7:00 PM" address="4550 Kearny Villa Rd, Suite 202, San Diego" accent="green" link="https://www.facebook.com/events/1716300052926552/" linkText="See the event on Facebook" >}}
+{{< infonight location="Kearny Mesa" date="Thursday, August 13, 2026" time="6:00-7:00 PM" address="4550 Kearny Villa Rd, Suite 202, San Diego" accent="green" >}}
 For the Wednesday and Thursday afternoon classes and the homeschool morning program. We cover everything from TK to 12th grade, including the accredited middle and high school classes and AP Italian preparation.
 {{< /infonight >}}
 
-{{< infonight location="Encinitas" date="Tuesday, August 25, 2026" time="6:00-7:00 PM" address="Room 11/12, San Dieguito United Methodist Church, 170 Calle Magdalena" accent="blue" link="/italian-classes-encinitas/#info-night" linkText="More about the Encinitas evening" >}}
+{{< infonight location="Encinitas" date="Tuesday, August 25, 2026" time="6:00-7:00 PM" address="Room 11/12, San Dieguito United Methodist Church, 170 Calle Magdalena" accent="blue" >}}
 For the new Monday afternoon classes in North County, TK to 5th grade.
 {{< /infonight >}}
+
+[What happens at an info night]({{< relref "news/free-info-nights-kids-italian-classes-2026-2027.md" >}}), and how to find us.
 
 If you cannot make either evening, call us at **(619) 800-0797** or [send us a message]({{< relref "contact.md" >}}) and we will answer your questions just as happily.
 
