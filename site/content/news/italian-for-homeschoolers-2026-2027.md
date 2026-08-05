@@ -43,13 +43,39 @@ A second 16-class session will start the following week (**January 27, 2027**) a
 
 Italian school of San Diego in Kearny Mesa: [4550 Kearny Villa Rd Suite 202](https://goo.gl/maps/KqGhZAXJfkkLLsvYA)
 
-## Notice for Pacific Coast Academy families
+## Using charter funds {#charter}
 
-If you are enrolled in the Pacific Coast Academy homeschool program, please fill the pre-enrollment form and specify your program in the notes. Then, submit an order through the Pacific Coast Academy catalog. We will confirm your enrollment upon receiving the order from Pacific Coast Academy.
+We are an approved vendor for the 2026-2027 school year with both:
 
-## Private Italian classes
+* [Pacific Coast Academy](https://pacificcoastacademy.org/)
+* [SoCal Scholars Academy](https://socalscholarsacademy.net/)
 
-We also offer private Italian classes online or in-person, tailored to your level and interests. Please [contact us]({{< relref "contact.md" >}}) for more information.
+Both our group classes and our private lessons are on our approved list of services, so charter funds can cover either.
+
+If you are enrolled with one of them, fill the pre-enrollment form above and name your charter in the notes, then submit an order through your charter's catalog. We confirm your enrollment when the order reaches us.
+
+If your child attends a different charter, [contact us]({{< relref "contact.md" >}}). We can apply to become vendors.
+
+## Come meet us first {#info-nights}
+
+Before you decide, come to one of our two free info nights. One hour, no obligation, and the Kearny Mesa evening covers this morning program:
+
+* **Kearny Mesa:** Thursday, August 13, 2026, 6:00-7:00 PM, 4550 Kearny Villa Rd, Suite 202
+* **Encinitas:** Tuesday, August 25, 2026, 6:00-7:00 PM, San Dieguito United Methodist Church
+
+Please RSVP so we know how many chairs to set out, on Facebook or by emailing [info@italianschoolsd.com](mailto:info@italianschoolsd.com).
+
+<div class="tc">
+<a href='{{< relref "news/free-info-nights-kids-italian-classes-2026-2027.md" >}}' class="btn raise">Both info nights: addresses, parking, and how to RSVP</a>
+</div>
+
+## Other ways to learn Italian with us {#other-options}
+
+The Wednesday morning program is not the only option for a homeschool family, and charter funds apply to these too:
+
+* **Wednesday afternoons, 4:00-6:00 PM** in Kearny Mesa, TK-6th grade, from August 26. See [Italian classes for kids]({{< relref "classes.md" >}}).
+* **Monday afternoons, 4:00-6:00 PM** in Encinitas, TK-5th grade, from September 14. See [Italian classes in Encinitas]({{< relref "italian-classes-encinitas.md" >}}).
+* **Private lessons**, at either of our two locations, at your own home, or online. See [private Italian lessons]({{< relref "italian-private-classes.md" >}}).
 
 ## Please share with friends
 
