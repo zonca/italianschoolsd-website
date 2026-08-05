@@ -51,7 +51,7 @@ For 2026-2027, the Kearny Mesa morning program meets **Wednesdays, 10am-12pm** a
 * Session 1: **September 2, 2026-January 20, 2027**
 * Session 2: **January 27-May 19, 2027**
 
-The Italian School is a vendor for [Pacific Coast Academy](https://pacificcoastacademy.org/), so you can use charter funds to pay for our classes. If your child is enrolled in another charter, please contact us; we can apply to become vendors.
+The Italian School is an approved vendor for [Pacific Coast Academy](https://pacificcoastacademy.org/) and [SoCal Scholars Academy](https://socalscholarsacademy.net/), so you can use charter funds to pay for our classes, group or private. If your child is enrolled in another charter, please contact us; we can apply to become vendors.
 
 ## Italian for Spanish Speakers (TK-6) {#spanish-speakers}
 

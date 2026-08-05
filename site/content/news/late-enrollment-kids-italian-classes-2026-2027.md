@@ -41,7 +41,7 @@ Tuition covers **33 weeks of instruction**, from August through May:
 
 An **8-payment plan** and a **sibling discount** are available. See [payment details and cancellation policy](/tuition-payment).
 
-The morning homeschool program is priced per 16-class session. We are a vendor for [Pacific Coast Academy](https://pacificcoastacademy.org/), so charter funds can be used for our classes. If your child attends another charter, [contact us](/contact) and we can apply to become vendors.
+The morning homeschool program is priced per 16-class session. We are an approved vendor for [Pacific Coast Academy](https://pacificcoastacademy.org/) and [SoCal Scholars Academy](https://socalscholarsacademy.net/), so charter funds can be used for our classes. If your child attends another charter, [contact us](/contact) and we can apply to become vendors.
 
 ## How to enroll {#enroll}
 

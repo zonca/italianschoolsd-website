@@ -16,9 +16,9 @@ Whether you're a complete beginner or looking to polish your conversational skil
 
 ## Why Choose Private Lessons? {#why-private}
 
-- **All levels welcome** — absolute beginner, intermediate, or advanced. We meet you where you are.
-- **Flexible scheduling** — choose the day and time that works best for you, and reschedule when life gets in the way.
-- **In-person or online** — meet your teacher at our San Diego location ([4550 Kearny Villa Rd Suite 202]({{< ref "location.md" >}})), at your home, or connect from anywhere via Zoom.
+- **All levels welcome** — new beginner, intermediate, or advanced. We meet you where you are.
+- **Flexible scheduling** — choose the day and time that works best for you, and reschedule when life gets in the way. Daytime slots are available, which suits homeschool families.
+- **In-person or online** — meet your teacher at either of our two locations ([4550 Kearny Villa Rd Suite 202]({{< ref "location.md" >}}) in Kearny Mesa, or [San Dieguito United Methodist Church]({{< relref "italian-classes-encinitas.md" >}}) in Encinitas), at your home, or connect from anywhere via Zoom.
 - **Custom content** — preparing for a trip to Italy, studying for a certification, reconnecting with family heritage, or just learning for fun? We build the curriculum around you.
 - **Native Italian instructors** — every teacher on our staff is a native Italian speaker with hands-on experience teaching adults at all proficiency levels.
 
@@ -29,6 +29,14 @@ Whether you're a complete beginner or looking to polish your conversational skil
 1. **Fill out the interest form** — tell us about your goals, current level, and scheduling preferences.
 2. **We match you with a teacher** — based on your needs and availability, we pair you with the right instructor.
 3. **Start learning** — begin with a lesson plan designed just for you. Adjust the pace, topics, and focus at any time.
+
+---
+
+## Charter school families {#charter}
+
+Private lessons are on our approved list of services for both [Pacific Coast Academy](https://pacificcoastacademy.org/) and [SoCal Scholars Academy](https://socalscholarsacademy.net/), for TK through 12th grade, so charter funds can cover them: online, at either of our locations, or at your own home.
+
+Fill out the interest form, name your charter, and then submit an order through your charter's catalog. If your child attends a different charter, [contact us](/contact) and we can apply to become vendors.
 
 ---
 
