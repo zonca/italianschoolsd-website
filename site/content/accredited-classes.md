@@ -31,7 +31,7 @@ Some levels meet on a fixed in-person schedule at our [Kearny Mesa location]({{<
 
 For students learning Italian as a foreign language. Lessons use a conversation-first approach focused on real conversation and everyday situations, building speaking confidence alongside grammar, vocabulary, reading, and writing.
 
-* **Italian 5-6 (Foreign Language Track):** Wednesdays, **4:00-6:00pm**, in person, **August 26, 2026-May 19, 2027**. *(Note: This Wednesday 4:00–6:00pm class is specifically for foreign-language learners in their 3rd year of Italian study. It is NOT for heritage/native speakers.)*
+* **Italian 5-6 (Foreign Language Track):** Wednesdays, **4:00-6:00pm**, in person, **August 26, 2026-May 19, 2027**. *(Note: This Wednesday 4:00–6:00pm class is specifically for foreign-language learners in their 3rd year of Italian study.)*
 * **Italian 1-2** (*for beginners*)**, 3-4, and 7-8 & AP Preparation:** flexible schedule, arranged with enrolled students (online or in-person). *[See AP Italian page](/ap-italian-san-diego) for 7-8 & AP and [Private AP Preparation]({{< ref "private-ap-italian-prep.md" >}}).*
 
 ### Italian for Italian Speakers (For Heritage / Native Speakers) {#italian-speakers}

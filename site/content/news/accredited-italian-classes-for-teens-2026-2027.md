@@ -18,7 +18,7 @@ The Italian School of San Diego LLC is accredited by San Diego Unified and San D
 We offer two distinct accredited tracks for middle and high school students:
 
 **1. Italian as a Foreign Language (for non-native / foreign language learners):** a conversation-first approach focused on real conversation and everyday situations.
-* **Italian 5-6 (Foreign Language Track):** Wednesdays, **4:00-6:00pm**, in person, **August 26, 2026-May 19, 2027**. *(Note: This Wednesday 4:00–6:00pm class is specifically for foreign-language learners in their 3rd year of Italian study. It is NOT for heritage/native speakers.)*
+* **Italian 5-6 (Foreign Language Track):** Wednesdays, **4:00-6:00pm**, in person, **August 26, 2026-May 19, 2027**. *(Note: This Wednesday 4:00–6:00pm class is specifically for foreign-language learners in their 3rd year of Italian study.)*
 * **Italian 1-2, 3-4, and 7-8/AP Preparation:** flexible schedule, arranged with enrolled students.
 
 **2. Italian for Italian Speakers (for heritage / bilingual speakers):** as they progress, students follow the literature program taught in Italian high schools, reading Dante's *Divina Commedia*, Boccaccio's *Decameron*, Manzoni's *I Promessi Sposi*, and Homer's *Iliad* and *Odyssey*.
