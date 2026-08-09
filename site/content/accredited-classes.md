@@ -19,20 +19,26 @@ For more information, see:
 
 ## Class Levels and Schedule {#schedule}
 
-We offer two tracks: **Italian as a Foreign Language** (for new learners) and **Italian for Italian Speakers** (for heritage speakers). Some levels meet on a fixed in-person schedule at our [Kearny Mesa location]({{< relref "location.md" >}}); others have a **flexible schedule** that we arrange together with the enrolled students — just [email us](/contact) your preferred day, time, and format (online or in-person).
+We offer two distinct accredited tracks for middle and high school students:
+1. **Italian as a Foreign Language (IFL)** — for non-native learners (students learning Italian as a new/second language).
+2. **Italian for Italian Speakers (Heritage)** — for heritage/native speakers who already speak fluent Italian at home.
 
-### Italian as a Foreign Language {#foreign-language}
+Some levels meet on a fixed in-person schedule at our [Kearny Mesa location]({{< relref "location.md" >}}); others have a **flexible schedule** that we arrange together with the enrolled students — just [email us](/contact) your preferred day, time, and format (online or in-person).
 
-For students new to Italian. Lessons use a conversation-first approach focused on real conversation and everyday situations, building speaking confidence alongside grammar, vocabulary, reading, and writing.
+> **Important Track Distinction:** Wednesday afternoon classes are for **Italian as a Foreign Language** (non-native learners). Thursday afternoon classes are for **Italian for Italian Speakers** (heritage speakers).
 
-* **Italian 5-6:** Wednesdays, **4:00-6:00pm**, in person, **August 26, 2026-May 19, 2027**.
+### Italian as a Foreign Language (For Non-Native Learners) {#foreign-language}
+
+For students learning Italian as a foreign language. Lessons use a conversation-first approach focused on real conversation and everyday situations, building speaking confidence alongside grammar, vocabulary, reading, and writing.
+
+* **Italian 5-6 (Foreign Language Track):** Wednesdays, **4:00-6:00pm**, in person, **August 26, 2026-May 19, 2027**. *(Note: This Wednesday 4:00–6:00pm class is specifically for foreign-language learners in their 3rd year of Italian study. It is NOT for heritage/native speakers.)*
 * **Italian 1-2** (*for beginners*)**, 3-4, and 7-8 & AP Preparation:** flexible schedule, arranged with enrolled students (online or in-person). *[See AP Italian page](/ap-italian-san-diego) for 7-8 & AP and [Private AP Preparation]({{< ref "private-ap-italian-prep.md" >}}).*
 
-### Italian for Italian Speakers {#italian-speakers}
+### Italian for Italian Speakers (For Heritage / Native Speakers) {#italian-speakers}
 
 For heritage speakers who are already fluent. As they progress, students follow the literature program taught in Italian high schools, reading and discussing Dante's *Divina Commedia*, Boccaccio's *Decameron*, Manzoni's *I Promessi Sposi*, and Homer's *Iliad* and *Odyssey*, alongside grammar, composition, and culture.
 
-* **Italian 1-2, 3-4, and 5-6:** Thursdays, **4:15-6:15pm**, in person, **August 27, 2026-May 20, 2027**. *(Classes are divided by level.)*
+* **Italian 1-2, 3-4, and 5-6 (Heritage Track):** Thursdays, **4:15-6:15pm**, in person, **August 27, 2026-May 20, 2027**. *(Classes are divided by level for heritage speakers.)*
 * **Italian 7-8 & AP Preparation:** flexible schedule, arranged with enrolled students (online or in-person). *[See AP Italian page](/ap-italian-san-diego) and [Private AP Preparation]({{< ref "private-ap-italian-prep.md" >}}).*
 
 Students with prior Italian study may test into a higher level than 1-2. Please indicate this on the pre-enrollment form or contact us in advance. *(Note: Direct enrollment into levels above 1-2 requires a [curriculum alignment fee](/enroll-accredited#alignment-fee).)* Note: if a student enrolls in, for example, Italian 5-6 during high school, they will receive three years of foreign language credit. Credit is tied to the class level, not the number of years attended.
