@@ -7,7 +7,7 @@ const { _test } = require('../../netlify/functions/create-checkout-session');
 const ORIGIN = 'https://www.italianschoolsd.com';
 
 test('pay-in-full checkout does not include recurring data or manual promotion codes', () => {
-  const selectedClass = CLASSES['fall-2026-thu-beg'];
+  const selectedClass = CLASSES['fall-2026-wed-beg'];
   const params = _test.buildCheckoutParams({
     selectedClass,
     paymentType: 'full',
@@ -30,7 +30,7 @@ test('pay-in-full checkout does not include recurring data or manual promotion c
 });
 
 test('pay-in-full checkout discounts additional same-family students', () => {
-  const selectedClass = CLASSES['fall-2026-thu-beg'];
+  const selectedClass = CLASSES['fall-2026-wed-beg'];
   const params = _test.buildCheckoutParams({
     selectedClass,
     paymentType: 'full',
@@ -50,7 +50,7 @@ test('pay-in-full checkout discounts additional same-family students', () => {
 });
 
 test('monthly checkout uses subscription mode and one student', () => {
-  const selectedClass = CLASSES['fall-2026-thu-beg'];
+  const selectedClass = CLASSES['fall-2026-wed-beg'];
   const params = _test.buildCheckoutParams({
     selectedClass,
     paymentType: 'monthly',
@@ -74,7 +74,7 @@ test('monthly checkout uses subscription mode and one student', () => {
 });
 
 test('book checkout adds selected taxable book quantity', () => {
-  const selectedClass = CLASSES['fall-2026-thu-beg'];
+  const selectedClass = CLASSES['fall-2026-wed-beg'];
   const params = _test.buildCheckoutParams({
     selectedClass,
     paymentType: 'full',
@@ -98,7 +98,7 @@ test('book checkout adds selected taxable book quantity', () => {
 });
 
 test('monthly checkout can include one book without changing class quantity', () => {
-  const selectedClass = CLASSES['fall-2026-thu-beg'];
+  const selectedClass = CLASSES['fall-2026-wed-beg'];
   const params = _test.buildCheckoutParams({
     selectedClass,
     paymentType: 'monthly',
@@ -201,6 +201,15 @@ test('unknown class and payment selections are rejected', () => {
   assert.equal(
     _test.validateSelection({
       classId: 'fall-2026-thu-beg',
+      paymentType: 'full',
+      familyMemberCount: 1,
+      bookQuantity: 0,
+    }).error.body,
+    'Unknown class selection.'
+  );
+  assert.equal(
+    _test.validateSelection({
+      classId: 'fall-2026-wed-beg',
       paymentType: 'weekly',
       familyMemberCount: 1,
       bookQuantity: 0,
@@ -214,7 +223,7 @@ test('counts are bounded and monthly family count remains one', () => {
   assert.equal(_test.parseCount('missing', 4), 4);
   assert.equal(
     _test.validateSelection({
-      classId: 'fall-2026-thu-beg',
+      classId: 'fall-2026-wed-beg',
       paymentType: 'full',
       familyMemberCount: 7,
       bookQuantity: 0,
@@ -223,7 +232,7 @@ test('counts are bounded and monthly family count remains one', () => {
   );
   assert.equal(
     _test.validateSelection({
-      classId: 'fall-2026-thu-beg',
+      classId: 'fall-2026-wed-beg',
       paymentType: 'monthly',
       familyMemberCount: 2,
       bookQuantity: 0,
@@ -233,7 +242,7 @@ test('counts are bounded and monthly family count remains one', () => {
   );
   assert.equal(
     _test.validateSelection({
-      classId: 'fall-2026-thu-beg',
+      classId: 'fall-2026-wed-beg',
       paymentType: 'monthly',
       familyMemberCount: 1,
       bookQuantity: 0,
@@ -243,7 +252,7 @@ test('counts are bounded and monthly family count remains one', () => {
   );
   assert.equal(
     _test.validateSelection({
-      classId: 'fall-2026-thu-beg',
+      classId: 'fall-2026-wed-beg',
       paymentType: 'full',
       familyMemberCount: 1,
       bookQuantity: 7,
@@ -252,7 +261,7 @@ test('counts are bounded and monthly family count remains one', () => {
   );
   assert.equal(
     _test.validateSelection({
-      classId: 'fall-2026-thu-beg',
+      classId: 'fall-2026-wed-beg',
       paymentType: 'monthly',
       familyMemberCount: 1,
       bookQuantity: 2,

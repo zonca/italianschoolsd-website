@@ -90,10 +90,6 @@ Scan by day, then use the level guides below for full dates, tuition, holidays, 
   <article class="adult-day-card">
     <h3 id="thursday-classes">Thursday</h3>
     <div class="adult-class-row">
-      <div><strong>Beginner</strong><span class="adult-format adult-format-in-person">Kearny Mesa</span></div>
-      <p><span>6:30–8:00 PM</span><small>Teacher to be announced</small></p>
-    </div>
-    <div class="adult-class-row">
       <div><strong>Beginner–Intermediate</strong><span class="adult-format adult-format-in-person">Kearny Mesa</span></div>
       <p><span>6:30–8:00 PM</span><small>Teacher to be announced</small></p>
     </div>

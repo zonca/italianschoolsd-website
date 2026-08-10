@@ -15,20 +15,6 @@ For other levels, please see our [Adult classes overview]({{< relref "adults.md"
 
 ---
 
-## Thursday Beginner (In person) {#thu-beg}
-
-Enjoy the classroom experience and learn in person at our Kearny Mesa facility.
-
-- **Teacher:** TBD
-- **Schedule:** Thursdays, 6:30 PM – 8:00 PM, August 20 – December 10, 2026 (16 classes)
-- **Holidays (No Class):** November 26 (Thanksgiving), December 17 (Pre-winter break skip)
-- **Tuition:** $576 for the full session (or 5 monthly payments of $126.72)
-- **Textbook:** This class uses *The New Italian Project 1a*, available as an enrollment option below.
-
-{{< stripe-checkout class="fall-2026-thu-beg" full="576" monthly="126.72" book="project1a" bookLabel="Book" >}}
-
----
-
 ## Wednesday Beginner (In person) {#wed-beg}
 
 Evening section for students starting Italian from the beginning, with a weekday option between the Thursday and Saturday sections.

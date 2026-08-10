@@ -14,17 +14,6 @@ const BOOKS = {
 };
 
 const CLASSES = {
-  'fall-2026-thu-beg': {
-    id: 'fall-2026-thu-beg',
-    name: 'Fall 2026 Italian Class - Beginner Thursday',
-    level: 'Beginner',
-    format: 'In person',
-    pagePath: '/news/2026/06/beginner-adult-italian-classes-fall-2026/',
-    anchor: 'thu-beg',
-    fullAmount: 57600,
-    monthlyAmount: 12672,
-    bookId: 'project1a',
-  },
   'fall-2026-sat-beg': {
     id: 'fall-2026-sat-beg',
     name: 'Fall 2026 Italian Class - Beginner Saturday',
