@@ -78,12 +78,16 @@ Scan by day, then use the level guides below for full dates, tuition, holidays, 
   <article class="adult-day-card">
     <h3 id="tuesday-classes">Tuesday</h3>
     <div class="adult-class-row">
-      <div><strong>Beginner–Intermediate</strong><span class="adult-format adult-format-in-person">Kearny Mesa</span></div>
-      <p><span>5:30–7:00 PM</span><small>Teacher to be announced</small></p>
-    </div>
-    <div class="adult-class-row">
       <div><strong>Intermediate</strong><span class="adult-format adult-format-online">Online</span></div>
       <p><span>6:00–7:30 PM</span><small>Tania Adami</small></p>
+    </div>
+  </article>
+
+  <article class="adult-day-card">
+    <h3 id="wednesday-classes">Wednesday</h3>
+    <div class="adult-class-row">
+      <div><strong>Beginner</strong><span class="adult-format adult-format-in-person">Kearny Mesa</span></div>
+      <p><span>6:15–7:45 PM</span><small>Teacher to be announced</small></p>
     </div>
   </article>
 
