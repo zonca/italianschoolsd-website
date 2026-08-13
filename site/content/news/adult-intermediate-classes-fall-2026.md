@@ -41,19 +41,6 @@ For students who have completed intermediate Italian and want to push further in
 
 {{< stripe-checkout class="fall-2026-mon-int-adv" full="576" monthly="126.72" book="project1b" bookLabel="Book" >}}
 
----
-
-## Wednesday Beginner-Intermediate (In person) {#wed-beg-int}
-
-A bridge class from beginner to intermediate, focused on strengthening conversational basics.
-
-- **Teacher:** TBD
-- **Schedule:** Wednesdays, 6:15 PM – 7:45 PM, August 19 – December 9, 2026 (16 classes)
-- **Holidays (No Class):** November 25 (Thanksgiving Week), December 16 (Pre-winter break skip)
-- **Tuition:** $576 for the full session (or 5 monthly payments of $126.72)
-- **Textbook:** This class uses *The New Italian Project 1a*, available as an enrollment option below.
-
-{{< stripe-checkout class="fall-2026-wed-beg-int" full="576" monthly="126.72" book="project1a" bookLabel="Book" >}}
 
 ---
 
