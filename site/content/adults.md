@@ -66,10 +66,6 @@ Scan by day, then use the level guides below for full dates, tuition, holidays, 
       <p><span>6:00–7:30 PM</span><small>Teacher to be announced</small></p>
     </div>
     <div class="adult-class-row">
-      <div><strong>Advanced</strong><span class="adult-format adult-format-in-person">Kearny Mesa</span></div>
-      <p><span>6:00–7:30 PM</span><small>Teacher to be announced</small></p>
-    </div>
-    <div class="adult-class-row">
       <div><strong>Beginner–Intermediate</strong><span class="adult-format adult-format-online">Online</span></div>
       <p><span>6:00–7:30 PM</span><small>Tania Adami</small></p>
     </div>

@@ -1,29 +1,15 @@
 ---
-title: "Advanced & Conversation Adult Italian Classes: Fall 2026"
+title: "Conversation Adult Italian Class: Fall 2026"
 date: 2026-06-28
 weight: 3
-description: Schedule and tuition details for advanced-level and conversation adult Italian classes offered in person August through December 2026.
+description: Schedule and tuition details for conversation adult Italian class offered in person August through December 2026.
 ---
 
-Take your Italian to the next level with our advanced and conversation classes! These sections are designed for students who can already hold conversations in Italian and want to refine their fluency, master complex grammatical structures, and discuss Italian culture, literature, and news.
+Take your Italian to the next level with our conversation class! This section is designed for students who can already hold conversations in Italian and want to refine their fluency, master complex grammatical structures, and discuss Italian culture, literature, and news.
 
 Our Fall session runs for **16 weeks** from **the week of August 17th to December 19th, 2026**.
 
 For other levels, please see our [Adult classes overview]({{< relref "adults.md" >}}), where you will find policies, discounts, and payment plan information.
-
----
-
-## Monday Advanced (In person) {#mon-adv}
-
-For students who want to master Italian fluency, syntax, and cultural idioms.
-
-- **Teacher:** TBD
-- **Schedule:** Mondays, 6:00 PM – 7:30 PM, August 17 – December 14, 2026 (16 classes)
-- **Holidays (No Class):** September 7 (Labor Day), November 23 (Thanksgiving Week)
-- **Tuition:** $576 for the full session (or 5 monthly payments of $126.72)
-- **Textbook:** This class uses *The New Italian Project 1b*, available as an enrollment option below.
-
-{{< stripe-checkout class="fall-2026-mon-adv" full="576" monthly="126.72" book="project1b" bookLabel="Book" >}}
 
 ---
 
