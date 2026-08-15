@@ -63,7 +63,7 @@ Evening section to build grammar and conversation in person.
 Learn Italian via Zoom from home with **Tania**.
 
 - **Teacher:** Tania Adami
-- **Schedule:** Mondays, 6:00 PM – 7:30 PM PST, August 17 – December 14, 2026 (16 classes)
+- **Schedule:** Mondays, 6:00 PM – 7:30 PM Pacific Time, August 17 – December 14, 2026 (16 classes)
 - **Holidays (No Class):** September 7 (Labor Day), November 23 (Thanksgiving Week)
 - **Tuition:** $544 for the full session (or 5 monthly payments of $119.68)
 - **Textbook:** This class uses *New Italian Espresso (Beginner/Pre-Intermediate Updated Edition)*: [Textbook](https://a.co/d/0hAj20Up) and [Workbook](https://a.co/d/0fGK4Sfo) (available on Amazon).
@@ -77,8 +77,8 @@ Learn Italian via Zoom from home with **Tania**.
 Continuing intermediate class via Zoom with **Tania**.
 
 - **Teacher:** Tania Adami
-- **Schedule:** Tuesdays, 6:00 PM – 7:30 PM PST, August 18 – December 8, 2026 (16 classes)
-- **Holidays (No Class):** November 24 (Thanksgiving Week), December 15 (Pre-winter break skip)
+- **Schedule:** Tuesdays, 6:00 PM – 7:30 PM Pacific Time, August 18 – December 8, 2026 (16 classes)
+- **Holidays (No Class):** November 24 (Thanksgiving Week)
 - **Tuition:** $544 for the full session (or 5 monthly payments of $119.68)
 - **Textbook:** This class uses *New Italian Espresso (Beginner/Pre-Intermediate Updated Edition)*: [Textbook](https://a.co/d/0hAj20Up) and [Workbook](https://a.co/d/0fGK4Sfo) (available on Amazon).
 

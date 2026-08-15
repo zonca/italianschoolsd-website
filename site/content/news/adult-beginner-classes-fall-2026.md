@@ -47,8 +47,8 @@ Weekend section for those looking to start their Italian journey in person on Sa
 Learn Italian via Zoom from the comfort of your home with **Tania**.
 
 - **Teacher:** Tania Adami
-- **Schedule:** Thursdays, 6:00 PM – 7:30 PM PST, August 20 – December 10, 2026 (16 classes)
-- **Holidays (No Class):** November 26 (Thanksgiving Day), December 17 (Pre-winter break skip)
+- **Schedule:** Thursdays, 6:00 PM – 7:30 PM Pacific Time, August 20 – December 10, 2026 (16 classes)
+- **Holidays (No Class):** November 26 (Thanksgiving Day)
 - **Tuition:** $544 for the full session (or 5 monthly payments of $119.68)
 - **Textbook:** This class uses *New Italian Espresso (Beginner/Pre-Intermediate Updated Edition)*: [Textbook](https://a.co/d/0hAj20Up) and [Workbook](https://a.co/d/0fGK4Sfo) (available on Amazon).
 
