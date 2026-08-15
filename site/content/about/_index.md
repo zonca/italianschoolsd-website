@@ -103,7 +103,7 @@ Emanuela was born in Milan and lived in various Italian regions. She is interest
 
 Daniela was born in Napoli, but grew up in Rovigo, Barcelona (Spain), and Rome. She moved to the US in 1998, and became an American citizen in 2012. Daniela’s native language is Italian, but she is fluent in Spanish and English, and has a scholastic knowledge of French.
 
-She obtained her Laurea in Economia at l’Università degli studi di Roma “La Sapienza”, and worked as a translator at the Ministero della Sanità.
+She obtained her Laurea in Economia at l’Università degli studi di Roma “La Sapienza”, and worked as a language assistant at the Ministero della Sanità.
 
 After a couple of years in Berkeley, where her two sons were born, her family moved to Massachusetts, then to the Silicon Valley, before finally settling in the San Diego area.
 
