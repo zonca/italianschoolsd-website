@@ -116,15 +116,12 @@ test('monthly checkout can include one book without changing class quantity', ()
   assert.equal(params.has('line_items[1][price_data][recurring][interval]'), false);
 });
 
-test('Wednesday Fall classes have valid checkout catalog entries', () => {
+test('Wednesday Fall Beginner has a valid checkout catalog entry', () => {
   const beginner = CLASSES['fall-2026-wed-beg'];
-  const beginnerIntermediate = CLASSES['fall-2026-wed-beg-int'];
 
   assert.equal(beginner.name, 'Fall 2026 Italian Class - Beginner Wednesday');
   assert.equal(beginner.anchor, 'wed-beg');
   assert.equal(beginner.bookId, 'project1a');
-  assert.equal(beginnerIntermediate.name, 'Fall 2026 Italian Class - Beginner-Intermediate Wednesday');
-  assert.equal(beginnerIntermediate.anchor, 'wed-beg-int');
 
   const params = _test.buildCheckoutParams({
     selectedClass: beginner,
@@ -198,15 +195,12 @@ test('unknown class and payment selections are rejected', () => {
     _test.validateSelection({ classId: 'missing', paymentType: 'full', familyMemberCount: 1, bookQuantity: 0 }).error.body,
     'Unknown class selection.'
   );
-  assert.equal(
-    _test.validateSelection({
-      classId: 'fall-2026-thu-beg',
-      paymentType: 'full',
-      familyMemberCount: 1,
-      bookQuantity: 0,
-    }).error.body,
-    'Unknown class selection.'
-  );
+  for (const classId of ['fall-2026-thu-beg', 'fall-2026-wed-beg-int', 'fall-2026-mon-adv']) {
+    assert.equal(
+      _test.validateSelection({ classId, paymentType: 'full', familyMemberCount: 1, bookQuantity: 0 }).error.body,
+      'Unknown class selection.'
+    );
+  }
   assert.equal(
     _test.validateSelection({
       classId: 'fall-2026-wed-beg',

@@ -19,7 +19,7 @@ A conversation-heavy class focused on current topics, literature, and news.
 
 - **Teacher:** TBD
 - **Schedule:** Thursdays, 6:30 PM – 8:00 PM, August 20 – December 10, 2026 (16 classes)
-- **Holidays (No Class):** November 26 (Thanksgiving Day), December 17 (Pre-winter break skip)
+- **Holidays (No Class):** November 26 (Thanksgiving Day)
 - **Tuition:** $576 for the full session (or 5 monthly payments of $126.72)
 - **Textbook:** No textbook required — class materials are provided by the teacher.
 

@@ -50,7 +50,7 @@ Evening section to build grammar and conversation in person.
 
 - **Teacher:** TBD
 - **Schedule:** Thursdays, 6:30 PM – 8:00 PM, August 20 – December 10, 2026 (16 classes)
-- **Holidays (No Class):** November 26 (Thanksgiving Day), December 17 (Pre-winter break skip)
+- **Holidays (No Class):** November 26 (Thanksgiving Day)
 - **Tuition:** $576 for the full session (or 5 monthly payments of $126.72)
 - **Textbook:** This class uses *The New Italian Project 1a*, available as an enrollment option below.
 

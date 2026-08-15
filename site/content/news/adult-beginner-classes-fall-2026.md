@@ -20,7 +20,7 @@ For other levels, please see our [Adult classes overview]({{< relref "adults.md"
 Evening section for students starting Italian from the beginning, with a weekday option between the Thursday and Saturday sections.
 
 - **Schedule:** Wednesdays, 6:15 PM – 7:45 PM, August 19 – December 9, 2026 (16 classes)
-- **Holidays (No Class):** November 25 (Thanksgiving Week), December 16 (Pre-winter break skip)
+- **Holidays (No Class):** November 25 (Thanksgiving Week)
 - **Tuition:** $576 for the full session (or 5 monthly payments of $126.72)
 - **Textbook:** This class uses *The New Italian Project 1a*, available as an enrollment option below.
 
@@ -34,7 +34,7 @@ Weekend section for those looking to start their Italian journey in person on Sa
 
 - **Teacher:** TBD
 - **Schedule:** Saturdays, 10:00 AM – 11:30 AM, August 22 – December 12, 2026 (15 classes)
-- **Holidays (No Class):** September 5 (Labor Day Weekend), November 28 (Thanksgiving Weekend), December 19 (Pre-winter break skip)
+- **Holidays (No Class):** September 5 (Labor Day Weekend), November 28 (Thanksgiving Weekend)
 - **Tuition:** $540 for the full session (or 5 monthly payments of $118.80)
 - **Textbook:** This class uses *The New Italian Project 1a*, available as an enrollment option below.
 
