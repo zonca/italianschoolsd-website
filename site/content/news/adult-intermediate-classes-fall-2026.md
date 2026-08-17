@@ -19,7 +19,7 @@ For other levels, please see our [Adult classes overview]({{< relref "adults.md"
 
 Solidify your intermediate-level speaking and reading skills in person at our school.
 
-- **Teacher:** Laura Antonucci
+- **Teacher:** Laura
 - **Schedule:** Mondays, 6:00 PM – 7:30 PM, August 17 – December 14, 2026 (16 classes)
 - **Holidays (No Class):** September 7 (Labor Day), November 23 (Thanksgiving Week)
 - **Tuition:** $576 for the full session (or 5 monthly payments of $126.72)
@@ -33,7 +33,7 @@ Solidify your intermediate-level speaking and reading skills in person at our sc
 
 For students who have completed intermediate Italian and want to push further into complex grammar, nuanced vocabulary, and fluent expression.
 
-- **Teacher:** Daniela Gnerre
+- **Teacher:** Daniela
 - **Schedule:** Mondays, 6:00 PM – 7:30 PM, August 17 – December 14, 2026 (16 classes)
 - **Holidays (No Class):** September 7 (Labor Day), November 23 (Thanksgiving Week)
 - **Tuition:** $576 for the full session (or 5 monthly payments of $126.72)
@@ -48,7 +48,7 @@ For students who have completed intermediate Italian and want to push further in
 
 Evening section to build grammar and conversation in person.
 
-- **Teacher:** Daniela Gnerre
+- **Teacher:** Daniela
 - **Schedule:** Thursdays, 6:30 PM – 8:00 PM, August 20 – December 10, 2026 (16 classes)
 - **Holidays (No Class):** November 26 (Thanksgiving Day)
 - **Tuition:** $576 for the full session (or 5 monthly payments of $126.72)
@@ -62,7 +62,7 @@ Evening section to build grammar and conversation in person.
 
 Learn Italian via Zoom from home with **Tania**.
 
-- **Teacher:** Tania Adami
+- **Teacher:** Tania
 - **Schedule:** Mondays, 6:00 PM – 7:30 PM Pacific Time, August 17 – December 14, 2026 (16 classes)
 - **Holidays (No Class):** September 7 (Labor Day), November 23 (Thanksgiving Week)
 - **Tuition:** $544 for the full session (or 5 monthly payments of $119.68)
@@ -76,7 +76,7 @@ Learn Italian via Zoom from home with **Tania**.
 
 Continuing intermediate class via Zoom with **Tania**.
 
-- **Teacher:** Tania Adami
+- **Teacher:** Tania
 - **Schedule:** Tuesdays, 6:00 PM – 7:30 PM Pacific Time, August 18 – December 8, 2026 (16 classes)
 - **Holidays (No Class):** November 24 (Thanksgiving Week)
 - **Tuition:** $544 for the full session (or 5 monthly payments of $119.68)

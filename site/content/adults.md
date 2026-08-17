@@ -59,15 +59,15 @@ Scan by day, then use the level guides below for full dates, tuition, holidays, 
     <h3 id="monday-classes">Monday</h3>
     <div class="adult-class-row">
       <div><strong>Intermediate</strong><span class="adult-format adult-format-in-person">Kearny Mesa</span></div>
-      <p><span>6:00–7:30 PM</span><small>Laura Antonucci</small></p>
+      <p><span>6:00–7:30 PM</span><small>Laura</small></p>
     </div>
     <div class="adult-class-row">
       <div><strong>Intermediate–Advanced</strong><span class="adult-format adult-format-in-person">Kearny Mesa</span></div>
-      <p><span>6:00–7:30 PM</span><small>Daniela Gnerre</small></p>
+      <p><span>6:00–7:30 PM</span><small>Daniela</small></p>
     </div>
     <div class="adult-class-row">
       <div><strong>Beginner–Intermediate</strong><span class="adult-format adult-format-online">Online</span></div>
-      <p><span>6:00–7:30 PM</span><small>Tania Adami</small></p>
+      <p><span>6:00–7:30 PM</span><small>Tania</small></p>
     </div>
   </article>
 
@@ -75,7 +75,7 @@ Scan by day, then use the level guides below for full dates, tuition, holidays, 
     <h3 id="tuesday-classes">Tuesday</h3>
     <div class="adult-class-row">
       <div><strong>Intermediate</strong><span class="adult-format adult-format-online">Online</span></div>
-      <p><span>6:00–7:30 PM</span><small>Tania Adami</small></p>
+      <p><span>6:00–7:30 PM</span><small>Tania</small></p>
     </div>
   </article>
 
@@ -83,7 +83,7 @@ Scan by day, then use the level guides below for full dates, tuition, holidays, 
     <h3 id="wednesday-classes">Wednesday</h3>
     <div class="adult-class-row">
       <div><strong>Beginner</strong><span class="adult-format adult-format-in-person">Kearny Mesa</span></div>
-      <p><span>6:15–7:45 PM</span><small>Ambra Baron</small></p>
+      <p><span>6:15–7:45 PM</span><small>Ambra</small></p>
     </div>
   </article>
 
@@ -91,15 +91,15 @@ Scan by day, then use the level guides below for full dates, tuition, holidays, 
     <h3 id="thursday-classes">Thursday</h3>
     <div class="adult-class-row">
       <div><strong>Beginner–Intermediate</strong><span class="adult-format adult-format-in-person">Kearny Mesa</span></div>
-      <p><span>6:30–8:00 PM</span><small>Daniela Gnerre</small></p>
+      <p><span>6:30–8:00 PM</span><small>Daniela</small></p>
     </div>
     <div class="adult-class-row">
       <div><strong>Conversation</strong><span class="adult-format adult-format-in-person">Kearny Mesa</span></div>
-      <p><span>6:30–8:00 PM</span><small>Ilana Battaglia</small></p>
+      <p><span>6:30–8:00 PM</span><small>Ilana</small></p>
     </div>
     <div class="adult-class-row">
       <div><strong>Beginner</strong><span class="adult-format adult-format-online">Online</span></div>
-      <p><span>6:00–7:30 PM</span><small>Tania Adami</small></p>
+      <p><span>6:00–7:30 PM</span><small>Tania</small></p>
     </div>
   </article>
 
@@ -119,7 +119,7 @@ Scan by day, then use the level guides below for full dates, tuition, holidays, 
     <h3 id="saturday-classes">Saturday</h3>
     <div class="adult-class-row">
       <div><strong>Beginner</strong><span class="adult-format adult-format-in-person">Kearny Mesa</span></div>
-      <p><span>10:00–11:30 AM</span><small>15 classes · Laura Antonucci</small></p>
+      <p><span>10:00–11:30 AM</span><small>15 classes · Laura</small></p>
     </div>
   </article>
 </div>
