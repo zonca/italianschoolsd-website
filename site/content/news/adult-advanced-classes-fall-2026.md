@@ -7,7 +7,7 @@ description: Schedule and tuition details for conversation adult Italian class o
 
 Take your Italian to the next level with our conversation class! This section is designed for students who can already hold conversations in Italian and want to refine their fluency, master complex grammatical structures, and discuss Italian culture, literature, and news.
 
-Our Fall session runs for **16 weeks** from **the week of August 17th to December 19th, 2026**.
+Our Fall session runs for **16 weeks** from **the week of August 24th to December 19th, 2026**.
 
 For other levels, please see our [Adult classes overview]({{< relref "adults.md" >}}), where you will find policies, discounts, and payment plan information.
 
@@ -18,7 +18,7 @@ For other levels, please see our [Adult classes overview]({{< relref "adults.md"
 A conversation-heavy class focused on current topics, literature, and news.
 
 - **Teacher:** Ilana
-- **Schedule:** Thursdays, 6:30 PM – 8:00 PM, August 20 – December 10, 2026 (16 classes)
+- **Schedule:** Thursdays, 6:30 PM – 8:00 PM, August 27 – December 17, 2026 (16 classes)
 - **Holidays (No Class):** November 26 (Thanksgiving Day)
 - **Tuition:** $576 for the full session (or 5 monthly payments of $126.72)
 - **Textbook:** No textbook required — class materials are provided by the teacher.
