@@ -7,7 +7,7 @@ aliases:
     - /north-county
 ---
 
-The Italian school of San Diego is opening a second in-person location in **Encinitas**, for the 2026-2027 academic year. Classes for children meet **Mondays, 4:00-6:00 PM**, from September 14, 2026 through May 17, 2027. New for the fall, we also teach **adults on Fridays, 6:00-7:30 PM**.
+The Italian school of San Diego is opening a second in-person location in **Encinitas**, for the 2026-2027 academic year. Classes for children meet **Mondays, 4:00-6:00 PM**, from September 14, 2026 through May 24, 2027. New for the fall, we also teach **adults on Fridays, 6:00-7:30 PM**.
 
 Several families in North County told us the same thing: the drive down to Kearny Mesa was the only thing standing between them and Italian class. So we brought the class to them.
 
@@ -49,19 +49,18 @@ Each class is kept small, between 5 and 10 students. No previous knowledge of It
 
 * **Day and time:** Mondays, 4:00-6:00 PM (two hours, with a break)
 * **First class:** Monday, September 14, 2026
-* **Last class:** Monday, May 17, 2027
+* **Last class:** Monday, May 24, 2027
 * **Total:** 29 classes across the academic year
 * **Ages:** TK through 5th grade
 
 ### No class on these Mondays {#holidays}
 
+* September 28, 2026 (church rummage sale)
 * November 23, 2026 (Thanksgiving week)
 * December 21 and December 28, 2026, and January 4, 2027 (winter break through the Epifania)
 * January 18, 2027 (Martin Luther King Jr. Day)
 * February 15, 2027 (Presidents Day)
 * March 29, 2027 (spring break)
-
-Monday, May 24, 2027 is held as a backup date, used only if a class has to be moved during the year. The total of 29 classes does not change.
 
 ## Where we meet {#location}
 
@@ -162,7 +161,7 @@ Call us at **(619) 800-0797** or [send us a message]({{< relref "contact.md" >}}
     "@type": "CourseInstance",
     "courseMode": "onsite",
     "startDate": "2026-09-14",
-    "endDate": "2027-05-17",
+    "endDate": "2027-05-24",
     "courseWorkload": "PT2H",
     "location": {
       "@type": "Place",
@@ -183,7 +182,7 @@ Call us at **(619) 800-0797** or [send us a message]({{< relref "contact.md" >}}
       "startTime": "16:00",
       "endTime": "18:00",
       "startDate": "2026-09-14",
-      "endDate": "2027-05-17",
+      "endDate": "2027-05-24",
       "scheduleTimezone": "America/Los_Angeles"
     },
     "offers": {
