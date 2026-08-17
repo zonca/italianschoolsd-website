@@ -19,6 +19,7 @@ For other levels, please see our [Adult classes overview]({{< relref "adults.md"
 
 Evening section for students starting Italian from the beginning, with a weekday option between the Thursday and Saturday sections.
 
+- **Teacher:** Ambra Baron
 - **Schedule:** Wednesdays, 6:15 PM – 7:45 PM, August 19 – December 9, 2026 (16 classes)
 - **Holidays (No Class):** November 25 (Thanksgiving Week)
 - **Tuition:** $576 for the full session (or 5 monthly payments of $126.72)
@@ -32,7 +33,7 @@ Evening section for students starting Italian from the beginning, with a weekday
 
 Weekend section for those looking to start their Italian journey in person on Saturdays.
 
-- **Teacher:** TBD
+- **Teacher:** Laura Antonucci
 - **Schedule:** Saturdays, 10:00 AM – 11:30 AM, August 22 – December 12, 2026 (15 classes)
 - **Holidays (No Class):** September 5 (Labor Day Weekend), November 28 (Thanksgiving Weekend)
 - **Tuition:** $540 for the full session (or 5 monthly payments of $118.80)

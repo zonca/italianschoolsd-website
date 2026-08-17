@@ -17,7 +17,7 @@ For other levels, please see our [Adult classes overview]({{< relref "adults.md"
 
 A conversation-heavy class focused on current topics, literature, and news.
 
-- **Teacher:** TBD
+- **Teacher:** Ilana Battaglia
 - **Schedule:** Thursdays, 6:30 PM – 8:00 PM, August 20 – December 10, 2026 (16 classes)
 - **Holidays (No Class):** November 26 (Thanksgiving Day)
 - **Tuition:** $576 for the full session (or 5 monthly payments of $126.72)

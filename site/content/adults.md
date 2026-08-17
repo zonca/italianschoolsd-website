@@ -59,11 +59,11 @@ Scan by day, then use the level guides below for full dates, tuition, holidays, 
     <h3 id="monday-classes">Monday</h3>
     <div class="adult-class-row">
       <div><strong>Intermediate</strong><span class="adult-format adult-format-in-person">Kearny Mesa</span></div>
-      <p><span>6:00–7:30 PM</span><small>Teacher to be announced</small></p>
+      <p><span>6:00–7:30 PM</span><small>Laura Antonucci</small></p>
     </div>
     <div class="adult-class-row">
       <div><strong>Intermediate–Advanced</strong><span class="adult-format adult-format-in-person">Kearny Mesa</span></div>
-      <p><span>6:00–7:30 PM</span><small>Teacher to be announced</small></p>
+      <p><span>6:00–7:30 PM</span><small>Daniela Gnerre</small></p>
     </div>
     <div class="adult-class-row">
       <div><strong>Beginner–Intermediate</strong><span class="adult-format adult-format-online">Online</span></div>
@@ -83,7 +83,7 @@ Scan by day, then use the level guides below for full dates, tuition, holidays, 
     <h3 id="wednesday-classes">Wednesday</h3>
     <div class="adult-class-row">
       <div><strong>Beginner</strong><span class="adult-format adult-format-in-person">Kearny Mesa</span></div>
-      <p><span>6:15–7:45 PM</span><small>Teacher to be announced</small></p>
+      <p><span>6:15–7:45 PM</span><small>Ambra Baron</small></p>
     </div>
   </article>
 
@@ -91,11 +91,11 @@ Scan by day, then use the level guides below for full dates, tuition, holidays, 
     <h3 id="thursday-classes">Thursday</h3>
     <div class="adult-class-row">
       <div><strong>Beginner–Intermediate</strong><span class="adult-format adult-format-in-person">Kearny Mesa</span></div>
-      <p><span>6:30–8:00 PM</span><small>Teacher to be announced</small></p>
+      <p><span>6:30–8:00 PM</span><small>Daniela Gnerre</small></p>
     </div>
     <div class="adult-class-row">
       <div><strong>Conversation</strong><span class="adult-format adult-format-in-person">Kearny Mesa</span></div>
-      <p><span>6:30–8:00 PM</span><small>Teacher to be announced</small></p>
+      <p><span>6:30–8:00 PM</span><small>Ilana Battaglia</small></p>
     </div>
     <div class="adult-class-row">
       <div><strong>Beginner</strong><span class="adult-format adult-format-online">Online</span></div>
@@ -119,7 +119,7 @@ Scan by day, then use the level guides below for full dates, tuition, holidays, 
     <h3 id="saturday-classes">Saturday</h3>
     <div class="adult-class-row">
       <div><strong>Beginner</strong><span class="adult-format adult-format-in-person">Kearny Mesa</span></div>
-      <p><span>10:00–11:30 AM</span><small>15 classes · Teacher to be announced</small></p>
+      <p><span>10:00–11:30 AM</span><small>15 classes · Laura Antonucci</small></p>
     </div>
   </article>
 </div>
