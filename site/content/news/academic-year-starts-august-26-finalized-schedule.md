@@ -1,7 +1,7 @@
 ---
 title: "Academic year starts August 26: confirmed schedule and enrollment open through August 25"
 date: 2026-08-18T00:00:00.000Z
-description: We have finalized almost all classes for the 2026-2027 academic year. Here is the confirmed schedule for homeschool, IFL, and Heritage classes, with pre-enrollment open through August 25.
+description: We have finalized almost all classes for the 2026-2027 academic year. Here is the confirmed schedule for homeschool, Italian as a New Language, and Heritage classes, with pre-enrollment open through August 25.
 image: /flyers/italianschoolsd-flyer-italian-2026-2027-kids.png
 ---
 
@@ -17,7 +17,7 @@ Here is an overview of our confirmed classes for the upcoming year:
   *Starts September 2, 2026 (Kearny Mesa)*  
   Interactive morning group class for preschoolers and homeschooled children starting from age 3, learning Italian through play, songs, stories, and projects. Charter school funds accepted.
 
-* **Wednesday Afternoon: Italian as a New Language / IFL (4:00 - 6:00 PM)**  
+* **Wednesday Afternoon: Italian as a New Language (4:00 - 6:00 PM)**  
   *Starts August 26, 2026 (Kearny Mesa)*  
   For students new to Italian or continuing second-language learners. 4 in-person classes running from TK through elementary, plus high school accredited Italian as a New Language 5-6 in person and an online Italian as a New Language 1-2 section for middle schoolers.
 

@@ -20,7 +20,7 @@ For more information, see:
 ## Class Levels and Schedule {#schedule}
 
 We offer two distinct accredited tracks for middle and high school students:
-1. **Italian as a New Language (IFL)** — for non-native learners (students learning Italian as a new/second language).
+1. **Italian as a New Language** — for non-native learners (students learning Italian as a new/second language).
 2. **Italian Heritage** — for heritage/native speakers who already speak fluent Italian at home.
 
 Some levels meet on a fixed in-person schedule at our [Kearny Mesa location]({{< relref "location.md" >}}); others meet online or have a **flexible schedule** arranged with enrolled students.

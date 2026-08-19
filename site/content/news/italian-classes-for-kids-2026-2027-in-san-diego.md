@@ -1,7 +1,7 @@
 ---
 title: Italian classes for kids 2026-2027 in San Diego
 date: 2026-05-27T00:00:00.000Z
-description: Pre-enrollment is open for 2026-2027 Italian Heritage, IFL, and homeschool morning classes for kids.
+description: Pre-enrollment is open for 2026-2027 Italian Heritage, Italian as a New Language, and homeschool morning classes for kids.
 image: /img/isola_bella.jpg
 ---
 
