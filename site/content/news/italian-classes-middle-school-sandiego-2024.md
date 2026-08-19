@@ -44,7 +44,7 @@ The cost of the program is $315, we also offer a 10% sibling discount.
 
 Please fill the pre-enrollment form (not binding), we will then send an invoice to your email address, pay the invoice to confirm enrollment.
 
-Students can then graduate to our [certified program](/accredited-classes/) starting in September 2024 which is recognized for credit by all High Schools in San Diego Unified and San Dieguito districts.
+Students can then graduate to our [high school credit program](/high-school-credit-classes/) starting in September 2024 which is recognized for credit by all High Schools in San Diego Unified and San Dieguito districts.
 
 <div class="tc">
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSd4sac0Y2wdTd9gm2AF1Y9uuVPPyJzHfHEphJPA1iYPkrP43g/viewform?usp=sf_link" class="btn raise">Fill the universal pre-enrollment form</a>

@@ -6,7 +6,7 @@ description: The first Italian immersion experience is in Cefalù, Sicily, April
 
 Italian school of San Diego has partnered with Vero Viaggio to promote their "Italian immersion experience" tours, where visiting Italy is coupled with learning Italian.
 
-Jean Rivaldi, founder of Vero Viaggio, has 2 kids enrolled in our [High School classes](https://www.italianschoolsd.com/accredited-classes/) approved by the San Diego Unified and San Dieguito districts, she is passionate about Italy and about providing an immersive language and cultural experience to our beautiful country.
+Jean Rivaldi, founder of Vero Viaggio, has 2 kids enrolled in our [High School classes](https://www.italianschoolsd.com/high-school-credit-classes/) approved by the San Diego Unified and San Dieguito districts, she is passionate about Italy and about providing an immersive language and cultural experience to our beautiful country.
 
 Their language immersion tours are designed to incorporate daily language classes, cultural activities and interactions with locals. Morning classes provide students with the cultural context and relevant vocabulary they’ll need to navigate each experiential activity. You'll be accompanied full time by Francesca Peretto, Vero Viaggio's experience director and other native speakers and locals, who are experts in supporting your language learning and keeping the conversation going in italian.
 

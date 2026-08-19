@@ -12,7 +12,7 @@ Enrollment is still open for our in‑person Italian language classes in San Die
 
 Class placement (find the right program):
 - Elementary (TK–5): see our [Elementary Italian classes](/classes)
-- Middle & High School (Grades 6–12): see [Accredited & Secondary Italian classes](/accredited-classes)
+- Middle & High School (Grades 6–12): see [Italian classes for high school credit](/high-school-credit-classes)
 
 First week schedule:
 - Wednesday, Aug 27 – Italian as a Foreign Language (all levels) at 4:00 PM

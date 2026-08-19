@@ -26,7 +26,7 @@ image: /flyers/italianschoolsd-flyer-italian-2026-2027-kids.png
 
 Classes have **5-10 students** and are grouped by age and level, so your child will be placed with peers at the same stage. All our teachers are native Italian speakers.
 
-For students in 7th grade and above, see our [accredited classes for teens](/accredited-classes).
+For students in 7th grade and above, see our [high school credit classes for teens](/high-school-credit-classes).
 
 ## Where {#location}
 

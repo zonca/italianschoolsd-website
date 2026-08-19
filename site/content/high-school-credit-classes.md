@@ -1,12 +1,14 @@
 ---
-title: District-approved Italian classes in San Diego
+title: Italian classes for high school credit in San Diego
 image: /img/milan.jpg
-subtitle: Classes for the Academic Year 2026-2027
+subtitle: Middle and high school, academic year 2026-2027
+aliases:
+    - /accredited-classes
 ---
 
-> **Academic Year 2026-2027 Schedule:** Fixed-schedule district-approved classes start August 26 and 27. Almost all class sections are finalized and confirmed. Late pre-enrollment is open through **August 25, 2026**. [Read the schedule announcement]({{< ref "news/academic-year-starts-august-26-finalized-schedule.md" >}}).
+> **Academic Year 2026-2027 Schedule:** Fixed-schedule credit classes start August 26 and 27. Almost all class sections are finalized and confirmed. Late pre-enrollment is open through **August 25, 2026**. [Read the schedule announcement]({{< ref "news/academic-year-starts-august-26-finalized-schedule.md" >}}).
 
-## District-approved Italian classes for middle and high school students {#districts}
+## Italian classes that earn high school credit {#districts}
 
 The Italian School of San Diego LLC is approved by both the San Diego Unified and San Dieguito Union High School Districts to teach world language courses off campus. Classes taken here fulfill the world language requirement for high school graduation at public high schools in these two districts, and the grade earned is added to the student's high school transcript.
 
@@ -26,7 +28,7 @@ For more information, see:
 
 ## Class Levels and Schedule {#schedule}
 
-We offer two distinct district-approved tracks for middle and high school students:
+We offer two distinct credit-bearing tracks for middle and high school students:
 1. **INL — Italian as a New Language** — for students learning Italian as a new language without significant prior proficiency.
 2. **ITA — Italian for Italian Speakers** — for students who already speak Italian (whether from family/home exposure, years living or attending school in Italy, or immersion).
 
@@ -50,7 +52,7 @@ For students who already speak Italian fluently. As they progress, students foll
 * **Italian for Italian Speakers 5-6 (ITA 5-6):** Thursdays, **4:15-6:15pm**, in person, **August 27, 2026-May 20, 2027**.
 * **Italian for Italian Speakers 7-8 (ITA 7-8) & AP Preparation:** Online / flexible schedule, arranged with enrolled students. *[See AP Italian page](/ap-italian-san-diego) and [Private AP Preparation]({{< ref "private-ap-italian-prep.md" >}}).*
 
-Students with prior Italian study may test into a higher level than level 1-2. Please indicate this on the pre-enrollment form or contact us in advance. *(Note: Direct enrollment into levels above 1-2 requires a [curriculum alignment fee](/enroll-accredited#alignment-fee).)* Note: what counts is the level completed, not the number of years attended. Passing a higher level validates the levels below it, so a student who passes, for example, Italian as a New Language 5-6 or Italian for Italian Speakers 5-6 during high school has met the equivalent of three years of high school language study for graduation and UC admission purposes, even though the transcript shows the credit for the course actually taken.
+Students with prior Italian study may test into a higher level than level 1-2. Please indicate this on the pre-enrollment form or contact us in advance. *(Note: Direct enrollment into levels above 1-2 requires a [curriculum alignment fee](/enroll-high-school-credit#alignment-fee).)* Note: what counts is the level completed, not the number of years attended. Passing a higher level validates the levels below it, so a student who passes, for example, Italian as a New Language 5-6 or Italian for Italian Speakers 5-6 during high school has met the equivalent of three years of high school language study for graduation and UC admission purposes, even though the transcript shows the credit for the course actually taken.
 
 ## Location and Calendar {#location}
 
@@ -68,15 +70,15 @@ Book information will be provided after students are assigned to classes.
 * Middle school students can enroll directly with the Italian School; no school involvement is required. Neither district puts middle school classes on a high school transcript, so starting early builds the level, not the credit.
 * High school students must notify their school of their intent to pursue language education externally. Usually, a form must be completed and sent to the counselor.
 
-See tuition details and submit a non-binding pre-enrollment form using the button below. The same form is used for both the district-approved classes and the other classes. Based on the student's level and age, we will recommend the most suitable class:
+See tuition details and submit a non-binding pre-enrollment form using the button below. The same form is used for both the high school credit classes and the other classes. Based on the student's level and age, we will recommend the most suitable class:
 
 <div class="tc">
-<a href="/enroll-accredited" class="btn raise">Tuition and Pre-Enrollment Information</a>
+<a href="/enroll-high-school-credit" class="btn raise">Tuition and Pre-Enrollment Information</a>
 </div>
 
 ## Workload and Grading {#workload-grading}
 
-District-approved classes require at least 2 hours of homework per week, compared with 30 minutes to 1 hour for lower levels. Students should plan accordingly.
+These classes require at least 2 hours of homework per week, compared with 30 minutes to 1 hour for lower levels. Students should plan accordingly.
 
 Grading is more structured: students will join our Google Classroom, submit weekly homework for grading, and take tests via Google Forms during class. Final grades are based on homework, tests, and class participation.
 

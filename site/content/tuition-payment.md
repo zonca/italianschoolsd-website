@@ -22,7 +22,7 @@ The 8-payment plan allows you to pay in multiple installments while still commit
 * **Late Fees:** If a monthly payment is more than 2 weeks late, a $50 late fee applies. This increases to $100 for invoices unpaid for over 1 month. Please enable autopay via Wave or scheduled Zelle payments to avoid fees.
 
 ### Sibling Discount {#sibling-discount}
-The first additional family member enrolled receives a 10% discount, the second a 15% discount, and so on (discounts are cumulative). For families with kids in both accredited and non-accredited classes, the higher discount applies to the lower tuition.
+The first additional family member enrolled receives a 10% discount, the second a 15% discount, and so on (discounts are cumulative). For families with kids in both the high school credit classes and the other classes, the higher discount applies to the lower tuition.
 
 ### Late Enrollments {#late-enrollments}
 Enrollments are open all year, pending availability. Please [contact us]({{< relref "contact.md" >}}) first to check availability and ensure the class fits your child's age and level.

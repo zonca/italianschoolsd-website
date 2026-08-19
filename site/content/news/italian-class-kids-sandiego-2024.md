@@ -40,7 +40,7 @@ We will have 2 hour classes from 4pm to 6pm, with a 15 minutes break, we plan to
 
 Our program will teach the kids the basics of the Italian language through fun activities, songs, crafts and drawing using visual aids and age-appropriate games. No previous knowledge of Italian is required.
 
-Middle-schoolers can then enroll in our [certified program](/accredited-classes/) that satisfies High School graduation and college admission requirements.
+Middle-schoolers can then enroll in our [high school credit program](/high-school-credit-classes/) that satisfies High School graduation and college admission requirements.
 
 We also have [an adult class for beginners](/adults) at the same time and same location, so that parents can take a separate Italian class.
 
