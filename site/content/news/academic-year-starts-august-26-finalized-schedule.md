@@ -17,13 +17,13 @@ Here is an overview of our confirmed classes for the upcoming year:
   *Starts September 2, 2026 (Kearny Mesa)*  
   Interactive morning group class for preschoolers and homeschooled children starting from age 3, learning Italian through play, songs, stories, and projects. Charter school funds accepted.
 
-* **Wednesday Afternoon: Italian as a Foreign Language (4:00 - 6:00 PM)**  
+* **Wednesday Afternoon: Italian as a New Language / IFL (4:00 - 6:00 PM)**  
   *Starts August 26, 2026 (Kearny Mesa)*  
-  For students new to Italian or continuing second-language learners. 4 in-person classes running from TK through elementary, plus high school accredited Italian 5-6 in person and an online Italian 1-2 section for middle schoolers.
+  For students new to Italian or continuing second-language learners. 4 in-person classes running from TK through elementary, plus high school accredited Italian as a New Language 5-6 in person and an online Italian as a New Language 1-2 section for middle schoolers.
 
-* **Thursday Afternoon: Italian Heritage & Certified Track (4:15 - 6:15 PM)**  
+* **Thursday Afternoon: Italian Heritage Track (4:15 - 6:15 PM)**  
   *Starts August 27, 2026 (Kearny Mesa)*  
-  For fluent/heritage Italian speakers. 4 in-person elementary classes running from TK through 6th grade, plus middle school Italian 1-2 and high school Italian 5-6 in person, and online Italian 7-8 / AP level.
+  For fluent/heritage Italian speakers. 4 in-person elementary classes running from TK through 6th grade, plus middle school Italian Heritage 1-2 and high school Italian Heritage 5-6 in person, and online Italian Heritage 7-8 / AP level.
 
 * **Monday Afternoon: North County Encinitas (4:00 - 6:00 PM)**  
   *Starts September 14, 2026 (San Dieguito United Methodist Church)*  

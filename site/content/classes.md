@@ -32,7 +32,7 @@ Designed for children who are already advanced or fluent in Italian, though not 
 * **Confirmed Classes:** 4 in-person elementary classes running from TK through 6th grade, grouped by age and proficiency.
 * **Note:** No class on December 17, 2026.
 
-### Italian as a Foreign Language (Beginners/New Learners) {#ifl}
+### Italian as a New Language (Beginners/New Learners) {#ifl}
 
 Designed for students who are new to Italian. Instruction begins in English and transitions to Italian, using a conversation-first approach with engaging activities that build vocabulary, pronunciation, and confidence. Students are grouped by age and level.
 
