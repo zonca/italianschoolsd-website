@@ -17,15 +17,15 @@ The Italian School of San Diego LLC is accredited by San Diego Unified and San D
 
 We offer two distinct accredited tracks for middle and high school students:
 
-**1. Italian as a New Language (for non-native learners):** a conversation-first approach focused on real conversation and everyday situations.
-* **Italian as a New Language 5-6:** Wednesdays, **4:00-6:00pm**, in person, **August 26, 2026-May 19, 2027**.
-* **Italian as a New Language 1-2 (Online Middle School):** Wednesdays, **4:00-6:00pm**, online.
+**1. Italian as a New Language (INL, for new learners):** a conversation-first approach focused on real conversation and everyday situations.
+* **Italian as a New Language 5-6 (INL 5-6):** Wednesdays, **4:00-6:00pm**, in person, **August 26, 2026-May 19, 2027**.
+* **Italian as a New Language 1-2 (INL 1-2 Online Middle School):** Wednesdays, **4:00-6:00pm**, online.
 * **Italian as a New Language 3-4, and 7-8/AP Preparation:** flexible schedule, arranged with enrolled students.
 
-**2. Italian Heritage Track (for heritage / bilingual speakers):** as they progress, students follow the literature program taught in Italian high schools, reading Dante's *Divina Commedia*, Boccaccio's *Decameron*, Manzoni's *I Promessi Sposi*, and Homer's *Iliad* and *Odyssey*.
-* **Italian Heritage 1-2:** Thursdays, **4:15-6:15pm**, in person, **August 27, 2026-May 20, 2027**.
-* **Italian Heritage 5-6:** Thursdays, **4:15-6:15pm**, in person, **August 27, 2026-May 20, 2027**.
-* **Italian Heritage 7-8 / AP Preparation:** flexible schedule / online, arranged with enrolled students.
+**2. Italian for Italian Speakers (ITA, for fluent speakers):** as they progress, students follow the literature program taught in Italian high schools, reading Dante's *Divina Commedia*, Boccaccio's *Decameron*, Manzoni's *I Promessi Sposi*, and Homer's *Iliad* and *Odyssey*.
+* **Italian for Italian Speakers 1-2 (ITA 1-2):** Thursdays, **4:15-6:15pm**, in person, **August 27, 2026-May 20, 2027**.
+* **Italian for Italian Speakers 5-6 (ITA 5-6):** Thursdays, **4:15-6:15pm**, in person, **August 27, 2026-May 20, 2027**.
+* **Italian for Italian Speakers 7-8 (ITA 7-8) / AP Preparation:** flexible schedule / online, arranged with enrolled students.
 
 Students with prior Italian study may test into a higher level than level 1-2.
 

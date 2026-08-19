@@ -24,7 +24,7 @@ Italian school of San Diego students which have reached year 4 of the [accredite
 
 It is important to stress that it is the cumulative instructions from the 4 levels
 of Italian classes that prepare the students for the AP test, many topics useful
-for the AP test are covered across levels 1-2, 3-4, and 5-6 (Italian as a New Language or Italian Heritage).
+for the AP test are covered across levels 1-2, 3-4, and 5-6 (Italian as a New Language or Italian for Italian Speakers).
 
 ## Private Tutoring and Dedicated Preparation {#private-prep}
 

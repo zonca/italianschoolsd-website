@@ -17,9 +17,9 @@ image: /flyers/italianschoolsd-flyer-italian-2026-2027-kids.png
 
 ## Programs open for 2026-2027 {#classes}
 
-* **Italian as a Foreign Language (new learners), TK-6th grade**
+* **Italian as a New Language (new learners), TK-6th grade**
   Wednesdays, **4:00-6:00pm**, August 26, 2026-May 19, 2027
-* **Italian Heritage classes (advanced or fluent children), TK-6th grade**
+* **Italian for Italian Speakers (advanced or fluent children), TK-6th grade**
   Thursdays, **4:15-6:15pm**, August 27, 2026-May 20, 2027
 * **Morning program for homeschoolers**, from age 3
   Wednesdays, **10am-12pm**, September 2, 2026-May 19, 2027

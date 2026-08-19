@@ -12,7 +12,7 @@ The number of classes remains unchanged. Each schedule included one backup week,
 ## Updated class dates {#updated-class-dates}
 
 * **Italian as a New Language afternoon classes:** Wednesdays, **4:00-6:00pm**, August 26, 2026-May 19, 2027. This includes TK-6 groups and the fixed-schedule accredited Italian as a New Language 5-6 class (for non-native learners).
-* **Italian Heritage afternoon classes:** Thursdays, **4:15-6:15pm**, August 27, 2026-May 20, 2027. This includes TK-6 groups and fixed-schedule accredited classes for heritage/native speakers.
+* **Italian for Italian Speakers afternoon classes:** Thursdays, **4:15-6:15pm**, August 27, 2026-May 20, 2027. This includes TK-6 groups and fixed-schedule accredited classes for fluent speakers.
 * **Italian homeschool morning program:** Wednesdays, **10am-12pm**, with two 16-class sessions: September 2, 2026-January 20, 2027 and January 27-May 19, 2027.
 
 Flexible-schedule accredited classes remain arranged individually with enrolled students.

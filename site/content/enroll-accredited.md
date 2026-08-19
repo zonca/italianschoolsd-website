@@ -36,11 +36,11 @@ There is an additional $150 materials fee for all in-person classes. This helps 
 
 ## Curriculum Alignment Fee {#alignment-fee}
 
-Accredited students normally begin with Italian as a New Language 1-2 or Italian Heritage 1-2. Students with prior Italian study or strong Italian fluency may request a free placement evaluation for direct enrollment into a higher level. Because direct-entry students often need curriculum alignment support for prerequisite material not completed with our program, students who enroll directly into higher levels pay a one-time curriculum alignment fee:
+Accredited students normally begin with Italian as a New Language 1-2 (INL 1-2) or Italian for Italian Speakers 1-2 (ITA 1-2). Students with prior Italian study or strong Italian fluency may request a free placement evaluation for direct enrollment into a higher level. Because direct-entry students often need curriculum alignment support for prerequisite material not completed with our program, students who enroll directly into higher levels pay a one-time curriculum alignment fee:
 
-* Direct entry into **level 3-4** (Italian as a New Language 3-4 / Italian Heritage 3-4): $100
-* Direct entry into **level 5-6** (Italian as a New Language 5-6 / Italian Heritage 5-6): $200
-* Direct entry into **level 7-8 / AP Prep** (Italian as a New Language 7-8 / Italian Heritage 7-8): $300
+* Direct entry into **level 3-4** (Italian as a New Language 3-4 / Italian for Italian Speakers 3-4): $100
+* Direct entry into **level 5-6** (Italian as a New Language 5-6 / Italian for Italian Speakers 5-6): $200
+* Direct entry into **level 7-8 / AP Prep** (Italian as a New Language 7-8 / Italian for Italian Speakers 7-8): $300
 
 See [the dedicated page for details on payment methods, cancellation policy, the 8-payment option, and sibling discount]({{< relref "tuition-payment.md" >}}).
 
