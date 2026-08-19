@@ -1,7 +1,7 @@
 ---
 title: Kids and teen Italian classes postponed by one week
 date: 2026-07-30T00:00:00.000Z
-description: Kids and fixed-schedule accredited teen classes will start one week later, with enrollment extended through August 21 and no change to class totals.
+description: Kids and fixed-schedule accredited teen classes will start one week later, with enrollment extended through August 25 and no change to class totals.
 image: /flyers/italianschoolsd-flyer-italian-2026-2027-kids.png
 ---
 
@@ -17,9 +17,9 @@ The number of classes remains unchanged. Each schedule included one backup week,
 
 Flexible-schedule accredited classes remain arranged individually with enrolled students.
 
-## Enrollment extended through August 21 {#enrollment-extended}
+## Enrollment extended through August 25 {#enrollment-extended}
 
-Families now have until **August 21, 2026** to pre-enroll. Pre-enrollment is non-binding and requires no payment.
+Families now have until **August 25, 2026** to pre-enroll. Pre-enrollment is non-binding and requires no payment. [See the finalized schedule announcement]({{< ref "news/academic-year-starts-august-26-finalized-schedule.md" >}}).
 
 <div class="tc">
 <a href="/enroll" class="btn raise">Pre-enroll kids (TK-6)</a>

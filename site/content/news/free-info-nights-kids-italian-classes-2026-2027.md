@@ -30,7 +30,7 @@ Not on Facebook? Email us at [info@italianschoolsd.com](mailto:info@italianschoo
 
 Each location has its own pre-enrollment deadline, and each info night falls comfortably before it:
 
-* **Kearny Mesa** classes start August 26 and 27. [Pre-enrollment closes August 21]({{< relref "enroll.md" >}}).
+* **Kearny Mesa** classes start August 26 and 27. [Pre-enrollment closes August 25]({{< relref "enroll.md" >}}).
 * **Encinitas** classes start September 14. [Pre-enrollment closes August 31]({{< relref "italian-classes-encinitas.md" >}}), which leaves you the rest of the week after the August 25 evening to decide.
 
 No payment is due when you pre-enroll, and pre-enrollment is not binding.

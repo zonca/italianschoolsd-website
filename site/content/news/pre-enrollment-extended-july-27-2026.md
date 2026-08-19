@@ -5,7 +5,7 @@ description: "The pre-enrollment deadline for 2026-2027 kids and accredited teen
 image: /flyers/italianschoolsd-flyer-italian-2026-2027-kids.png
 ---
 
-**Update, July 30, 2026:** late enrollment is now accepted through **August 21, 2026**, and fixed-schedule kids and teen classes will start one week later. [Read the current schedule announcement]({{< ref "news/kids-and-teen-italian-classes-postponed-by-one-week.md" >}}).
+**Update, August 18, 2026:** Late enrollment is now accepted through **August 25, 2026**, and fixed-schedule classes start August 26 and 27. [Read the current schedule announcement]({{< ref "news/academic-year-starts-august-26-finalized-schedule.md" >}}).
 
 We have extended the pre-enrollment deadline for our **2026-2027 Italian classes for kids and teens** to **July 27, 2026**.
 

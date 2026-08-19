@@ -7,7 +7,7 @@ image: /img/isola_bella.jpg
 
 Pre-enrollment is open for our **2026-2027 Italian classes for kids** in San Diego.
 
-> **Schedule update, July 30, 2026:** All classes listed below will start one week later. Enrollment is open through August 21, and class totals remain unchanged. [Read the full announcement]({{< ref "news/kids-and-teen-italian-classes-postponed-by-one-week.md" >}}).
+> **Schedule update, August 18, 2026:** Classes start August 26 and 27 (Homeschool on September 2). Sections are finalized and enrollment is open through **August 25, 2026**. [Read the full announcement]({{< ref "news/academic-year-starts-august-26-finalized-schedule.md" >}}).
 
 We offer small-group classes for TK-6th grade students at our Kearny Mesa location, with programs for Italian heritage speakers, beginners, and homeschool families.
 
@@ -23,7 +23,7 @@ Classes have 5-10 students and are grouped by age and level.
 
 ## Pre-Enrollment {#pre-enrollment}
 
-We have openings in every program and age group. Please pre-enroll by **August 21, 2026** to secure a spot. Pre-enrollment is not binding; we will confirm the proposed class and send an invoice to finalize enrollment. Payment is due within 1 week after receiving the payment email.
+We have openings in every program and age group. Please pre-enroll by **August 25, 2026** to secure a spot. Pre-enrollment is not binding; we will confirm the proposed class and send an invoice to finalize enrollment. Payment is due within 1 week after receiving the payment email.
 
 <div class="tc">
 <a href="/enroll" class="btn raise">Tuition and pre-enrollment information</a>
