@@ -8,7 +8,7 @@ subtitle: Classes for the Academic Year 2026-2027
 
 ## Accredited Italian Classes for Middle and High School Students {#districts}
 
-The Italian School of San Diego LLC is accredited by both the San Diego Unified and San Dieguito Union High School Districts as an "Independent World Language School." Classes taken at the Italian School fulfill the language requirement for high school graduation at public high schools within these two districts and also satisfy college admission requirements. Grades earned in Italian classes can be added to students' high school transcripts.
+The Italian School of San Diego LLC is approved by both the San Diego Unified and San Dieguito Union High School Districts to teach world language courses off campus. San Diego Unified lists us as a district-approved "Independent World Language School"; San Dieguito includes us on its list of approved off-campus language schools. This is district approval of our courses, not accreditation of the school: we are not WASC accredited. Classes taken at the Italian School fulfill the language requirement for high school graduation at public high schools within these two districts and also satisfy college admission requirements. Grades earned in Italian classes can be added to students' high school transcripts.
 
 The curriculum and programs were created, implemented, and district-approved by our sister school, IAASD (now closed). [Learn more about their story](/about/legacy-iaasd).
 
@@ -118,9 +118,9 @@ Download the "SDUHSD Off-Campus Course Permission Form" at the bottom of this pa
 * In the School field, write "Italian School of San Diego LLC"
 * Course name: Italian 1-2, 3-4, 5-6 or 7-8
 * CEEB code: leave blank
-* Accreditation: On SDUHSD list of approved unaccredited LOTE schools
+* Accreditation: On the SDUHSD list of approved, not fully accredited off-campus LOTE schools
 * Check both semester 1 and 2 if you are enrolled at Italian school for the entire year
 
-The form says to attach evidence of accreditation, but this is not necessary because we are already on the approved list.
+The form asks to attach evidence of accreditation. That is not necessary for us, because the district already lists the Italian School of San Diego on its approved off-campus language school list.
 
 Submit the signed form to your counselor.

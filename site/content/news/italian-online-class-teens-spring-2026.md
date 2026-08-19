@@ -21,7 +21,7 @@ We are opening a new **Online "Italian as a Foreign Language 1"** class for **Hi
 
 This class is part of our **[Certified Program]({{< ref "accredited-classes.md" >}})**.
 * **No previous knowledge required.** This course ("Italian as a Foreign Language 1") is designed for beginners.
-* **Accredited:** The Italian School of San Diego is accredited by **San Diego Unified** and **San Dieguito** districts as an "Independent World Language School" and **follows a program approved by the districts**. Classes can fulfill language requirements for high school graduation at **public high schools** in these districts and satisfy college admission requirements. Grades earned are added to the student's high school transcript.
+* **District-approved:** The Italian School of San Diego is approved by the **San Diego Unified** and **San Dieguito** districts to teach world language courses off campus, and **follows a program approved by the districts**. Classes can fulfill language requirements for high school graduation at **public high schools** in these districts and satisfy college admission requirements. Grades earned are added to the student's high school transcript.
 * **Structure:** Classes are taught by native instructors and follow a structured curriculum suitable for earning credit.
 
 ### Note for Middle Schoolers regarding Credits

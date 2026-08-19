@@ -9,7 +9,7 @@ Pre-enrollment is open for our **2026-2027 accredited Italian classes** for midd
 
 > **Schedule update, August 18, 2026:** Fixed-schedule classes start August 26 and 27. Sections are finalized and enrollment is open through **August 25, 2026**. [Read the full announcement]({{< ref "news/academic-year-starts-august-26-finalized-schedule.md" >}}).
 
-The Italian School of San Diego LLC is accredited by San Diego Unified and San Dieguito Union High School Districts as an Independent World Language School. Classes can fulfill language requirements for high school graduation at public high schools within these districts and can satisfy college admission requirements.
+The Italian School of San Diego LLC is approved by San Diego Unified and San Dieguito Union High School Districts to teach world language courses off campus. Classes can fulfill language requirements for high school graduation at public high schools within these districts and can satisfy college admission requirements.
 
 [![Accredited Italian classes for teens 2026-2027 flyer](/flyers/italianschoolsd-flyer-italian-2026-2027-teens.png)](/flyers/italianschoolsd-flyer-italian-2026-2027-teens.pdf)
 
