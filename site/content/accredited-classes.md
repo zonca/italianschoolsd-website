@@ -4,7 +4,7 @@ image: /img/milan.jpg
 subtitle: Classes for the Academic Year 2026-2027
 ---
 
-> **Schedule update, July 30, 2026:** Fixed-schedule accredited classes will start August 26 and 27. Enrollment is open through August 21. The 33-class total remains unchanged because the scheduled backup week will be used for regular instruction. [Read the full announcement]({{< ref "news/kids-and-teen-italian-classes-postponed-by-one-week.md" >}}).
+> **Academic Year 2026-2027 Schedule:** Fixed-schedule accredited classes start August 26 and 27. Almost all class sections are finalized and confirmed. Late pre-enrollment is open through **August 25, 2026**. [Read the schedule announcement]({{< ref "news/academic-year-starts-august-26-finalized-schedule.md" >}}).
 
 ## Accredited Italian Classes for Middle and High School Students {#districts}
 
@@ -23,7 +23,7 @@ We offer two distinct accredited tracks for middle and high school students:
 1. **Italian as a Foreign Language (IFL)** — for non-native learners (students learning Italian as a new/second language).
 2. **Italian for Italian Speakers (Heritage)** — for heritage/native speakers who already speak fluent Italian at home.
 
-Some levels meet on a fixed in-person schedule at our [Kearny Mesa location]({{< relref "location.md" >}}); others have a **flexible schedule** that we arrange together with the enrolled students — just [email us](/contact) your preferred day, time, and format (online or in-person).
+Some levels meet on a fixed in-person schedule at our [Kearny Mesa location]({{< relref "location.md" >}}); others meet online or have a **flexible schedule** arranged with enrolled students.
 
 > **Important Track Distinction:** Wednesday afternoon classes are for **Italian as a Foreign Language** (non-native learners). Thursday afternoon classes are for **Italian for Italian Speakers** (heritage speakers).
 
@@ -31,15 +31,17 @@ Some levels meet on a fixed in-person schedule at our [Kearny Mesa location]({{<
 
 For students learning Italian as a foreign language. Lessons use a conversation-first approach focused on real conversation and everyday situations, building speaking confidence alongside grammar, vocabulary, reading, and writing.
 
-* **Italian 5-6 (Foreign Language Track):** Wednesdays, **4:00-6:00pm**, in person, **August 26, 2026-May 19, 2027**. *(Note: This Wednesday 4:00–6:00pm class is specifically for foreign-language learners in their 3rd year of Italian study.)*
-* **Italian 1-2** (*for beginners*)**, 3-4, and 7-8 & AP Preparation:** flexible schedule, arranged with enrolled students (online or in-person). *[See AP Italian page](/ap-italian-san-diego) for 7-8 & AP and [Private AP Preparation]({{< ref "private-ap-italian-prep.md" >}}).*
+* **Italian 5-6 (Foreign Language Track):** Wednesdays, **4:00-6:00pm**, in person, **August 26, 2026-May 19, 2027**.
+* **Italian 1-2 (Online Middle School):** Wednesdays, **4:00-6:00pm**, online.
+* **Italian 3-4, and 7-8 & AP Preparation:** flexible schedule, arranged with enrolled students (online or in-person). *[See AP Italian page](/ap-italian-san-diego) for 7-8 & AP and [Private AP Preparation]({{< ref "private-ap-italian-prep.md" >}}).*
 
 ### Italian for Italian Speakers (For Heritage / Native Speakers) {#italian-speakers}
 
 For heritage speakers who are already fluent. As they progress, students follow the literature program taught in Italian high schools, reading and discussing Dante's *Divina Commedia*, Boccaccio's *Decameron*, Manzoni's *I Promessi Sposi*, and Homer's *Iliad* and *Odyssey*, alongside grammar, composition, and culture.
 
-* **Italian 1-2, 3-4, and 5-6 (Heritage Track):** Thursdays, **4:15-6:15pm**, in person, **August 27, 2026-May 20, 2027**. *(Classes are divided by level for heritage speakers.)*
-* **Italian 7-8 & AP Preparation:** flexible schedule, arranged with enrolled students (online or in-person). *[See AP Italian page](/ap-italian-san-diego) and [Private AP Preparation]({{< ref "private-ap-italian-prep.md" >}}).*
+* **Italian 1-2 (Heritage Track):** Thursdays, **4:15-6:15pm**, in person, **August 27, 2026-May 20, 2027**.
+* **Italian 5-6 (Heritage Track):** Thursdays, **4:15-6:15pm**, in person, **August 27, 2026-May 20, 2027**.
+* **Italian 7-8 & AP Preparation:** Online / flexible schedule, arranged with enrolled students. *[See AP Italian page](/ap-italian-san-diego) and [Private AP Preparation]({{< ref "private-ap-italian-prep.md" >}}).*
 
 Students with prior Italian study may test into a higher level than 1-2. Please indicate this on the pre-enrollment form or contact us in advance. *(Note: Direct enrollment into levels above 1-2 requires a [curriculum alignment fee](/enroll-accredited#alignment-fee).)* Note: if a student enrolls in, for example, Italian 5-6 during high school, they will receive three years of foreign language credit. Credit is tied to the class level, not the number of years attended.
 

@@ -14,7 +14,7 @@ See the classrooms, meet us, and ask anything before you enroll. We cover everyt
 There is a [second info night in Encinitas](/infonight/) on Tuesday, August 25.
 {{< /infonight >}}
 
-> **Schedule update, July 30, 2026:** Afternoon classes will start August 26 and 27, and the homeschool morning program will start September 2. Enrollment is open through August 21. The number of classes remains unchanged because the scheduled backup week will be used for regular instruction. [Read the full announcement]({{< ref "news/kids-and-teen-italian-classes-postponed-by-one-week.md" >}}).
+> **Academic Year 2026-2027 Schedule:** Afternoon classes start August 26 and 27, and the homeschool morning program starts September 2. Almost all class sections are finalized and confirmed. Late pre-enrollment remains open through **August 25, 2026**. [Read the schedule announcement]({{< ref "news/academic-year-starts-august-26-finalized-schedule.md" >}}).
 
 ## In-Person Afternoon Classes (TK-6) {#afternoon}
 
@@ -29,6 +29,7 @@ Designed for children who are already advanced or fluent in Italian, though not 
 
 * **Schedule:** Thursdays, 4:15-6:15pm
 * **Calendar:** August 27, 2026-May 20, 2027 (33 weeks of instruction).
+* **Confirmed Classes:** 4 in-person elementary classes running from TK through 6th grade, grouped by age and proficiency.
 * **Note:** No class on December 17, 2026.
 
 ### Italian as a Foreign Language (Beginners/New Learners) {#ifl}
@@ -37,6 +38,7 @@ Designed for students who are new to Italian. Instruction begins in English and 
 
 * **Schedule:** Wednesdays, 4:00-6:00pm
 * **Calendar:** August 26, 2026-May 19, 2027 (33 weeks of instruction).
+* **Confirmed Classes:** 4 in-person elementary classes running from TK through 6th grade, grouped by age and level.
 
 *See the [Italian School of San Diego calendar](/calendar) for our full Google Calendar schedule.*
 

@@ -6,9 +6,9 @@ subtitle: Pre-enroll for accredited classes for the academic year 2026-2027
 
 See [more information about accredited classes]({{< relref "accredited-classes.md" >}}) before pre-enrolling, and be sure to follow the instructions on that page to notify your high school counselor so credits are properly recognized.
 
-> **Schedule update, July 30, 2026:** Fixed-schedule accredited classes will start August 26 and 27. The 33-class total remains unchanged. [Read the full announcement]({{< ref "news/kids-and-teen-italian-classes-postponed-by-one-week.md" >}}).
+> **Academic Year 2026-2027 Schedule:** Fixed-schedule accredited classes start August 26 and 27. Almost all class sections are finalized and confirmed. Late pre-enrollment is open through **August 25, 2026**. [Read the schedule announcement]({{< ref "news/academic-year-starts-august-26-finalized-schedule.md" >}}).
 
-We have openings in every program and age group. Please pre-enroll by **August 21, 2026** to secure a spot. No payment is required at the time of pre-enrollment. We will email you a confirmation with all class details after pre-enrollment closes.
+We have openings in every program and age group. Please pre-enroll by **August 25, 2026** to secure a spot. No payment is required at the time of pre-enrollment. We will email you a confirmation with all class details after pre-enrollment closes.
 
 To finalize your enrollment, you must pay the invoice attached to the confirmation email within **1 week** after receiving the payment email. Pre-enrollment is not binding until payment is received.
 

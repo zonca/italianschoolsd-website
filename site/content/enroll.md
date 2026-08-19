@@ -7,9 +7,9 @@ subtitle: Pre-enroll for classes for the academic year 2026-2027
 Enrollment for the 2026-2027 kids classes is open.
 See more information about [all the classes we offer]({{< relref "classes.md" >}}) before pre-enrolling.
 
-> **Schedule update, July 30, 2026:** Afternoon classes will start August 26 and 27, and the homeschool morning program will start September 2. The number of classes remains unchanged. [Read the full announcement]({{< ref "news/kids-and-teen-italian-classes-postponed-by-one-week.md" >}}).
+> **Academic Year 2026-2027 Schedule:** Afternoon classes start August 26 and 27, and the homeschool morning program starts September 2. Almost all class sections are finalized and confirmed. Late pre-enrollment is open through **August 25, 2026**. [Read the schedule announcement]({{< ref "news/academic-year-starts-august-26-finalized-schedule.md" >}}).
 
-We have openings in every program and age group. Please pre-enroll by **August 21, 2026** for the Kearny Mesa classes. The new [Encinitas Monday class](/italian-classes-encinitas/) starts later, on September 14, so pre-enrollment for it stays open until **August 31, 2026**.
+We have openings in every program and age group. Please pre-enroll by **August 25, 2026** for the Kearny Mesa classes. The new [Encinitas Monday class](/italian-classes-encinitas/) starts later, on September 14, so pre-enrollment for it stays open until **August 31, 2026**.
 
 No payment is needed at the time of pre-enrollment. We will email you a confirmation of pre-enrollment with the proposed class and tuition details. To finalize enrollment, you will need to pay the invoice attached to the confirmation email within **1 week** after receiving the payment email. Pre-enrollment itself is not binding.
 
