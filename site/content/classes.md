@@ -23,18 +23,22 @@ There is a [second info night in Encinitas](/infonight/) on Tuesday, August 25.
 
 Our core afternoon classes meet once a week for two hours at our [Kearny Mesa location](/location). Classes are kept small (5-10 students) and are taught by native Italian instructors. These programs prepare students for our [accredited classes](/accredited-classes), which typically begin in 6th or 7th grade.
 
-### Italian Heritage Classes (Advanced/Fluent) {#heritage}
+We organize our program into two distinct pathways based on actual language proficiency:
+* **ITA — Italian for Italian Speakers:** For children who already speak Italian, regardless of how they acquired it (home exposure, living or attending school in Italy, immersion, etc.).
+* **INL — Italian as a New Language:** For children learning Italian as a new language without significant prior proficiency.
 
-Designed for children who are already advanced or fluent in Italian, though not necessarily native speakers. These classes deepen students' knowledge of the Italian language and introduce topics taught to their peers in Italy, including history and geography starting in 3rd grade.
+### Italian for Italian Speakers (Advanced/Fluent) {#italian-speakers}
+
+Designed for children who are already advanced or fluent in Italian (whether through Italian-speaking family, time spent living in Italy, or immersion). These classes deepen students' knowledge of the Italian language and follow topics taught to their peers in Italy, including reading, composition, history, and geography starting in 3rd grade.
 
 * **Schedule:** Thursdays, 4:15-6:15pm
 * **Calendar:** August 27, 2026-May 20, 2027 (33 weeks of instruction).
 * **Confirmed Classes:** 4 in-person elementary classes running from TK through 6th grade, grouped by age and proficiency.
 * **Note:** No class on December 17, 2026.
 
-### Italian as a Foreign Language (Beginners/New Learners) {#ifl}
+### Italian as a New Language (Beginners & Continuing Learners) {#new-language}
 
-Designed for students who are new to Italian. Instruction begins in English and transitions to Italian, using a conversation-first approach with engaging activities that build vocabulary, pronunciation, and confidence. Students are grouped by age and level.
+Designed for students who are learning Italian as a new language. Instruction begins in English and transitions to Italian, using a conversation-first approach with engaging activities that build vocabulary, pronunciation, and confidence. As students advance through the levels, reading and writing are introduced systematically.
 
 * **Schedule:** Wednesdays, 4:00-6:00pm
 * **Calendar:** August 26, 2026-May 19, 2027 (33 weeks of instruction).

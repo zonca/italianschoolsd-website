@@ -11,7 +11,7 @@ intro:
 products:
     - image: /flyers/italianschoolsd-flyer-italian-2026-2027-kids.png
       title: "Italian for TK to 6th Graders"
-      text: "Weekly, in-person classes for both beginners and heritage speakers, grouped by age. A conversation-first approach with native Italian instructors, plus reading and writing as students progress."
+      text: "Weekly, in-person classes for both beginners and fluent Italian speakers, grouped by age. A conversation-first approach with native Italian instructors, plus reading and writing as students progress."
       link: /classes
     - image: img/italian-adult-classes.svg
       title: "Italian for adults"

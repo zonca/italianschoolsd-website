@@ -25,7 +25,7 @@ We are incredibly proud of our students for this remarkable achievement and grat
 
 Building on this success, pre-enrollment is officially open for our 2026-2027 Italian programs for children and teens! We offer small-group classes at our Kearny Mesa location, designed to challenge, support, and inspire young learners:
 
-*   **[Italian Classes for Kids (TK-6th Grade)]({{< relref "news/italian-classes-for-kids-2026-2027-in-san-diego.md" >}}):** Programs for heritage speakers, beginners, and homeschool families.
+*   **[Italian Classes for Kids (TK-6th Grade)]({{< relref "news/italian-classes-for-kids-2026-2027-in-san-diego.md" >}}):** Programs for fluent Italian speakers, new learners, and homeschool families.
 *   **[Accredited Italian Classes for Teens (Middle & High School)]({{< relref "news/accredited-italian-classes-for-teens-2026-2027.md" >}}):** Fulfill world language graduation and college admission requirements (accredited by SDUSD and SDUHSD).
 
-Pre-enrollment is requested by **August 21, 2026** to secure a spot. For more information, visit our [Adult & Youth classes overview]({{< relref "adults.md" >}}).
+Pre-enrollment is requested by **August 25, 2026** to secure a spot. For more information, visit our [Adult & Youth classes overview]({{< relref "adults.md" >}}).

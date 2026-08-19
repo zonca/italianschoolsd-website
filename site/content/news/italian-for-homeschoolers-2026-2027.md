@@ -9,9 +9,9 @@ subtitle: New academic year, Wednesdays 10am–12pm, 16+16 classes
 
 We are excited to announce our Italian morning program for homeschoolers for the 2026-2027 academic year! This program is open to students from TK to 8th grade, with no previous Italian required. Students will be grouped by age based on enrollment.
 
-> **Schedule update, July 30, 2026:** The morning program will start September 2. Both sessions still include 16 classes, and enrollment is open through August 21. [Read the full announcement]({{< ref "news/kids-and-teen-italian-classes-postponed-by-one-week.md" >}}).
+> **Schedule update, August 18, 2026:** The morning program will start September 2. Enrollment is open through **August 25, 2026**. [Read the full announcement]({{< ref "news/academic-year-starts-august-26-finalized-schedule.md" >}}).
 
-**Fall enrollment closes August 21, 2026.**
+**Fall enrollment closes August 25, 2026.**
 
 <div class="tc">
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSd4sac0Y2wdTd9gm2AF1Y9uuVPPyJzHfHEphJPA1iYPkrP43g/viewform?usp=sf_link" class="btn raise">Fill the universal pre-enrollment form</a>

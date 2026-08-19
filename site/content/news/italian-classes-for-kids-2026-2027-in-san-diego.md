@@ -1,29 +1,29 @@
 ---
 title: Italian classes for kids 2026-2027 in San Diego
 date: 2026-05-27T00:00:00.000Z
-description: Pre-enrollment is open for 2026-2027 Italian Heritage, IFL, and homeschool morning classes for kids.
+description: Pre-enrollment is open for 2026-2027 Italian for Italian Speakers, Italian as a New Language, and homeschool morning classes for kids.
 image: /img/isola_bella.jpg
 ---
 
 Pre-enrollment is open for our **2026-2027 Italian classes for kids** in San Diego.
 
-> **Schedule update, July 30, 2026:** All classes listed below will start one week later. Enrollment is open through August 21, and class totals remain unchanged. [Read the full announcement]({{< ref "news/kids-and-teen-italian-classes-postponed-by-one-week.md" >}}).
+> **Schedule update, August 18, 2026:** Classes start August 26 and 27 (Homeschool on September 2). Sections are finalized and enrollment is open through **August 25, 2026**. [Read the full announcement]({{< ref "news/academic-year-starts-august-26-finalized-schedule.md" >}}).
 
-We offer small-group classes for TK-6th grade students at our Kearny Mesa location, with programs for Italian heritage speakers, beginners, and homeschool families.
+We offer small-group classes for TK-6th grade students at our Kearny Mesa location, with programs for fluent Italian speakers, new learners, and homeschool families.
 
 [![Italian classes for kids 2026-2027 flyer](/flyers/italianschoolsd-flyer-italian-2026-2027-kids.png)](/flyers/italianschoolsd-flyer-italian-2026-2027-kids.pdf)
 
 ## 2026-2027 Schedule {#schedule}
 
-* **Italian Heritage classes:** Thursdays, **4:15-6:15pm**, from **August 27, 2026** to **May 20, 2027**. No class on **December 17, 2026**.
-* **Italian as a Foreign Language classes:** Wednesdays, **4-6pm**, from **August 26, 2026** to **May 19, 2027**.
+* **Italian for Italian Speakers (ITA):** Thursdays, **4:15-6:15pm**, from **August 27, 2026** to **May 20, 2027**. No class on **December 17, 2026**.
+* **Italian as a New Language (INL):** Wednesdays, **4-6pm**, from **August 26, 2026** to **May 19, 2027**.
 * **Homeschool morning program:** Wednesdays, **10am-12pm**, organized as two 16-class sessions: **September 2, 2026-January 20, 2027** and **January 27-May 19, 2027**.
 
 Classes have 5-10 students and are grouped by age and level.
 
 ## Pre-Enrollment {#pre-enrollment}
 
-We have openings in every program and age group. Please pre-enroll by **August 21, 2026** to secure a spot. Pre-enrollment is not binding; we will confirm the proposed class and send an invoice to finalize enrollment. Payment is due within 1 week after receiving the payment email.
+We have openings in every program and age group. Please pre-enroll by **August 25, 2026** to secure a spot. Pre-enrollment is not binding; we will confirm the proposed class and send an invoice to finalize enrollment. Payment is due within 1 week after receiving the payment email.
 
 <div class="tc">
 <a href="/enroll" class="btn raise">Tuition and pre-enrollment information</a>

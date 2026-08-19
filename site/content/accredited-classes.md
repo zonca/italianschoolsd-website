@@ -20,30 +20,30 @@ For more information, see:
 ## Class Levels and Schedule {#schedule}
 
 We offer two distinct accredited tracks for middle and high school students:
-1. **Italian as a Foreign Language (IFL)** — for non-native learners (students learning Italian as a new/second language).
-2. **Italian for Italian Speakers (Heritage)** — for heritage/native speakers who already speak fluent Italian at home.
+1. **INL — Italian as a New Language** — for students learning Italian as a new language without significant prior proficiency.
+2. **ITA — Italian for Italian Speakers** — for students who already speak Italian (whether from family/home exposure, years living or attending school in Italy, or immersion).
 
 Some levels meet on a fixed in-person schedule at our [Kearny Mesa location]({{< relref "location.md" >}}); others meet online or have a **flexible schedule** arranged with enrolled students.
 
-> **Important Track Distinction:** Wednesday afternoon classes are for **Italian as a Foreign Language** (non-native learners). Thursday afternoon classes are for **Italian for Italian Speakers** (heritage speakers).
+> **Important Track Distinction:** Wednesday afternoon classes are for **Italian as a New Language (INL)**. Thursday afternoon classes are for **Italian for Italian Speakers (ITA)**. We use "Italian for Italian Speakers" rather than "heritage language" so that placement is based purely on actual language proficiency rather than ancestry—welcoming all fluent Italian-speaking students.
 
-### Italian as a Foreign Language (For Non-Native Learners) {#foreign-language}
+### Italian as a New Language (For New Learners) {#new-language}
 
-For students learning Italian as a foreign language. Lessons use a conversation-first approach focused on real conversation and everyday situations, building speaking confidence alongside grammar, vocabulary, reading, and writing.
+For students learning Italian as a new language. Lessons use a conversation-first approach focused on real conversation and everyday situations, building speaking confidence alongside grammar, vocabulary, reading, and writing.
 
-* **Italian 5-6 (Foreign Language Track):** Wednesdays, **4:00-6:00pm**, in person, **August 26, 2026-May 19, 2027**.
-* **Italian 1-2 (Online Middle School):** Wednesdays, **4:00-6:00pm**, online.
-* **Italian 3-4, and 7-8 & AP Preparation:** flexible schedule, arranged with enrolled students (online or in-person). *[See AP Italian page](/ap-italian-san-diego) for 7-8 & AP and [Private AP Preparation]({{< ref "private-ap-italian-prep.md" >}}).*
+* **Italian as a New Language 5-6 (INL 5-6):** Wednesdays, **4:00-6:00pm**, in person, **August 26, 2026-May 19, 2027**.
+* **Italian as a New Language 1-2 (INL 1-2 Online Middle School):** Wednesdays, **4:00-6:00pm**, online.
+* **Italian as a New Language 3-4 and 7-8 & AP Preparation:** flexible schedule, arranged with enrolled students (online or in-person). *[See AP Italian page](/ap-italian-san-diego) for 7-8 & AP and [Private AP Preparation]({{< ref "private-ap-italian-prep.md" >}}).*
 
-### Italian for Italian Speakers (For Heritage / Native Speakers) {#italian-speakers}
+### Italian for Italian Speakers (For Fluent / Native Speakers) {#italian-speakers}
 
-For heritage speakers who are already fluent. As they progress, students follow the literature program taught in Italian high schools, reading and discussing Dante's *Divina Commedia*, Boccaccio's *Decameron*, Manzoni's *I Promessi Sposi*, and Homer's *Iliad* and *Odyssey*, alongside grammar, composition, and culture.
+For students who already speak Italian fluently. As they progress, students follow the literature program taught in Italian high schools, reading and discussing Dante's *Divina Commedia*, Boccaccio's *Decameron*, Manzoni's *I Promessi Sposi*, and Homer's *Iliad* and *Odyssey*, alongside advanced grammar, composition, and culture.
 
-* **Italian 1-2 (Heritage Track):** Thursdays, **4:15-6:15pm**, in person, **August 27, 2026-May 20, 2027**.
-* **Italian 5-6 (Heritage Track):** Thursdays, **4:15-6:15pm**, in person, **August 27, 2026-May 20, 2027**.
-* **Italian 7-8 & AP Preparation:** Online / flexible schedule, arranged with enrolled students. *[See AP Italian page](/ap-italian-san-diego) and [Private AP Preparation]({{< ref "private-ap-italian-prep.md" >}}).*
+* **Italian for Italian Speakers 1-2 (ITA 1-2):** Thursdays, **4:15-6:15pm**, in person, **August 27, 2026-May 20, 2027**.
+* **Italian for Italian Speakers 5-6 (ITA 5-6):** Thursdays, **4:15-6:15pm**, in person, **August 27, 2026-May 20, 2027**.
+* **Italian for Italian Speakers 7-8 (ITA 7-8) & AP Preparation:** Online / flexible schedule, arranged with enrolled students. *[See AP Italian page](/ap-italian-san-diego) and [Private AP Preparation]({{< ref "private-ap-italian-prep.md" >}}).*
 
-Students with prior Italian study may test into a higher level than 1-2. Please indicate this on the pre-enrollment form or contact us in advance. *(Note: Direct enrollment into levels above 1-2 requires a [curriculum alignment fee](/enroll-accredited#alignment-fee).)* Note: if a student enrolls in, for example, Italian 5-6 during high school, they will receive three years of foreign language credit. Credit is tied to the class level, not the number of years attended.
+Students with prior Italian study may test into a higher level than level 1-2. Please indicate this on the pre-enrollment form or contact us in advance. *(Note: Direct enrollment into levels above 1-2 requires a [curriculum alignment fee](/enroll-accredited#alignment-fee).)* Note: if a student enrolls in, for example, Italian as a New Language 5-6 or Italian for Italian Speakers 5-6 during high school, they will receive three years of foreign language credit. Credit is tied to the class level, not the number of years attended.
 
 ## Location and Calendar {#location}
 
@@ -83,20 +83,20 @@ High school graduation and college admission require two years of a foreign lang
 
 ## When Is the Best Time to Start? {#best-time}
 
-We recommend enrolling in Italian 1-2 in 7th grade. This allows students to complete Italian 1-2 and 3-4 in middle school. While high schools do not grant credit for language classes taken in middle school, starting early allows students to satisfy requirements sooner. After passing Italian 5-6 in 9th grade, students are granted three years of language credit. They can then take Italian 7-8 in 10th grade for an additional year of language and AP Italian preparation.
+We recommend enrolling in Italian as a New Language 1-2 or Italian for Italian Speakers 1-2 in 7th grade. This allows students to complete level 1-2 and 3-4 in middle school. While high schools do not grant credit for language classes taken in middle school, starting early allows students to satisfy requirements sooner. After passing level 5-6 in 9th grade, students are granted three years of language credit. They can then take level 7-8 in 10th grade for an additional year of language and AP Italian preparation.
 
 Typical academic path:
 
-* 7th grade: Italian 1-2
-* 8th grade: Italian 3-4
-* 9th grade: Italian 5-6 (credit for 2 semesters and 3 years of language)
-* 10th grade: Italian 7-8 (credit for 2 semesters and 4 years of language; AP Italian preparation)
+* 7th grade: Italian as a New Language 1-2 (INL 1-2) or Italian for Italian Speakers 1-2 (ITA 1-2)
+* 8th grade: Italian as a New Language 3-4 (INL 3-4) or Italian for Italian Speakers 3-4 (ITA 3-4)
+* 9th grade: Italian as a New Language 5-6 (INL 5-6) or Italian for Italian Speakers 5-6 (ITA 5-6) (credit for 2 semesters and 3 years of language)
+* 10th grade: Italian as a New Language 7-8 (INL 7-8) or Italian for Italian Speakers 7-8 (ITA 7-8) (credit for 2 semesters and 4 years of language; AP Italian preparation)
 
 Students can also start later. To reach three years of language credit, the latest start is 10th grade:
 
-* 10th grade: Italian 1-2 (1 year)
-* 11th grade: Italian 3-4 (2 years)
-* 12th grade: Italian 5-6 (3 years)
+* 10th grade: Italian as a New Language 1-2 or Italian for Italian Speakers 1-2 (1 year)
+* 11th grade: Italian as a New Language 3-4 or Italian for Italian Speakers 3-4 (2 years)
+* 12th grade: Italian as a New Language 5-6 or Italian for Italian Speakers 5-6 (3 years)
 
 Students already fluent in Italian, with grammar knowledge and cultural familiarity, may start at a higher level after evaluation.
 

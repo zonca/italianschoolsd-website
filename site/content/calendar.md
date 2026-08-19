@@ -14,7 +14,7 @@ Option 1 – Fast (Google users):
 1. Make sure you are signed into your Google account in the browser.  
 2. Scroll to the bottom-right of the embedded calendar below.  
 3. Click the `Add to Google Calendar` button.  
-4. In the pop‑up, tick the calendars you want (e.g. Heritage Thursday, IFL Wednesday) and confirm.
+4. In the pop‑up, tick the calendars you want (e.g. Italian for Italian Speakers Thursday, Italian as a New Language Wednesday) and confirm.
 
 Option 2 – From the full page view:  
 1. Click the “Full page web view” link for the calendar you want (see links below).  
@@ -30,17 +30,15 @@ Use the “Calendar address in iCal format (.ics)” link for the calendar you w
 
 You can remove a subscribed calendar at any time from your calendar app’s settings without affecting the original.
 
-## Kearny Mesa location (Heritage class on Thursday) {#kearny-mesa-heritage}
+## Kearny Mesa location (Italian for Italian Speakers on Thursday) {#kearny-mesa-italian-speakers}
 
 * [Full page web view of the calendar](https://calendar.google.com/calendar/embed?src=ftdcclbhb2376sq8hudue9nb50%40group.calendar.google.com)
 * [Calendar address in iCal format (.ics)](https://calendar.google.com/calendar/ical/ftdcclbhb2376sq8hudue9nb50%40group.calendar.google.com/public/basic.ics) to be added to calendar apps
 
-## Kearny Mesa location (IFL class on Wednesday) {#kearny-mesa-ifl}
+## Kearny Mesa location (Italian as a New Language on Wednesday) {#kearny-mesa-new-language}
 
 * [Full page web view of the calendar](https://calendar.google.com/calendar/embed?src=1be8a1f9320cafcbd05c9a20a1ca31530aeb59e519e4a39eeb39699156950d1a%40group.calendar.google.com&ctz=America%2FLos_Angeles)
 * [Calendar address in iCal format (.ics)](https://calendar.google.com/calendar/ical/1be8a1f9320cafcbd05c9a20a1ca31530aeb59e519e4a39eeb39699156950d1a%40group.calendar.google.com/public/basic.ics) to be added to calendar apps
-
-
 
 All other classes have their own event in Google Calendar, if you have not been invited yet, please email us.
 
@@ -52,8 +50,8 @@ We generally follow the San Diego Unified academic calendar, with one extra week
 
 For 2026-2027:
 
-* Wednesday IFL classes run **August 26, 2026-May 19, 2027**.
-* Thursday Heritage classes run **August 27, 2026-May 20, 2027**.
+* Wednesday Italian as a New Language classes run **August 26, 2026-May 19, 2027**.
+* Thursday Italian for Italian Speakers classes run **August 27, 2026-May 20, 2027**.
 * The Wednesday homeschool morning program runs in two 16-class sessions: **September 2, 2026-January 20, 2027** and **January 27-May 19, 2027**.
 * There is **no Thursday class on December 17, 2026**.
 * Halloween 2026 falls on **Saturday, October 31**, so it does not affect Wednesday or Thursday classes.
