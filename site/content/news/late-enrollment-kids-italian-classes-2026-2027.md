@@ -21,7 +21,7 @@ image: /flyers/italianschoolsd-flyer-italian-2026-2027-kids.png
   Wednesdays, **4:00-6:00pm**, August 26, 2026-May 19, 2027
 * **Italian for Italian Speakers (advanced or fluent children), TK-6th grade**
   Thursdays, **4:15-6:15pm**, August 27, 2026-May 20, 2027
-* **Morning program for homeschoolers**, from age 3
+* **Morning program for homeschoolers**, ages 4 and older
   Wednesdays, **10am-12pm**, September 2, 2026-May 19, 2027
 
 Classes have **5-10 students** and are grouped by age and level, so your child will be placed with peers at the same stage. All our teachers are native Italian speakers.

@@ -50,7 +50,7 @@ Designed for students who are learning Italian as a new language. Instruction be
 
 ### Italian Morning Program for Homeschoolers {#home-schooled}
 
-We offer Italian group classes in the morning for home-schooled children and preschoolers, either at our location or on-site. These classes use play, games, songs, reading, and projects to introduce children to Italian starting from age 3.
+We offer Italian group classes in the morning for home-schooled children and preschoolers, either at our location or on-site. These classes use play, games, songs, reading, and projects to introduce children to Italian for ages 4 and older.
 
 For 2026-2027, the Kearny Mesa morning program meets **Wednesdays, 10am-12pm** and is organized as two 16-class sessions:
 
