@@ -4,7 +4,7 @@ subtitle: Italian classes for kids and adults in San Diego
 image: /img/colosseum.jpg
 blurb:
     heading: Why learn Italian?
-    text: "Italian opens the door to a rich world of art, history, literature, and cuisine. For kids, starting early builds confidence fast and can lead to high school credit through Advanced Placement or accredited programs. For adults, it means traveling with ease, connecting more deeply with locals, and enjoying Italian films and books in the original language."
+    text: "Italian opens the door to a rich world of art, history, literature, and cuisine. For kids, starting early builds confidence fast and can lead to high school credit through our district-approved courses and Advanced Placement. For adults, it means traveling with ease, connecting more deeply with locals, and enjoying Italian films and books in the original language."
 intro:
     heading: "Italian school programs"
     text: "Unless noted otherwise, our in-person programs are held at 4550 Kearny Villa Rd, Suite 202, San Diego, CA. New for 2026-2027, we also teach in Encinitas, North County: children's classes on Mondays and adult classes on Fridays. We also offer online options."
@@ -20,8 +20,8 @@ products:
 products2:
     - image: /flyers/italianschoolsd-flyer-italian-2026-2027-teens.png
       title: "Italian for Teens: High School Credit & College Admission"
-      text: "Accredited classes for middle and high school students, recognized for graduation requirements and college admission. Online or in-person, from beginner to fluent, including AP preparation."
-      link: /accredited-classes
+      text: "Classes for middle and high school students that earn high school credit, recognized for graduation requirements and college admission. Online or in-person, from beginner to fluent, including AP preparation."
+      link: /high-school-credit-classes
     - image: /img/isola_bella.jpg
       title: "Italian Morning Program for Homeschoolers"
       text: "Weekday morning Italian classes for homeschooled children and preschoolers, ages 4 and older. Charter-funded through Pacific Coast Academy and SoCal Scholars Academy. Learning through play, songs, reading, and projects."

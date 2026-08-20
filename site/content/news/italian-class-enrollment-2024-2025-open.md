@@ -4,16 +4,16 @@ date: 2024-04-22T00:00:00.000Z
 description: Academic year starts on August 29th
 ---
 
-## Pre-enrollment for 2024-2025 is open for accredited and non-accredited classes
+## Pre-enrollment for 2024-2025 is open for all classes
 
-Please submit pre-enrollment for all students between TK and 12th grade, either for accredited or non-accredited classes, either Heritage or Italian as a Foreign Language, by July 1st for early enrollment.
+Please submit pre-enrollment for all students between TK and 12th grade, either for the high school credit classes or the other classes, either Heritage or Italian as a Foreign Language, by July 1st for early enrollment.
 As usual pre-enrollment is not binding. You will be finalizing the enrollment by paying the invoice that we will email you no later than August 8th.
 We decided to keep the same tuition cost of last year for all parents that finalize enrollment by August 20th. Please also notice the [new cancellation policy](https://www.italianschoolsd.com/tuition-payment/)
 
 Learn more and pre-enroll:
 
 * [Italian classes for kids TK-6th grade](/classes)
-* [Accredited Italian classes for teens 6th-12th grade](/accredited-classes)
+* [Italian classes for high school credit, teens 6th-12th grade](/high-school-credit-classes)
 
 ## Please share our flyer
 

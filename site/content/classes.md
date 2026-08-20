@@ -4,12 +4,12 @@ image: /img/isola_bella.jpg
 subtitle: "Children Classes 2026-2027"
 ---
 
-This page is for students in TK-6th grade. For teens, see our [accredited classes](/accredited-classes).
+This page is for students in TK-6th grade. For teens, see our [high school credit classes](/high-school-credit-classes).
 
 > **New for 2026-2027:** we are opening a second in-person location in North County. [Italian classes for kids in Encinitas](/italian-classes-encinitas/), Mondays 4:00-6:00 PM.
 
 {{< infonight location="Kearny Mesa" date="Thursday, August 13, 2026" time="6:00-7:00 PM" address="4550 Kearny Villa Rd, Suite 202, San Diego" parking="Free parking in the lot, right next to building 4550" accent="green" link="https://www.facebook.com/events/1716300052926552/" linkText="RSVP on Facebook" >}}
-See the classrooms, meet us, and ask anything before you enroll. We cover everything from TK to 12th grade, including the accredited middle and high school classes and AP Italian preparation. Free and one hour. Please RSVP on Facebook so we know how many chairs to set out, or email info@italianschoolsd.com if you are not on Facebook.
+See the classrooms, meet us, and ask anything before you enroll. We cover everything from TK to 12th grade, including the middle and high school classes that earn high school credit, and AP Italian preparation. Free and one hour. Please RSVP on Facebook so we know how many chairs to set out, or email info@italianschoolsd.com if you are not on Facebook.
 
 There is a [second info night in Encinitas](/infonight/) on Tuesday, August 25.
 {{< /infonight >}}
@@ -21,7 +21,7 @@ There is a [second info night in Encinitas](/infonight/) on Tuesday, August 25.
 > *"L'italiano è più di una lingua: è una porta aperta sulla bellezza, la cultura e l'arte di vivere."*  
 > (Italian is more than a language: it is an open door to beauty, culture, and the art of living.)
 
-Our core afternoon classes meet once a week for two hours at our [Kearny Mesa location](/location). Classes are kept small (5-10 students) and are taught by native Italian instructors. These programs prepare students for our [accredited classes](/accredited-classes), which typically begin in 6th or 7th grade.
+Our core afternoon classes meet once a week for two hours at our [Kearny Mesa location](/location). Classes are kept small (5-10 students) and are taught by native Italian instructors. These programs prepare students for our [high school credit classes](/high-school-credit-classes), which typically begin in 6th or 7th grade.
 
 We organize our program into two distinct pathways based on actual language proficiency:
 * **ITA — Italian for Italian Speakers:** For children who already speak Italian, regardless of how they acquired it (home exposure, living or attending school in Italy, immersion, etc.).

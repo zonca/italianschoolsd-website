@@ -12,7 +12,7 @@ Pre-enroll by **July 31st, 2025** and pay tuition by **August 7th, 2025** to rec
 
 ## Pre-enrollment for 2025–2026 is open for all programs
 
-We welcome pre-enrollment for all students from TK through 12th grade, for both accredited and non-accredited classes, including Heritage and Italian as a Foreign Language (IFL) programs. Early enrollment is open until **July 31st, 2025**. Pre-enrollment is non-binding—you will finalize your child’s registration by paying the invoice.
+We welcome pre-enrollment for all students from TK through 12th grade, for both the high school credit classes and the other classes, including Heritage and Italian as a Foreign Language (IFL) programs. Early enrollment is open until **July 31st, 2025**. Pre-enrollment is non-binding—you will finalize your child’s registration by paying the invoice.
 
 **Good news:** Tuition rates remain unchanged from last year for families who complete enrollment by **August 7th, 2025**. Please also review our [cancellation policy](https://www.italianschoolsd.com/tuition-payment/).
 
@@ -21,7 +21,7 @@ We welcome pre-enrollment for all students from TK through 12th grade, for both 
 ## Learn more and pre-enroll
 
 - [Italian classes for kids TK–6th grade](/classes)
-- [Accredited Italian classes for teens 6th–12th grade](/accredited-classes)
+- [Italian classes for high school credit, teens 6th–12th grade](/high-school-credit-classes)
 - [Beginner Spanish classes](/spanish)
 
 For detailed class schedules, curriculum, and location information, visit the links above. Our programs are designed for all levels, from beginners to advanced heritage speakers, and are taught by experienced native instructors.
@@ -30,8 +30,8 @@ For detailed class schedules, curriculum, and location information, visit the li
 
 ## Key Dates for 2025–2026
 
-- **First day of classes:** August 28th, 2025 (Heritage, Accredited, and most IFL programs)
-- **Last day of classes:** May 21st, 2026 (Heritage, Accredited, and most IFL programs)
+- **First day of classes:** August 28th, 2025 (Heritage, high school credit, and most IFL programs)
+- **Last day of classes:** May 21st, 2026 (Heritage, high school credit, and most IFL programs)
 - **IFL Wednesday programs:** August 27th, 2025 – May 20th, 2026
 - **Early enrollment deadline:** July 31st, 2025
 - **Tuition payment deadline for discount:** August 7th, 2025
