@@ -30,7 +30,7 @@ All private AP preparation is led by **Maura D’Andrea**, the Director of the I
 *   **Personalized Assessment:** We start with an evaluation of the student's current level and identify specific areas for improvement.
 *   **Authentic Materials:** We use real Italian content (news, podcasts, literature) to build the interpretive skills measured by the exam.
 *   **Exam Simulations:** Practice with real AP tasks, including the new Course Project presentation and Q&A.
-*   **Individualized Feedback:** Detailed corrections and strategies for the Argumentative Essay, Email Reply, and speaking tasks.
+*   **Individualized Feedback:** Detailed corrections and strategies for the Argumentative Essay, the Project Presentation, and the Project Q&A speaking tasks.
 *   **Course Project Support:** Guidance on research, developing the presentation, and preparing the "Personalized Project Reference" (PPR).
 
 ## Contact Us for a Consultation {#contact}
