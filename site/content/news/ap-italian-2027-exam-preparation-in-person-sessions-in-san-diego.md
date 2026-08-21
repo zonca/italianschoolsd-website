@@ -103,8 +103,11 @@ the top score of 5, against a national average of 19% scoring a 5. Read the
 The exact time will be determined with students to accommodate availability. Dates may
 be adjusted if necessary to meet the needs of the class.
 
-The exam is on **Monday, May 3, 2027**, so the final session falls two days before it,
-and the two April sessions bracket the April 30 project deadline.
+The exam is on **Monday, May 3, 2027** (Session 2, starting at 12:00 PM local time),
+so the final session falls two days before it, and the two April sessions bracket the
+April 30 project deadline. Dates are confirmed on the official
+[College Board AP exam calendar](https://apstudents.collegeboard.org/exam-calendar)
+and the [2027 AP exam dates for coordinators](https://apcentral.collegeboard.org/exam-administration-ordering-scores/exam-dates).
 
 ## Location {#location}
 
@@ -132,6 +135,10 @@ sessions.
 <div class="tc">
   <a href="https://docs.google.com/forms/d/e/1FAIpQLSd4sac0Y2wdTd9gm2AF1Y9uuVPPyJzHfHEphJPA1iYPkrP43g/viewform?usp=sf_link" class="btn raise">Fill the universal pre-enrollment form</a>
 </div>
+
+The pre-enrollment form covers all our kids and teens programs, so it does not list AP
+preparation as its own choice. Select **"Other"** in the class question and write
+**"AP Italian 2027 preparation"**, and we will route your request correctly.
 
 After you submit the pre-enrollment form, we'll email you an invoice to submit payment
 and confirm your enrollment.
