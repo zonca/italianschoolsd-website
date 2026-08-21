@@ -92,16 +92,20 @@ the top score of 5, against a national average of 19% scoring a 5. Read the
 ## Schedule {#schedule}
 
 **30 hours of instruction across 9 Saturdays.** Sessions start at 3 hours and move to
-4 hours in the final stretch before the exam.
+4 hours in the final stretch before the exam. These are the proposed dates:
 
-- January 23 & 30 — 3-hour sessions (time TBD with students)
-- February 6 & 20 — 3-hour sessions (time TBD with students)
-- March 6 & 20 — 3-hour sessions (time TBD with students)
-- April 10 & 24 — 4-hour sessions (time TBD with students)
-- May 1 — 4-hour session (time TBD with students)
+- January 23 & 30 — 3-hour sessions
+- February 6 & 20 — 3-hour sessions
+- March 6 & 20 — 3-hour sessions
+- April 10 & 24 — 4-hour sessions
+- May 1 — 4-hour session
 
-The exact time will be determined with students to accommodate availability. Dates may
-be adjusted if necessary to meet the needs of the class.
+**Both the dates and the start times are decided together with the enrolled students.**
+AP candidates are usually juggling other AP courses, sports, and college applications,
+so once the group is formed we go through the calendar together and adapt the schedule
+and the hours of each session around their commitments. The nine sessions and the 30
+total hours stay the same; when each session falls, and at what time it starts, is
+agreed with the class.
 
 The exam is on **Monday, May 3, 2027** (Session 2, starting at 12:00 PM local time),
 so the final session falls two days before it, and the two April sessions bracket the
@@ -136,9 +140,8 @@ sessions.
   <a href="https://docs.google.com/forms/d/e/1FAIpQLSd4sac0Y2wdTd9gm2AF1Y9uuVPPyJzHfHEphJPA1iYPkrP43g/viewform?usp=sf_link" class="btn raise">Fill the universal pre-enrollment form</a>
 </div>
 
-The pre-enrollment form covers all our kids and teens programs, so it does not list AP
-preparation as its own choice. Select **"Other"** in the class question and write
-**"AP Italian 2027 preparation"**, and we will route your request correctly.
+In the "Program" question, select **"AP Italian preparation class (for students outside
+our Italian 7-8 programs)"**.
 
 After you submit the pre-enrollment form, we'll email you an invoice to submit payment
 and confirm your enrollment.
