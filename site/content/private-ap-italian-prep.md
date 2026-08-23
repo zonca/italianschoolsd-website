@@ -33,6 +33,12 @@ All private AP preparation is led by **Maura D’Andrea**, the Director of the I
 *   **Individualized Feedback:** Detailed corrections and strategies for the Argumentative Essay, the Project Presentation, and the Project Q&A speaking tasks.
 *   **Course Project Support:** Guidance on research, developing the presentation, and preparing the "Personalized Project Reference" (PPR).
 
+## Group vs. Private Preparation {#group-vs-private}
+
+Looking for small-group classroom preparation instead? We also offer a 30-hour in-person Saturday group preparation program for the 2027 exam:
+
+* [Learn more about AP Italian 2027 In-Person Preparation]({{< ref "news/ap-italian-2027-exam-preparation-in-person-sessions-in-san-diego.md" >}})
+
 ## Contact Us for a Consultation {#contact}
 
 Because every student's path to the AP exam is unique, we do not have a one-size-fits-all price for private tutoring. We invite you to contact us to discuss your goals, schedule, and specific needs.
