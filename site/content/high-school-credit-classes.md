@@ -42,7 +42,7 @@ For students learning Italian as a new language. Lessons use a conversation-firs
 
 * **Italian as a New Language 5-6 (INL 5-6):** Wednesdays, **4:00-6:00pm**, in person, **August 26, 2026-May 19, 2027**.
 * **Italian as a New Language 1-2 (INL 1-2 Online Middle School):** Wednesdays, **4:00-6:00pm**, online.
-* **Italian as a New Language 3-4 and 7-8 & AP Preparation:** flexible schedule, arranged with enrolled students (online or in-person). *[See AP Italian page](/ap-italian-san-diego) for 7-8 & AP and [Private AP Preparation]({{< ref "private-ap-italian-prep.md" >}}).*
+* **Italian as a New Language 3-4 and 7-8 & AP Preparation:** flexible schedule, arranged with enrolled students (online or in-person). *[See AP Italian overview](/ap-italian-san-diego), [AP Italian 2027 Group Preparation]({{< ref "news/ap-italian-2027-exam-preparation-in-person-sessions-in-san-diego.md" >}}), and [Private AP Preparation]({{< ref "private-ap-italian-prep.md" >}}).*
 
 ### Italian for Italian Speakers (For Fluent / Native Speakers) {#italian-speakers}
 
@@ -50,7 +50,7 @@ For students who already speak Italian fluently. As they progress, students foll
 
 * **Italian for Italian Speakers 1-2 (ITA 1-2):** Thursdays, **4:15-6:15pm**, in person, **August 27, 2026-May 20, 2027**.
 * **Italian for Italian Speakers 5-6 (ITA 5-6):** Thursdays, **4:15-6:15pm**, in person, **August 27, 2026-May 20, 2027**.
-* **Italian for Italian Speakers 7-8 (ITA 7-8) & AP Preparation:** Online / flexible schedule, arranged with enrolled students. *[See AP Italian page](/ap-italian-san-diego) and [Private AP Preparation]({{< ref "private-ap-italian-prep.md" >}}).*
+* **Italian for Italian Speakers 7-8 (ITA 7-8) & AP Preparation:** Online / flexible schedule, arranged with enrolled students. *[See AP Italian overview](/ap-italian-san-diego), [AP Italian 2027 Group Preparation]({{< ref "news/ap-italian-2027-exam-preparation-in-person-sessions-in-san-diego.md" >}}), and [Private AP Preparation]({{< ref "private-ap-italian-prep.md" >}}).*
 
 Students with prior Italian study may test into a higher level than level 1-2. Please indicate this on the pre-enrollment form or contact us in advance. *(Note: Direct enrollment into levels above 1-2 requires a [curriculum alignment fee](/enroll-high-school-credit#alignment-fee).)* Note: what counts is the level completed, not the number of years attended. Passing a higher level validates the levels below it, so a student who passes, for example, Italian as a New Language 5-6 or Italian for Italian Speakers 5-6 during high school has met the equivalent of three years of high school language study for graduation and UC admission purposes, even though the transcript shows the credit for the course actually taken.
 

@@ -27,5 +27,6 @@ Building on this success, pre-enrollment is officially open for our 2026-2027 It
 
 *   **[Italian Classes for Kids (TK-6th Grade)]({{< relref "news/italian-classes-for-kids-2026-2027-in-san-diego.md" >}}):** Programs for fluent Italian speakers, new learners, and homeschool families.
 *   **[Italian Classes for Teens with High School Credit (Middle & High School)]({{< relref "news/italian-classes-for-teens-2026-2027-with-high-school-credit.md" >}}):** Fulfill world language graduation and college admission requirements (district-approved by SDUSD and SDUHSD).
+*   **[AP Italian 2027 Exam Preparation (In-Person Saturdays)]({{< relref "news/ap-italian-2027-exam-preparation-in-person-sessions-in-san-diego.md" >}}):** 30 hours of intensive in-person preparation from January to May 2027, built for the redesigned digital exam.
 
 Pre-enrollment is requested by **August 25, 2026** to secure a spot. For more information, visit our [Adult & Youth classes overview]({{< relref "adults.md" >}}).
