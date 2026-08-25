@@ -4,7 +4,7 @@ image: /img/venice.jpg
 subtitle: How Italian school of San Diego LLC collects and uses information on this website
 ---
 
-Effective date: July 27, 2026
+Effective date: August 25, 2026
 
 Italian school of San Diego LLC operates this website. This page explains what information may be collected through the site, how it is used, and how to contact us with questions.
 
@@ -14,6 +14,7 @@ We may collect information that you provide directly, including:
 
 * your name, email address, phone number, and message when you contact us
 * your email address when you subscribe to announcements
+* your email address when you ask us to send class details for later
 * information you choose to submit through linked forms for enrollment, jobs, consultations, or event registration
 
 We may also collect limited technical information automatically, including:
@@ -29,6 +30,7 @@ We use information collected through the website to:
 * respond to inquiries
 * process registrations, applications, and requests
 * send announcements or updates you asked to receive
+* send class information that you asked to save by email
 * operate, maintain, and improve the website
 * understand site traffic and usage patterns
 * measure whether our advertising reaches families who are looking for our classes, and show our ads to people who have visited this website
@@ -40,6 +42,7 @@ This website uses or links to third-party services, including:
 * Cloudflare Web Analytics for website analytics
 * the Meta pixel (Facebook and Instagram) for advertising measurement and audiences
 * Netlify Forms for the contact form
+* Resend for requested transactional emails, such as sending class details to your inbox
 * Google Forms for enrollment, applications, consultations, and registrations
 * Google Calendar for calendar content
 * Algolia DocSearch for on-site search

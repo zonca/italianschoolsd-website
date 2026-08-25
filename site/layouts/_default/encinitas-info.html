@@ -1,0 +1,196 @@
+{{ define "header" }}<!-- Focused landing page: primary navigation intentionally omitted. -->{{ end }}
+
+{{ define "main" }}
+{{ $details := .Site.Data.encinitas_fall_2026 }}
+<main class="encinitas-lead">
+  <div class="encinitas-lead__flag" aria-hidden="true"><i></i><i></i><i></i></div>
+
+  <header class="encinitas-lead__hero">
+    <img src="/img/italianschoolsd_logo.png" alt="Italian school of San Diego LLC" class="encinitas-lead__logo">
+    <div>
+      <p class="encinitas-lead__kicker">North County · Kids and adults</p>
+      <h1>Italian classes in Encinitas</h1>
+      <p class="encinitas-lead__intro">Save the details now. Enroll when you are ready.</p>
+    </div>
+  </header>
+
+  <section class="encinitas-lead__capture" aria-labelledby="email-details-title">
+    <div class="encinitas-lead__capture-copy">
+      <p class="encinitas-lead__eyebrow">Takes about 10 seconds</p>
+      <h2 id="email-details-title">Send the class details to your inbox</h2>
+      <p>We will email the schedules and enrollment links so you do not have to decide right now.</p>
+    </div>
+
+    <form id="encinitas-details-form" class="encinitas-lead__form" novalidate>
+      <label for="encinitas-email">Email address</label>
+      <div class="encinitas-lead__form-row">
+        <input id="encinitas-email" name="email" type="email" inputmode="email" autocomplete="email" placeholder="you@example.com" required>
+        <button type="submit">Email me the details</button>
+      </div>
+      <div class="encinitas-lead__honeypot" aria-hidden="true">
+        <label for="encinitas-website">Website</label>
+        <input id="encinitas-website" name="website" type="text" tabindex="-1" autocomplete="off">
+      </div>
+      <p class="encinitas-lead__privacy">One useful email. This does not subscribe you to a mailing list.</p>
+      <p id="encinitas-form-error" class="encinitas-lead__error" role="alert" hidden></p>
+    </form>
+
+    <div id="encinitas-form-success" class="encinitas-lead__success" role="status" tabindex="-1" hidden>
+      <strong>Saved.</strong>
+      <span>Check your inbox for the class details and enrollment links.</span>
+    </div>
+  </section>
+
+  <section class="encinitas-lead__programs" aria-label="Encinitas class overview">
+    <article class="encinitas-lead__program encinitas-lead__program--kids">
+      <p class="encinitas-lead__eyebrow">Kids</p>
+      <h2>{{ $details.kids.title }}</h2>
+      <p><strong>{{ $details.kids.levels }}</strong><br>{{ $details.kids.schedule }}<br>Starts {{ $details.kids.start }}</p>
+      <a href="{{ $details.kids.url }}" class="encinitas-lead__link">View kids classes</a>
+    </article>
+
+    <article class="encinitas-lead__program encinitas-lead__program--adults">
+      <p class="encinitas-lead__eyebrow">Adults</p>
+      <h2>{{ $details.adults.title }}</h2>
+      <p><strong>{{ $details.adults.levels }}</strong><br>{{ $details.adults.schedule }}<br>Starts {{ $details.adults.start }}</p>
+      <a href="{{ $details.adults.url }}" class="encinitas-lead__link">View adult classes</a>
+    </article>
+  </section>
+
+  <aside class="encinitas-lead__location">
+    <p class="encinitas-lead__eyebrow">Encinitas location</p>
+    <h2>{{ $details.location.address }}</h2>
+    <p><strong>{{ $details.location.name }}</strong><br>{{ $details.location.note }}</p>
+  </aside>
+
+  <p class="encinitas-lead__contact">Questions? Call <a href="tel:+16198000797">(619) 800-0797</a> or email <a href="mailto:info@italianschoolsd.com">info@italianschoolsd.com</a>.</p>
+</main>
+
+<style>
+  .encinitas-lead {
+    --enc-blue: #0064aa;
+    --enc-blue-dark: #003f70;
+    --enc-green: #009246;
+    --enc-red: #ce2b37;
+    --enc-ink: #17202a;
+    --enc-muted: #56616d;
+    min-height: 100vh;
+    background: #f5f8fb;
+    color: var(--enc-ink);
+  }
+  .encinitas-lead * { box-sizing: border-box; }
+  .encinitas-lead__flag { display: grid; grid-template-columns: repeat(3, 1fr); height: 7px; }
+  .encinitas-lead__flag i:nth-child(1) { background: var(--enc-green); }
+  .encinitas-lead__flag i:nth-child(2) { background: #fff; }
+  .encinitas-lead__flag i:nth-child(3) { background: var(--enc-red); }
+  .encinitas-lead__hero {
+    display: flex;
+    align-items: center;
+    gap: 1.25rem;
+    padding: 1.35rem max(1rem, calc((100% - 62rem) / 2));
+    background: linear-gradient(145deg, #0875bf, var(--enc-blue) 52%, #00548f);
+    color: #fff;
+  }
+  .encinitas-lead__logo { width: 6.25rem; flex: 0 0 6.25rem; border-radius: 50%; background: #fff; padding: .25rem; }
+  .encinitas-lead__hero h1 { margin: .15rem 0 .35rem; font-family: Georgia, serif; font-size: clamp(2rem, 7vw, 3.6rem); line-height: 1.03; }
+  .encinitas-lead__kicker, .encinitas-lead__eyebrow { margin: 0; font-size: .78rem; font-weight: 800; letter-spacing: .1em; text-transform: uppercase; }
+  .encinitas-lead__kicker { color: rgba(255,255,255,.86); }
+  .encinitas-lead__intro { margin: 0; font-size: 1.05rem; color: rgba(255,255,255,.94); }
+  .encinitas-lead__capture, .encinitas-lead__programs, .encinitas-lead__location, .encinitas-lead__contact { width: min(62rem, calc(100% - 2rem)); margin-left: auto; margin-right: auto; }
+  .encinitas-lead__capture {
+    margin-top: 1.25rem;
+    padding: clamp(1.2rem, 4vw, 2rem);
+    border: 1px solid #bfd6e8;
+    border-top: 5px solid var(--enc-green);
+    border-radius: .75rem;
+    background: #fff;
+    box-shadow: 0 14px 32px rgba(0,63,112,.10);
+  }
+  .encinitas-lead__capture h2, .encinitas-lead__program h2, .encinitas-lead__location h2 { margin: .25rem 0 .45rem; color: var(--enc-blue-dark); font-family: Georgia, serif; line-height: 1.12; }
+  .encinitas-lead__capture h2 { font-size: clamp(1.65rem, 5vw, 2.35rem); }
+  .encinitas-lead__capture-copy > p:last-child { margin: 0; color: var(--enc-muted); }
+  .encinitas-lead__eyebrow { color: var(--enc-red); }
+  .encinitas-lead__form { margin-top: 1rem; }
+  .encinitas-lead__form > label { display: block; margin-bottom: .35rem; color: var(--enc-blue-dark); font-size: .88rem; font-weight: 800; }
+  .encinitas-lead__form-row { display: grid; gap: .65rem; }
+  .encinitas-lead__form input[type="email"] {
+    width: 100%; min-height: 3.25rem; padding: .75rem .9rem; border: 2px solid #c5d3df; border-radius: .45rem; background: #fff; color: var(--enc-ink); font: inherit;
+  }
+  .encinitas-lead__form input[type="email"]:focus { border-color: var(--enc-blue); box-shadow: 0 0 0 3px rgba(0,100,170,.15); outline: 0; }
+  .encinitas-lead__form button {
+    min-height: 3.25rem; padding: .75rem 1.15rem; border: 0; border-radius: .45rem; background: var(--enc-blue); color: #fff; cursor: pointer; font: inherit; font-weight: 800;
+  }
+  .encinitas-lead__form button:hover, .encinitas-lead__form button:focus { background: var(--enc-blue-dark); }
+  .encinitas-lead__form button:disabled { cursor: wait; opacity: .7; }
+  .encinitas-lead__privacy { margin: .55rem 0 0; color: var(--enc-muted); font-size: .83rem; }
+  .encinitas-lead__honeypot { position: absolute; left: -10000px; width: 1px; height: 1px; overflow: hidden; }
+  .encinitas-lead__error { margin: .75rem 0 0; color: #a41824; font-weight: 700; }
+  .encinitas-lead__success { margin-top: 1rem; padding: 1rem; border-left: 5px solid var(--enc-green); background: #edf8f2; color: #164b2f; }
+  .encinitas-lead__success strong, .encinitas-lead__success span { display: block; }
+  .encinitas-lead__success strong { font-size: 1.3rem; }
+  .encinitas-lead__programs { display: grid; gap: 1rem; margin-top: 1rem; }
+  .encinitas-lead__program { padding: 1.15rem; border: 1px solid #d4dee7; border-top: 4px solid var(--enc-blue); border-radius: .6rem; background: #fff; }
+  .encinitas-lead__program--adults { border-top-color: var(--enc-green); }
+  .encinitas-lead__program h2 { font-size: 1.45rem; }
+  .encinitas-lead__program p { margin: 0 0 .85rem; color: var(--enc-muted); }
+  .encinitas-lead__link { display: inline-block; color: var(--enc-blue); font-weight: 800; }
+  .encinitas-lead__location { margin-top: 1rem; padding: 1rem 1.15rem; border-left: 5px solid var(--enc-red); background: #eaf3fa; }
+  .encinitas-lead__location h2 { font-size: 1.35rem; }
+  .encinitas-lead__location p:last-child { margin: 0; color: var(--enc-muted); }
+  .encinitas-lead__contact { margin-top: 1rem; margin-bottom: 1.5rem; text-align: center; color: var(--enc-muted); font-size: .9rem; }
+  .encinitas-lead__contact a { color: var(--enc-blue); font-weight: 700; }
+  @media (min-width: 42rem) {
+    .encinitas-lead__form-row { grid-template-columns: minmax(0, 1fr) auto; }
+    .encinitas-lead__programs { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  }
+  @media (max-width: 34rem) {
+    .encinitas-lead__hero { align-items: flex-start; }
+    .encinitas-lead__logo { width: 4.7rem; flex-basis: 4.7rem; }
+    .encinitas-lead__hero h1 { font-size: 2rem; }
+  }
+</style>
+
+<script>
+  (function () {
+    var form = document.getElementById('encinitas-details-form');
+    if (!form) return;
+    var button = form.querySelector('button[type="submit"]');
+    var error = document.getElementById('encinitas-form-error');
+    var success = document.getElementById('encinitas-form-success');
+
+    form.addEventListener('submit', async function (event) {
+      event.preventDefault();
+      error.hidden = true;
+      if (!form.checkValidity()) {
+        form.reportValidity();
+        return;
+      }
+
+      button.disabled = true;
+      button.textContent = 'Sending...';
+      try {
+        var response = await fetch('/.netlify/functions/send-encinitas-details', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({
+            email: form.elements.email.value,
+            website: form.elements.website.value
+          })
+        });
+        var result = await response.json().catch(function () { return {}; });
+        if (!response.ok) throw new Error(result.error || 'Unable to send the email.');
+        form.hidden = true;
+        success.hidden = false;
+        success.focus();
+      } catch (requestError) {
+        error.textContent = 'We could not send the email. Please try again or call (619) 800-0797.';
+        error.hidden = false;
+        button.disabled = false;
+        button.textContent = 'Email me the details';
+      }
+    });
+  }());
+</script>
+{{ end }}
+
+{{ define "footer" }}<!-- Focused landing page: global footer intentionally omitted. -->{{ end }}
