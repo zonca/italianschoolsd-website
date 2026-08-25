@@ -15,6 +15,8 @@ The session runs for **13 classes**, from **September 18 to December 18, 2026**,
 
 Each class requires at least five paid enrollments by noon on September 11. If a class does not reach the minimum, the school will cancel that class and issue full refunds.
 
+Once a class is confirmed, enrollment remains open through the first class on September 18, subject to availability.
+
 ## Beginner Italian for adults, Friday in Encinitas {#fri-beg}
 
 Start from the beginning. This section is for adults with little or no prior Italian: greetings and introductions, present tense, everyday vocabulary, and the pronunciation habits that make Italian click. Practical from the first evening, whether you are planning a trip to Italy, reconnecting with family roots, or working toward Italian citizenship.

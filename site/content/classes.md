@@ -73,7 +73,7 @@ Our main location is [4550 Kearny Villa Rd, Suite 202](/location). Kids' in-pers
 
 ### North County: Encinitas {#north-county}
 
-For 2026-2027 we also teach in Encinitas, at San Dieguito United Methodist Church, [170 Calle Magdalena](https://maps.google.com/?q=170+Calle+Magdalena,+Encinitas,+CA+92024). Two classes meet there on **Mondays, 4:00-6:00 PM**, one for TK-2nd grade and one for 3rd-5th grade, September 14, 2026 through May 24, 2027. Tuition differs from the Kearny Mesa classes because the North County year is 29 classes rather than 33, and pre-enrollment there stays open until August 31. There is a free info night at the church on **Tuesday, August 25, 6:00-7:00 PM**.
+For 2026-2027 we also teach in Encinitas, at San Dieguito United Methodist Church, [170 Calle Magdalena](https://maps.google.com/?q=170+Calle+Magdalena,+Encinitas,+CA+92024). Two classes meet there on **Mondays, 4:00-6:00 PM**, one for TK-2nd grade and one for 3rd-5th grade, September 14, 2026 through May 24, 2027. Tuition differs from the Kearny Mesa classes because the North County year is 29 classes rather than 33, and pre-enrollment there remains open through the first class, subject to availability. There is a free info night at the church on **Tuesday, August 25, 6:00-7:00 PM**.
 
 <div class="tc">
 <a href="/italian-classes-encinitas/" class="btn raise">Italian classes for kids in Encinitas</a>

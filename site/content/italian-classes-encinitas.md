@@ -27,7 +27,7 @@ One hour, free. This evening covers the children's classes only. We show you the
 RSVP on Facebook, or email info@italianschoolsd.com. For the [Friday adult classes](#adults), call **(619) 800-0797** or [write to us]({{< relref "contact.md" >}}).
 {{< /infonight >}}
 
-It falls six days before pre-enrollment closes on August 31, so you can come, look, and still have the rest of the week to decide.
+Enrollment remains open through the first class on September 14, subject to availability, so you can come, look, and decide when you are ready.
 
 If you cannot make that evening, call us at **(619) 800-0797** or [send us a message]({{< relref "contact.md" >}}).
 
@@ -96,7 +96,7 @@ We recommend paying by [Zelle]({{< relref "zelle.md" >}}) to avoid credit card f
 
 ## How to pre-enroll your child {#enroll}
 
-**Pre-enrollment closes Monday, August 31, 2026.** This class starts later than our Kearny Mesa classes, so it has its own, later deadline. That leaves you the rest of the week after the [August 25 info night](#info-night) to decide.
+**Pre-enrollment remains open through the first class on Monday, September 14, 2026, subject to availability.**
 
 1. Fill out the pre-enrollment form below and choose **"NEW! In-person Italian classes for kids (TK-5th) in Encinitas"**.
 2. We email you a confirmation with the assigned class and an invoice.
@@ -117,7 +117,7 @@ Adults have their own evening classes in the same building, on **Fridays from 6:
 * **Beginner:** for adults with little or no prior Italian
 * **Intermediate:** for adults who already have a foundation and want to speak with more confidence
 
-The fall session is 13 classes, from September 18 to December 18, 2026, with no class on November 27. Tuition is $468 in full, or four monthly payments of $128.70. Enrollment is online.
+The fall session is 13 classes, from September 18 to December 18, 2026, with no class on November 27. Tuition is $468 in full, or four monthly payments of $128.70. Enrollment is online and remains open through the first class on September 18, subject to availability.
 
 <div class="tc">
 <a href='{{< relref "news/adult-italian-classes-encinitas-north-county-fall-2026.md" >}}' class="btn raise">Adult schedule, tuition, and enrollment</a>

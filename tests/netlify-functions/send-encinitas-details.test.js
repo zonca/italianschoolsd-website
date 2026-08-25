@@ -13,6 +13,7 @@ test('builds the reminder from the shared Encinitas class data', () => {
   const message = _test.buildMessage();
   assert.match(message.text, /September 14, 2026/);
   assert.match(message.text, /September 18, 2026/);
+  assert.match(message.text, /Enrollment remains open through each class's first day/);
   assert.match(message.text, /encinitas-info/);
   assert.match(message.html, /Italian classes in Encinitas/);
 });

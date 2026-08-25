@@ -19,6 +19,7 @@
       <p class="encinitas-lead__eyebrow">Takes about 10 seconds</p>
       <h2 id="email-details-title">Send the class details to your inbox</h2>
       <p>We will email the schedules and enrollment links so you do not have to decide right now.</p>
+      <p class="encinitas-lead__deadline">{{ $details.enrollment_note }}</p>
     </div>
 
     <form id="encinitas-details-form" class="encinitas-lead__form" novalidate>
@@ -109,6 +110,7 @@
   .encinitas-lead__capture h2, .encinitas-lead__program h2, .encinitas-lead__location h2 { margin: .25rem 0 .45rem; color: var(--enc-blue-dark); font-family: Georgia, serif; line-height: 1.12; }
   .encinitas-lead__capture h2 { font-size: clamp(1.65rem, 5vw, 2.35rem); }
   .encinitas-lead__capture-copy > p:last-child { margin: 0; color: var(--enc-muted); }
+  .encinitas-lead__deadline { margin-top: .45rem !important; color: var(--enc-blue-dark) !important; font-weight: 800; }
   .encinitas-lead__eyebrow { color: var(--enc-red); }
   .encinitas-lead__form { margin-top: 1rem; }
   .encinitas-lead__form > label { display: block; margin-bottom: .35rem; color: var(--enc-blue-dark); font-size: .88rem; font-weight: 800; }

@@ -27,6 +27,7 @@ function buildMessage() {
     'Hello,',
     '',
     'You asked us to send you the Encinitas Italian class information so you can return when you are ready.',
+    details.enrollment_note,
     '',
     `${details.kids.title}:`,
     details.kids.levels,
@@ -60,6 +61,7 @@ function buildMessage() {
       <div style="padding:22px 24px;border:1px solid #d8e2ea;border-top:0">
         <p>Hello,</p>
         <p>You asked us to send you the Encinitas Italian class information so you can return when you are ready.</p>
+        <p><strong>${details.enrollment_note}</strong></p>
         <h2 style="color:#003f70;font-family:Georgia,serif;margin-bottom:6px">${details.kids.title}</h2>
         <p style="margin-top:0"><strong>${details.kids.levels}</strong><br>${details.kids.schedule}<br>First class: ${details.kids.start}</p>
         <p><a href="${details.kids.url}" style="color:#0064aa;font-weight:bold">View the kids schedule and pre-enroll</a></p>
