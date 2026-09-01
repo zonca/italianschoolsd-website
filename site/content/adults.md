@@ -173,6 +173,13 @@ Scan by day, then use the level guides below for full dates, tuition, holidays, 
 
 <div class="adult-option-grid">
   <article class="adult-option-card">
+    <p class="adult-card-kicker">Citizenship pathway</p>
+    <h3 id="citizenship-prep">B1 citizenship prep</h3>
+    <p>Prepare for the Italian B1 citizenship language exam through in-person group classes and customized private coaching.</p>
+    <a href='{{< relref "b1-citizenship-preparation-inperson-sandiego.md" >}}' class="adult-text-link">Explore B1 citizenship prep <span aria-hidden="true">→</span></a>
+  </article>
+
+  <article class="adult-option-card">
     <p class="adult-card-kicker">Personalized</p>
     <h3 id="private">Private lessons</h3>
     <p>One-on-one lessons in person or via Zoom, with flexible scheduling, a custom curriculum, and a 24-hour cancellation policy. All levels are welcome.</p>
