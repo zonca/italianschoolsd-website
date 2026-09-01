@@ -199,6 +199,13 @@ Scan by day, then use the level guides below for full dates, tuition, holidays, 
     <p>Create a program for friends, family, or colleagues, online, at our school, or at another location.</p>
     <a href="/contact" class="adult-text-link">Discuss a custom class <span aria-hidden="true">→</span></a>
   </article>
+
+  <article class="adult-option-card">
+    <p class="adult-card-kicker">Citizenship</p>
+    <h3 id="b1-citizenship-prep">B1 Citizenship Prep</h3>
+    <p>Specific preparation for the B1 citizenship test through personalized private lessons.</p>
+    <a href='{{< relref "b1-citizenship-preparation-inperson-sandiego.md" >}}' class="adult-text-link">Explore citizenship prep <span aria-hidden="true">→</span></a>
+  </article>
 </div>
 
 ## Policies, discounts, and payment plans {#policies}
