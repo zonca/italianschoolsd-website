@@ -4,6 +4,11 @@
   @page { size: 8.5in 11in; margin: 0; }
   * { margin:0; padding:0; box-sizing:border-box; }
   html,body { width:1700px; height:2200px; }
+  /* The canvas is 1700x2200 CSS px so the screenshot comes out at 200 dpi, but
+     print-to-pdf lays out at 96 dpi, where a letter page is only 816x1056 px.
+     Without this the PDF renders the canvas at 2.08x and clips the right edge
+     and the whole bottom band. 816/1700 == 1056/2200 == 0.48 exactly. */
+  @media print { html { width:816px; height:1056px; } body { zoom: 0.48; } }
   body { position:relative; font-family: Georgia, serif; background:#fff;
          -webkit-font-smoothing:antialiased; }
   .abs { position:absolute; }
