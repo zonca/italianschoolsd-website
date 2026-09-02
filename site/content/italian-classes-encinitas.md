@@ -131,10 +131,7 @@ If the group classes do not fit your schedule, we also offer [private Italian le
 
 ## Please share our flyer {#flyer}
 
-Word of mouth is how most North County families find us. If you know someone who would enjoy Italian classes in Encinitas, please pass one of these along. Both print cleanly on letter paper.
-
-* [Kids classes, full academic year (PDF)](/flyers/italianschoolsd-flyer-encinitas-2026-2027.pdf)
-* [Kids and adults, fall session (PDF)](/flyers/italianschoolsd-encinitas-fall-2026.pdf), also as an [image for messages and social media](/flyers/italianschoolsd-encinitas-fall-2026.jpg)
+Word of mouth is how most North County families find us. If you know someone who would enjoy Italian classes in Encinitas, please pass along our one-page flyer for kids and adults: [printable flyer (PDF)](/flyers/italianschoolsd-encinitas-fall-2026.pdf) or [image version for messages and social media](/flyers/italianschoolsd-encinitas-fall-2026.jpg).
 
 ## Questions {#questions}
 
