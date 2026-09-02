@@ -129,6 +129,10 @@ Adults looking for other days, levels, or online options will find the full prog
 
 If the group classes do not fit your schedule, we also offer [private Italian lessons]({{< relref "italian-private-classes.md" >}}) in North County: online, in person at the church, or at your home. [Contact us]({{< relref "contact.md" >}}) to arrange one.
 
+## Please share our flyer {#flyer}
+
+Word of mouth is how most North County families find us. If you know someone who would enjoy Italian classes in Encinitas, please pass along our one-page flyer for kids and adults: [printable flyer (PDF)](/flyers/italianschoolsd-encinitas-fall-2026.pdf) or [image version for messages and social media](/flyers/italianschoolsd-encinitas-fall-2026.jpg).
+
 ## Questions {#questions}
 
 Call us at **(619) 800-0797** or [send us a message]({{< relref "contact.md" >}}). We are happy to help you choose the right group, for your child or for yourself.
