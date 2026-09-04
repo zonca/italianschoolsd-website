@@ -49,6 +49,10 @@ We charge an additional **$150 materials fee** for all kids joining in-person cl
 
 Check [the dedicated page for details on payment methods, cancellation policy, the 8-payment option, and sibling discount]({{< relref "tuition-payment.md" >}}).
 
+## Background checks for children's instructors {#background-checks}
+
+Employees assigned to teach or supervise children follow our criminal-background-screening policy. Ordinary privately enrolled classes and assignments funded through a charter school or another educational agency can have different clearance requirements. [Read our background check policy]({{< relref "background-check-policy.md" >}}).
+
 <div class="tc">
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSd4sac0Y2wdTd9gm2AF1Y9uuVPPyJzHfHEphJPA1iYPkrP43g/viewform?usp=sf_link" class="btn raise">Fill out the universal pre-enrollment form</a>
 </div>
