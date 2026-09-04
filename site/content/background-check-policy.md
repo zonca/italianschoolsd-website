@@ -10,13 +10,13 @@ Italian school of San Diego LLC provides Italian-language instruction to childre
 
 ## Ordinary privately enrolled children's classes {#ordinary-classes}
 
-For ordinary children's classes enrolled and paid for privately, the School currently uses the **SentryLink National Criminal and Offense Report** as its standard employment criminal-background report.
+For ordinary children's classes enrolled and paid for privately, the School currently uses the **SentryLink National Criminal Background Check** as its standard employment criminal-background report.
 
 The School uses the report to identify reported criminal convictions and offense information that may be relevant to child-facing duties, including reported **felonies, misdemeanors, and sex offenses**, subject to the limits and procedures required by applicable California and federal employment law.
 
 ## What the standard SentryLink report searches {#sentrylink-scope}
 
-According to SentryLink's current product description, the National Criminal and Offense Report:
+According to SentryLink's current product description, the National Criminal Background Check:
 
 * searches SentryLink's nationwide criminal-record database for records reported at state and county level
 * follows potential database matches with courthouse research to verify and update the result
@@ -27,7 +27,7 @@ A national database search is not the same thing as an official fingerprint-base
 
 ## State and federal criminal-history scope {#state-federal-scope}
 
-**State criminal history:** The standard National Criminal and Offense Report can return criminal records originating from state and local jurisdictions when those records are available through SentryLink's nationwide database. However, our standard report is **not** the employee's official California Department of Justice criminal-history record and is **not** SentryLink's separate dedicated State Criminal Background Check.
+**State criminal history:** The standard National Criminal Background Check can return criminal records originating from state and local jurisdictions when those records are available through SentryLink's nationwide database. However, our standard report is **not** the employee's official California Department of Justice criminal-history record and is **not** SentryLink's separate dedicated State Criminal Background Check.
 
 **Federal criminal history:** The standard report includes federal government exclusion and watchlist searches, but it does **not** include SentryLink's separate nationwide Federal Criminal Background Check of the federal court system. It also does not obtain an FBI fingerprint-based criminal-history record.
 
