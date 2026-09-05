@@ -46,6 +46,10 @@ Students normally begin with Italian as a New Language 1-2 (INL 1-2) or Italian 
 
 See [the dedicated page for details on payment methods, cancellation policy, the 8-payment option, and sibling discount]({{< relref "tuition-payment.md" >}}).
 
+## Background checks for instructors working with minors {#background-checks}
+
+Employees assigned to teach or supervise minors follow our criminal-background-screening policy. A class paid privately and an assignment performed through a charter school or another educational agency can have different clearance requirements. [Read our background check policy]({{< relref "background-check-policy.md" >}}).
+
 The pre-enrollment form is the same for TK–6th grade students and for the high school credit classes.
 
 <div class="tc">

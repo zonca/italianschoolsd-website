@@ -30,6 +30,8 @@ Whether you're a complete beginner or looking to polish your conversational skil
 2. **We match you with a teacher** — based on your needs and availability, we pair you with the right instructor.
 3. **Start learning** — begin with a lesson plan designed just for you. Adjust the pace, topics, and focus at any time.
 
+For private lessons with children, employees assigned to teach or supervise minors follow our [background check policy]({{< relref "background-check-policy.md" >}}). The clearance used for an ordinary privately paid lesson can differ from the additional process required when the lesson is funded through a charter school or another educational agency.
+
 ---
 
 ## Charter school families {#charter}

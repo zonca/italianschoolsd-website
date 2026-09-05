@@ -81,7 +81,7 @@ Both Encinitas classes are taught by native Italian speakers who live in North C
 
 **Our 3rd-5th grade teacher** was educated in Italy at the University of Milan and the University of Parma, and has lived in North County for years. She previously served as co-director of a children and family ministry in Carlsbad, where she designed programs for children and families and was responsible for volunteer background checks and child safety protocols, and later managed food service operations for an elementary school district. She brings more than fifteen years of leading teams and looking after children to the classroom.
 
-All our instructors complete a background check before working with students.
+Employees assigned to work with children complete the background-screening process that applies to their assignment. [Read our background check policy]({{< relref "background-check-policy.md" >}}) for the screening used for ordinary privately enrolled classes and the additional clearance that can apply to charter-school assignments.
 
 ## Kids tuition {#tuition}
 
