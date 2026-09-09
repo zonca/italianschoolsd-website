@@ -91,8 +91,7 @@ Tuition covers the full academic year of 29 classes. The TK-2nd grade class is o
 A **$150 materials fee** per student is added to all in-person classes. It covers classroom supplies, photocopies, and the cost of the space. Books are not included.
 
 * **NEW, TK-2nd grade:** $1,060 tuition + $150 materials = **$1,210**
-* **3rd-5th grade, new students:** $1,698 tuition + $150 materials = **$1,848**
-* **3rd-5th grade, returning students:** $1,617 tuition + $150 materials = **$1,767**
+* **3rd-5th grade:** $1,698 tuition + $150 materials = **$1,848**
 
 We recommend paying by [Zelle]({{< relref "zelle.md" >}}) to avoid credit card fees. See the [payment and cancellation page]({{< relref "tuition-payment.md" >}}) for the sibling discount, the eight-payment plan, and our refund policy.
 
@@ -233,7 +232,7 @@ Call us at **(619) 800-0797** or [send us a message]({{< relref "contact.md" >}}
       "@type": "Offer",
       "price": "1848",
       "priceCurrency": "USD",
-      "category": "Tuition and materials fee, new students",
+      "category": "Tuition and materials fee",
       "url": "https://www.italianschoolsd.com/italian-classes-encinitas/#tuition",
       "availability": "https://schema.org/InStock"
     }
