@@ -2,7 +2,7 @@
 title: "New: Italian classes for kids in Encinitas, North County"
 date: 2026-07-30T00:00:00.000Z
 url: "/news/2026/07/italian-classes-for-kids-encinitas-north-county-2026-2027/"
-description: We are opening a second in-person location for children in Encinitas. Mondays 4-6pm, September 2026 to May 2027, two small classes for TK-2nd and 3rd-5th grade.
+description: We are opening a second in-person location for children in Encinitas. NEW one-hour TK-2nd class Mondays 4-5pm and grades 3-5 Mondays 4-6pm, September 2026 to May 2027.
 image: /flyers/italianschoolsd-flyer-encinitas-2026-2027.png
 ---
 

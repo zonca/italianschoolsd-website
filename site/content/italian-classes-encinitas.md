@@ -1,13 +1,13 @@
 ---
 title: Italian classes in Encinitas, North County San Diego
-description: In-person Italian classes in Encinitas, North County San Diego. Kids TK-5th grade on Mondays 4-6pm, adults on Fridays 6-7:30pm. Beginners welcome.
+description: In-person Italian classes in Encinitas, North County San Diego. NEW one-hour TK-2nd class Mondays 4-5pm, grades 3-5 Mondays 4-6pm, and adults Fridays 6-7:30pm.
 image: /img/cefalu.jpg
 aliases:
     - /encinitas
     - /north-county
 ---
 
-The Italian school of San Diego is opening a second in-person location in **Encinitas**, for the 2026-2027 academic year. Classes for children meet **Mondays, 4:00-6:00 PM**, from September 14, 2026 through May 24, 2027. New for the fall, we also teach **adults on Fridays, 6:00-7:30 PM**.
+The Italian school of San Diego is opening a second in-person location in **Encinitas**, for the 2026-2027 academic year. The **NEW one-hour TK-2nd grade class meets Mondays, 4:00-5:00 PM**. The 3rd-5th grade class meets Mondays, 4:00-6:00 PM. Both run from September 14, 2026 through May 24, 2027. New for the fall, we also teach **adults on Fridays, 6:00-7:30 PM**.
 
 Several families in North County told us the same thing: the drive down to Kearny Mesa was the only thing standing between them and Italian class. So we brought the class to them.
 
@@ -33,9 +33,9 @@ If you cannot make that evening, call us at **(619) 800-0797** or [send us a mes
 
 ## Italian classes for kids: two classes, grouped by age {#classes}
 
-Both classes run at the same time, in two adjacent classrooms, so siblings of different ages can attend together.
+Both classes begin at 4:00 PM in adjacent classrooms. The TK-2nd grade group finishes at 5:00 PM, while the 3rd-5th grade group continues until 6:00 PM.
 
-### TK to 2nd grade {#tk-2}
+### NEW: TK to 2nd grade, one-hour class {#tk-2}
 
 An introduction to Italian built around play. Children learn through songs, movement, picture books, games, and hands-on projects, hearing Italian spoken naturally from the first day. The focus is on listening, pronunciation, and the confidence to say a first sentence out loud.
 
@@ -47,7 +47,8 @@ Each class is kept small, between 5 and 10 students. No previous knowledge of It
 
 ## Kids schedule {#schedule}
 
-* **Day and time:** Mondays, 4:00-6:00 PM (two hours, with a break)
+* **NEW, TK-2nd grade:** Mondays, 4:00-5:00 PM (one hour)
+* **3rd-5th grade:** Mondays, 4:00-6:00 PM (two hours, with a break)
 * **First class:** Monday, September 14, 2026
 * **Last class:** Monday, May 24, 2027
 * **Total:** 29 classes across the academic year
@@ -77,20 +78,21 @@ Our main campus remains at [4550 Kearny Villa Rd, Suite 202, San Diego]({{< relr
 
 Both Encinitas classes are taught by native Italian speakers who live in North County. One teacher stays with each age group for the full year.
 
-**Our TK-2nd grade teacher** was born and raised in Milan and holds a five-year degree from Bocconi University. She began teaching as a preschool teacher at a Milan-area nursery school and went on to teach cooking and pastry classes to children aged 4 to 14, and to work as a certified Zumba Kids instructor for the same age range. Her classroom is built on movement, food, music, and a great deal of patience.
+**Our TK-2nd grade teacher** was educated in Italy at the University of Milan and the University of Parma, and has lived in North County for years. She previously served as co-director of a children and family ministry in Carlsbad, where she designed programs for children and families and was responsible for volunteer background checks and child safety protocols, and later managed food service operations for an elementary school district. She brings more than fifteen years of leading teams and looking after children to the classroom.
 
-**Our 3rd-5th grade teacher** was educated in Italy at the University of Milan and the University of Parma, and has lived in North County for years. She previously served as co-director of a children and family ministry in Carlsbad, where she designed programs for children and families and was responsible for volunteer background checks and child safety protocols, and later managed food service operations for an elementary school district. She brings more than fifteen years of leading teams and looking after children to the classroom.
+**Our 3rd-5th grade teacher** was born and raised in Milan and holds a five-year degree from Bocconi University. She began teaching as a preschool teacher at a Milan-area nursery school and went on to teach cooking and pastry classes to children aged 4 to 14, and to work as a Zumba Kids instructor for the same age range. Her classroom is built on movement, food, music, and a great deal of patience.
 
 Employees assigned to work with children complete the background-screening process that applies to their assignment. [Read our background check policy]({{< relref "background-check-policy.md" >}}) for the screening used for ordinary privately enrolled classes and the additional clearance that can apply to charter-school assignments.
 
 ## Kids tuition {#tuition}
 
-Tuition covers the full academic year of 29 two-hour classes.
+Tuition covers the full academic year of 29 classes. The TK-2nd grade class is one hour; the 3rd-5th grade class is two hours.
 
 A **$150 materials fee** per student is added to all in-person classes. It covers classroom supplies, photocopies, and the cost of the space. Books are not included.
 
-* **New students:** $1,698 tuition + $150 materials = **$1,848**
-* **Returning students, second year or more:** $1,617 + $150 = **$1,767**
+* **NEW, TK-2nd grade (same price for every student):** $1,060 tuition + $150 materials = **$1,210**
+* **3rd-5th grade, new students:** $1,698 tuition + $150 materials = **$1,848**
+* **3rd-5th grade, returning students (second year or more):** $1,617 tuition + $150 materials = **$1,767**
 
 We recommend paying by [Zelle]({{< relref "zelle.md" >}}) to avoid credit card fees. See the [payment and cancellation page]({{< relref "tuition-payment.md" >}}) for the sibling discount, the eight-payment plan, and our refund policy.
 
@@ -142,7 +144,7 @@ Call us at **(619) 800-0797** or [send us a message]({{< relref "contact.md" >}}
   "@context": "https://schema.org",
   "@type": "Course",
   "name": "Italian classes for kids in Encinitas, 2026-2027",
-  "description": "In-person Italian language classes for children from TK to 5th grade in Encinitas, North County San Diego. Two small groups by age, taught by native Italian teachers, Mondays 4:00-6:00 PM.",
+  "description": "In-person Italian language classes for children from TK to 5th grade in Encinitas, North County San Diego. NEW one-hour TK-2nd class Mondays 4:00-5:00 PM and grades 3-5 Mondays 4:00-6:00 PM.",
   "url": "https://www.italianschoolsd.com/italian-classes-encinitas/",
   "inLanguage": "en",
   "teaches": "Italian language and culture",
@@ -161,8 +163,46 @@ Call us at **(619) 800-0797** or [send us a message]({{< relref "contact.md" >}}
       "addressCountry": "US"
     }
   },
-  "hasCourseInstance": {
+  "hasCourseInstance": [{
     "@type": "CourseInstance",
+    "courseMode": "onsite",
+    "startDate": "2026-09-14",
+    "endDate": "2027-05-24",
+    "name": "NEW: TK to 2nd grade, one-hour class",
+    "courseWorkload": "PT1H",
+    "location": {
+      "@type": "Place",
+      "name": "San Dieguito United Methodist Church",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "170 Calle Magdalena",
+        "addressLocality": "Encinitas",
+        "addressRegion": "CA",
+        "postalCode": "92024",
+        "addressCountry": "US"
+      }
+    },
+    "courseSchedule": {
+      "@type": "Schedule",
+      "repeatFrequency": "P1W",
+      "byDay": "https://schema.org/Monday",
+      "startTime": "16:00",
+      "endTime": "17:00",
+      "startDate": "2026-09-14",
+      "endDate": "2027-05-24",
+      "scheduleTimezone": "America/Los_Angeles"
+    },
+    "offers": {
+      "@type": "Offer",
+      "price": "1210",
+      "priceCurrency": "USD",
+      "category": "Tuition and materials fee",
+      "url": "https://www.italianschoolsd.com/italian-classes-encinitas/#tuition",
+      "availability": "https://schema.org/InStock"
+    }
+  }, {
+    "@type": "CourseInstance",
+    "name": "3rd to 5th grade class",
     "courseMode": "onsite",
     "startDate": "2026-09-14",
     "endDate": "2027-05-24",
@@ -197,6 +237,6 @@ Call us at **(619) 800-0797** or [send us a message]({{< relref "contact.md" >}}
       "url": "https://www.italianschoolsd.com/italian-classes-encinitas/#tuition",
       "availability": "https://schema.org/InStock"
     }
-  }
+  }]
 }
 </script>

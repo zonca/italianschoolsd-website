@@ -74,7 +74,7 @@ Please RSVP so we know how many chairs to set out, on Facebook or by emailing [i
 The Wednesday morning program is not the only option for a homeschool family, and charter funds apply to these too:
 
 * **Wednesday afternoons, 4:00-6:00 PM** in Kearny Mesa, TK-6th grade, from August 26. See [Italian classes for kids]({{< relref "classes.md" >}}).
-* **Monday afternoons, 4:00-6:00 PM** in Encinitas, TK-5th grade, from September 14. See [Italian classes in Encinitas]({{< relref "italian-classes-encinitas.md" >}}).
+* **Monday afternoons in Encinitas:** NEW one-hour TK-2nd grade class, 4:00-5:00 PM; grades 3-5, 4:00-6:00 PM, from September 14. See [Italian classes in Encinitas]({{< relref "italian-classes-encinitas.md" >}}).
 * **Private lessons**, at either of our two locations, at your own home, or online. See [private Italian lessons]({{< relref "italian-private-classes.md" >}}).
 
 ## Please share with friends

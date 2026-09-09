@@ -14,5 +14,6 @@ rebuilding the artwork from the rendered image. This directory is that source.
 Change the dates or copy in `flyer.html`, run `./build.sh`, and commit the
 regenerated PNG and PDF alongside the source change.
 
-The 1080x1350 social variant, `...-encinitas-2026-2027-social.png`, carries no
-end date and is unaffected by schedule changes.
+The 1080x1350 social variant, `...-encinitas-2026-2027-social.png`, is generated
+from `project_home/italianschoolsd/flyers/configs/encinitas-facebook-2026-2027.json`.
+Schedule changes must be applied there and the published image replaced here.

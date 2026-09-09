@@ -28,7 +28,7 @@ products2:
       link: /classes#home-schooled
     - image: /flyers/italianschoolsd-flyer-encinitas-2026-2027.png
       title: "Italian in Encinitas, North County"
-      text: "New for 2026-2027. In-person classes in Encinitas: kids TK-5th grade on Mondays 4-6pm, and beginner and intermediate adult classes on Fridays 6-7:30pm. Beginners welcome."
+      text: "New for 2026-2027. In-person classes in Encinitas: NEW one-hour TK-2nd class Mondays 4-5pm, grades 3-5 Mondays 4-6pm, and adult classes Fridays 6-7:30pm. Beginners welcome."
       link: /italian-classes-encinitas/
     - image: /img/illustrations-tutorials.svg
       title: "World languages for adults"

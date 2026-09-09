@@ -6,7 +6,7 @@ subtitle: "Children Classes 2026-2027"
 
 This page is for students in TK-6th grade. For teens, see our [high school credit classes](/high-school-credit-classes).
 
-> **New for 2026-2027:** we are opening a second in-person location in North County. [Italian classes for kids in Encinitas](/italian-classes-encinitas/), Mondays 4:00-6:00 PM.
+> **NEW for 2026-2027:** we are opening a second in-person location in North County. [Italian classes for kids in Encinitas](/italian-classes-encinitas/): TK-2nd grade Mondays 4:00-5:00 PM (one hour), and grades 3-5 Mondays 4:00-6:00 PM.
 
 {{< infonight location="Kearny Mesa" date="Thursday, August 13, 2026" time="6:00-7:00 PM" address="4550 Kearny Villa Rd, Suite 202, San Diego" parking="Free parking in the lot, right next to building 4550" accent="green" link="https://www.facebook.com/events/1716300052926552/" linkText="RSVP on Facebook" >}}
 See the classrooms, meet us, and ask anything before you enroll. We cover everything from TK to 12th grade, including the middle and high school classes that earn high school credit, and AP Italian preparation. Free and one hour. Please RSVP on Facebook so we know how many chairs to set out, or email info@italianschoolsd.com if you are not on Facebook.
@@ -73,7 +73,7 @@ Our main location is [4550 Kearny Villa Rd, Suite 202](/location). Kids' in-pers
 
 ### North County: Encinitas {#north-county}
 
-For 2026-2027 we also teach in Encinitas, at San Dieguito United Methodist Church, [170 Calle Magdalena](https://maps.google.com/?q=170+Calle+Magdalena,+Encinitas,+CA+92024). Two classes meet there on **Mondays, 4:00-6:00 PM**, one for TK-2nd grade and one for 3rd-5th grade, September 14, 2026 through May 24, 2027. Tuition differs from the Kearny Mesa classes because the North County year is 29 classes rather than 33, and pre-enrollment there remains open through the first class, subject to availability. There is a free info night at the church on **Tuesday, August 25, 6:00-7:00 PM**.
+For 2026-2027 we also teach in Encinitas, at San Dieguito United Methodist Church, [170 Calle Magdalena](https://maps.google.com/?q=170+Calle+Magdalena,+Encinitas,+CA+92024). The **NEW one-hour TK-2nd grade class meets Mondays, 4:00-5:00 PM**. The 3rd-5th grade class meets Mondays, 4:00-6:00 PM. Both run September 14, 2026 through May 24, 2027. Tuition differs from the Kearny Mesa classes because the North County year is 29 classes rather than 33, and pre-enrollment there remains open through the first class, subject to availability. There is a free info night at the church on **Tuesday, August 25, 6:00-7:00 PM**.
 
 <div class="tc">
 <a href="/italian-classes-encinitas/" class="btn raise">Italian classes for kids in Encinitas</a>
