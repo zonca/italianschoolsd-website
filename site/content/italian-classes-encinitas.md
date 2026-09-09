@@ -97,10 +97,53 @@ A **$150 materials fee** per student is added to all in-person classes. It cover
 
 The eight-payment plan adds a 20% administrative fee to tuition. The $150 materials fee is added to the first payment.
 
-| Class | First payment, including materials | Remaining seven payments | Total |
-| --- | ---: | ---: | ---: |
-| NEW, TK-2nd grade | $309.00 | $159.00 each | $1,422.00 |
-| 3rd-5th grade | $404.70 | $254.70 each | $2,187.60 |
+<div class="encinitas-payment-grid">
+  <section class="encinitas-payment-card encinitas-payment-card-new">
+    <p class="encinitas-payment-label">NEW</p>
+    <h4>TK-2nd grade</h4>
+    <p class="encinitas-payment-first"><strong>$309.00</strong> first payment</p>
+    <p>Includes the $150 materials fee</p>
+    <p>Then <strong>7 monthly payments of $159.00</strong></p>
+    <p class="encinitas-payment-total">Total: <strong>$1,422.00</strong></p>
+  </section>
+  <section class="encinitas-payment-card">
+    <p class="encinitas-payment-label">Grades 3-5</p>
+    <h4>3rd-5th grade</h4>
+    <p class="encinitas-payment-first"><strong>$404.70</strong> first payment</p>
+    <p>Includes the $150 materials fee</p>
+    <p>Then <strong>7 monthly payments of $254.70</strong></p>
+    <p class="encinitas-payment-total">Total: <strong>$2,187.60</strong></p>
+  </section>
+</div>
+
+<style>
+.encinitas-payment-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(15rem, 1fr));
+  gap: 1rem;
+  margin: 1.25rem 0;
+}
+.encinitas-payment-card {
+  padding: 1.25rem;
+  border: 1px solid #cbd9e5;
+  border-top: 5px solid #0064aa;
+  border-radius: .5rem;
+  background: #fff;
+  box-shadow: 0 4px 14px rgba(0, 63, 112, .08);
+}
+.encinitas-payment-card-new { border-top-color: #ce2b37; }
+.encinitas-payment-card h4 { margin: .15rem 0 .8rem; color: #003f70; font-size: 1.35rem; }
+.encinitas-payment-card p { margin: .4rem 0; }
+.encinitas-payment-label {
+  color: #ce2b37;
+  font-size: .78rem;
+  font-weight: 800;
+  letter-spacing: .08em;
+  text-transform: uppercase;
+}
+.encinitas-payment-first { color: #003f70; font-size: 1.1rem; }
+.encinitas-payment-total { margin-top: .85rem !important; padding-top: .7rem; border-top: 1px solid #d9e2ea; }
+</style>
 
 The first payment is due when you enroll. The remaining seven payments are due monthly from October 1 through April 1. You may cancel the monthly plan with 30 days' advance notice by email. A $50 administrative fee applies, and cancellations are not accepted after March 31. Read the [monthly-plan cancellation policy](/tuition-payment/#cancellation-monthly).
 
