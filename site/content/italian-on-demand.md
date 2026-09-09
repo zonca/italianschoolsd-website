@@ -1,7 +1,7 @@
 ---
 title: Italian On Demand
 subtitle: Private Italian lessons on your schedule, online via Zoom
-description: Book a private Italian lesson at least 12 hours in advance. $80 per hour. Beginner to advanced. Native Italian instructors.
+description: Book a private Italian lesson at least 12 hours in advance, or buy a five-class package for yourself or as a gift. Beginner to advanced.
 image: /img/colosseum.jpg
 ---
 
@@ -27,11 +27,11 @@ Each lesson is:
 * **$80**
 * **online via Zoom**
 * **private**
-* **paid one class at a time**
+* **paid one class at a time, or with a five-class package credit**
 * **no long-term commitment**
 * **not refundable**
 
-There is **no commitment** to a package, semester, or recurring schedule. You do **not** need to sign up for multiple lessons in advance. You simply book and pay for **one class at a time** whenever you want a lesson.
+There is **no commitment** to a package, semester, or recurring schedule. You can simply book and pay for **one class at a time** whenever you want a lesson. If you already know that you want several classes—or would like to give classes as a gift—you can purchase a five-class package instead.
 
 This makes Italian On Demand a good fit if you want to:
 
@@ -43,6 +43,24 @@ Once a lesson is booked, it is **not refundable**.
 
 <div class="tc">
 <a href="https://italianschoolsd.secureform.dev/ondemand" class="btn raise">Book Italian On Demand</a>
+</div>
+
+## Five-class packages and gifts {#five-class-packages}
+
+Purchase five Italian On Demand classes for yourself or give them to someone else. After payment, the purchaser receives an **ITASD package code** by email. The registered recipient uses that code and their email address to book each class from the regular On Demand calendar—one class at a time, whenever an available time works for them.
+
+Choose one of two packages:
+
+* **Five one-person classes — $400**: all five classes are for the same student.
+* **Five two-person classes — $550**: all five classes are for the same pair of students.
+
+Package credits do not expire. Credits cannot be shared, transferred, or reimbursed, except where required by law. Every class must use the selected class size and the same student or pair named for the package.
+
+To use a package, open the booking form, select **Use a 5-class code**, enter the code and registered recipient email, choose an available lesson, and book with one credit. The form shows the number of credits remaining.
+
+<div class="tc">
+<a href="https://italianschoolsd.secureform.dev/ondemand/gift" class="btn raise">Buy a five-class package</a>
+<a href="https://italianschoolsd.secureform.dev/ondemand?package=1" class="btn raise">Book with a package code</a>
 </div>
 
 ## Who it is for {#who-for}
