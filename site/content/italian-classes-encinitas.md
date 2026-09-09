@@ -149,6 +149,10 @@ The first payment is due when you enroll. The remaining seven payments are due m
 
 We recommend paying by [Zelle]({{< relref "zelle.md" >}}) to avoid credit card fees. See the [payment and cancellation page]({{< relref "tuition-payment.md" >}}) for the sibling discount and our refund policy.
 
+### Charter school funds {#charter}
+
+The Italian School is an approved vendor for [Pacific Coast Academy](https://pacificcoastacademy.org/) and [SoCal Scholars Academy](https://socalscholarsacademy.net/), so you can use charter funds to pay for our classes, group or private. If your child is enrolled in another charter school, please [contact us]({{< relref "contact.md" >}}); we can apply to become an approved vendor.
+
 ## How to pre-enroll your child {#enroll}
 
 **Pre-enrollment remains open through the first class on Monday, September 14, 2026, subject to availability.**
