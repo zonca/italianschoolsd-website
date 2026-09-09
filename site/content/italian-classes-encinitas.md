@@ -102,7 +102,7 @@ The eight-payment plan adds a 20% administrative fee to tuition. The $150 materi
 | NEW, TK-2nd grade | $309.00 | $159.00 each | $1,422.00 |
 | 3rd-5th grade | $404.70 | $254.70 each | $2,187.60 |
 
-The first payment is due when you enroll. The remaining seven payments are due monthly from October 1 through April 1. Choosing this plan commits you to all eight payments. Read the [monthly-plan cancellation policy](/tuition-payment/#cancellation-monthly).
+The first payment is due when you enroll. The remaining seven payments are due monthly from October 1 through April 1. You may cancel the monthly plan with 30 days' advance notice by email. A $50 administrative fee applies, and cancellations are not accepted after March 31. Read the [monthly-plan cancellation policy](/tuition-payment/#cancellation-monthly).
 
 We recommend paying by [Zelle]({{< relref "zelle.md" >}}) to avoid credit card fees. See the [payment and cancellation page]({{< relref "tuition-payment.md" >}}) for the sibling discount and our refund policy.
 
