@@ -90,9 +90,9 @@ Tuition covers the full academic year of 29 classes. The TK-2nd grade class is o
 
 A **$150 materials fee** per student is added to all in-person classes. It covers classroom supplies, photocopies, and the cost of the space. Books are not included.
 
-* **NEW, TK-2nd grade (same price for every student):** $1,060 tuition + $150 materials = **$1,210**
+* **NEW, TK-2nd grade:** $1,060 tuition + $150 materials = **$1,210**
 * **3rd-5th grade, new students:** $1,698 tuition + $150 materials = **$1,848**
-* **3rd-5th grade, returning students (second year or more):** $1,617 tuition + $150 materials = **$1,767**
+* **3rd-5th grade, returning students:** $1,617 tuition + $150 materials = **$1,767**
 
 We recommend paying by [Zelle]({{< relref "zelle.md" >}}) to avoid credit card fees. See the [payment and cancellation page]({{< relref "tuition-payment.md" >}}) for the sibling discount, the eight-payment plan, and our refund policy.
 
