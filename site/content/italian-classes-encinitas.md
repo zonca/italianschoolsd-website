@@ -93,7 +93,18 @@ A **$150 materials fee** per student is added to all in-person classes. It cover
 * **NEW, TK-2nd grade:** $1,060 tuition + $150 materials = **$1,210**
 * **3rd-5th grade:** $1,698 tuition + $150 materials = **$1,848**
 
-We recommend paying by [Zelle]({{< relref "zelle.md" >}}) to avoid credit card fees. See the [payment and cancellation page]({{< relref "tuition-payment.md" >}}) for the sibling discount, the eight-payment plan, and our refund policy.
+### Monthly payment option {#monthly-payments}
+
+The eight-payment plan adds a 20% administrative fee to tuition. The $150 materials fee is added to the first payment.
+
+| Class | First payment, including materials | Remaining seven payments | Total |
+| --- | ---: | ---: | ---: |
+| NEW, TK-2nd grade | $309.00 | $159.00 each | $1,422.00 |
+| 3rd-5th grade | $404.70 | $254.70 each | $2,187.60 |
+
+The first payment is due when you enroll. The remaining seven payments are due monthly from October 1 through April 1. Choosing this plan commits you to all eight payments. Read the [monthly-plan cancellation policy](/tuition-payment/#cancellation-monthly).
+
+We recommend paying by [Zelle]({{< relref "zelle.md" >}}) to avoid credit card fees. See the [payment and cancellation page]({{< relref "tuition-payment.md" >}}) for the sibling discount and our refund policy.
 
 ## How to pre-enroll your child {#enroll}
 
