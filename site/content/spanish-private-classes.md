@@ -11,7 +11,7 @@ subtitle: "One-on-one Spanish lessons tailored to your goals, in person or onlin
 Whether your child needs academic support, you are preparing for travel, or you want to build fluent conversational skills, private Spanish lessons provide the fastest and most adaptable path to proficiency. Work one-on-one or in a small private pod with a dedicated, experienced instructor who tailors every session to your goals, pace, and schedule.
 
 <div class="tc">
-<a href="https://forms.gle/LHR7Htpeb3mQzV838" class="btn raise">Request private Spanish lessons</a>
+<a href="/contact/" class="btn raise">Contact us to request private Spanish lessons</a>
 </div>
 
 ---
@@ -36,7 +36,7 @@ Private instruction is ideal for young learners who thrive with individual atten
 
 ### Charter school families {#charter}
 
-Private Spanish lessons are an approved service for charter school families enrolled with [Pacific Coast Academy](https://pacificcoastacademy.org/) and [SoCal Scholars Academy](https://socalscholarsacademy.net/) across TK through 12th grade. Charter funds can cover lessons in person or online. Fill out the request form and name your charter school to get started.
+Private Spanish lessons are an approved service for charter school families enrolled with [Pacific Coast Academy](https://pacificcoastacademy.org/) and [SoCal Scholars Academy](https://socalscholarsacademy.net/) across TK through 12th grade. Charter funds can cover lessons in person or online. [Contact us](/contact/) and name your charter school to get started.
 
 ---
 
@@ -68,10 +68,10 @@ Prefer learning in a group setting? We also offer:
 
 ## Get Started {#get-started}
 
-Fill out our interest form and we will reach out within a couple of days to discuss your goals, schedule, and match you with the right teacher:
+Get in touch and tell us about your goals, current Spanish level, and scheduling preferences, and we will get back to you within a couple of days to match you with the right instructor:
 
 <div class="tc">
-<a href="https://forms.gle/LHR7Htpeb3mQzV838" class="btn raise">Request private Spanish lessons</a>
+<a href="/contact/" class="btn raise">Contact us to request private Spanish lessons</a>
 </div>
 
 Have questions first? [Contact us](/contact) or call us at **(619) 800-0797** and we will be happy to help.
