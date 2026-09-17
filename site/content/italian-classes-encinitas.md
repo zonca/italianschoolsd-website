@@ -14,22 +14,13 @@ Several families in North County told us the same thing: the drive down to Kearn
 Children are grouped by age into two small classes, each led by its own native Italian teacher. **No previous knowledge of Italian is required.**
 
 <div class="tc">
-<a href="#info-night" class="btn raise">Come to our free info night</a>
 <a href="#enroll" class="btn raise">Pre-enroll your child</a>
 <a href="#adults" class="btn raise">Adult classes on Fridays</a>
 </div>
 
-## Come meet us in person: Tuesday, August 25 {#info-night}
+Enrollment remains open through the first class on September 14, subject to availability.
 
-{{< infonight location="Encinitas" date="Tuesday, August 25, 2026" time="6:00-7:00 PM" address="Room 11/12, San Dieguito United Methodist Church, 170 Calle Magdalena" parking="Ample free parking on site, right next to the classrooms" accent="blue" link="https://www.facebook.com/events/1032345532982984/" linkText="RSVP on Facebook" >}}
-One hour, free. This evening covers the children's classes only. We show you the two classrooms, introduce the teachers, and explain how classes are organized by age and level. The rest of the time is for your questions.
-
-RSVP on Facebook, or email info@italianschoolsd.com. For the [Friday adult classes](#adults), call **(619) 800-0797** or [write to us]({{< relref "contact.md" >}}).
-{{< /infonight >}}
-
-Enrollment remains open through the first class on September 14, subject to availability, so you can come, look, and decide when you are ready.
-
-If you cannot make that evening, call us at **(619) 800-0797** or [send us a message]({{< relref "contact.md" >}}).
+Questions? Call us at **(619) 800-0797** or [send us a message]({{< relref "contact.md" >}}).
 
 ## Italian classes for kids: two classes, grouped by age {#classes}
 
@@ -175,10 +166,10 @@ Adults have their own evening classes in the same building, on **Fridays from 6:
 
 The beginner class starting **Friday, September 18, 2026** is **full** and enrollment is closed. The **intermediate** class did not reach the minimum enrollment and has been **canceled**.
 
-**We are opening a second beginner class**, on Fridays at the same time, starting **October 2, 2026**, with Daniela. It runs for 11 classes, from October 2 to December 18, 2026, with no class on November 27. Tuition is $418 in full, or four monthly payments of $114.95. Enrollment is open.
+**We are opening a second beginner class**, on Fridays at the same time, starting **October 9, 2026**, with Daniela. It runs for 10 classes, from October 9 to December 18, 2026, with no class on November 27. Tuition is $380 in full, or four monthly payments of $104.50. Enrollment is open.
 
 <div class="tc">
-<a href='{{< relref "news/second-beginner-italian-class-adults-encinitas-october-2026.md" >}}' class="btn raise">New beginner class starting October 2: details and enrollment</a>
+<a href='{{< relref "news/second-beginner-italian-class-adults-encinitas-october-2026.md" >}}' class="btn raise">New beginner class starting October 9: details and enrollment</a>
 </div>
 
 Adults looking for other days, levels, or online options will find the full program on our [adult classes page]({{< relref "adults.md" >}}).

@@ -3,7 +3,7 @@ title: "New: Italian classes for adults in Encinitas, North County (Fall 2026)"
 date: 2026-07-31
 url: "/news/2026/08/adult-italian-classes-encinitas-north-county-fall-2026/"
 weight: 1
-description: In-person Italian classes for adults in Encinitas, North County San Diego. The September 18 beginner section is full and the intermediate section has been canceled. A second beginner section starts October 2, 2026.
+description: In-person Italian classes for adults in Encinitas, North County San Diego. The September 18 beginner section is full and the intermediate section has been canceled. A second beginner section starts October 9, 2026.
 image: /img/cefalu.jpg
 ---
 
@@ -11,7 +11,7 @@ For years, adults in North County have had to drive to Kearny Mesa for our eveni
 
 **Status of the fall session:** the **beginner** section that starts on September 18 is **full** and enrollment is closed. The **intermediate** section did not reach the minimum enrollment and has unfortunately been **canceled** for this session.
 
-**A second beginner section is now open**, with Daniela, on Fridays at the same time, starting **October 2, 2026**: see [the new class and enroll]({{< relref "news/second-beginner-italian-class-adults-encinitas-october-2026.md" >}}).
+**A second beginner section is now open**, with Daniela, on Fridays at the same time, starting **October 9, 2026**: see [the new class and enroll]({{< relref "news/second-beginner-italian-class-adults-encinitas-october-2026.md" >}}).
 
 The beginner class meets at San Dieguito United Methodist Church, [170 Calle Magdalena, Encinitas](https://maps.google.com/?q=170+Calle+Magdalena,+Encinitas,+CA+92024), a short drive from the I-5. There is ample free parking on site. All our instructors are native Italian speakers.
 
@@ -19,7 +19,7 @@ The session runs for **13 classes**, from **September 18 to December 18, 2026**,
 
 ## Beginner Italian for adults, Friday in Encinitas {#fri-beg}
 
-**This class is full for the fall session and enrollment is closed.** A [second beginner section starting October 2, 2026]({{< relref "news/second-beginner-italian-class-adults-encinitas-october-2026.md" >}}) is open for enrollment.
+**This class is full for the fall session and enrollment is closed.** A [second beginner section starting October 9, 2026]({{< relref "news/second-beginner-italian-class-adults-encinitas-october-2026.md" >}}) is open for enrollment.
 
 Start from the beginning. This section is for adults with little or no prior Italian: greetings and introductions, present tense, everyday vocabulary, and the pronunciation habits that make Italian click. Practical from the first evening, whether you are planning a trip to Italy, reconnecting with family roots, or working toward Italian citizenship.
 
@@ -80,7 +80,7 @@ Questions? Call **(619) 800-0797** or [send us a message]({{< relref "contact.md
   "@context": "https://schema.org",
   "@type": "Course",
   "name": "Italian classes for adults in Encinitas, Fall 2026",
-  "description": "In-person Italian language classes for adults in Encinitas, North County San Diego. The September 18 beginner section is full; the intermediate section has been canceled. A second beginner section starts October 2, 2026. Fridays 6:00-7:30 PM.",
+  "description": "In-person Italian language classes for adults in Encinitas, North County San Diego. The September 18 beginner section is full; the intermediate section has been canceled. A second beginner section starts October 9, 2026. Fridays 6:00-7:30 PM.",
   "url": "https://www.italianschoolsd.com/news/2026/08/adult-italian-classes-encinitas-north-county-fall-2026/",
   "inLanguage": "en",
   "teaches": "Italian language and culture",

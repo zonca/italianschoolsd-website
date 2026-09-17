@@ -111,7 +111,7 @@ Scan by day, then use the level guides below for full dates, tuition, holidays, 
     </div>
     <div class="adult-class-row">
       <div><strong>Beginner</strong><span class="adult-format adult-format-encinitas">Encinitas</span></div>
-      <p><span>6:00–7:30 PM</span><small>From October 2 · 11 classes · Daniela</small></p>
+      <p><span>6:00–7:30 PM</span><small>From October 9 · 10 classes · Daniela</small></p>
     </div>
   </article>
 
@@ -164,9 +164,9 @@ Scan by day, then use the level guides below for full dates, tuition, holidays, 
     <p class="adult-card-kicker">Fall 2026</p>
     <h3 id="encinitas-details">Italian on Fridays in Encinitas</h3>
     <p>Meet at San Dieguito United Methodist Church, <a href="https://maps.google.com/?q=170+Calle+Magdalena,+Encinitas,+CA+92024">170 Calle Magdalena</a>, from <strong>6:00–7:30 PM</strong>, September 18 to December 18 (13 classes).</p>
-    <p>The beginner section that starts September 18 is full and the <strong>intermediate</strong> section has been canceled. A <strong>second beginner section starts October 2</strong>, same evening and same room, with Daniela: 11 classes, $418 in full or four monthly payments of $114.95.</p>
+    <p>The beginner section that starts September 18 is full and the <strong>intermediate</strong> section has been canceled. A <strong>second beginner section starts October 9</strong>, same evening and same room, with Daniela: 10 classes, $380 in full or four monthly payments of $104.50.</p>
   </div>
-  <a href='{{< relref "news/second-beginner-italian-class-adults-encinitas-october-2026.md" >}}' class="btn btn-cta">New beginner class starting October 2</a>
+  <a href='{{< relref "news/second-beginner-italian-class-adults-encinitas-october-2026.md" >}}' class="btn btn-cta">New beginner class starting October 9</a>
 </section>
 
 ## Private and custom classes {#private-custom}
