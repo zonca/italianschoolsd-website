@@ -14,7 +14,7 @@ Classes meet at San Dieguito United Methodist Church, [170 Calle Magdalena](http
 <a href='{{< relref "italian-classes-encinitas.md" >}}' class="btn raise">Schedule, tuition, and pre-enrollment</a>
 </div>
 
-**For adults, too:** starting September 18, 2026 we teach beginner and intermediate Italian classes for adults in the same Encinitas classrooms, on [Friday evenings, 6:00-7:30 PM]({{< relref "news/adult-italian-classes-encinitas-north-county-fall-2026.md" >}}).
+**For adults, too:** starting September 18, 2026 we teach a beginner Italian class for adults in the same Encinitas classrooms, on [Friday evenings, 6:00-7:30 PM]({{< relref "news/adult-italian-classes-encinitas-north-county-fall-2026.md" >}}). That class is full for this session, and the intermediate class has been canceled, but write to us if you are interested and we will notify you if we are able to organize an additional class.
 
 Questions? Call **(619) 800-0797** or [send us a message]({{< relref "contact.md" >}}).
 

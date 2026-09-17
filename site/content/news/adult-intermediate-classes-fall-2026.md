@@ -9,7 +9,7 @@ Expand your Italian language skills with our intermediate and beginner-intermedi
 
 Our Fall session runs for **16 weeks** from **the week of August 17th to December 19th, 2026**.
 
-Live in North County? We also teach an intermediate section on Friday evenings in [Encinitas]({{< relref "news/adult-italian-classes-encinitas-north-county-fall-2026.md" >}}).
+Live in North County? Our Friday evening intermediate section in [Encinitas]({{< relref "news/adult-italian-classes-encinitas-north-county-fall-2026.md" >}}) did not reach the minimum enrollment and has been canceled for this session. Write to us if you are interested and we will notify you if we are able to organize an additional class.
 
 For other levels, please see our [Adult classes overview]({{< relref "adults.md" >}}), where you will find policies, discounts, and payment plan information.
 

@@ -161,12 +161,12 @@ Scan by day, then use the level guides below for full dates, tuition, holidays, 
 
 <section class="adult-feature-callout" aria-labelledby="encinitas-details">
   <div>
-    <p class="adult-card-kicker">New for Fall 2026</p>
-    <h3 id="encinitas-details">Beginner and intermediate Italian on Fridays</h3>
+    <p class="adult-card-kicker">Fall 2026</p>
+    <h3 id="encinitas-details">Italian on Fridays in Encinitas</h3>
     <p>Meet at San Dieguito United Methodist Church, <a href="https://maps.google.com/?q=170+Calle+Magdalena,+Encinitas,+CA+92024">170 Calle Magdalena</a>, from <strong>6:00–7:30 PM</strong>, September 18 to December 18 (13 classes).</p>
-    <p><strong>Tuition:</strong> $468 in full or four monthly payments of $128.70.</p>
+    <p>The <strong>beginner</strong> section is full for this session and the <strong>intermediate</strong> section has been canceled. Write to us if you are interested and we will notify you if we are able to organize an additional class.</p>
   </div>
-  <a href='{{< relref "news/adult-italian-classes-encinitas-north-county-fall-2026.md" >}}' class="btn btn-cta">Encinitas schedule and tuition</a>
+  <a href='{{< relref "news/adult-italian-classes-encinitas-north-county-fall-2026.md" >}}' class="btn btn-cta">Encinitas class details</a>
 </section>
 
 ## Private and custom classes {#private-custom}
