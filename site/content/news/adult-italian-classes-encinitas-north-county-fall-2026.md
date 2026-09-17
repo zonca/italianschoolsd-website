@@ -3,15 +3,15 @@ title: "New: Italian classes for adults in Encinitas, North County (Fall 2026)"
 date: 2026-07-31
 url: "/news/2026/08/adult-italian-classes-encinitas-north-county-fall-2026/"
 weight: 1
-description: In-person Italian classes for adults in Encinitas, North County San Diego. The beginner section is full for the fall session and the intermediate section has been canceled. Fridays 6:00-7:30 PM, September 18 to December 18, 2026.
+description: In-person Italian classes for adults in Encinitas, North County San Diego. The September 18 beginner section is full and the intermediate section has been canceled. A second beginner section starts October 2, 2026.
 image: /img/cefalu.jpg
 ---
 
 For years, adults in North County have had to drive to Kearny Mesa for our evening Italian classes. This fall we brought them north, to **Encinitas**, on **Friday evenings from 6:00 PM to 7:30 PM**.
 
-**Status of the fall session:** the **beginner** section is **full** and enrollment is closed. The **intermediate** section did not reach the minimum enrollment and has unfortunately been **canceled** for this session.
+**Status of the fall session:** the **beginner** section that starts on September 18 is **full** and enrollment is closed. The **intermediate** section did not reach the minimum enrollment and has unfortunately been **canceled** for this session.
 
-If you are interested in either section, [write to us]({{< relref "contact.md" >}}) and we will notify you if we are able to organize an additional class.
+**A second beginner section is now open**, with Daniela, on Fridays at the same time, starting **October 2, 2026**: see [the new class and enroll]({{< relref "news/second-beginner-italian-class-adults-encinitas-october-2026.md" >}}).
 
 The beginner class meets at San Dieguito United Methodist Church, [170 Calle Magdalena, Encinitas](https://maps.google.com/?q=170+Calle+Magdalena,+Encinitas,+CA+92024), a short drive from the I-5. There is ample free parking on site. All our instructors are native Italian speakers.
 
@@ -19,7 +19,7 @@ The session runs for **13 classes**, from **September 18 to December 18, 2026**,
 
 ## Beginner Italian for adults, Friday in Encinitas {#fri-beg}
 
-**This class is full for the fall session and enrollment is closed.** If you are interested, [write to us]({{< relref "contact.md" >}}) and we will notify you if we are able to organize an additional beginner class.
+**This class is full for the fall session and enrollment is closed.** A [second beginner section starting October 2, 2026]({{< relref "news/second-beginner-italian-class-adults-encinitas-october-2026.md" >}}) is open for enrollment.
 
 Start from the beginning. This section is for adults with little or no prior Italian: greetings and introductions, present tense, everyday vocabulary, and the pronunciation habits that make Italian click. Practical from the first evening, whether you are planning a trip to Italy, reconnecting with family roots, or working toward Italian citizenship.
 
@@ -36,7 +36,7 @@ Start from the beginning. This section is for adults with little or no prior Ita
 
 ## Intermediate Italian for adults, Friday in Encinitas {#fri-int}
 
-**This class has been canceled for the fall session.** The section was planned but did not reach the minimum enrollment needed to open. If you are interested, [write to us]({{< relref "contact.md" >}}) and we will notify you if we are able to organize an additional intermediate class.
+**This class has been canceled for the fall session.** The section was planned but did not reach the minimum enrollment needed to open. If you are interested in intermediate Italian in North County, [write to us]({{< relref "contact.md" >}}) and we will notify you if we are able to organize an additional intermediate class.
 
 For students who already have a foundation in Italian and want to speak with more confidence. We work on past and future tenses, pronouns, and connectors, and we spend a good part of each class talking: describing, narrating, disagreeing politely, and handling real situations in Italy.
 
@@ -80,7 +80,7 @@ Questions? Call **(619) 800-0797** or [send us a message]({{< relref "contact.md
   "@context": "https://schema.org",
   "@type": "Course",
   "name": "Italian classes for adults in Encinitas, Fall 2026",
-  "description": "In-person Italian language classes for adults in Encinitas, North County San Diego. The beginner section is full for the fall session; the intermediate section has been canceled. Fridays 6:00-7:30 PM, September 18 to December 18, 2026.",
+  "description": "In-person Italian language classes for adults in Encinitas, North County San Diego. The September 18 beginner section is full; the intermediate section has been canceled. A second beginner section starts October 2, 2026. Fridays 6:00-7:30 PM.",
   "url": "https://www.italianschoolsd.com/news/2026/08/adult-italian-classes-encinitas-north-county-fall-2026/",
   "inLanguage": "en",
   "teaches": "Italian language and culture",

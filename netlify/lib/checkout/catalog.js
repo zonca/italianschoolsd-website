@@ -121,6 +121,18 @@ const CLASSES = {
     monthlyInstallments: 4,
     bookId: 'project1a',
   },
+  'fall-2026-fri-beg-encinitas-oct': {
+    id: 'fall-2026-fri-beg-encinitas-oct',
+    name: 'Fall 2026 Italian Class - Beginner Friday Encinitas, October start',
+    level: 'Beginner',
+    format: 'In person',
+    pagePath: '/news/2026/09/second-beginner-italian-class-adults-encinitas-october-2026/',
+    anchor: 'fri-beg-oct',
+    fullAmount: 41800,
+    monthlyAmount: 11495,
+    monthlyInstallments: 4,
+    bookId: 'project1a',
+  },
   'fall-2026-fri-int-encinitas': {
     id: 'fall-2026-fri-int-encinitas',
     name: 'Fall 2026 Italian Class - Intermediate Friday Encinitas',

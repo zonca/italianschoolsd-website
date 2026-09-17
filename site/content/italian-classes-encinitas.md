@@ -171,12 +171,14 @@ This class runs only if it reaches a minimum number of enrolled students. If we 
 
 ## Italian classes for adults in Encinitas {#adults}
 
-Adults have their own evening classes in the same building, on **Fridays from 6:00 PM to 7:30 PM**. The fall session is 13 classes, from September 18 to December 18, 2026, with no class on November 27. Tuition is $468 in full, or four monthly payments of $128.70.
+Adults have their own evening classes in the same building, on **Fridays from 6:00 PM to 7:30 PM**.
 
-For this session, the **beginner** class is **full** and enrollment is closed, and the **intermediate** class did not reach the minimum enrollment and has been **canceled**. If you are interested in either one, [write to us]({{< relref "contact.md" >}}) and we will notify you if we are able to organize an additional class.
+The beginner class starting **Friday, September 18, 2026** is **full** and enrollment is closed. The **intermediate** class did not reach the minimum enrollment and has been **canceled**.
+
+**We are opening a second beginner class**, on Fridays at the same time, starting **October 2, 2026**, with Daniela. It runs for 11 classes, from October 2 to December 18, 2026, with no class on November 27. Tuition is $418 in full, or four monthly payments of $114.95. Enrollment is open.
 
 <div class="tc">
-<a href='{{< relref "news/adult-italian-classes-encinitas-north-county-fall-2026.md" >}}' class="btn raise">Adult schedule, tuition, and enrollment</a>
+<a href='{{< relref "news/second-beginner-italian-class-adults-encinitas-october-2026.md" >}}' class="btn raise">New beginner class starting October 2: details and enrollment</a>
 </div>
 
 Adults looking for other days, levels, or online options will find the full program on our [adult classes page]({{< relref "adults.md" >}}).

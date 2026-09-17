@@ -9,7 +9,7 @@ Start your Italian language journey with our supportive and interactive beginner
 
 Our Fall session runs for **16 weeks** (15 weeks for Saturday classes) from **the week of August 17th to December 19th, 2026**.
 
-Live in North County? Our Friday evening beginner section in [Encinitas]({{< relref "news/adult-italian-classes-encinitas-north-county-fall-2026.md" >}}) is full for this session. Write to us if you are interested and we will notify you if we are able to organize an additional class.
+Live in North County? Our Friday evening beginner section in Encinitas filled up, so we opened a [second beginner section starting October 2, 2026]({{< relref "news/second-beginner-italian-class-adults-encinitas-october-2026.md" >}}), Fridays 6:00-7:30 PM with Daniela.
 
 For other levels, please see our [Adult classes overview]({{< relref "adults.md" >}}), where you will find policies, discounts, and payment plan information.
 
