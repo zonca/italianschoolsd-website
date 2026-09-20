@@ -12,7 +12,7 @@ Parents or authorized caregivers are expected to pick up children promptly at th
 
 A **10-minute grace period** is provided at no charge.
 
-After the 10-minute grace period, a **late pickup fee of $20 for every additional 10 minutes, or any portion thereof, per child** will apply.
+After the 10-minute grace period, a **late pickup fee of $20 for every additional 10 minutes, or any portion thereof** will apply.
 
 Examples:
 
@@ -31,7 +31,7 @@ Extended care:
 
 * Must be requested **at least 24 hours in advance**
 * Is subject to **staff availability and school approval**
-* Is charged at **$25 per 30 minutes, or any portion thereof, per child**
+* Is charged at **$25 per 30 minutes, or any portion thereof**
 * Is not guaranteed until approved by the school
 
 Examples:
