@@ -46,6 +46,10 @@ Students normally begin with Italian as a New Language 1-2 (INL 1-2) or Italian 
 
 See [the dedicated page for details on payment methods, cancellation policy, the 8-payment option, and sibling discount]({{< relref "tuition-payment.md" >}}).
 
+## Pickup times and late pickup {#late-pickup}
+
+Children are expected to be picked up promptly at the scheduled end of class. A 10-minute grace period is free, after which a late pickup fee applies, and families who need a later pickup can request pre-arranged extended care at least 24 hours in advance. [Read our late pickup and extended care policy]({{< relref "late-pickup-policy.md" >}}).
+
 ## Background checks for instructors working with minors {#background-checks}
 
 Employees assigned to teach or supervise minors follow our criminal-background-screening policy. A class paid privately and an assignment performed through a charter school or another educational agency can have different clearance requirements. [Read our background check policy]({{< relref "background-check-policy.md" >}}).

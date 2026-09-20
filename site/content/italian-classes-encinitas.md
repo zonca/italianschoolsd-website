@@ -54,6 +54,10 @@ Each class is kept small, between 5 and 10 students. No previous knowledge of It
 * February 15, 2027 (Presidents Day)
 * March 29, 2027 (spring break)
 
+## Pickup times and late pickup {#late-pickup}
+
+Children are expected to be picked up promptly at the scheduled end of class. A 10-minute grace period is free, after which a late pickup fee applies, and families who need a later pickup can request pre-arranged extended care at least 24 hours in advance. [Read our late pickup and extended care policy]({{< relref "late-pickup-policy.md" >}}).
+
 ## Where we meet {#location}
 
 **San Dieguito United Methodist Church**

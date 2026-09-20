@@ -29,6 +29,10 @@ Enrollments are open all year, pending availability. Please [contact us]({{< rel
 * Late enrollment tuition is **10% higher** than the regular tuition for that class.
 * We will send a pro-rated invoice based on the remaining classes. You can choose to pay in full or use the 8-payment plan (which includes the 20% administrative fee).
 
+## Pickup times and late pickup {#late-pickup}
+
+Children are expected to be picked up promptly at the scheduled end of class. A 10-minute grace period is free, after which a late pickup fee applies, and families who need a later pickup can request pre-arranged extended care at least 24 hours in advance. [Read our late pickup and extended care policy]({{< relref "late-pickup-policy.md" >}}).
+
 ## Cancellation Policies {#cancellation}
 Refund requests must be sent via email to `admin@italianschoolsd.com`.
 
