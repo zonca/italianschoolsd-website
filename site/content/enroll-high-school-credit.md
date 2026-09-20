@@ -1,16 +1,16 @@
 ---
-title: Pre-enrollment 2026-2027 for high school credit classes
+title: Enrollment 2026-2027 for high school credit classes
 image: /img/lastsupper.jpg
-subtitle: Pre-enroll for high school credit classes for the academic year 2026-2027
+subtitle: Enroll in high school credit classes for the academic year 2026-2027
 aliases:
     - /enroll-accredited
 ---
 
-See [more information about the high school credit classes]({{< relref "high-school-credit-classes.md" >}}) before pre-enrolling, and be sure to follow the instructions on that page to notify your high school counselor so credits are properly recognized.
+Late enrollment for the 2026-2027 high school credit classes is open, pending availability. See [more information about the high school credit classes]({{< relref "high-school-credit-classes.md" >}}), and be sure to follow the instructions on that page to notify your high school counselor so credits are properly recognized.
 
-> **Academic Year 2026-2027 Schedule:** Fixed-schedule credit classes start August 26 and 27. Almost all class sections are finalized and confirmed. Late pre-enrollment is open through **August 25, 2026**. [Read the schedule announcement]({{< ref "news/academic-year-starts-august-26-finalized-schedule.md" >}}).
+> **Academic year 2026-2027 schedule:** Fixed-schedule credit classes began August 26 and 27. Students may join during the academic year when a suitable class has space. [Read the schedule announcement]({{< ref "news/academic-year-starts-august-26-finalized-schedule.md" >}}).
 
-We have openings in every program and age group. Please pre-enroll by **August 25, 2026** to secure a spot. No payment is required at the time of pre-enrollment. We will email you a confirmation with all class details after pre-enrollment closes.
+Submit the pre-enrollment form so we can confirm that a class has space and fits the student's level. No payment is required at the time of pre-enrollment. We will email you a confirmation with the class and prorated tuition details.
 
 To finalize your enrollment, you must pay the invoice attached to the confirmation email within **1 week** after receiving the payment email. Pre-enrollment is not binding until payment is received.
 
@@ -32,11 +32,17 @@ Legacy students who have been enrolled in Italian School for 4 years receive an 
 
 We recommend paying via [**Zelle**]({{< relref "zelle.md" >}}) to avoid credit card fees.
 
-## Materials Fee {#materials}
+## Late enrollment pricing {#late-enrollment}
+
+Late enrollment tuition is prorated based on the number of classes remaining and is **10% higher** than the regular tuition for the class. We will provide the exact prorated amount after confirming placement and availability.
+
+See the [late enrollment policy]({{< relref "tuition-payment.md#late-enrollments" >}}) for payment-plan details.
+
+## Materials fee {#materials}
 
 There is an additional $150 materials fee for all in-person classes. This helps cover classroom supplies, photocopies, internet, utilities, and the cost of maintaining our school space. **Books are not included in this fee.** The fee does not apply to online classes.
 
-## Curriculum Alignment Fee {#alignment-fee}
+## Curriculum alignment fee {#alignment-fee}
 
 Students normally begin with Italian as a New Language 1-2 (INL 1-2) or Italian for Italian Speakers 1-2 (ITA 1-2). Students with prior Italian study or strong Italian fluency may request a free placement evaluation for direct enrollment into a higher level. Because direct-entry students often need curriculum alignment support for prerequisite material not completed with our program, students who enroll directly into higher levels pay a one-time curriculum alignment fee:
 
