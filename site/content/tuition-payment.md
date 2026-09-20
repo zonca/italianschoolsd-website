@@ -6,6 +6,12 @@ subtitle: Details about paying for tuition for Italian classes
 
 Tuition payment is due in 1 payment by the deadline listed on the enrollment page, unless you opt for the monthly plan.
 
+## Late enrollments {#late-enrollments}
+
+> **Late enrollment tuition is prorated based on the number of classes remaining and is 10% higher than the regular tuition for the class.**
+
+Enrollments are open all year, pending availability. Please [contact us]({{< relref "contact.md" >}}) first to check availability and ensure the class fits your child's age and level. We will send an invoice with the exact prorated amount. You can pay in full or use the 8-payment plan, which includes the 20% administrative fee.
+
 ## Payment methods {#payment-method}
 
 The preferred payment method is [**Zelle** (free and supported by most US banks)]({{< relref "zelle.md" >}}). We also accept checks and credit cards. 
@@ -23,11 +29,6 @@ The 8-payment plan allows you to pay in multiple installments while still commit
 
 ### Sibling discount {#sibling-discount}
 The first additional family member enrolled receives a 10% discount, the second a 15% discount, and so on (discounts are cumulative). For families with kids in both the high school credit classes and the other classes, the higher discount applies to the lower tuition.
-
-### Late enrollments {#late-enrollments}
-Enrollments are open all year, pending availability. Please [contact us]({{< relref "contact.md" >}}) first to check availability and ensure the class fits your child's age and level.
-* Late enrollment tuition is **10% higher** than the regular tuition for that class.
-* We will send a pro-rated invoice based on the remaining classes. You can choose to pay in full or use the 8-payment plan (which includes the 20% administrative fee).
 
 ## Pickup times and late pickup {#late-pickup}
 

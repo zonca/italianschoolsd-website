@@ -1,14 +1,20 @@
 ---
-title: Enrollment 2026-2027 for high school credit classes
+title: Late enrollment for high school credit classes
 image: /img/lastsupper.jpg
-subtitle: Enroll in high school credit classes for the academic year 2026-2027
+subtitle: Availability and tuition for the academic year 2026-2027
 aliases:
     - /enroll-accredited
 ---
 
 Late enrollment for the 2026-2027 high school credit classes is open, pending availability. See [more information about the high school credit classes]({{< relref "high-school-credit-classes.md" >}}), and be sure to follow the instructions on that page to notify your high school counselor so credits are properly recognized.
 
-> **Academic year 2026-2027 schedule:** Fixed-schedule credit classes began August 26 and 27. Students may join during the academic year when a suitable class has space. [Read the schedule announcement]({{< ref "news/academic-year-starts-august-26-finalized-schedule.md" >}}).
+## Late enrollment pricing {#late-enrollment}
+
+> **Late enrollment tuition is prorated based on the number of classes remaining and is 10% higher than the regular tuition for the class.**
+
+We will provide the exact prorated amount after confirming placement and availability. See the [late enrollment policy]({{< relref "tuition-payment.md#late-enrollments" >}}) for payment-plan details.
+
+Fixed-schedule credit classes began August 26 and 27. Students may join during the academic year when a suitable class has space. [Read the schedule announcement]({{< ref "news/academic-year-starts-august-26-finalized-schedule.md" >}}).
 
 Submit the pre-enrollment form so we can confirm that a class has space and fits the student's level. No payment is required at the time of pre-enrollment. We will email you a confirmation with the class and prorated tuition details.
 
@@ -31,12 +37,6 @@ Legacy students who have been enrolled in Italian School for 4 years receive an 
 **$2,180**
 
 We recommend paying via [**Zelle**]({{< relref "zelle.md" >}}) to avoid credit card fees.
-
-## Late enrollment pricing {#late-enrollment}
-
-Late enrollment tuition is prorated based on the number of classes remaining and is **10% higher** than the regular tuition for the class. We will provide the exact prorated amount after confirming placement and availability.
-
-See the [late enrollment policy]({{< relref "tuition-payment.md#late-enrollments" >}}) for payment-plan details.
 
 ## Materials fee {#materials}
 

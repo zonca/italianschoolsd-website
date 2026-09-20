@@ -1,13 +1,19 @@
 ---
-title: Enrollment for kids classes (TK-6)
+title: Late enrollment for kids classes (TK-6)
 image: /img/lastsupper.jpg
-subtitle: Enroll in classes for the academic year 2026-2027
+subtitle: Availability and tuition for the academic year 2026-2027
 ---
 
 Late enrollment for the 2026-2027 kids classes is open, pending availability.
 See more information about [all the classes we offer]({{< relref "classes.md" >}}) before enrolling.
 
-> **Academic year 2026-2027 schedule:** Afternoon classes began August 26 and 27, and the homeschool morning program began September 2. Students may join during the academic year when a suitable class has space. [Read the schedule announcement]({{< ref "news/academic-year-starts-august-26-finalized-schedule.md" >}}).
+## Late enrollment pricing {#late-enrollment}
+
+> **Late enrollment tuition is prorated based on the number of classes remaining and is 10% higher than the regular tuition for the class.**
+
+We will provide the exact prorated amount after confirming placement and availability. See the [late enrollment policy]({{< relref "tuition-payment.md#late-enrollments" >}}) for payment-plan details.
+
+Afternoon classes began August 26 and 27, and the homeschool morning program began September 2. Students may join during the academic year when a suitable class has space. [Read the schedule announcement]({{< ref "news/academic-year-starts-august-26-finalized-schedule.md" >}}).
 
 Submit the pre-enrollment form so we can confirm that a class has space and fits your child's age and Italian level.
 
@@ -28,12 +34,6 @@ Tuition for 9 months of instruction:
 **$1,656** (families enrolled with us for 2 or more years)
 
 We recommend paying via [**Zelle**]({{< relref "zelle.md" >}}) to avoid credit card fees.
-
-## Late enrollment pricing {#late-enrollment}
-
-Late enrollment tuition is prorated based on the number of classes remaining and is **10% higher** than the regular tuition for the class. We will provide the exact prorated amount after confirming placement and availability.
-
-See the [late enrollment policy]({{< relref "tuition-payment.md#late-enrollments" >}}) for payment-plan details.
 
 ## Materials fee {#materials}
 
