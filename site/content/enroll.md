@@ -1,23 +1,29 @@
 ---
-title: Pre-enrollment for kids classes (TK-6)
+title: Late enrollment for kids classes (TK-6)
 image: /img/lastsupper.jpg
-subtitle: Pre-enroll for classes for the academic year 2026-2027
+subtitle: Availability and tuition for the academic year 2026-2027
 ---
 
-Enrollment for the 2026-2027 kids classes is open.
-See more information about [all the classes we offer]({{< relref "classes.md" >}}) before pre-enrolling.
+Late enrollment for the 2026-2027 kids classes is open, pending availability.
+See more information about [all the classes we offer]({{< relref "classes.md" >}}) before enrolling.
 
-> **Academic Year 2026-2027 Schedule:** Afternoon classes start August 26 and 27, and the homeschool morning program starts September 2. Almost all class sections are finalized and confirmed. Late pre-enrollment is open through **August 25, 2026**. [Read the schedule announcement]({{< ref "news/academic-year-starts-august-26-finalized-schedule.md" >}}).
+## Late enrollment pricing {#late-enrollment}
 
-We have openings in every program and age group. Please pre-enroll by **August 25, 2026** for the Kearny Mesa classes. The new [Encinitas Monday class](/italian-classes-encinitas/) starts later, on September 14, and pre-enrollment remains open through its first class, subject to availability.
+> **Late enrollment tuition is prorated based on the number of classes remaining and is 10% higher than the regular tuition for the class.**
 
-No payment is needed at the time of pre-enrollment. We will email you a confirmation of pre-enrollment with the proposed class and tuition details. To finalize enrollment, you will need to pay the invoice attached to the confirmation email within **1 week** after receiving the payment email. Pre-enrollment itself is not binding.
+We will provide the exact prorated amount after confirming placement and availability. See the [late enrollment policy]({{< relref "tuition-payment.md#late-enrollments" >}}) for payment-plan details.
+
+Afternoon classes began August 26 and 27, and the homeschool morning program began September 2. Students may join during the academic year when a suitable class has space. [Read the schedule announcement]({{< ref "news/academic-year-starts-august-26-finalized-schedule.md" >}}).
+
+Submit the pre-enrollment form so we can confirm that a class has space and fits your child's age and Italian level.
+
+No payment is needed at the time of pre-enrollment. We will email you a confirmation with the proposed class and prorated tuition details. To finalize enrollment, you will need to pay the invoice attached to the confirmation email within **1 week** after receiving the payment email. Pre-enrollment itself is not binding.
 
 Questions before you enroll? Call us at **(619) 800-0797** or [send us a message]({{< relref "contact.md" >}}).
 
-Enrolling in our new **Encinitas** Monday class? The tuition below applies to the Kearny Mesa classes. The North County year is 29 classes instead of 33, so it has [its own tuition table](/italian-classes-encinitas/#tuition).
+Enrolling in our **Encinitas** Monday class? The tuition below applies to the Kearny Mesa classes. The North County year is 29 classes instead of 33, so it has [its own tuition table](/italian-classes-encinitas/#tuition).
 
-## Tuition for In-Person 2-Hour Kids Classes {#tuition}
+## Tuition for in-person 2-hour kids classes {#tuition}
 
 Tuition for 9 months of instruction:
 
@@ -29,7 +35,7 @@ Tuition for 9 months of instruction:
 
 We recommend paying via [**Zelle**]({{< relref "zelle.md" >}}) to avoid credit card fees.
 
-## Materials Fee {#materials}
+## Materials fee {#materials}
 
 We charge an additional **$150 materials fee** for all kids joining in-person classes. This helps cover classroom supplies, photocopies, internet, utilities, and the cost of maintaining our school space. **Books are not included in this fee.**
 
