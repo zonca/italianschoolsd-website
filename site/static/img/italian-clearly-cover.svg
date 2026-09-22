@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="2560" viewBox="0 0 1600 2560" role="img" aria-labelledby="title desc">
+  <title id="title">Italian, Clearly book cover</title>
+  <desc id="desc">A clean green, cream, and red cover with a speech bubble and grammar table motif.</desc>
+  <rect width="1600" height="2560" fill="#f7f1df"/>
+  <rect width="1600" height="92" y="0" fill="#287b6d"/>
+  <rect width="1600" height="92" y="2468" fill="#a33b36"/>
+  <circle cx="800" cy="640" r="390" fill="#ffffff" stroke="#287b6d" stroke-width="28"/>
+  <path d="M560 885 L470 1080 L720 940" fill="#ffffff" stroke="#287b6d" stroke-width="28" stroke-linejoin="round"/>
+  <g font-family="DejaVu Sans, sans-serif" text-anchor="middle" fill="#1f2927">
+    <text x="800" y="570" font-size="125" font-weight="700">ITALIAN,</text>
+    <text x="800" y="715" font-size="125" font-weight="700" fill="#287b6d">CLEARLY</text>
+    <text x="800" y="1260" font-size="55" font-weight="600">A VISUAL GRAMMAR CHEAT SHEET</text>
+    <text x="800" y="1335" font-size="55" font-weight="600">FOR ENGLISH SPEAKERS</text>
+  </g>
+  <g transform="translate(260 1530)" font-family="DejaVu Sans, sans-serif" font-size="43">
+    <rect width="1080" height="420" rx="24" fill="#ffffff" stroke="#1f2927" stroke-width="7"/>
+    <path d="M0 105 H1080 M0 210 H1080 M0 315 H1080 M360 0 V420 M720 0 V420" stroke="#777" stroke-width="4"/>
+    <g text-anchor="middle" dominant-baseline="middle">
+      <text x="180" y="55" font-weight="700">PATTERN</text>
+      <text x="540" y="55" font-weight="700">EXAMPLE</text>
+      <text x="900" y="55" font-weight="700">MEANING</text>
+      <text x="180" y="158">-o → -i</text>
+      <text x="540" y="158" font-style="italic">libro → libri</text>
+      <text x="900" y="158">book → books</text>
+      <text x="180" y="263">-a → -e</text>
+      <text x="540" y="263" font-style="italic">casa → case</text>
+      <text x="900" y="263">house → houses</text>
+      <text x="180" y="368">-e → -i</text>
+      <text x="540" y="368" font-style="italic">notte → notti</text>
+      <text x="900" y="368">night → nights</text>
+    </g>
+  </g>
+  <text x="800" y="2240" font-family="DejaVu Sans, sans-serif" font-size="48" font-weight="700" text-anchor="middle" fill="#1f2927">Italian school of San Diego LLC</text>
+</svg>
