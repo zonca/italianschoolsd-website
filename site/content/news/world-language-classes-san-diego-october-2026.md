@@ -1,5 +1,5 @@
 ---
-title: "World language classes in San Diego: October-December 2026"
+title: "German, Spanish, and English classes for adults in San Diego: October-December 2026"
 date: 2026-09-24
 url: "/news/2026/09/world-language-classes-san-diego-october-2026/"
 aliases:
