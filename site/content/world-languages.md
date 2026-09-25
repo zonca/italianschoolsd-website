@@ -20,11 +20,33 @@ The beginner class builds a practical foundation in German through conversation,
 
 ## Spanish {#spanish}
 
-The beginner Spanish class is designed for adults with little or no prior knowledge of Spanish, with a focus on everyday conversation and practical communication. [Read more about our Spanish classes](/spanish-classes-san-diego/).
+The beginner Spanish class is designed for adults with little or no prior knowledge of Spanish, with a focus on everyday conversation and practical communication. It meets in person on Tuesday evenings in Kearny Mesa, in 90-minute classes.
+
+The class is taught by a native Spanish speaker from Mexico with a master's degree in modern languages and a bachelor's degree in language teaching, who has taught languages from elementary school to university and currently teaches adults in San Diego.
+
+You will practice:
+
+- Everyday conversation and pronunciation
+- Essential vocabulary and expressions
+- Listening comprehension
+- Reading and writing at the beginner level
+- Foundational grammar used in practical situations
+
+[Read more about our Spanish classes](/spanish-classes-san-diego/).
 
 ## English for Spanish-speaking adults {#english}
 
-Una clase de inglés para adultos hispanohablantes principiantes, centrada en la conversación y la comunicación cotidiana. [Más información sobre las clases de inglés](/clases-de-ingles-para-adultos-san-diego/).
+Una clase de inglés para adultos hispanohablantes principiantes, centrada en la conversación y la comunicación cotidiana. Aprenderás junto con otros adultos que hablan español, en un ambiente acogedor y estructurado. La clase se reúne en persona los martes por la tarde en Kearny Mesa, en sesiones de 90 minutos.
+
+Practicarás:
+
+- Conversación y pronunciación para situaciones cotidianas
+- Vocabulario y expresiones esenciales
+- Comprensión auditiva
+- Lectura y escritura para principiantes
+- Gramática fundamental aplicada a situaciones prácticas
+
+[Más información sobre las clases de inglés](/clases-de-ingles-para-adultos-san-diego/).
 
 ## Private lessons {#private-classes}
 
