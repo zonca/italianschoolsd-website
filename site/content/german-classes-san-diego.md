@@ -8,7 +8,7 @@ Learn German in a welcoming, structured class designed for adult beginners. Thro
 
 ## Beginner group class {#beginner-class}
 
-The group class meets in person on Tuesday evenings at [4550 Kearny Villa Rd, Suite 202, San Diego](/location/), in 90-minute classes. It is designed for adults with little or no prior knowledge of German. The curriculum is developed with the support of German Pacific School San Diego, a San Diego nonprofit founded in 2013 that taught German to children and adults for about ten years. Read more on our [World Languages program](/world-languages/#german) page.
+The group class meets in person on Tuesday evenings at [4550 Kearny Villa Rd, Suite 202, San Diego](/location/), in 90-minute classes. It is designed for adults with little or no prior knowledge of German. The curriculum is developed with the support of the German Pacific School San Diego, a nonprofit language and cultural school founded in 2013 to teach German to children, teens, and adults across San Diego. Read more on our [World Languages program](/world-languages/#german) page.
 
 <div class="tc"><a href="/news/2026/09/world-language-classes-san-diego-october-2026/#german" class="btn raise">Current dates, tuition, and enrollment</a></div>
 
