@@ -6,18 +6,11 @@ image: /img/world-languages/german-classes-san-diego.webp
 
 Learn German in a welcoming, structured class designed for adult beginners. Through guided conversation and skill-building activities, you will develop a practical foundation in speaking, listening, reading, writing, vocabulary, and grammar.
 
-## Fall 2026 beginner class {#fall-2026}
+## Beginner group class {#beginner-class}
 
-- **Day and time:** Tuesdays, 6:00 PM-7:30 PM
-- **Dates:** September 15-December 8, 2026
-- **No class:** November 24
-- **Length:** 12 classes, 90 minutes each
-- **Location:** [4550 Kearny Villa Rd, Suite 202, San Diego](/location/)
-- **Tuition:** $432 in full or four monthly payments of $118.80
+The group class meets in person on Tuesday evenings at [4550 Kearny Villa Rd, Suite 202, San Diego](/location/), in 90-minute classes. It is designed for adults with little or no prior knowledge of German. The curriculum is developed with the support of German Pacific School San Diego, a San Diego nonprofit founded in 2013 that taught German to children and adults for about ten years. Read more on our [World Languages program](/world-languages/#german) page.
 
-This course is designed for adults with little or no prior knowledge of German. We will share textbook information before the first class.
-
-<div class="tc"><a href="/news/2026/08/world-language-classes-san-diego-fall-2026/#german" class="btn raise">View details and enroll</a></div>
+<div class="tc"><a href="/news/2026/09/world-language-classes-san-diego-october-2026/#german" class="btn raise">Current dates, tuition, and enrollment</a></div>
 
 ## What you will practice {#course-content}
 
@@ -27,8 +20,8 @@ This course is designed for adults with little or no prior knowledge of German. 
 - Reading and writing at the beginner level
 - Foundational grammar used in practical situations
 
-## Instructor experience {#instructor}
+## Private German lessons {#private-lessons}
 
-German is not the course instructor's native language. She is a native Spanish speaker and a multilingual educator with more than ten years of language-teaching experience with children and adults, including interactive lesson planning, practical language use, and cross-cultural communication.
+We also offer private German lessons online, in person at our school in Kearny Mesa, or in person at other locations around San Diego. [Contact us](/contact/) with your goals and schedule.
 
 Questions about the course? [Contact us](/contact/) and we will help you decide whether it is a good fit.

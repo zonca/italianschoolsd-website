@@ -6,18 +6,11 @@ image: /img/world-languages/english-classes-spanish-speakers-san-diego.webp
 
 Aprende inglés en un ambiente acogedor y estructurado, junto con otros adultos hispanohablantes. Este curso presencial para principiantes te ayudará a comunicarte con más confianza mediante actividades de conversación, comprensión auditiva, vocabulario, lectura, escritura y gramática práctica.
 
-## Curso para principiantes, otoño de 2026 {#otono-2026}
+## Clase grupal para principiantes {#clase-principiantes}
 
-- **Día y horario:** martes, 6:00 PM-7:30 PM
-- **Fechas:** 15 de septiembre-8 de diciembre de 2026
-- **No hay clase:** 24 de noviembre
-- **Duración:** 12 clases de 90 minutos
-- **Lugar:** [4550 Kearny Villa Rd, Suite 202, San Diego](/location/)
-- **Matrícula:** $432 en un solo pago o cuatro pagos mensuales de $118.80
+La clase se reúne en persona los martes por la tarde en [4550 Kearny Villa Rd, Suite 202, San Diego](/location/), en sesiones de 90 minutos. Está dirigida a adultos con poco o ningún conocimiento previo de inglés. Forma parte de nuestro [programa World Languages](/world-languages/).
 
-Este curso está dirigido a adultos con poco o ningún conocimiento previo de inglés. Compartiremos la información sobre el libro de texto antes de la primera clase.
-
-<div class="tc"><a href="/news/2026/08/world-language-classes-san-diego-fall-2026/#english" class="btn raise">Ver detalles e inscribirse</a></div>
+<div class="tc"><a href="/news/2026/09/world-language-classes-san-diego-october-2026/#english" class="btn raise">Fechas, precios e inscripción</a></div>
 
 ## Lo que practicarás {#contenido-del-curso}
 
@@ -27,8 +20,8 @@ Este curso está dirigido a adultos con poco o ningún conocimiento previo de in
 - Lectura y escritura para principiantes
 - Gramática fundamental aplicada a situaciones prácticas
 
-## Experiencia docente {#experiencia-docente}
+## Clases privadas de inglés {#clases-privadas}
 
-El inglés no es la lengua materna de la instructora. Es hablante nativa de español y cuenta con más de ocho años de experiencia enseñando idiomas a jóvenes y personas adultas, una maestría en lenguas modernas, una licenciatura en enseñanza de idiomas y certificación de inglés de nivel C1.
+También ofrecemos clases privadas de inglés en línea, en persona en nuestra escuela de Kearny Mesa o en persona en otros lugares de San Diego. [Contáctanos](/contact/) con tus objetivos y horarios.
 
 ¿Tienes preguntas sobre el curso? [Contáctanos](/contact/) y te ayudaremos a decidir si es adecuado para ti.

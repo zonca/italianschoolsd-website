@@ -6,18 +6,11 @@ image: /img/world-languages/spanish-classes-san-diego.webp
 
 Learn Spanish in a welcoming, structured class designed for adult beginners. Through guided conversation and skill-building activities, you will develop a practical foundation in speaking, listening, reading, writing, vocabulary, and grammar.
 
-## Fall 2026 beginner class {#fall-2026}
+## Beginner group class {#beginner-class}
 
-- **Day and time:** Tuesdays, 6:00 PM-7:30 PM
-- **Dates:** September 15-December 8, 2026
-- **No class:** November 24
-- **Length:** 12 classes, 90 minutes each
-- **Location:** [4550 Kearny Villa Rd, Suite 202, San Diego](/location/)
-- **Tuition:** $432 in full or four monthly payments of $118.80
+The group class meets in person on Tuesday evenings at [4550 Kearny Villa Rd, Suite 202, San Diego](/location/), in 90-minute classes. It is designed for adults with little or no prior knowledge of Spanish. It is part of our [World Languages program](/world-languages/).
 
-This course is designed for adults with little or no prior knowledge of Spanish. We will share textbook information before the first class.
-
-<div class="tc"><a href="/news/2026/08/world-language-classes-san-diego-fall-2026/#spanish" class="btn raise">View details and enroll</a></div>
+<div class="tc"><a href="/news/2026/09/world-language-classes-san-diego-october-2026/#spanish" class="btn raise">Current dates, tuition, and enrollment</a></div>
 
 ## What you will practice {#course-content}
 
@@ -27,8 +20,8 @@ This course is designed for adults with little or no prior knowledge of Spanish.
 - Reading and writing at the beginner level
 - Foundational grammar used in practical situations
 
-## Instructor experience {#instructor}
+## Private Spanish lessons {#private-lessons}
 
-Spanish is the course instructor's native language. She brings more than five years of experience teaching Spanish and English as a Second Language (ESL) to adults, with a focus on practical communication and supporting beginner learners.
+We also offer private Spanish lessons online, in person at our school in Kearny Mesa, or in person at other locations around San Diego. See [private Spanish classes](/spanish-private-classes/).
 
 Questions about the course? [Contact us](/contact/) and we will help you decide whether it is a good fit.

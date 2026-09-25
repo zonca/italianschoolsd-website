@@ -32,8 +32,8 @@ products2:
       link: /italian-classes-encinitas/
     - image: /img/illustrations-tutorials.svg
       title: "World languages for adults"
-      text: "In-person beginner Spanish, German, and English classes for adults on Tuesday evenings in Kearny Mesa."
-      link: /news/2026/08/world-language-classes-san-diego-fall-2026/
+      text: "In-person beginner German, Spanish, and English classes for adults on Tuesday evenings in Kearny Mesa, starting October 13, 2026. Private lessons online or in person."
+      link: /world-languages/
 values:
     heading: About
     text: Our instructors are native Italian speakers who bring experience, warmth, and high standards to every class. Led by Director and CEO Maura D'Andrea (founder, 2021), we focus on an authentic, engaging learning experience for kids, teens, and adults.
