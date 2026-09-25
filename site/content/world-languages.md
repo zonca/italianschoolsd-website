@@ -6,7 +6,7 @@ image: /img/world-languages/german-classes-san-diego.webp
 
 The Italian school of San Diego has taught Italian to children, teens, and adults since 2021. With the World Languages program, we open our Kearny Mesa classrooms to more languages for adult learners: German, Spanish, and English for Spanish-speaking adults.
 
-Group classes are in person, in small groups, and start at the beginner level. We launch new classes three times a year, in September, January, and June.
+Group classes are in person, in small groups, meet once a week for 90 minutes, and start at the beginner level. We launch new classes three times a year, in September, January, and June.
 
 <div class="tc"><a href="/news/2026/09/world-language-classes-san-diego-october-2026/" class="btn raise">Current classes, dates, and enrollment</a></div>
 
