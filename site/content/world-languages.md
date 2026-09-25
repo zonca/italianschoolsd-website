@@ -16,7 +16,7 @@ The Italian school of San Diego has taught Italian to children, teens, and adult
 
 Dates, tuition, and enrollment for the current classes are always in our latest news post.
 
-<div class="tc"><a href="/news/2026/09/world-language-classes-san-diego-october-2026/" class="btn raise">Current classes, dates, and enrollment</a></div>
+<div class="tc"><a href="/news/2026/09/german-spanish-english-classes-adults-san-diego-october-2026/" class="btn raise">Current classes, dates, and enrollment</a></div>
 
 ## Our languages {#languages}
 

@@ -165,7 +165,7 @@ test('World Languages classes support full payment and three monthly payments', 
   assert.equal(params.get('line_items[0][price_data][unit_amount]'), '38000');
   assert.equal(
     params.get('success_url'),
-    `${ORIGIN}/news/2026/09/world-language-classes-san-diego-october-2026/?checkout=success#spanish`
+    `${ORIGIN}/news/2026/09/german-spanish-english-classes-adults-san-diego-october-2026/?checkout=success#spanish`
   );
   const monthlyParams = _test.buildCheckoutParams({
     selectedClass: spanish,
