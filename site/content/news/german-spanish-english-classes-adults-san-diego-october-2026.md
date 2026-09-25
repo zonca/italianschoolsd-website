@@ -4,7 +4,6 @@ date: 2026-09-24
 url: "/news/2026/09/german-spanish-english-classes-adults-san-diego-october-2026/"
 aliases:
     - /news/2026/08/world-language-classes-san-diego-fall-2026/
-    - /news/2026/09/world-language-classes-san-diego-october-2026/
 weight: 1
 description: Enrollment for in-person beginner German, Spanish, and English classes for adults on Tuesday evenings in Kearny Mesa, October 13 to December 15, 2026.
 ---
