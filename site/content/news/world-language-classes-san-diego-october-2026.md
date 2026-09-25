@@ -12,7 +12,7 @@ Our [World Languages program](/world-languages/) starts on **Tuesday, October 13
 
 All three classes meet **Tuesdays from 6:00 PM to 7:30 PM**, October 13-December 15, 2026, with no class on November 24. Each course includes ten 90-minute classes. Tuition is $380 in full or three monthly payments of $139.40.
 
-The German class needs at least three paid enrollments, and the Spanish and English classes need at least five, by noon on October 6. If a class does not reach its minimum, the school will cancel that class and issue full refunds.
+Enroll by October 8, 2026.
 
 ## Beginner German for adults {#german}
 
@@ -23,6 +23,7 @@ Build a practical foundation in German through conversation, listening, vocabula
 - **No class:** November 24
 - **Location:** [4550 Kearny Villa Rd, Suite 202, San Diego](/location/)
 - **Tuition:** $380 in full or three monthly payments of $139.40
+- **Enroll by:** October 8, 2026
 - **Textbook:** Details will be provided before the first class
 
 {{< stripe-checkout class="oct-2026-tue-german-beg" full="380" monthly="139.40" installments="3" >}}
@@ -40,6 +41,7 @@ Build a practical foundation in Spanish through conversation, listening, vocabul
 - **No class:** November 24
 - **Location:** [4550 Kearny Villa Rd, Suite 202, San Diego](/location/)
 - **Tuition:** $380 in full or three monthly payments of $139.40
+- **Enroll by:** October 8, 2026
 - **Textbook:** Details will be provided before the first class
 
 {{< stripe-checkout class="oct-2026-tue-spanish-beg" full="380" monthly="139.40" installments="3" >}}
@@ -57,6 +59,7 @@ Desarrolla una base práctica de inglés mediante conversación, comprensión au
 - **No hay clase:** 24 de noviembre
 - **Lugar:** [4550 Kearny Villa Rd, Suite 202, San Diego](/location/)
 - **Matrícula:** $380 en un solo pago o tres pagos mensuales de $139.40
+- **Inscripción hasta:** 8 de octubre de 2026
 - **Libro de texto:** La información se proporcionará antes de la primera clase
 
 {{< stripe-checkout class="oct-2026-tue-english-spanish" full="380" monthly="139.40" installments="3" >}}
@@ -69,7 +72,6 @@ Más información en la página de [Clases de inglés para adultos en San Diego]
 
 - **Family discount:** For full-payment enrollment in the same class, the first student pays full tuition and each additional student from the same family receives 10% off automatically.
 - **Monthly plan:** The three-payment plan costs $418.20 total (three payments of $139.40), including a 10% administrative fee. It covers one student per checkout and requires all three payments.
-- **School cancellation:** If a class does not reach its minimum number of paid students by October 6, the school will cancel that class and issue a full refund.
 - **Student cancellations:** Full refund if canceled at least 15 days before the first class; 50% refund after that deadline but before the second class; no refunds after the second class begins.
 
 Questions? [Contact us](/contact/) and we will be happy to help.
