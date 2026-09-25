@@ -2,6 +2,8 @@
 title: "In-person adult Spanish classes in San Diego"
 description: In-person beginner Spanish classes for adults in Kearny Mesa, San Diego, focused on conversation and practical communication.
 image: /img/world-languages/spanish-classes-san-diego.webp
+aliases:
+    - /spanish-adults/
 ---
 
 Learn Spanish in a welcoming, structured class designed for adult beginners. Through guided conversation and skill-building activities, you will develop a practical foundation in speaking, listening, reading, writing, vocabulary, and grammar.

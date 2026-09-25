@@ -2,6 +2,8 @@
 title: "In-person adult German classes in San Diego"
 description: In-person beginner German classes for adults in Kearny Mesa, San Diego, focused on conversation and practical communication.
 image: /img/world-languages/german-classes-san-diego.webp
+aliases:
+    - /german/
 ---
 
 Learn German in a welcoming, structured class designed for adult beginners. Through guided conversation and skill-building activities, you will develop a practical foundation in speaking, listening, reading, writing, vocabulary, and grammar.

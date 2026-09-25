@@ -2,6 +2,8 @@
 title: "Clases presenciales de inglés para adultos hispanohablantes en San Diego"
 description: Clases presenciales de inglés para adultos hispanohablantes en Kearny Mesa, San Diego, centradas en la conversación y la comunicación cotidiana.
 image: /img/world-languages/english-classes-spanish-speakers-san-diego.webp
+aliases:
+    - /ingles/
 ---
 
 Aprende inglés en un ambiente acogedor y estructurado, junto con otros adultos hispanohablantes. Este curso presencial para principiantes te ayudará a comunicarte con más confianza mediante actividades de conversación, comprensión auditiva, vocabulario, lectura, escritura y gramática práctica.
