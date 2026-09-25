@@ -12,13 +12,42 @@ La clase se reúne en persona una vez por semana en [4550 Kearny Villa Rd, Suite
 
 <div class="tc"><a href="/news/2026/09/clases-de-ingles-para-adultos-hispanohablantes-octubre-2026/" class="btn raise">Fechas, precios e inscripción</a></div>
 
-## Lo que practicarás {#contenido-del-curso}
+## Lo que aprenderás {#contenido-del-curso}
 
-- Conversación y pronunciación para situaciones cotidianas
-- Vocabulario y expresiones esenciales
-- Comprensión auditiva
-- Lectura y escritura para principiantes
-- Gramática fundamental aplicada a situaciones prácticas
+El curso para principiantes se centra en el inglés que necesitas en situaciones cotidianas. Practicarás cómo:
+
+- Saludar, presentarte y hablar de tu familia, tu trabajo y tus intereses
+- Hacer y responder preguntas sencillas sobre la vida diaria
+- Resolver situaciones cotidianas como pedir comida, hacer compras y pedir indicaciones
+- Entender conversaciones cortas y textos escritos sencillos
+- Escribir mensajes y notas breves
+
+Al mismo tiempo construirás las bases: pronunciación, vocabulario esencial y la gramática básica de las oraciones sencillas.
+
+## Por qué aprender inglés en San Diego {#por-que-ingles}
+
+- **Trabajo:** comunicarte con clientes, compañeros y jefes, y buscar nuevas oportunidades laborales
+- **Trámites y citas:** hablar con más confianza en el banco, en la oficina y con el médico
+- **Familia:** comunicarte con la escuela de tus hijos y participar en sus actividades
+- **Vida diaria:** hacer compras, usar el transporte y hablar con tus vecinos
+
+## Preguntas frecuentes {#preguntas-frecuentes}
+
+### ¿Necesito saber inglés?
+
+No. La clase para principiantes está dirigida a adultos con poco o ningún conocimiento previo de inglés.
+
+### ¿Cuánto dura cada clase?
+
+90 minutos, una vez por semana, en persona en nuestra escuela de Kearny Mesa.
+
+### ¿Cuándo empiezan las nuevas clases?
+
+Tres veces al año, en septiembre, enero y junio. En la [página del curso actual](/news/2026/09/clases-de-ingles-para-adultos-hispanohablantes-octubre-2026/) encontrarás las fechas exactas, los precios y la inscripción.
+
+### ¿Puedo tomar clases privadas?
+
+Sí, consulta las [clases privadas de inglés](#clases-privadas) más abajo.
 
 ## Clases privadas de inglés {#clases-privadas}
 

@@ -16,13 +16,42 @@ The group class meets in person once a week at [4550 Kearny Villa Rd, Suite 202,
 
 The beginner class is taught by a native Spanish speaker from Mexico with a master's degree in modern languages and a bachelor's degree in language teaching. Our instructor has taught Spanish, English, and French in elementary and middle school, English at the high school and university level, and currently teaches English to adults in San Diego. Our instructor also holds the Cambridge Teaching Knowledge Test, band 3 in all three modules.
 
-## What you will practice {#course-content}
+## What you will learn {#course-content}
 
-- Everyday conversation and pronunciation
-- Essential vocabulary and expressions
-- Listening comprehension
-- Reading and writing at the beginner level
-- Foundational grammar used in practical situations
+The beginner course focuses on the Spanish you need in everyday situations. You will practice how to:
+
+- Greet people, introduce yourself, and talk about your family, work, and interests
+- Ask and answer simple questions about daily life
+- Handle everyday situations such as ordering food, shopping, and asking for directions
+- Understand short spoken exchanges and simple written texts
+- Write short messages and notes
+
+Along the way you build the foundations: pronunciation, essential vocabulary, and the basic grammar behind simple sentences.
+
+## Why learn Spanish in San Diego {#why-spanish}
+
+- **Everyday life:** talk with neighbors, coworkers, and people you meet around town
+- **Work:** communicate with Spanish-speaking customers, patients, students, and colleagues
+- **Travel:** get more out of trips to Mexico, Latin America, and Spain
+- **Family:** connect with Spanish-speaking relatives and in-laws
+
+## Frequently asked questions {#faq}
+
+### Do I need to know any Spanish?
+
+No. The beginner class is designed for adults with little or no prior knowledge of Spanish.
+
+### How long is each class?
+
+90 minutes, once a week, in person at our school in Kearny Mesa.
+
+### When do new classes start?
+
+Three times a year, in September, January, and June. The [current news post](/news/2026/09/world-language-classes-san-diego-october-2026/#spanish) has the exact dates, tuition, and enrollment.
+
+### Can I take private lessons instead?
+
+Yes, see [private Spanish lessons](#private-lessons) below.
 
 ## Private Spanish lessons {#private-lessons}
 
