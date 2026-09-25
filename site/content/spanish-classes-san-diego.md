@@ -12,6 +12,10 @@ The group class meets in person on Tuesday evenings at [4550 Kearny Villa Rd, Su
 
 <div class="tc"><a href="/news/2026/09/world-language-classes-san-diego-october-2026/#spanish" class="btn raise">Current dates, tuition, and enrollment</a></div>
 
+## Your instructor {#instructor}
+
+The beginner class is taught by a native Spanish speaker from Mexico with a master's degree in modern languages and a bachelor's degree in language teaching. Our instructor has taught Spanish, English, and French in elementary and middle school, English at the high school and university level, and currently teaches English to adults in San Diego. Our instructor also holds the Cambridge Teaching Knowledge Test, band 3 in all three modules.
+
 ## What you will practice {#course-content}
 
 - Everyday conversation and pronunciation
