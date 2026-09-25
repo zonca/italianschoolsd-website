@@ -32,12 +32,6 @@ A beginner course for adults who want to speak Spanish in everyday situations, t
 
 Un curso de inglés para adultos hispanohablantes principiantes, junto con otros adultos que hablan español. [Más información sobre las clases de inglés](/clases-de-ingles-para-adultos-san-diego/).
 
-## Who we work with {#collaborations}
-
-<img src="/img/world-languages/german-pacific-school-san-diego-logo.png" alt="German Pacific School San Diego logo" width="84" height="120" loading="lazy">
-
-Our German curriculum is developed with the support of the German Pacific School San Diego, a nonprofit language and cultural school founded in 2013 to teach German to children, teens, and adults across San Diego. [Read more about the German Pacific School San Diego](/german-classes-san-diego/#german-pacific-school).
-
 ## Private lessons {#private-classes}
 
 We also offer private lessons in German, Spanish, and English, scheduled around your goals and availability:
