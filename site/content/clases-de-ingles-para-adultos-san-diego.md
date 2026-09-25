@@ -8,7 +8,7 @@ Aprende inglés en un ambiente acogedor y estructurado, junto con otros adultos 
 
 ## Clase grupal para principiantes {#clase-principiantes}
 
-La clase se reúne en persona los martes por la tarde en [4550 Kearny Villa Rd, Suite 202, San Diego](/location/), en sesiones de 90 minutos. Está dirigida a adultos con poco o ningún conocimiento previo de inglés. Forma parte de nuestro [programa World Languages](/world-languages/).
+La clase se reúne en persona en [4550 Kearny Villa Rd, Suite 202, San Diego](/location/). Está dirigida a adultos con poco o ningún conocimiento previo de inglés. Abrimos nuevas clases tres veces al año, en septiembre, enero y junio. Forma parte de nuestro [programa World Languages](/world-languages/).
 
 <div class="tc"><a href="/news/2026/09/clases-de-ingles-para-adultos-hispanohablantes-octubre-2026/" class="btn raise">Fechas, precios e inscripción</a></div>
 

@@ -6,7 +6,7 @@ image: /img/world-languages/german-classes-san-diego.webp
 
 The Italian school of San Diego has taught Italian to children, teens, and adults since 2021. With the World Languages program, we open our Kearny Mesa classrooms to more languages for adult learners: German, Spanish, and English for Spanish-speaking adults.
 
-Group classes are in person, in small groups, on weekday evenings, and start at the beginner level. The program launches in October 2026.
+Group classes are in person, in small groups, and start at the beginner level. We launch new classes three times a year, in September, January, and June.
 
 <div class="tc"><a href="/news/2026/09/world-language-classes-san-diego-october-2026/" class="btn raise">Current classes, dates, and enrollment</a></div>
 
@@ -20,7 +20,7 @@ The beginner class builds a practical foundation in German through conversation,
 
 ## Spanish {#spanish}
 
-The beginner Spanish class is designed for adults with little or no prior knowledge of Spanish, with a focus on everyday conversation and practical communication. It meets in person on Tuesday evenings in Kearny Mesa, in 90-minute classes.
+The beginner Spanish class is designed for adults with little or no prior knowledge of Spanish, with a focus on everyday conversation and practical communication.
 
 The class is taught by a native Spanish speaker from Mexico with a master's degree in modern languages and a bachelor's degree in language teaching, who has taught languages from elementary school to university and currently teaches adults in San Diego.
 
@@ -36,7 +36,7 @@ You will practice:
 
 ## English for Spanish-speaking adults {#english}
 
-Una clase de inglés para adultos hispanohablantes principiantes, centrada en la conversación y la comunicación cotidiana. Aprenderás junto con otros adultos que hablan español, en un ambiente acogedor y estructurado. La clase se reúne en persona los martes por la tarde en Kearny Mesa, en sesiones de 90 minutos.
+Una clase de inglés para adultos hispanohablantes principiantes, centrada en la conversación y la comunicación cotidiana. Aprenderás junto con otros adultos que hablan español, en un ambiente acogedor y estructurado.
 
 Practicarás:
 
