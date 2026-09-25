@@ -152,7 +152,8 @@ test('World Languages classes support full payment and three monthly payments', 
   assert.equal(english.fullAmount, 38000);
   assert.equal(english.monthlyAmount, 13940);
   assert.equal(english.monthlyInstallments, 3);
-  assert.equal(english.anchor, 'english');
+  assert.equal(english.anchor, 'inscripcion');
+  assert.equal(english.pagePath, '/news/2026/09/clases-de-ingles-para-adultos-hispanohablantes-octubre-2026/');
 
   const params = _test.buildCheckoutParams({
     selectedClass: spanish,

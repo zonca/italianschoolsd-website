@@ -52,19 +52,9 @@ Learn more on the [adult Spanish classes in San Diego](/spanish-classes-san-dieg
 
 ## Clases de inglés para adultos hispanohablantes {#english}
 
-Desarrolla una base práctica de inglés mediante conversación, comprensión auditiva, vocabulario, lectura, escritura y gramática. Esta clase está dirigida a adultos hispanohablantes con poco o ningún conocimiento previo de inglés.
+La clase de inglés para adultos hispanohablantes tiene su propia página en español, con fechas, precios e inscripción.
 
-- **Horario:** martes, 6:00 PM-7:30 PM
-- **Fechas:** 13 de octubre-15 de diciembre de 2026
-- **No hay clase:** 24 de noviembre
-- **Lugar:** [4550 Kearny Villa Rd, Suite 202, San Diego](/location/)
-- **Matrícula:** $380 en un solo pago o tres pagos mensuales de $139.40
-- **Inscripción hasta:** 8 de octubre de 2026
-- **Libro de texto:** La información se proporcionará antes de la primera clase
-
-{{< stripe-checkout class="oct-2026-tue-english-spanish" full="380" monthly="139.40" installments="3" >}}
-
-Más información en la página de [Clases de inglés para adultos en San Diego](/clases-de-ingles-para-adultos-san-diego/).
+<div class="tc"><a href="/news/2026/09/clases-de-ingles-para-adultos-hispanohablantes-octubre-2026/" class="btn raise">Ver detalles e inscribirse</a></div>
 
 ---
 
