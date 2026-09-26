@@ -2,33 +2,57 @@
 title: "Clases presenciales de inglés para adultos hispanohablantes en San Diego"
 description: Clases presenciales de inglés para adultos hispanohablantes en Kearny Mesa, San Diego, centradas en la conversación y la comunicación cotidiana.
 image: /img/world-languages/english-classes-spanish-speakers-san-diego.webp
+aliases:
+    - /ingles/
 ---
 
 Aprende inglés en un ambiente acogedor y estructurado, junto con otros adultos hispanohablantes. Este curso presencial para principiantes te ayudará a comunicarte con más confianza mediante actividades de conversación, comprensión auditiva, vocabulario, lectura, escritura y gramática práctica.
 
-## Curso para principiantes, otoño de 2026 {#otono-2026}
+## Clase grupal para principiantes {#clase-principiantes}
 
-- **Día y horario:** martes, 6:00 PM-7:30 PM
-- **Fechas:** 15 de septiembre-8 de diciembre de 2026
-- **No hay clase:** 24 de noviembre
-- **Duración:** 12 clases de 90 minutos
-- **Lugar:** [4550 Kearny Villa Rd, Suite 202, San Diego](/location/)
-- **Matrícula:** $432 en un solo pago o cuatro pagos mensuales de $118.80
+La clase se reúne en persona una vez por semana en [4550 Kearny Villa Rd, Suite 202, San Diego](/location/), en sesiones de 90 minutos. Está dirigida a adultos con poco o ningún conocimiento previo de inglés. Abrimos nuevas clases tres veces al año, en septiembre, enero y junio. Forma parte de nuestro [programa World Languages](/world-languages/).
 
-Este curso está dirigido a adultos con poco o ningún conocimiento previo de inglés. Compartiremos la información sobre el libro de texto antes de la primera clase.
+<div class="tc"><a href="/news/2026/09/clases-de-ingles-para-adultos-hispanohablantes-octubre-2026/" class="btn raise">Fechas, precios e inscripción</a></div>
 
-<div class="tc"><a href="/news/2026/08/world-language-classes-san-diego-fall-2026/#english" class="btn raise">Ver detalles e inscribirse</a></div>
+## Lo que aprenderás {#contenido-del-curso}
 
-## Lo que practicarás {#contenido-del-curso}
+El curso para principiantes se centra en el inglés que necesitas en situaciones cotidianas. Practicarás cómo:
 
-- Conversación y pronunciación para situaciones cotidianas
-- Vocabulario y expresiones esenciales
-- Comprensión auditiva
-- Lectura y escritura para principiantes
-- Gramática fundamental aplicada a situaciones prácticas
+- Saludar, presentarte y hablar de tu familia, tu trabajo y tus intereses
+- Hacer y responder preguntas sencillas sobre la vida diaria
+- Resolver situaciones cotidianas como pedir comida, hacer compras y pedir indicaciones
+- Entender conversaciones cortas y textos escritos sencillos
+- Escribir mensajes y notas breves
 
-## Experiencia docente {#experiencia-docente}
+Al mismo tiempo construirás las bases: pronunciación, vocabulario esencial y la gramática básica de las oraciones sencillas.
 
-El inglés no es la lengua materna de la instructora. Es hablante nativa de español y cuenta con más de ocho años de experiencia enseñando idiomas a jóvenes y personas adultas, una maestría en lenguas modernas, una licenciatura en enseñanza de idiomas y certificación de inglés de nivel C1.
+## Por qué aprender inglés en San Diego {#por-que-ingles}
+
+- **Trabajo:** comunicarte con clientes, compañeros y jefes, y buscar nuevas oportunidades laborales
+- **Trámites y citas:** hablar con más confianza en el banco, en la oficina y con el médico
+- **Familia:** comunicarte con la escuela de tus hijos y participar en sus actividades
+- **Vida diaria:** hacer compras, usar el transporte y hablar con tus vecinos
+
+## Preguntas frecuentes {#preguntas-frecuentes}
+
+### ¿Necesito saber inglés?
+
+No. La clase para principiantes está dirigida a adultos con poco o ningún conocimiento previo de inglés.
+
+### ¿Cuánto dura cada clase?
+
+90 minutos, una vez por semana, en persona en nuestra escuela de Kearny Mesa.
+
+### ¿Cuándo empiezan las nuevas clases?
+
+Tres veces al año, en septiembre, enero y junio. En la [página del curso actual](/news/2026/09/clases-de-ingles-para-adultos-hispanohablantes-octubre-2026/) encontrarás las fechas exactas, los precios y la inscripción.
+
+### ¿Puedo tomar clases privadas?
+
+Sí, consulta las [clases privadas de inglés](#clases-privadas) más abajo.
+
+## Clases privadas de inglés {#clases-privadas}
+
+También ofrecemos clases privadas de inglés en línea, en persona en nuestra escuela de Kearny Mesa o en persona en otros lugares de San Diego. [Contáctanos](/contact/) con tus objetivos y horarios.
 
 ¿Tienes preguntas sobre el curso? [Contáctanos](/contact/) y te ayudaremos a decidir si es adecuado para ti.
