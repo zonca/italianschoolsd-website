@@ -15,7 +15,7 @@ products:
       link: /classes
     - image: img/italian-adult-classes.svg
       title: "Italian for adults"
-      text: "Group and private classes in-person and online, from beginner to advanced. Highly interactive lessons with practical conversation and cultural context."
+      text: "Group and private Italian classes in person and online, from beginner to advanced. In group classes, conversation and listening lead, with practical grammar, regular review, and authentic Italian materials."
       link: /adults
 products2:
     - image: /flyers/italianschoolsd-flyer-italian-2026-2027-teens.png

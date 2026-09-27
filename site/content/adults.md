@@ -19,6 +19,7 @@ subtitle: Italian classes in person across San Diego County and online via Zoom
 </section>
 
 <nav class="adult-jump-links" aria-label="Adult classes page sections">
+  <a href='{{< relref "adults.md" >}}#our-method'>Our method</a>
   <a href='{{< relref "adults.md" >}}#fall-2026'>Fall group classes</a>
   <a href='{{< relref "adults.md" >}}#course-levels'>Choose your level</a>
   <a href='{{< relref "adults.md" >}}#encinitas'>Encinitas classes</a>
@@ -27,6 +28,16 @@ subtitle: Italian classes in person across San Diego County and online via Zoom
 </nav>
 
 <p class="adult-location-note"><strong>In-person classes:</strong> Most classes meet at our school at <a href='{{< relref "location.md" >}}'>4550 Kearny Villa Rd, Suite 202</a> in Kearny Mesa. Friday classes meet at our <a href='{{< relref "italian-classes-encinitas.md" >}}'>Encinitas location</a>.</p>
+
+## How our adult Italian group classes work {#our-method}
+
+Our group classes put speaking and listening at the center. Each lesson begins with a short oral review, then gives students guided opportunities to use Italian in practical situations.
+
+Grammar is introduced in manageable steps, generally one new concept at a time, with a focus on common use. Textbooks provide structure where appropriate, and teachers add videos, songs, articles, and games to make practice varied and connected to Italian life.
+
+Teachers encourage participation and treat mistakes as a normal part of learning. Beginners receive more English support; Italian becomes a larger part of the lesson as students advance.
+
+Between lessons, we encourage about 20 minutes of daily review. Teachers aim to email a recap within a couple of days, with the material covered, suggested exercises, and videos or readings for further practice. Recaps also help students who missed a class keep up.
 
 ## Fall 2026 group classes {#fall-2026}
 
