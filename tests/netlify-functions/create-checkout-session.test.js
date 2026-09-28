@@ -191,6 +191,66 @@ test('World Languages classes support full payment and three monthly payments', 
   );
 });
 
+test('October Italian classes have matching tuition, installment plans, and return anchors', () => {
+  const pagePath = '/news/2026/09/beginner-italian-classes-san-diego-october-2026/';
+  const options = [
+    ['oct-2026-fri-italian-beg-kearny', 34000, 9350, 'friday-kearny'],
+    ['oct-2026-wed-italian-lunch-beg', 32000, 8800, 'wednesday-lunch'],
+    ['oct-2026-tue-thu-italian-lunch-beg', 44000, 12100, 'tuesday-thursday-lunch'],
+  ];
+
+  for (const [classId, fullAmount, monthlyAmount, anchor] of options) {
+    const selectedClass = CLASSES[classId];
+    assert.equal(selectedClass.pagePath, pagePath);
+    assert.equal(selectedClass.anchor, anchor);
+    assert.equal(selectedClass.fullAmount, fullAmount);
+    assert.equal(selectedClass.monthlyAmount, monthlyAmount);
+    assert.equal(selectedClass.monthlyInstallments, 4);
+
+    const full = _test.buildCheckoutParams({
+      selectedClass,
+      paymentType: 'full',
+      familyMemberCount: 2,
+      bookQuantity: 0,
+      origin: ORIGIN,
+    });
+    assert.equal(full.get('line_items[0][price_data][unit_amount]'), String(fullAmount));
+    assert.equal(full.get('line_items[1][price_data][unit_amount]'), String(Math.round(fullAmount * 0.9)));
+    assert.equal(full.get('success_url'), `${ORIGIN}${pagePath}?checkout=success#${anchor}`);
+    assert.equal(full.get('cancel_url'), `${ORIGIN}${pagePath}#${anchor}`);
+
+    const monthly = _test.buildCheckoutParams({
+      selectedClass,
+      paymentType: 'monthly',
+      bookQuantity: 0,
+      monthlyCommitmentAccepted: true,
+      origin: ORIGIN,
+    });
+    assert.equal(monthly.get('line_items[0][price_data][unit_amount]'), String(monthlyAmount));
+    assert.equal(monthly.get('metadata[installments_total]'), '4');
+    assert.equal(monthly.get('subscription_data[metadata][cancel_after_months]'), '4');
+  }
+});
+
+test('October Kearny Mesa optional book is taxable in full and monthly checkout', () => {
+  const selectedClass = CLASSES['oct-2026-fri-italian-beg-kearny'];
+  assert.equal(selectedClass.bookId, 'project1a');
+  for (const paymentType of ['full', 'monthly']) {
+    const params = _test.buildCheckoutParams({
+      selectedClass,
+      paymentType,
+      familyMemberCount: 1,
+      bookQuantity: 1,
+      monthlyCommitmentAccepted: true,
+      origin: ORIGIN,
+    });
+    assert.equal(params.get('automatic_tax[enabled]'), 'true');
+    assert.equal(params.get('billing_address_collection'), 'required');
+    assert.equal(params.get('line_items[1][price_data][product_data][tax_code]'), 'txcd_99999999');
+    assert.equal(params.get('line_items[1][price_data][unit_amount]'), '4900');
+  }
+});
+
 test('unknown class and payment selections are rejected', () => {
   assert.equal(
     _test.validateSelection({ classId: 'missing', paymentType: 'full', familyMemberCount: 1, bookQuantity: 0 }).error.body,

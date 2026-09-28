@@ -3,7 +3,7 @@ title: "Clases de inglés para adultos hispanohablantes en San Diego: octubre-di
 date: 2026-09-24
 url: "/news/2026/09/clases-de-ingles-para-adultos-hispanohablantes-octubre-2026/"
 weight: 1
-description: Inscripción para la clase presencial de inglés para adultos hispanohablantes principiantes, los martes por la tarde en Kearny Mesa, del 13 de octubre al 15 de diciembre de 2026.
+description: Inscripción para la clase presencial de inglés para adultos hispanohablantes principiantes, los martes por la tarde en Kearny Mesa, del 13 de octubre al 22 de diciembre de 2026.
 ---
 
 Nuestra clase presencial de inglés para adultos hispanohablantes comienza el **martes 13 de octubre de 2026** en Kearny Mesa. Desarrolla una base práctica de inglés mediante conversación, comprensión auditiva, vocabulario, lectura, escritura y gramática. La clase está dirigida a adultos con poco o ningún conocimiento previo de inglés.
@@ -11,7 +11,7 @@ Nuestra clase presencial de inglés para adultos hispanohablantes comienza el **
 ## Detalles de la clase {#detalles}
 
 - **Horario:** martes, 6:00 PM-7:30 PM
-- **Fechas:** 13 de octubre-15 de diciembre de 2026
+- **Fechas:** 13 de octubre-22 de diciembre de 2026
 - **No hay clase:** 24 de noviembre
 - **Duración:** 10 clases de 90 minutos
 - **Lugar:** [4550 Kearny Villa Rd, Suite 202, San Diego](/location/)

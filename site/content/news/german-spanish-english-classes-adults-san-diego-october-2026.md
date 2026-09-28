@@ -5,12 +5,12 @@ url: "/news/2026/09/german-spanish-english-classes-adults-san-diego-october-2026
 aliases:
     - /news/2026/08/world-language-classes-san-diego-fall-2026/
 weight: 1
-description: Enrollment for in-person beginner German, Spanish, and English classes for adults on Tuesday evenings in Kearny Mesa, October 13 to December 15, 2026.
+description: Enrollment for in-person beginner German, Spanish, and English classes for adults on Tuesday evenings in Kearny Mesa, October 13 to December 22, 2026.
 ---
 
 Our [World Languages program](/world-languages/) starts on **Tuesday, October 13, 2026** with three in-person beginner classes for adults in Kearny Mesa: beginner German, beginner Spanish, and English for Spanish-speaking adults.
 
-All three classes meet **Tuesdays from 6:00 PM to 7:30 PM**, October 13-December 15, 2026, with no class on November 24. Each course includes ten 90-minute classes. Tuition is $380 in full or three monthly payments of $139.40.
+All three classes meet **Tuesdays from 6:00 PM to 7:30 PM**, October 13-December 22, 2026, with no class on November 24. Each course includes ten 90-minute classes. Tuition is $380 in full or three monthly payments of $139.40.
 
 Enroll by October 8, 2026.
 
@@ -19,7 +19,7 @@ Enroll by October 8, 2026.
 Build a practical foundation in German through conversation, listening, vocabulary, reading, writing, and grammar. This class is designed for adults with little or no prior knowledge of German. The curriculum is developed with the support of German Pacific School San Diego.
 
 - **Schedule:** Tuesdays, 6:00 PM-7:30 PM
-- **Dates:** October 13-December 15, 2026
+- **Dates:** October 13-December 22, 2026
 - **No class:** November 24
 - **Location:** [4550 Kearny Villa Rd, Suite 202, San Diego](/location/)
 - **Tuition:** $380 in full or three monthly payments of $139.40
@@ -37,7 +37,7 @@ Learn more on the [adult German classes in San Diego](/german-classes-san-diego/
 Build a practical foundation in Spanish through conversation, listening, vocabulary, reading, writing, and grammar. This class is designed for adults with little or no prior knowledge of Spanish.
 
 - **Schedule:** Tuesdays, 6:00 PM-7:30 PM
-- **Dates:** October 13-December 15, 2026
+- **Dates:** October 13-December 22, 2026
 - **No class:** November 24
 - **Location:** [4550 Kearny Villa Rd, Suite 202, San Diego](/location/)
 - **Tuition:** $380 in full or three monthly payments of $139.40
