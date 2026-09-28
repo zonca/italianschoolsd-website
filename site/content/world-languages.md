@@ -4,6 +4,7 @@ description: German, Spanish, and English classes for adults at the Italian scho
 image: /img/world-languages/german-classes-san-diego.webp
 aliases:
     - /languages/
+    - /world/
 ---
 
 The Italian school of San Diego has taught Italian to children, teens, and adults since 2021. With the World Languages program, we open our Kearny Mesa classrooms to more languages for adult learners: German, Spanish, and English for Spanish-speaking adults.

@@ -43,3 +43,15 @@
   to = "/news/2026/08/free-info-nights-kids-italian-classes-2026-2027/"
   status = 301
   force = true
+
+[[redirects]]
+  from = "/world"
+  to = "/world-languages/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/world/"
+  to = "/world-languages/"
+  status = 301
+  force = true
