@@ -97,7 +97,7 @@ After any content/layout/CSS change:
     3. Target List IDs: `2` (Programs for Kids), `3` (Programs for Adults).
     4. Default Template ID: `4` (Italian School Campaign Template).
 - **Media/Attachments:**
-    - To embed an image, use a public URL (e.g., from the website or Netlify preview).
+    - Embed an image only when Andrea explicitly asks for it. When sharing flyers by download link, use public PDF links in the body without inline images. If an image is requested, use a public URL (e.g., from the website or Netlify preview).
     - To add an attachment, first POST the file to `/api/media`, then include the resulting ID in the `media` array of the campaign object.
 - **Verification:** Always create as a `draft` status first. Verify links (prefer production `www.italianschoolsd.com` links for final drafts) and layout in the Listmonk dashboard before sending.
 
