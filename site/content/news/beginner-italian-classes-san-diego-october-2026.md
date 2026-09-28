@@ -10,7 +10,7 @@ Three new Italian classes for adults start in October 2026. Choose a Friday even
 
 ## Friday beginner Italian in Kearny Mesa {#friday-kearny}
 
-- **Schedule:** Fridays, 6:30-8:00 PM, October 16-December 18, 2026
+- **Schedule:** Fridays, 6:00-7:30 PM, October 16-December 18, 2026
 - **Meetings:** 9 classes of 90 minutes; no class November 27
 - **Location:** [4550 Kearny Villa Rd, Suite 202, San Diego, CA 92123](/location/)
 - **Tuition:** $340 in full ($37.78 per class, $25.19 per hour), or four monthly payments of $93.50 ($374 total, including a 10% administrative fee)
@@ -46,5 +46,13 @@ For beginners and beginner-intermediate learners who want to strengthen the basi
 - **Monthly plan:** Each four-payment plan covers one student per checkout and requires all four payments.
 - **School cancellation:** Each class requires at least five paid students to open. If we do not reach that minimum, we cancel the class and refund every payment in full.
 - **Student cancellations:** Full refund if canceled at least 15 days before the first class; 50% refund after that deadline but before the second class; no refunds after the second class begins.
+
+## Help us spread the word {#share-flyer}
+
+Know someone who would enjoy learning Italian? Please share our flyer with friends or community groups. It also includes the [Friday beginner class in Encinitas](/news/2026/09/second-beginner-italian-class-adults-encinitas-october-2026/).
+
+[![Beginner Italian classes for adults, October 2026 flyer](/flyers/italian-adult-classes-october-2026.png)](/flyers/italian-adult-classes-october-2026.png)
+
+<p><a href="/flyers/italian-adult-classes-october-2026.png" download="italian-adult-classes-october-2026.png">Download the image for sharing</a> · <a href="/flyers/italian-adult-classes-october-2026.pdf" download="italian-adult-classes-october-2026.pdf">Download the printable flyer</a></p>
 
 Questions? [Send us a message](/contact/).

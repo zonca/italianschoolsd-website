@@ -64,4 +64,12 @@ La clase de inglés para adultos hispanohablantes tiene su propia página en esp
 - **Monthly plan:** The three-payment plan costs $418.20 total (three payments of $139.40), including a 10% administrative fee. It covers one student per checkout and requires all three payments.
 - **Student cancellations:** Full refund if canceled at least 15 days before the first class; 50% refund after that deadline but before the second class; no refunds after the second class begins.
 
+## Help us spread the word {#share-flyer}
+
+Know someone who would enjoy learning German, Spanish, or English? Please share our flyer with friends or community groups.
+
+[![World Languages classes for adults, October 2026 flyer](/flyers/world-languages-october-2026.png)](/flyers/world-languages-october-2026.png)
+
+<p><a href="/flyers/world-languages-october-2026.png" download="world-languages-october-2026.png">Download the image for sharing</a> · <a href="/flyers/world-languages-october-2026.pdf" download="world-languages-october-2026.pdf">Download the printable flyer</a></p>
+
 Questions? [Contact us](/contact/) and we will be happy to help.
