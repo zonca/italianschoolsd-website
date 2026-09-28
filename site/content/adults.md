@@ -132,7 +132,7 @@ Scan by day, then use the level guides below for full dates, tuition, holidays, 
     <h3 id="friday-classes">Friday</h3>
     <div class="adult-class-row">
       <div><strong>Beginner</strong><span class="adult-format adult-format-in-person">Kearny Mesa</span></div>
-      <p><span>6:00–7:30 PM</span><small>From October 16 · 9 classes</small></p>
+      <p><span>6:30–8:00 PM</span><small>From October 16 · 9 classes</small></p>
     </div>
     <div class="adult-class-row">
       <div><strong>Beginner</strong><span class="adult-format adult-format-encinitas">Encinitas</span></div>
