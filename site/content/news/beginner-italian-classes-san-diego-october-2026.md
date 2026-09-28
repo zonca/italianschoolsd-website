@@ -10,7 +10,7 @@ Three new Italian classes for adults start in October 2026. Choose a Friday even
 
 ## Friday beginner Italian in Kearny Mesa {#friday-kearny}
 
-- **Schedule:** Fridays, 6:00-7:30 PM, October 16-December 18, 2026
+- **Schedule:** Fridays, 6:30-8:00 PM, October 16-December 18, 2026
 - **Meetings:** 9 classes of 90 minutes; no class November 27
 - **Location:** [4550 Kearny Villa Rd, Suite 202, San Diego, CA 92123](/location/)
 - **Tuition:** $340 in full ($37.78 per class, $25.19 per hour), or four monthly payments of $93.50 ($374 total, including a 10% administrative fee)
