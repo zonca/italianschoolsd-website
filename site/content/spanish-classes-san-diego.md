@@ -10,7 +10,7 @@ Learn Spanish in a welcoming, structured class designed for adult beginners. Thr
 
 ## Beginner group class {#beginner-class}
 
-The group class meets in person once a week at [4550 Kearny Villa Rd, Suite 202, San Diego](/location/), in 90-minute classes. It is designed for adults with little or no prior knowledge of Spanish. We launch new classes three times a year, in September, January, and June. The class is part of our [World Languages program](/world-languages/).
+The group class meets in person once a week at [4550 Kearny Villa Rd, Suite 202, San Diego](/location/), in 90-minute classes. It is designed for adults with little or no prior knowledge of Spanish, and is taught mostly in English, gradually adding more Spanish as the course progresses. We launch new classes three times a year, in September, January, and June. The class is part of our [World Languages program](/world-languages/).
 
 <div class="tc"><a href="/news/2026/09/german-spanish-english-classes-adults-san-diego-october-2026/#spanish" class="btn raise">Current dates, tuition, and enrollment</a></div>
 
@@ -42,6 +42,10 @@ Along the way you build the foundations: pronunciation, essential vocabulary, an
 ### Do I need to know any Spanish?
 
 No. The beginner class is designed for adults with little or no prior knowledge of Spanish.
+
+### What language is the class taught in?
+
+Mostly in English at first, gradually adding more Spanish as the course progresses.
 
 ### How long is each class?
 

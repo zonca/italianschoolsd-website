@@ -14,6 +14,7 @@ The Italian school of San Diego has taught Italian to children, teens, and adult
 - **Small in-person groups** in our classrooms at [4550 Kearny Villa Rd, Suite 202, San Diego](/location/)
 - **Once a week, 90 minutes** per class
 - **Beginner level**, no prior knowledge of the language needed
+- **Taught mostly in your own language at first**: German and Spanish classes are taught mostly in English, gradually adding more German or Spanish; the English class is taught mostly in Spanish, gradually adding more English
 - **New classes three times a year**, in September, January, and June
 - **Private lessons** in every language, online or in person (see [below](#private-classes))
 
@@ -25,15 +26,15 @@ Dates, tuition, and enrollment for the current classes are always in our latest 
 
 ### German {#german}
 
-A beginner course for adults, with a curriculum developed with the support of the German Pacific School San Diego. [Learn more about our German classes](/german-classes-san-diego/).
+A beginner course for adults, with a curriculum developed with the support of the German Pacific School San Diego. Classes are taught mostly in English, gradually adding more German as you progress. [Learn more about our German classes](/german-classes-san-diego/).
 
 ### Spanish {#spanish}
 
-A beginner course for adults who want to speak Spanish in everyday situations, taught by a native speaker. [Learn more about our Spanish classes](/spanish-classes-san-diego/).
+A beginner course for adults who want to speak Spanish in everyday situations, taught by a native speaker. Classes are taught mostly in English, gradually adding more Spanish as you progress. [Learn more about our Spanish classes](/spanish-classes-san-diego/).
 
 ### English for Spanish-speaking adults {#english}
 
-Un curso de inglés para adultos hispanohablantes principiantes, junto con otros adultos que hablan español. [Más información sobre las clases de inglés](/clases-de-ingles-para-adultos-san-diego/).
+Un curso de inglés para adultos hispanohablantes principiantes, junto con otros adultos que hablan español. La clase se imparte principalmente en español, y el inglés se va incorporando gradualmente. [Más información sobre las clases de inglés](/clases-de-ingles-para-adultos-san-diego/).
 
 ## Private lessons {#private-classes}
 

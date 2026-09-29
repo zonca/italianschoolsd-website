@@ -6,7 +6,7 @@ weight: 1
 description: Inscripción para la clase presencial de inglés para adultos hispanohablantes principiantes, los martes por la tarde en Kearny Mesa, del 13 de octubre al 22 de diciembre de 2026.
 ---
 
-Nuestra clase presencial de inglés para adultos hispanohablantes comienza el **martes 13 de octubre de 2026** en Kearny Mesa. Desarrolla una base práctica de inglés mediante conversación, comprensión auditiva, vocabulario, lectura, escritura y gramática. La clase está dirigida a adultos con poco o ningún conocimiento previo de inglés.
+Nuestra clase presencial de inglés para adultos hispanohablantes comienza el **martes 13 de octubre de 2026** en Kearny Mesa. Desarrolla una base práctica de inglés mediante conversación, comprensión auditiva, vocabulario, lectura, escritura y gramática. La clase está dirigida a adultos con poco o ningún conocimiento previo de inglés. Se imparte principalmente en español, y el inglés se va incorporando gradualmente a lo largo del curso.
 
 ## Detalles de la clase {#detalles}
 

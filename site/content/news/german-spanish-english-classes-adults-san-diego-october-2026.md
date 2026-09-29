@@ -10,13 +10,15 @@ description: Enrollment for in-person beginner German, Spanish, and English clas
 
 Our [World Languages program](/world-languages/) starts on **Tuesday, October 13, 2026** with three in-person beginner classes for adults in Kearny Mesa: beginner German, beginner Spanish, and English for Spanish-speaking adults.
 
+The German and Spanish classes are taught mostly in English, gradually adding more German or Spanish as the course progresses. The English class is taught mostly in Spanish, gradually adding more English.
+
 All three classes meet **Tuesdays from 6:00 PM to 7:30 PM**, October 13-December 22, 2026, with no class on November 24. Each course includes ten 90-minute classes. Tuition is $380 in full or three monthly payments of $139.40.
 
 Enroll by October 8, 2026.
 
 ## Beginner German for adults {#german}
 
-Build a practical foundation in German through conversation, listening, vocabulary, reading, writing, and grammar. This class is designed for adults with little or no prior knowledge of German. The curriculum is developed with the support of German Pacific School San Diego.
+Build a practical foundation in German through conversation, listening, vocabulary, reading, writing, and grammar. This class is designed for adults with little or no prior knowledge of German. It is taught mostly in English, gradually adding more German as the course progresses. The curriculum is developed with the support of German Pacific School San Diego.
 
 - **Schedule:** Tuesdays, 6:00 PM-7:30 PM
 - **Dates:** October 13-December 22, 2026
@@ -34,7 +36,7 @@ Learn more on the [adult German classes in San Diego](/german-classes-san-diego/
 
 ## Beginner Spanish for adults {#spanish}
 
-Build a practical foundation in Spanish through conversation, listening, vocabulary, reading, writing, and grammar. This class is designed for adults with little or no prior knowledge of Spanish.
+Build a practical foundation in Spanish through conversation, listening, vocabulary, reading, writing, and grammar. This class is designed for adults with little or no prior knowledge of Spanish. It is taught mostly in English, gradually adding more Spanish as the course progresses.
 
 - **Schedule:** Tuesdays, 6:00 PM-7:30 PM
 - **Dates:** October 13-December 22, 2026
@@ -52,7 +54,7 @@ Learn more on the [adult Spanish classes in San Diego](/spanish-classes-san-dieg
 
 ## Clases de inglés para adultos hispanohablantes {#english}
 
-La clase de inglés para adultos hispanohablantes tiene su propia página en español, con fechas, precios e inscripción.
+La clase de inglés para adultos hispanohablantes se imparte principalmente en español, y el inglés se va incorporando gradualmente. Tiene su propia página en español, con fechas, precios e inscripción.
 
 <div class="tc"><a href="/news/2026/09/clases-de-ingles-para-adultos-hispanohablantes-octubre-2026/" class="btn raise">Ver detalles e inscribirse</a></div>
 
