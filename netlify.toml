@@ -45,6 +45,18 @@
   force = true
 
 [[redirects]]
+  from = "/encinitas-adults"
+  to = "/news/2026/09/second-beginner-italian-class-adults-encinitas-october-2026/"
+  status = 302
+  force = true
+
+[[redirects]]
+  from = "/encinitas-adults/"
+  to = "/news/2026/09/second-beginner-italian-class-adults-encinitas-october-2026/"
+  status = 302
+  force = true
+
+[[redirects]]
   from = "/world"
   to = "/world-languages/"
   status = 301
