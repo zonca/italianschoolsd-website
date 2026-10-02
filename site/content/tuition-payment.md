@@ -6,42 +6,47 @@ subtitle: Details about paying for tuition for Italian classes
 
 Tuition payment is due in 1 payment by the deadline listed on the enrollment page, unless you opt for the monthly plan.
 
-## Payment Methods {#payment-method}
+## Late enrollments {#late-enrollments}
+
+> **Late enrollment tuition is prorated based on the number of classes remaining. The published late-enrollment rates already include the 10% increase.**
+
+Kids and teen enrollment requests are accepted all year, pending availability. Please [contact us]({{< relref "contact.md" >}}) first to check availability and ensure the class fits your child's age and level.
+
+**Late-enrollment tuition = published annual late-enrollment rate ÷ scheduled classes for the full year × remaining classes.** Use the applicable rate on the [kids enrollment page]({{< relref "enroll.md#tuition" >}}) or [high school credit enrollment page]({{< relref "enroll-high-school-credit.md#tuition" >}}). Those rates already include the increase; it is not added again. Applicable materials and curriculum alignment fees are listed separately on your invoice.
+
+We will confirm placement and send an invoice with the exact prorated amount. Payment is due within one week of receiving the confirmation email. If you request a monthly payment plan, the 20% administrative fee applies; we will confirm the installment amounts and due dates before you commit. The standard eight-payment schedule below describes enrollment before the October-to-April installments begin.
+
+## Payment methods {#payment-method}
 
 The preferred payment method is [**Zelle** (free and supported by most US banks)]({{< relref "zelle.md" >}}). We also accept checks and credit cards. 
 * Please make checks payable to `Italian school of San Diego LLC` (do not forget "LLC").
 * Payments via credit cards incur a 3.6% payment processing fee.
 
-## Payment Plans & Discounts {#plans-discounts}
+## Payment plans and discounts {#plans-discounts}
 
-### 8-Payment Plan {#8-payments}
+### 8-payment plan {#8-payments}
 The 8-payment plan allows you to pay in multiple installments while still committing for the full year.
 * **Fee:** Includes an additional administrative fee of 20%.
 * **Schedule:** 1/8 of tuition is due immediately to confirm enrollment. The remaining 7 monthly payments are due October 1st to April 1st. (Checks are not accepted for monthly payments).
-* **Example:** An in-person class for a returning student (base tuition `$1840`) costs a total of `$2208` (`$1840 * 1.2`), split into 8 monthly payments of `$276`.
+* **Late enrollment:** Contact us to confirm the applicable installment schedule. Do not use the standard dates above for a new enrollment after monthly installments have begun.
 * **Late Fees:** If a monthly payment is more than 2 weeks late, a $50 late fee applies. This increases to $100 for invoices unpaid for over 1 month. Please enable autopay via Wave or scheduled Zelle payments to avoid fees.
 
-### Sibling Discount {#sibling-discount}
+### Sibling discount {#sibling-discount}
 The first additional family member enrolled receives a 10% discount, the second a 15% discount, and so on (discounts are cumulative). For families with kids in both the high school credit classes and the other classes, the higher discount applies to the lower tuition.
-
-### Late Enrollments {#late-enrollments}
-Enrollments are open all year, pending availability. Please [contact us]({{< relref "contact.md" >}}) first to check availability and ensure the class fits your child's age and level.
-* Late enrollment tuition is **10% higher** than the regular tuition for that class.
-* We will send a pro-rated invoice based on the remaining classes. You can choose to pay in full or use the 8-payment plan (which includes the 20% administrative fee).
 
 ## Pickup times and late pickup {#late-pickup}
 
 Children are expected to be picked up promptly at the scheduled end of class. A 10-minute grace period is free, after which a late pickup fee applies, and families who need a later pickup can request pre-arranged extended care at least 24 hours in advance. [Read our late pickup and extended care policy]({{< relref "late-pickup-policy.md" >}}).
 
-## Cancellation Policies {#cancellation}
+## Cancellation policies {#cancellation}
 Refund requests must be sent via email to `admin@italianschoolsd.com`.
 
-### Full-Payment Option {#cancellation-full}
+### Full-payment option {#cancellation-full}
 * **100% Refund:** If cancellation is received 3 weeks before school starts.
 * **50% Refund:** If cancellation is received before the 3rd class.
 * **No Refunds:** After the 3rd class.
 
-### Monthly Plan Option {#cancellation-monthly}
+### Monthly plan option {#cancellation-monthly}
 * **100% Refund:** If cancellation is received 3 weeks before school starts.
 * **Standard Cancellation:** Requires a 30-day advance notice via email. A $50 administrative fee will be added to the account.
 * **No Cancellations:** Accepted after March 31st.
