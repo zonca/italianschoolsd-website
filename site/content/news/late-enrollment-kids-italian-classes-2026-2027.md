@@ -5,9 +5,9 @@ description: "A few spots are still available in our 2026-2027 Italian classes f
 image: /flyers/italianschoolsd-flyer-italian-2026-2027-kids.png
 ---
 
-> **Schedule update, August 18, 2026:** Afternoon classes start August 26 and 27, and the morning program starts September 2. Enrollment is open through **August 25, 2026**. [Read the full announcement]({{< ref "news/academic-year-starts-august-26-finalized-schedule.md" >}}).
+> **Enrollment update, October 1, 2026:** The August 25 pre-enrollment deadline has passed, but enrollment requests are still accepted throughout the academic year, pending availability. [See current kids class availability and prorated tuition]({{< relref "enroll.md#late-enrollment" >}}), or read the [year-round enrollment announcement]({{< ref "news/enrollment-is-open-year-round-for-kids-and-adults.md" >}}).
 
-**Openings are available in every program**, for every age group, in our 2026-2027 Italian classes for children in San Diego.
+The programs below are offered for 2026-2027. Contact us to check current space in a class that fits your child's age and Italian level.
 
 **No Italian at home? No problem.** Our Italian as a Foreign Language classes are built for children who are completely new to the language. Instruction starts in English and moves gradually into Italian.
 
@@ -32,7 +32,9 @@ For students in 7th grade and above, see our [high school credit classes for tee
 
 [4550 Kearny Villa Rd, Suite 202](/location), Kearny Mesa, San Diego (Building 4550, 2nd floor). Easy to reach from Clairemont, University City, Tierrasanta, Scripps Ranch, and Mission Valley.
 
-## Tuition {#tuition}
+## Full-year reference tuition {#tuition}
+
+These are full-year reference amounts. For enrollment after classes have started, see the [current prorated late-enrollment calculation]({{< relref "tuition-payment.md#late-enrollments" >}}).
 
 Tuition covers **33 weeks of instruction**, from August through May:
 
@@ -51,7 +53,7 @@ The morning homeschool program is priced per 16-class session. We are an approve
 
 Pre-enrollment is not binding, and we will help you choose the right level before you commit.
 
-Afternoon classes begin the week of **August 26**, and the morning program begins **September 2**. Please pre-enroll by **August 25, 2026**. If you are reading this later, [contact us](/contact) anyway; we may still be able to place your child.
+Afternoon classes began the week of **August 26, 2026**, and the morning program began **September 2, 2026**. Students may still join a suitable class during the academic year, pending availability. [Contact us](/contact) to check placement and prorated tuition.
 
 <div class="tc">
 <a href="/enroll" class="btn raise">Pre-Enroll Kids (TK-6)</a>

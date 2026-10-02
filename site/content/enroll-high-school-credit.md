@@ -20,7 +20,9 @@ Submit the pre-enrollment form so we can confirm that a class has space and fits
 
 To finalize your enrollment, you must pay the invoice attached to the confirmation email within **1 week** after receiving the payment email. Pre-enrollment is not binding until payment is received.
 
-## Tuition for high school credit classes {#tuition}
+## Full-year reference tuition for high school credit classes {#tuition}
+
+The amounts below cover the full academic year. Your late-enrollment invoice will cover only the remaining classes, using the [late enrollment calculation]({{< relref "tuition-payment.md#late-enrollments" >}}).
 
 The high school credit classes follow an extensive curriculum approved by the school districts and require significantly more effort from both teachers and students than the other classes. Districts require students to complete 140 hours of language education per year, with 2 hours in class and 2 hours of independent study each week. This means a higher workload for students, as well as for teachers, who must prepare and grade additional homework.
 

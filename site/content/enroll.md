@@ -23,7 +23,9 @@ Questions before you enroll? Call us at **(619) 800-0797** or [send us a message
 
 Enrolling in our **Encinitas** Monday class? The tuition below applies to the Kearny Mesa classes. The North County year is 29 classes instead of 33, so it has [its own tuition table](/italian-classes-encinitas/#tuition).
 
-## Tuition for in-person 2-hour kids classes {#tuition}
+## Full-year reference tuition for in-person 2-hour kids classes {#tuition}
+
+The amounts below cover the full academic year. Your late-enrollment invoice will cover only the remaining classes, using the [late enrollment calculation]({{< relref "tuition-payment.md#late-enrollments" >}}).
 
 Tuition for 9 months of instruction:
 
