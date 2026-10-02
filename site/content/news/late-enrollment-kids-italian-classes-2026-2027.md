@@ -32,14 +32,9 @@ For students in 7th grade and above, see our [high school credit classes for tee
 
 [4550 Kearny Villa Rd, Suite 202](/location), Kearny Mesa, San Diego (Building 4550, 2nd floor). Easy to reach from Clairemont, University City, Tierrasanta, Scripps Ranch, and Mission Valley.
 
-## Full-year reference tuition {#tuition}
+## Late enrollment tuition {#tuition}
 
-These are full-year reference amounts. For enrollment after classes have started, see the [current prorated late-enrollment calculation]({{< relref "tuition-payment.md#late-enrollments" >}}).
-
-Tuition covers **33 weeks of instruction**, from August through May:
-
-* **$1,932** for new students
-* Plus a **$150 materials fee** per student for in-person classes
+Tuition is prorated for the remaining classes. See the [current late-enrollment rates and applicable fees]({{< relref "enroll.md#tuition" >}}) and [proration calculation]({{< relref "tuition-payment.md#late-enrollments" >}}).
 
 An **8-payment plan** and a **sibling discount** are available. See [payment details and cancellation policy](/tuition-payment).
 

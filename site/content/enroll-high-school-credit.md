@@ -10,7 +10,7 @@ Late enrollment for the 2026-2027 high school credit classes is open, pending av
 
 ## Late enrollment pricing {#late-enrollment}
 
-> **Late enrollment tuition is prorated based on the number of classes remaining and is 10% higher than the regular tuition for the class.**
+> **Late enrollment tuition is prorated based on the number of classes remaining. The tuition rates below already include the 10% late-enrollment increase.**
 
 We will provide the exact prorated amount after confirming placement and availability. See the [late enrollment policy]({{< relref "tuition-payment.md#late-enrollments" >}}) for payment-plan details.
 
@@ -20,9 +20,9 @@ Submit the pre-enrollment form so we can confirm that a class has space and fits
 
 To finalize your enrollment, you must pay the invoice attached to the confirmation email within **1 week** after receiving the payment email. Pre-enrollment is not binding until payment is received.
 
-## Full-year reference tuition for high school credit classes {#tuition}
+## Late enrollment tuition for high school credit classes {#tuition}
 
-The amounts below cover the full academic year. Your late-enrollment invoice will cover only the remaining classes, using the [late enrollment calculation]({{< relref "tuition-payment.md#late-enrollments" >}}).
+The amounts below are the annual basis for proration and already include the 10% late-enrollment increase. Your invoice will cover only the remaining classes, using the [late enrollment calculation]({{< relref "tuition-payment.md#late-enrollments" >}}).
 
 The high school credit classes follow an extensive curriculum approved by the school districts and require significantly more effort from both teachers and students than the other classes. Districts require students to complete 140 hours of language education per year, with 2 hours in class and 2 hours of independent study each week. This means a higher workload for students, as well as for teachers, who must prepare and grade additional homework.
 
@@ -30,13 +30,13 @@ The tuition reflects the increased teacher workload and the reporting requiremen
 
 The total yearly tuition covers 33 weekly classes plus 2 Italian-related events (2 hours each, totaling 70 hours of instruction), along with 2 hours of weekly independent study:
 
-**$2,549** (new students)
+**$2,803.90** (new students)
 
-**$2,422** (discount for returning students enrolled in 2025-2026)
+**$2,664.20** (discount for returning students enrolled in 2025-2026)
 
 Legacy students who have been enrolled in Italian School for 4 years receive an additional discount:
 
-**$2,180**
+**$2,398.00**
 
 We recommend paying via [**Zelle**]({{< relref "zelle.md" >}}) to avoid credit card fees.
 

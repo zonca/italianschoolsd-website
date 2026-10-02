@@ -8,11 +8,11 @@ Tuition payment is due in 1 payment by the deadline listed on the enrollment pag
 
 ## Late enrollments {#late-enrollments}
 
-> **Late enrollment tuition is prorated based on the number of classes remaining and is 10% higher than the regular tuition for the class.**
+> **Late enrollment tuition is prorated based on the number of classes remaining. The published late-enrollment rates already include the 10% increase.**
 
 Kids and teen enrollment requests are accepted all year, pending availability. Please [contact us]({{< relref "contact.md" >}}) first to check availability and ensure the class fits your child's age and level.
 
-**Late-enrollment tuition = regular per-class tuition × remaining classes × 1.10.** Regular per-class tuition is the applicable full-year tuition divided by the number of scheduled classes for that program. Applicable materials and curriculum alignment fees are listed separately on your invoice.
+**Late-enrollment tuition = published annual late-enrollment rate ÷ scheduled classes for the full year × remaining classes.** Use the applicable rate on the [kids enrollment page]({{< relref "enroll.md#tuition" >}}) or [high school credit enrollment page]({{< relref "enroll-high-school-credit.md#tuition" >}}). Those rates already include the increase; it is not added again. Applicable materials and curriculum alignment fees are listed separately on your invoice.
 
 We will confirm placement and send an invoice with the exact prorated amount. Payment is due within one week of receiving the confirmation email. If you request a monthly payment plan, the 20% administrative fee applies; we will confirm the installment amounts and due dates before you commit. The standard eight-payment schedule below describes enrollment before the October-to-April installments begin.
 
@@ -29,7 +29,6 @@ The 8-payment plan allows you to pay in multiple installments while still commit
 * **Fee:** Includes an additional administrative fee of 20%.
 * **Schedule:** 1/8 of tuition is due immediately to confirm enrollment. The remaining 7 monthly payments are due October 1st to April 1st. (Checks are not accepted for monthly payments).
 * **Late enrollment:** Contact us to confirm the applicable installment schedule. Do not use the standard dates above for a new enrollment after monthly installments have begun.
-* **Example:** An in-person class for a returning student (base tuition `$1840`) costs a total of `$2208` (`$1840 * 1.2`), split into 8 monthly payments of `$276`.
 * **Late Fees:** If a monthly payment is more than 2 weeks late, a $50 late fee applies. This increases to $100 for invoices unpaid for over 1 month. Please enable autopay via Wave or scheduled Zelle payments to avoid fees.
 
 ### Sibling discount {#sibling-discount}

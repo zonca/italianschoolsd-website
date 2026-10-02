@@ -9,7 +9,7 @@ See more information about [all the classes we offer]({{< relref "classes.md" >}
 
 ## Late enrollment pricing {#late-enrollment}
 
-> **Late enrollment tuition is prorated based on the number of classes remaining and is 10% higher than the regular tuition for the class.**
+> **Late enrollment tuition is prorated based on the number of classes remaining. The tuition rates below already include the 10% late-enrollment increase.**
 
 We will provide the exact prorated amount after confirming placement and availability. See the [late enrollment policy]({{< relref "tuition-payment.md#late-enrollments" >}}) for payment-plan details.
 
@@ -23,17 +23,17 @@ Questions before you enroll? Call us at **(619) 800-0797** or [send us a message
 
 Enrolling in our **Encinitas** Monday class? The tuition below applies to the Kearny Mesa classes. The North County year is 29 classes instead of 33, so it has [its own tuition table](/italian-classes-encinitas/#tuition).
 
-## Full-year reference tuition for in-person 2-hour kids classes {#tuition}
+## Late enrollment tuition for in-person 2-hour kids classes {#tuition}
 
-The amounts below cover the full academic year. Your late-enrollment invoice will cover only the remaining classes, using the [late enrollment calculation]({{< relref "tuition-payment.md#late-enrollments" >}}).
+The amounts below are the annual basis for proration and already include the 10% late-enrollment increase. Your invoice will cover only the remaining classes, using the [late enrollment calculation]({{< relref "tuition-payment.md#late-enrollments" >}}).
 
 Tuition for 9 months of instruction:
 
-**$1,932** (new students)
+**$2,125.20** (new students)
 
-**$1,840** (returning students)
+**$2,024.00** (returning students)
 
-**$1,656** (families enrolled with us for 2 or more years)
+**$1,821.60** (families enrolled with us for 2 or more years)
 
 We recommend paying via [**Zelle**]({{< relref "zelle.md" >}}) to avoid credit card fees.
 

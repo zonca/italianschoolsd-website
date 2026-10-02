@@ -33,6 +33,7 @@ Operational guide for AI/code agents working on `italianschoolsd-website`.
 - ALWAYS create manual heading anchors for all main sections using the `{#anchor-name}` syntax (e.g., `## My Section {#my-section}`). This allows users to link directly to specific parts of the page.
 - Use sentence case for all public-facing headings and page titles: capitalize only the first word and proper nouns. Never use title case such as `What You Will Practice`; write `What you will practice` instead.
 - Keep tone concise, clear, and service-oriented.
+- On late-enrollment pages, display only the current late-enrollment rates, with the increase already included, never the original tuition as a reference table. State that the displayed annual rate is prorated for remaining classes. Calculations using those rates must not apply the increase a second time. Keep changing prices on their canonical enrollment pages; news articles and examples should link there instead of duplicating them.
 
 ## Mandatory Verification
 
