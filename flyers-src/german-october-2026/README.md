@@ -21,6 +21,11 @@ Pacific School San Diego. Published at `site/static/flyers/german-october-2026.{
   Commons (https://commons.wikimedia.org/wiki/File:Berlin_-_0266_-_16052015_-_Brandenburger_Tor.jpg),
   licensed Creative Commons Attribution 4.0. The license requires the credit
   line printed on the photo; never remove it.
+- `christmas.jpg` is the Christmas market at the Römer in Frankfurt by Gerda Arendt,
+  from Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Frankfurt_Weihnachtsmarkt,_tree.jpg),
+  public domain (Creative Commons Zero). The credit line on the photo is a courtesy.
+- The Germany, Austria and Switzerland flags are drawn in CSS in `flyer.html`; they
+  were added on Christine Johnson's suggestion on 2026-10-02.
 - `qr.png` points to https://www.italianschoolsd.com/german/ and was made with
   `qrencode -o qr.png -s 12 -m 1 -l M "https://www.italianschoolsd.com/german/"`.
 
