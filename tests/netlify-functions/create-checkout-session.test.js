@@ -136,23 +136,24 @@ test('Wednesday Fall Beginner has a valid checkout catalog entry', () => {
   );
 });
 
-test('World Languages classes support full payment and four monthly payments', () => {
-  const spanish = CLASSES['fall-2026-tue-spanish-beg'];
-  const german = CLASSES['fall-2026-tue-german-beg'];
-  const english = CLASSES['fall-2026-tue-english-spanish'];
+test('World Languages classes support full payment and three monthly payments', () => {
+  const spanish = CLASSES['oct-2026-tue-spanish-beg'];
+  const german = CLASSES['oct-2026-tue-german-beg'];
+  const english = CLASSES['oct-2026-tue-english-spanish'];
 
-  assert.equal(spanish.fullAmount, 43200);
-  assert.equal(spanish.monthlyAmount, 11880);
-  assert.equal(spanish.monthlyInstallments, 4);
+  assert.equal(spanish.fullAmount, 38000);
+  assert.equal(spanish.monthlyAmount, 13940);
+  assert.equal(spanish.monthlyInstallments, 3);
   assert.equal(spanish.anchor, 'spanish');
-  assert.equal(german.fullAmount, 43200);
-  assert.equal(german.monthlyAmount, 11880);
-  assert.equal(german.monthlyInstallments, 4);
+  assert.equal(german.fullAmount, 38000);
+  assert.equal(german.monthlyAmount, 13940);
+  assert.equal(german.monthlyInstallments, 3);
   assert.equal(german.anchor, 'german');
-  assert.equal(english.fullAmount, 43200);
-  assert.equal(english.monthlyAmount, 11880);
-  assert.equal(english.monthlyInstallments, 4);
-  assert.equal(english.anchor, 'english');
+  assert.equal(english.fullAmount, 38000);
+  assert.equal(english.monthlyAmount, 13940);
+  assert.equal(english.monthlyInstallments, 3);
+  assert.equal(english.anchor, 'inscripcion');
+  assert.equal(english.pagePath, '/news/2026/09/clases-de-ingles-para-adultos-hispanohablantes-octubre-2026/');
 
   const params = _test.buildCheckoutParams({
     selectedClass: spanish,
@@ -161,10 +162,10 @@ test('World Languages classes support full payment and four monthly payments', (
     origin: ORIGIN,
   });
 
-  assert.equal(params.get('line_items[0][price_data][unit_amount]'), '43200');
+  assert.equal(params.get('line_items[0][price_data][unit_amount]'), '38000');
   assert.equal(
     params.get('success_url'),
-    `${ORIGIN}/news/2026/08/world-language-classes-san-diego-fall-2026/?checkout=success#spanish`
+    `${ORIGIN}/news/2026/09/german-spanish-english-classes-adults-san-diego-october-2026/?checkout=success#spanish`
   );
   const monthlyParams = _test.buildCheckoutParams({
     selectedClass: spanish,
@@ -173,14 +174,14 @@ test('World Languages classes support full payment and four monthly payments', (
     origin: ORIGIN,
   });
 
-  assert.equal(monthlyParams.get('line_items[0][price_data][unit_amount]'), '11880');
-  assert.equal(monthlyParams.get('metadata[installments_total]'), '4');
-  assert.equal(monthlyParams.get('metadata[cancel_after_months]'), '4');
-  assert.equal(monthlyParams.get('subscription_data[metadata][installments_total]'), '4');
-  assert.equal(monthlyParams.get('subscription_data[metadata][cancel_after_months]'), '4');
+  assert.equal(monthlyParams.get('line_items[0][price_data][unit_amount]'), '13940');
+  assert.equal(monthlyParams.get('metadata[installments_total]'), '3');
+  assert.equal(monthlyParams.get('metadata[cancel_after_months]'), '3');
+  assert.equal(monthlyParams.get('subscription_data[metadata][installments_total]'), '3');
+  assert.equal(monthlyParams.get('subscription_data[metadata][cancel_after_months]'), '3');
   assert.equal(
     _test.validateSelection({
-      classId: 'fall-2026-tue-spanish-beg',
+      classId: 'oct-2026-tue-spanish-beg',
       paymentType: 'monthly',
       familyMemberCount: 1,
       bookQuantity: 0,
@@ -188,6 +189,66 @@ test('World Languages classes support full payment and four monthly payments', (
     }).error,
     undefined
   );
+});
+
+test('October Italian classes have matching tuition, installment plans, and return anchors', () => {
+  const pagePath = '/news/2026/09/beginner-italian-classes-san-diego-october-2026/';
+  const options = [
+    ['oct-2026-fri-italian-beg-kearny', 34000, 9350, 'friday-kearny'],
+    ['oct-2026-wed-italian-lunch-beg', 32000, 8800, 'wednesday-lunch'],
+    ['oct-2026-tue-thu-italian-lunch-beg', 44000, 12100, 'tuesday-thursday-lunch'],
+  ];
+
+  for (const [classId, fullAmount, monthlyAmount, anchor] of options) {
+    const selectedClass = CLASSES[classId];
+    assert.equal(selectedClass.pagePath, pagePath);
+    assert.equal(selectedClass.anchor, anchor);
+    assert.equal(selectedClass.fullAmount, fullAmount);
+    assert.equal(selectedClass.monthlyAmount, monthlyAmount);
+    assert.equal(selectedClass.monthlyInstallments, 4);
+
+    const full = _test.buildCheckoutParams({
+      selectedClass,
+      paymentType: 'full',
+      familyMemberCount: 2,
+      bookQuantity: 0,
+      origin: ORIGIN,
+    });
+    assert.equal(full.get('line_items[0][price_data][unit_amount]'), String(fullAmount));
+    assert.equal(full.get('line_items[1][price_data][unit_amount]'), String(Math.round(fullAmount * 0.9)));
+    assert.equal(full.get('success_url'), `${ORIGIN}${pagePath}?checkout=success#${anchor}`);
+    assert.equal(full.get('cancel_url'), `${ORIGIN}${pagePath}#${anchor}`);
+
+    const monthly = _test.buildCheckoutParams({
+      selectedClass,
+      paymentType: 'monthly',
+      bookQuantity: 0,
+      monthlyCommitmentAccepted: true,
+      origin: ORIGIN,
+    });
+    assert.equal(monthly.get('line_items[0][price_data][unit_amount]'), String(monthlyAmount));
+    assert.equal(monthly.get('metadata[installments_total]'), '4');
+    assert.equal(monthly.get('subscription_data[metadata][cancel_after_months]'), '4');
+  }
+});
+
+test('October Kearny Mesa optional book is taxable in full and monthly checkout', () => {
+  const selectedClass = CLASSES['oct-2026-fri-italian-beg-kearny'];
+  assert.equal(selectedClass.bookId, 'project1a');
+  for (const paymentType of ['full', 'monthly']) {
+    const params = _test.buildCheckoutParams({
+      selectedClass,
+      paymentType,
+      familyMemberCount: 1,
+      bookQuantity: 1,
+      monthlyCommitmentAccepted: true,
+      origin: ORIGIN,
+    });
+    assert.equal(params.get('automatic_tax[enabled]'), 'true');
+    assert.equal(params.get('billing_address_collection'), 'required');
+    assert.equal(params.get('line_items[1][price_data][product_data][tax_code]'), 'txcd_99999999');
+    assert.equal(params.get('line_items[1][price_data][unit_amount]'), '4900');
+  }
 });
 
 test('unknown class and payment selections are rejected', () => {

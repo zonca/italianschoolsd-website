@@ -80,40 +80,40 @@ After any content/layout/CSS change:
   - local built output (what next deploy should show)
 - If mismatch exists, state clearly that deploy has not caught up yet.
 
-## Square Payment Links
+## Class enrollment checkout
 
-- Single-use `square.link/u/...` URLs expire after one payment. Never use them for enrollment links that multiple students need.
-- For reusable checkout links, use Square Online Store URLs (`italianschoolsd.square.site/product/...`).
-- When creating a class + book bundle enrollment, update the Square Online bundle page at `italianschoolsd.square.site/bundle` (via Square Dashboard → Online → Site Editor) and link to it from the site.
-- Square API credentials are in `square_credentials.json` (git-ignored). Use `uv run --with squareup python` to interact with the API.
+- Use the existing Stripe checkout flow for class enrollment. Add each class to `netlify/lib/checkout/catalog.js` and render the `stripe-checkout` shortcode on its public class page. The shortcode posts to the Netlify Checkout Session function; do not create a second enrollment payment method or standalone payment link.
+- Keep the class page, catalog amount, installment count, anchor, and return URL consistent. Verify the rendered full and monthly forms and the resulting Checkout Session parameters before publishing.
+- For optional physical books, use the catalog's book identifier and verify Stripe automatic tax is enabled, billing address collection is required, and the book line uses tangible goods tax code `txcd_99999999` (or books code `txcd_35010000`). Confirm applicable California sales tax is collected before publishing.
 
 ## Newsletter (Listmonk)
 
-- The newsletter system (Listmonk) is available on the `sh` server.
-- Use the Listmonk API via `curl` on the `sh` server for operations (listening on `localhost:9000`).
+- The newsletter system (Listmonk) is available through its public API at `https://list.italysd.com/api/campaigns`.
+- Use the public API from the local machine. The root project guidelines prohibit ad-hoc work on the `sh` production server.
 - **Credentials:** Use the `listmonkapi` user. The token is stored in the local `.bashrc` as `LISTMONK_TOKEN`. **NEVER** hardcode or log this token.
 - **Workflow for Drafts:**
     1. Prepare the newsletter body in Markdown.
-    2. Use Python on the `sh` server to safely package the body into a JSON payload for the API (avoids shell quoting issues).
-    3. Target List IDs: `2` (Programs for Kids), `3` (Programs for Adults).
+    2. Use Python on the local machine to safely package the body into a JSON payload for the API (avoids shell quoting issues).
+    3. For a schoolwide newsletter, target all four standard lists: `2` (Programs for Kids), `3` (Programs for Adults), `4` (Current Students - Kids), and `5` (Current Students - Adults), unless Andrea explicitly selects a narrower audience. Verify the live list names before creating the campaign.
     4. Default Template ID: `4` (Italian School Campaign Template).
 - **Media/Attachments:**
-    - To embed an image, use a public URL (e.g., from the website or Netlify preview).
+    - Embed an image only when Andrea explicitly asks for it. When sharing flyers by download link, use public PDF links in the body without inline images. If an image is requested, use a public URL (e.g., from the website or Netlify preview).
     - To add an attachment, first POST the file to `/api/media`, then include the resulting ID in the `media` array of the campaign object.
 - **Verification:** Always create as a `draft` status first. Verify links (prefer production `www.italianschoolsd.com` links for final drafts) and layout in the Listmonk dashboard before sending.
 
 ### Sample Python Script for Creating Drafts
 
-The following script can be used on the `sh` server to safely package Markdown and create a draft via the API:
+The following script can be used on the local machine to safely package Markdown and create a draft via the public API:
 
 ```python
 import json
 import urllib.request
 import base64
 import sys
+import os
 
-# Usage: python3 create_draft.py TOKEN "Campaign Name" "Subject" body.md
-def create_draft(token, name, subject, body_path):
+# Usage: python3 create_draft.py "Campaign Name" "Subject" body.md
+def create_draft(name, subject, body_path):
     with open(body_path, "r") as f:
         body = f.read()
 
@@ -125,12 +125,14 @@ def create_draft(token, name, subject, body_path):
         "content_type": "markdown",
         "body": body,
         "template_id": 4,
-        "status": "draft"
+        "status": "draft",
+        "attribs": {"trackClicks": True, "trackViews": True}
     }
 
+    token = os.environ["LISTMONK_TOKEN"]
     auth = base64.b64encode(f"listmonkapi:{token}".encode()).decode()
     req = urllib.request.Request(
-        "http://localhost:9000/api/campaigns",
+        "https://list.italysd.com/api/campaigns",
         data=json.dumps(payload).encode(),
         headers={
             "Content-Type": "application/json",
@@ -146,10 +148,10 @@ def create_draft(token, name, subject, body_path):
         print(f"Error: {e}")
 
 if __name__ == "__main__":
-    if len(sys.argv) < 5:
-        print("Usage: python3 create_draft.py <token> <name> <subject> <body_file>")
+    if len(sys.argv) < 4:
+        print("Usage: python3 create_draft.py <name> <subject> <body_file>")
     else:
-        create_draft(sys.argv[1], sys.argv[2], sys.argv[3], sys.argv[4])
+        create_draft(sys.argv[1], sys.argv[2], sys.argv[3])
 ```
 
 ## High-Risk Areas

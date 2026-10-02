@@ -19,6 +19,7 @@ subtitle: Italian classes in person across San Diego County and online via Zoom
 </section>
 
 <nav class="adult-jump-links" aria-label="Adult classes page sections">
+  <a href='{{< relref "adults.md" >}}#our-method'>Our method</a>
   <a href='{{< relref "adults.md" >}}#fall-2026'>Fall group classes</a>
   <a href='{{< relref "adults.md" >}}#course-levels'>Choose your level</a>
   <a href='{{< relref "adults.md" >}}#encinitas'>Encinitas classes</a>
@@ -26,22 +27,32 @@ subtitle: Italian classes in person across San Diego County and online via Zoom
   <a href='{{< relref "adults.md" >}}#policies'>Policies and discounts</a>
 </nav>
 
-<p class="adult-location-note"><strong>In-person classes:</strong> Most classes meet at our school at <a href='{{< relref "location.md" >}}'>4550 Kearny Villa Rd, Suite 202</a> in Kearny Mesa. Friday classes meet at our <a href='{{< relref "italian-classes-encinitas.md" >}}'>Encinitas location</a>.</p>
+<p class="adult-location-note"><strong>In-person classes:</strong> Most classes meet at our school at <a href='{{< relref "location.md" >}}'>4550 Kearny Villa Rd, Suite 202</a> in Kearny Mesa. Some Friday classes meet at our <a href='{{< relref "italian-classes-encinitas.md" >}}'>Encinitas location</a>.</p>
+
+## How our adult Italian group classes work {#our-method}
+
+Our group classes put speaking and listening at the center. Each lesson begins with a short oral review, then gives students guided opportunities to use Italian in practical situations.
+
+Grammar is introduced in manageable steps, generally one new concept at a time, with a focus on common use. Textbooks provide structure where appropriate, and teachers add videos, songs, articles, and games to make practice varied and connected to Italian life.
+
+Teachers encourage participation and treat mistakes as a normal part of learning. Beginners receive more English support; Italian becomes a larger part of the lesson as students advance.
+
+Between lessons, we encourage about 20 minutes of daily review. Teachers aim to email a recap within a couple of days, with the material covered, suggested exercises, and videos or readings for further practice. Recaps also help students who missed a class keep up.
 
 ## Fall 2026 group classes {#fall-2026}
 
-The Fall session runs from **August 17 to December 19, 2026**, with classes in Kearny Mesa, new Friday classes in Encinitas, and online classes via Zoom.
+Fall classes run from **August 17 to December 23, 2026**, depending on the section, with classes in Kearny Mesa, Friday classes in Encinitas, and online classes via Zoom.
 
 <dl class="adult-session-facts">
   <div>
     <dt>Session</dt>
-    <dd>13–16 weeks</dd>
-    <span>Varies by section</span>
+    <dd>Varies by section</dd>
+    <span>See each class schedule</span>
   </div>
   <div>
     <dt>Class length</dt>
-    <dd>90 minutes</dd>
-    <span>One class each week</span>
+    <dd>40–90 minutes</dd>
+    <span>One or two classes each week</span>
   </div>
   <div>
     <dt>Formats</dt>
@@ -53,6 +64,8 @@ The Fall session runs from **August 17 to December 19, 2026**, with classes in K
 ## Weekly class schedule {#weekly-schedule}
 
 Scan by day, then use the level guides below for full dates, tuition, holidays, and enrollment.
+
+<p><strong>New October beginner options:</strong> Friday evenings in Kearny Mesa and two online lunchtime schedules. <a href='{{< relref "news/beginner-italian-classes-san-diego-october-2026.md" >}}'>See the October schedules, prices, and enrollment</a>.</p>
 
 <div class="adult-schedule-grid">
   <article class="adult-day-card">
@@ -74,6 +87,10 @@ Scan by day, then use the level guides below for full dates, tuition, holidays, 
   <article class="adult-day-card">
     <h3 id="tuesday-classes">Tuesday</h3>
     <div class="adult-class-row">
+      <div><strong>Beginner and beginner-intermediate</strong><span class="adult-format adult-format-online">Online</span></div>
+      <p><span>12:00–12:40 PM</span><small>From October 13 · also Thursday</small></p>
+    </div>
+    <div class="adult-class-row">
       <div><strong>Intermediate</strong><span class="adult-format adult-format-online">Online</span></div>
       <p><span>6:00–7:30 PM</span><small>Tania</small></p>
     </div>
@@ -82,6 +99,10 @@ Scan by day, then use the level guides below for full dates, tuition, holidays, 
   <article class="adult-day-card">
     <h3 id="wednesday-classes">Wednesday</h3>
     <div class="adult-class-row">
+      <div><strong>Beginner and beginner-intermediate</strong><span class="adult-format adult-format-online">Online</span></div>
+      <p><span>12:00–1:00 PM</span><small>From October 14 · 10 classes</small></p>
+    </div>
+    <div class="adult-class-row">
       <div><strong>Beginner</strong><span class="adult-format adult-format-in-person">Kearny Mesa</span></div>
       <p><span>6:15–7:45 PM</span><small>Ambra</small></p>
     </div>
@@ -89,6 +110,10 @@ Scan by day, then use the level guides below for full dates, tuition, holidays, 
 
   <article class="adult-day-card">
     <h3 id="thursday-classes">Thursday</h3>
+    <div class="adult-class-row">
+      <div><strong>Beginner and beginner-intermediate</strong><span class="adult-format adult-format-online">Online</span></div>
+      <p><span>12:00–12:40 PM</span><small>From October 15 · also Tuesday</small></p>
+    </div>
     <div class="adult-class-row">
       <div><strong>Beginner–Intermediate</strong><span class="adult-format adult-format-in-person">Kearny Mesa</span></div>
       <p><span>6:30–8:00 PM</span><small>Daniela</small></p>
@@ -104,7 +129,11 @@ Scan by day, then use the level guides below for full dates, tuition, holidays, 
   </article>
 
   <article class="adult-day-card">
-    <h3 id="friday-classes">Friday · Encinitas</h3>
+    <h3 id="friday-classes">Friday</h3>
+    <div class="adult-class-row">
+      <div><strong>Beginner</strong><span class="adult-format adult-format-in-person">Kearny Mesa</span></div>
+      <p><span>6:30–8:00 PM</span><small>From October 16 · 9 classes</small></p>
+    </div>
     <div class="adult-class-row">
       <div><strong>Beginner</strong><span class="adult-format adult-format-encinitas">Encinitas</span></div>
       <p><span>6:00–7:30 PM</span><small>From September 18 · full</small></p>
@@ -217,7 +246,7 @@ Scan by day, then use the level guides below for full dates, tuition, holidays, 
   </details>
   <details>
     <summary id="payment-plans">Payment plans</summary>
-    <p>We offer monthly payment plans consisting of <strong>5 payments</strong>. Plans include a 10% administrative fee and are not monthly enrollments. Enrollment commits you to all 5 payments for the full 15- or 16-class course.</p>
+    <p>Monthly payment plans include a 10% administrative fee and commit you to every payment for the selected course. The number of payments varies by section; see each class page for the exact amount and schedule.</p>
   </details>
   <details>
     <summary id="cancellation">Cancellation and refunds</summary>

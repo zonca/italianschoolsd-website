@@ -4,17 +4,18 @@
 {{- $installments := .Get "installments" | default "5" -}}
 {{- $book := .Get "book" -}}
 {{- $bookLabel := .Get "bookLabel" | default "Textbook" -}}
+{{- $es := eq (.Get "lang") "es" -}}
 <div class="checkout-options" aria-label="Enrollment options">
   <form class="checkout-card checkout-card-full" action="/.netlify/functions/create-checkout-session" method="POST">
     <input type="hidden" name="classId" value="{{ $class }}">
     <input type="hidden" name="paymentType" value="full">
     <div class="checkout-field">
-      <label class="checkout-label" for="family-{{ $class }}-full">Students in this family</label>
+      <label class="checkout-label" for="family-{{ $class }}-full">{{ if $es }}Estudiantes de esta familia{{ else }}Students in this family{{ end }}</label>
       <select class="checkout-select" id="family-{{ $class }}-full" name="familyMemberCount">
-        <option value="1">1 student</option>
-        <option value="2">2 students, same family</option>
-        <option value="3">3 students, same family</option>
-        <option value="4">4 students, same family</option>
+        <option value="1">{{ if $es }}1 estudiante{{ else }}1 student{{ end }}</option>
+        <option value="2">{{ if $es }}2 estudiantes, misma familia{{ else }}2 students, same family{{ end }}</option>
+        <option value="3">{{ if $es }}3 estudiantes, misma familia{{ else }}3 students, same family{{ end }}</option>
+        <option value="4">{{ if $es }}4 estudiantes, misma familia{{ else }}4 students, same family{{ end }}</option>
       </select>
     </div>
     {{- if $book -}}
@@ -29,7 +30,7 @@
         </select>
       </div>
     {{- end -}}
-    <button type="submit" class="checkout-button"><span>Pay in Full</span><strong>${{ $full }}</strong></button>
+    <button type="submit" class="checkout-button"><span>{{ if $es }}Pago completo{{ else }}Pay in Full{{ end }}</span><strong>${{ $full }}</strong></button>
   </form>
   {{- if $monthly -}}
   <form class="checkout-card checkout-card-monthly" action="/.netlify/functions/create-checkout-session" method="POST">
@@ -46,9 +47,9 @@
     {{- end -}}
     <label class="checkout-commitment" for="commitment-{{ $class }}-monthly">
       <input id="commitment-{{ $class }}-monthly" type="checkbox" name="monthlyCommitmentAccepted" required>
-      <span>I understand the monthly plan includes a 10% administrative fee and commits me to all {{ $installments }} payments.</span>
+      <span>{{ if $es }}Entiendo que el plan mensual incluye un cargo administrativo del 10% y me compromete a realizar los {{ $installments }} pagos.{{ else }}I understand the monthly plan includes a 10% administrative fee and commits me to all {{ $installments }} payments.{{ end }}</span>
     </label>
-    <button type="submit" class="checkout-button"><span>Monthly Plan</span><strong>{{ $installments }} x ${{ $monthly }}</strong><small>1 student</small></button>
+    <button type="submit" class="checkout-button"><span>{{ if $es }}Plan mensual{{ else }}Monthly Plan{{ end }}</span><strong>{{ $installments }} x ${{ $monthly }}</strong><small>{{ if $es }}1 estudiante{{ else }}1 student{{ end }}</small></button>
   </form>
   {{- end -}}
   <p class="checkout-note">
@@ -57,7 +58,7 @@
     {{- else if $book -}}
       Stripe will show the final line items, including any selected books.
     {{- else if $monthly -}}
-      Stripe will show the final line items. Monthly checkout is for 1 student.
+      {{ if $es }}Stripe mostrará el detalle final antes del pago. El plan mensual es para 1 estudiante.{{ else }}Stripe will show the final line items. Monthly checkout is for 1 student.{{ end }}
     {{- else -}}
       Stripe will show the final line items before payment.
     {{- end -}}
