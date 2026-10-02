@@ -10,7 +10,7 @@ Tuition payment is due in 1 payment by the deadline listed on the enrollment pag
 
 > **Tuition is prorated for the remaining classes at the regular rate. A one-time $200 late enrollment fee per student applies to enrollments after October 1, 2026.**
 
-The late enrollment fee covers the additional work of adding a student to an existing class. It applies from October 2, 2026; enrollments completed on or before October 1, 2026 do not incur this fee.
+The late enrollment fee covers the additional work of adding a student to an existing class.
 
 Kids and teen enrollment requests are accepted all year, pending availability. Please [contact us]({{< relref "contact.md" >}}) first to check availability and ensure the class fits your child's age and level.
 

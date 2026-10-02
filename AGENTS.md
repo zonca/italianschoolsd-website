@@ -34,6 +34,7 @@ Operational guide for AI/code agents working on `italianschoolsd-website`.
 - Use sentence case for all public-facing headings and page titles: capitalize only the first word and proper nouns. Never use title case such as `What You Will Practice`; write `What you will practice` instead.
 - Keep tone concise, clear, and service-oriented.
 - Late enrollment uses regular tuition prorated for remaining classes, plus the flat late enrollment fee after the cutoff specified in the canonical payment-policy page. Do not increase the tuition rates by a percentage. Display regular tuition as the basis for proration and list applicable fees separately. Read current amounts and cutoff dates from the canonical enrollment and payment-policy pages; news articles and examples should link there instead of duplicating them.
+- Preserve Andrea's exact cutoff wording in public copy and tracking notes. If he says "after October 1", write "after October 1"; do not replace or supplement it with "from October 2" or an inferred exemption window.
 
 ## Mandatory Verification
 
