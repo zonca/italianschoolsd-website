@@ -8,11 +8,13 @@ Tuition payment is due in 1 payment by the deadline listed on the enrollment pag
 
 ## Late enrollments {#late-enrollments}
 
-> **Late enrollment tuition is prorated based on the number of classes remaining. The published late-enrollment rates already include the 10% increase.**
+> **Tuition is prorated for the remaining classes at the regular rate. A one-time $200 late enrollment fee per student applies to enrollments after October 1, 2026.**
+
+The late enrollment fee covers the additional work of adding a student to an existing class. It applies from October 2, 2026; enrollments completed on or before October 1, 2026 do not incur this fee.
 
 Kids and teen enrollment requests are accepted all year, pending availability. Please [contact us]({{< relref "contact.md" >}}) first to check availability and ensure the class fits your child's age and level.
 
-**Late-enrollment tuition = published annual late-enrollment rate ÷ scheduled classes for the full year × remaining classes.** Use the applicable rate on the [kids enrollment page]({{< relref "enroll.md#tuition" >}}) or [high school credit enrollment page]({{< relref "enroll-high-school-credit.md#tuition" >}}). Those rates already include the increase; it is not added again. Applicable materials and curriculum alignment fees are listed separately on your invoice.
+**Prorated tuition = regular annual tuition ÷ scheduled classes for the full year × remaining classes.** Use the applicable rate on the [kids enrollment page]({{< relref "enroll.md#tuition" >}}) or [high school credit enrollment page]({{< relref "enroll-high-school-credit.md#tuition" >}}). There is no percentage increase for late enrollment. The late enrollment fee, applicable materials fees and applicable curriculum alignment fees are listed separately on your invoice.
 
 We will confirm placement and send an invoice with the exact prorated amount. Payment is due within one week of receiving the confirmation email. If you request a monthly payment plan, the 20% administrative fee applies; we will confirm the installment amounts and due dates before you commit. The standard eight-payment schedule below describes enrollment before the October-to-April installments begin.
 
