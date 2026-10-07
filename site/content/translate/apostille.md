@@ -46,11 +46,11 @@ If you are submitting a federal document, such as an FBI background check for an
 
 ---
 
-## 4. Our Translation Policy
+## 4. Our translation policy {#translation-policy}
 
 The Italian School of San Diego LLC is an educational institution. To keep our services secure, fast, and accessible, we operate under the following guidelines:
 
-*   **Digital Delivery Only:** All our certified translations are delivered digitally as secure, high-resolution certified PDFs. We do **not** offer physical printing or mailing services.
+*   **Delivery options:** Certified translations are available as secure, high-resolution PDFs. Printed originals with an original handwritten signature are also available for pickup or mailing within the United States for an additional fee. Select your preferred option in the translation request form.
 *   **Certificate of Accuracy:** We provide a formal Certificate of Accurate Translation signed by our school director, Maura D'Andrea.
 *   **No In-House Notarization:** We do **not** offer in-house notary services.
 
