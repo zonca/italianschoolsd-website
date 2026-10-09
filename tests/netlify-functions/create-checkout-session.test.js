@@ -191,12 +191,15 @@ test('World Languages classes support full payment and three monthly payments', 
   );
 });
 
+test('Lunchtime classes did not open and no longer accept checkout', () => {
+  assert.equal(CLASSES['oct-2026-wed-italian-lunch-beg'], undefined);
+  assert.equal(CLASSES['oct-2026-tue-thu-italian-lunch-beg'], undefined);
+});
+
 test('October Italian classes have matching tuition, installment plans, and return anchors', () => {
   const pagePath = '/news/2026/09/beginner-italian-classes-san-diego-october-2026/';
   const options = [
     ['oct-2026-fri-italian-beg-kearny', 34000, 9350, 'friday-kearny'],
-    ['oct-2026-wed-italian-lunch-beg', 32000, 8800, 'wednesday-lunch'],
-    ['oct-2026-tue-thu-italian-lunch-beg', 44000, 12100, 'tuesday-thursday-lunch'],
   ];
 
   for (const [classId, fullAmount, monthlyAmount, anchor] of options) {
