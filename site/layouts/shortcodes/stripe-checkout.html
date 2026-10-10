@@ -5,6 +5,7 @@
 {{- $book := .Get "book" -}}
 {{- $bookLabel := .Get "bookLabel" | default "Textbook" -}}
 {{- $es := eq (.Get "lang") "es" -}}
+{{- $disabled := .Get "disabled" -}}
 <div class="checkout-options" aria-label="Enrollment options">
   <form class="checkout-card checkout-card-full" action="/.netlify/functions/create-checkout-session" method="POST">
     <input type="hidden" name="classId" value="{{ $class }}">
@@ -30,7 +31,7 @@
         </select>
       </div>
     {{- end -}}
-    <button type="submit" class="checkout-button"><span>{{ if $es }}Pago completo{{ else }}Pay in Full{{ end }}</span><strong>${{ $full }}</strong></button>
+    <button type="submit" class="checkout-button"{{ if $disabled }} disabled style="opacity: 0.5; cursor: not-allowed;"{{ end }}><span>{{ if $es }}Pago completo{{ else }}Pay in Full{{ end }}</span><strong>${{ $full }}</strong></button>
   </form>
   {{- if $monthly -}}
   <form class="checkout-card checkout-card-monthly" action="/.netlify/functions/create-checkout-session" method="POST">
@@ -49,7 +50,7 @@
       <input id="commitment-{{ $class }}-monthly" type="checkbox" name="monthlyCommitmentAccepted" required>
       <span>{{ if $es }}Entiendo que el plan mensual incluye un cargo administrativo del 10% y me compromete a realizar los {{ $installments }} pagos.{{ else }}I understand the monthly plan includes a 10% administrative fee and commits me to all {{ $installments }} payments.{{ end }}</span>
     </label>
-    <button type="submit" class="checkout-button"><span>{{ if $es }}Plan mensual{{ else }}Monthly Plan{{ end }}</span><strong>{{ $installments }} x ${{ $monthly }}</strong><small>{{ if $es }}1 estudiante{{ else }}1 student{{ end }}</small></button>
+    <button type="submit" class="checkout-button"{{ if $disabled }} disabled style="opacity: 0.5; cursor: not-allowed;"{{ end }}><span>{{ if $es }}Plan mensual{{ else }}Monthly Plan{{ end }}</span><strong>{{ $installments }} x ${{ $monthly }}</strong><small>{{ if $es }}1 estudiante{{ else }}1 student{{ end }}</small></button>
   </form>
   {{- end -}}
   <p class="checkout-note">

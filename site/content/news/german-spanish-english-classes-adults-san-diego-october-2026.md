@@ -28,7 +28,7 @@ Build a practical foundation in German through conversation, listening, vocabula
 - **Enroll by:** October 8, 2026
 - **Textbook:** Details will be provided before the first class
 
-{{< stripe-checkout class="oct-2026-tue-german-beg" full="380" monthly="139.40" installments="3" >}}
+{{< stripe-checkout class="oct-2026-tue-german-beg" full="380" monthly="139.40" installments="3" disabled="true" >}}
 
 Learn more on the [adult German classes in San Diego](/german-classes-san-diego/) page.
 
