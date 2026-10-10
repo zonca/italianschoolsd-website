@@ -136,59 +136,10 @@ test('Wednesday Fall Beginner has a valid checkout catalog entry', () => {
   );
 });
 
-test('World Languages classes support full payment and three monthly payments', () => {
-  const spanish = CLASSES['oct-2026-tue-spanish-beg'];
-  const german = CLASSES['oct-2026-tue-german-beg'];
-  const english = CLASSES['oct-2026-tue-english-spanish'];
-
-  assert.equal(spanish.fullAmount, 38000);
-  assert.equal(spanish.monthlyAmount, 13940);
-  assert.equal(spanish.monthlyInstallments, 3);
-  assert.equal(spanish.anchor, 'spanish');
-  assert.equal(german.fullAmount, 38000);
-  assert.equal(german.monthlyAmount, 13940);
-  assert.equal(german.monthlyInstallments, 3);
-  assert.equal(german.anchor, 'german');
-  assert.equal(english.fullAmount, 38000);
-  assert.equal(english.monthlyAmount, 13940);
-  assert.equal(english.monthlyInstallments, 3);
-  assert.equal(english.anchor, 'inscripcion');
-  assert.equal(english.pagePath, '/news/2026/09/clases-de-ingles-para-adultos-hispanohablantes-octubre-2026/');
-
-  const params = _test.buildCheckoutParams({
-    selectedClass: spanish,
-    paymentType: 'full',
-    familyMemberCount: 1,
-    origin: ORIGIN,
-  });
-
-  assert.equal(params.get('line_items[0][price_data][unit_amount]'), '38000');
-  assert.equal(
-    params.get('success_url'),
-    `${ORIGIN}/news/2026/09/german-spanish-english-classes-adults-san-diego-october-2026/?checkout=success#spanish`
-  );
-  const monthlyParams = _test.buildCheckoutParams({
-    selectedClass: spanish,
-    paymentType: 'monthly',
-    monthlyCommitmentAccepted: true,
-    origin: ORIGIN,
-  });
-
-  assert.equal(monthlyParams.get('line_items[0][price_data][unit_amount]'), '13940');
-  assert.equal(monthlyParams.get('metadata[installments_total]'), '3');
-  assert.equal(monthlyParams.get('metadata[cancel_after_months]'), '3');
-  assert.equal(monthlyParams.get('subscription_data[metadata][installments_total]'), '3');
-  assert.equal(monthlyParams.get('subscription_data[metadata][cancel_after_months]'), '3');
-  assert.equal(
-    _test.validateSelection({
-      classId: 'oct-2026-tue-spanish-beg',
-      paymentType: 'monthly',
-      familyMemberCount: 1,
-      bookQuantity: 0,
-      monthlyCommitmentAccepted: true,
-    }).error,
-    undefined
-  );
+test('Tuesday World Languages classes did not open and no longer accept checkout', () => {
+  assert.equal(CLASSES['oct-2026-tue-spanish-beg'], undefined);
+  assert.equal(CLASSES['oct-2026-tue-german-beg'], undefined);
+  assert.equal(CLASSES['oct-2026-tue-english-spanish'], undefined);
 });
 
 test('Lunchtime classes did not open and no longer accept checkout', () => {
