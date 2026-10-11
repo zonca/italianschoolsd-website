@@ -40,6 +40,7 @@ A photo strip is a narrow layout combining several photos into one design. Choos
 
 **Party speaker with wireless microphone**, available as an optional extra, quoted separately. Request it with either photo booth package.
 
+- 650 watts maximum audio power
 - Bluetooth music playback and a wireless microphone
 - Adjustable speaker stand, wheels, and a telescoping handle
 - Colorful lighting with companion app controls
