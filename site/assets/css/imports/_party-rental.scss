@@ -1,0 +1,41 @@
+/* All rental styles are scoped to this page. */
+.party-rental {
+  color: #163049; background: #fff;
+  .party-wrap { max-width: 1100px; margin: auto; padding: 0 24px; }
+  .party-hero { background: linear-gradient(135deg,#edf7ff,#f9fcff 65%,#e8f3fa); padding: 72px 0; }
+  .party-hero-grid { display: grid; grid-template-columns: 1.5fr 1fr; align-items: center; gap: 64px; }
+  h1 { font-size: clamp(2.4rem,5vw,4rem); font-weight: 700; line-height: 1.08; letter-spacing: -.035em; margin: 14px 0 24px; }
+  p { line-height: 1.65; }
+  .party-lead { font-size: 1.45rem; margin-bottom: 20px; }
+  .party-eyebrow { font-size: .8rem; font-weight: 700; letter-spacing: .12em; text-transform: uppercase; color: #0064aa; }
+  .btn { margin-top: 18px; white-space: normal; text-align: center; }
+  .party-art { margin: 0; text-align: center; }
+  .party-strip { width: 190px; margin: 0 auto 22px; padding: 14px; background: white; transform: rotate(7deg); box-shadow: 0 16px 42px #16304924; border-radius: 3px; }
+  .party-frame { height: 95px; margin-bottom: 10px; background: linear-gradient(140deg,#0064aa,#59b4ce); display:flex; align-items:center; justify-content:center; gap:16px; color:#fff; font-size:38px; }
+  .party-frame:nth-child(2) { background:linear-gradient(140deg,#e1a270,#f6d7ae); }
+  .party-frame:nth-child(3) { background:linear-gradient(140deg,#416b7f,#96c5b6); }
+  .party-strip p { font-size:14px; margin:12px 0 4px; font-weight:700; }
+  .party-strip small { font-size:10px; font-weight:400; }
+  figcaption { font-size:.78rem; color:#496477; }
+  .party-packages { padding:64px 0 40px; }
+  .party-packages h2 { font-size:2.15rem; margin:10px 0 16px; }
+  .party-section-intro { margin-bottom:30px; }
+  .party-card-grid { display:grid; grid-template-columns:1fr 1fr; gap:28px; }
+  .party-card { border:1px solid #c9dce9; border-radius:18px; padding:32px; box-shadow:0 8px 28px #16304908; display:flex; flex-direction:column; }
+  .party-card:last-child { border:2px solid #0064aa; background:#f6fbff; }
+  .party-label { font-size:.8rem; color:#0064aa; font-weight:700; margin:0 0 12px; }
+  .party-card h3 { font-size:1.55rem; margin:0 0 16px; }
+  .party-price { font-size:3.3rem; font-weight:700; letter-spacing:-.04em; margin:0 0 10px; line-height:1.2; }
+  .party-price span { font-size:.9rem; font-weight:400; letter-spacing:0; color:#496477; }
+  .party-tagline { min-height:52px; margin:0 0 20px; }
+  .party-card ul { padding:0; list-style:none; margin:0 0 24px; flex:1; }
+  .party-card li { position:relative; padding:10px 0 10px 25px; margin:0; border-bottom:1px solid #dce8ef; line-height:1.5; }
+  .party-card li:before { content:"✓"; position:absolute; left:0; color:#0064aa; font-weight:700; }
+  .party-card .btn { width:100%; box-sizing:border-box; }
+  .party-price-note { color:#496477; font-size:.9rem; margin:24px 0 0; }
+  .party-details { max-width:800px; margin:0 auto; padding:8px 0; }
+  .party-details h2 { font-size:1.7rem; margin-top:44px; }
+  .party-request { max-width:800px; margin:auto; padding:0 0 72px; }
+  a:focus-visible { outline:3px solid #ba681d; outline-offset:4px; }
+  @media (max-width:700px) { .party-hero { padding:42px 0; } .party-hero-grid,.party-card-grid { grid-template-columns:1fr; gap:28px; } .party-art { padding:20px 0 0; } .party-card { padding:24px; } .party-packages { padding-top:44px; } .party-tagline { min-height:0; } }
+}

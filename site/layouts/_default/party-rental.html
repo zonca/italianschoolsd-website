@@ -1,0 +1,24 @@
+{{ define "main" }}
+<article class="party-rental">
+  <header class="party-hero">
+    <div class="party-wrap party-hero-grid">
+      <div><p class="party-eyebrow">Italian School of San Diego</p><h1>{{ .Title }}</h1><p class="party-lead">A photo booth. Your people. Memories to keep.</p><p>{{ .Params.intro }}</p><a class="btn btn-cta" href="{{ .RelPermalink }}#photo-booth-packages">Explore the packages</a></div>
+      <figure class="party-art" aria-label="Illustrative custom photo strip design example">
+        <div class="party-strip" aria-hidden="true"><div class="party-frame"><span>✦</span><span>✧</span></div><div class="party-frame"><span>✧</span><span>✦</span></div><div class="party-frame"><span>✦</span><span>✧</span></div><p>Your celebration<br><small>Your custom design</small></p></div>
+        <figcaption>Custom photo-strip design example</figcaption>
+      </figure>
+    </div>
+  </header>
+  <div class="party-wrap cms">
+    <section class="party-packages" aria-labelledby="photo-booth-packages">
+      <p class="party-eyebrow">Two ways to celebrate</p><h2 id="photo-booth-packages">Photo booth packages</h2><p class="party-section-intro">Your design. Your choice of backdrop. Everything ready for your guests.</p>
+      <div class="party-card-grid">{{ range .Params.packages }}
+        <section class="party-card"><p class="party-label">{{ if eq .key "digital" }}Self-serve{{ else }}With an attendant{{ end }}</p><h3>{{ .title }}</h3><p class="party-price">${{ .price }} <span>total</span></p><p class="party-tagline">{{ .tagline }}</p><ul>{{ range .features }}<li>{{ . }}</li>{{ end }}</ul><a class="btn btn-cta" href="https://italianschoolsd.secureform.dev/party-rental/?package={{ .key }}">Request this package</a></section>
+      {{ end }}</div>
+      <p class="party-price-note">Up to four hours. City of San Diego delivery, setup, and collection. Prices include any applicable tax.</p>
+    </section>
+    <div class="party-details">{{ .Content }}</div>
+    <div class="party-request"><a class="btn btn-cta" href="https://italianschoolsd.secureform.dev/party-rental/">Request a rental quote</a></div>
+  </div>
+</article>
+{{ end }}

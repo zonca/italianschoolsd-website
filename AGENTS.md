@@ -162,3 +162,10 @@ if __name__ == "__main__":
 - Global template changes in `site/layouts/_default/single.html` affect many pages.
 - Global typography/list rules in `site/assets/css/imports/` affect the whole site.
 - Keep global CSS changes minimal and targeted.
+
+## Party rental
+
+- The canonical offering and current package totals live in `site/content/san-diego-party-rental.md`. Synchronize the rental form with this page when the offering changes.
+- Advertise fixed package totals without "from". Describe the digital package positively as self-serve. Both packages include a custom photo-strip design, choice of available backdrops, and a backdrop stand.
+- Keep one rental landing page. Use permanent `/party` redirects rather than a separate photo booth subpage.
+- The optional speaker's public name is "Party speaker with wireless microphone". Never publish its brand or model, or advertise equipment planned for future purchase.

@@ -67,3 +67,15 @@
   to = "/world-languages/"
   status = 301
   force = true
+
+[[redirects]]
+  from = "/party"
+  to = "/san-diego-party-rental/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/party/"
+  to = "/san-diego-party-rental/"
+  status = 301
+  force = true
