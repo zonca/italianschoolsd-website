@@ -16,7 +16,7 @@ Three new Italian classes for adults start in October 2026. Choose a Friday even
 - **Tuition:** $340 in full ($37.78 per class, $25.19 per hour), or four monthly payments of $93.50 ($374 total, including a 10% administrative fee)
 - **Optional textbook:** *The New Italian Project 1a*. The physical book is $49 plus $3.80 California sales tax, $52.80 total at the San Diego rate. Stripe calculates the applicable tax at checkout.
 
-{{< stripe-checkout class="oct-2026-fri-italian-beg-kearny" full="340" monthly="93.50" installments="4" book="project1a" bookLabel="Textbook" >}}
+{{< stripe-checkout class="oct-2026-fri-italian-beg-kearny" full="340" monthly="93.50" installments="4" book="project1a" bookLabel="Textbook" disabled="true" >}}
 
 ## Wednesday online lunchtime Italian {#wednesday-lunch}
 

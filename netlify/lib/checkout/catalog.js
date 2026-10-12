@@ -145,18 +145,6 @@ const CLASSES = {
     monthlyInstallments: 4,
     bookId: 'project1b',
   },
-  'oct-2026-fri-italian-beg-kearny': {
-    id: 'oct-2026-fri-italian-beg-kearny',
-    name: 'October-December 2026 Beginner Italian Friday Kearny Mesa',
-    level: 'Beginner',
-    format: 'In person',
-    pagePath: '/news/2026/09/beginner-italian-classes-san-diego-october-2026/',
-    anchor: 'friday-kearny',
-    fullAmount: 34000,
-    monthlyAmount: 9350,
-    monthlyInstallments: 4,
-    bookId: 'project1a',
-  },
 };
 
 module.exports = {
