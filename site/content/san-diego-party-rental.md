@@ -1,44 +1,45 @@
 ---
 title: San Diego party rental
-description: Photo booth rental in San Diego with custom photo-strip designs, a choice of backdrops, and digital or unlimited-print packages.
+description: Self-serve digital photo booth rental in San Diego with personalized photo strips, text, email and WhatsApp sharing, props, and an optional party speaker.
 layout: party-rental
 intro: We use this equipment for our own events at the Italian School of San Diego and also offer it for private parties, weddings, and other events.
+speaker_price: 75
+card_fee_percent: 3
 packages:
   - key: digital
     title: Digital photo booth
     price: 300
-    tagline: A self-serve experience for your celebration.
+    tagline: A self-serve experience, personalized for your celebration.
     features:
-      - Up to four hours of photo booth rental
       - Self-serve photo booth
-      - Digital photos
-      - Custom photo-strip design personalized for your event
-      - Choose between available backdrops
-      - Backdrop stand included
+      - Digital photos only; no printed photos or photo strips
+      - Photo sharing by text message, email, and WhatsApp (internet connection required)
+      - Custom digital photo-strip design personalized for your event
+      - Choose between available backdrops or use your own
+      - Backdrop support stand included
+      - Photo props included
+      - Digital album of your event photos afterward
       - Delivery, setup, and collection within the City of San Diego
-  - key: prints
-    title: Photo booth with prints
-    price: 550
-    tagline: Keepsakes for your guests, with an attendant on site.
-    features:
-      - Up to four hours of photo booth rental
-      - On-site photo booth attendant
-      - Digital photos and unlimited printed photo strips during your rental
-      - Custom photo-strip design personalized for your event
-      - Choose between available backdrops
-      - Backdrop stand included
-      - Delivery, setup, and collection within the City of San Diego
+      - Afternoon drop-off; pickup that night or the next morning, as agreed
 ---
 
 ## Made for your celebration {#your-celebration}
 
-A birthday, a wedding, a gathering with friends: give your guests a space to take photos and make memories. Both packages include a custom photo-strip design, personalized with your event's style, plus a choice of available backdrops and a backdrop stand.
+Give your guests a space to take photos, share them, and make memories. Your rental includes a custom digital photo-strip design, personalized with your event's style, plus props and a backdrop support stand. Choose between available backdrops or use your own.
 
-A photo strip is a narrow layout combining several photos into one design. Choose digital photos or printed strips your guests can take home.
+A digital photo strip combines several photos into one design. Guests can receive their photos by text message, email, or WhatsApp, with an internet connection. You receive a digital album of your event photos afterward.
+
+**Digital photos only. No printed photos or photo strips.**
+
+## Drop-off and pickup {#drop-off-and-pickup}
+
+We deliver and set up the photo booth in the afternoon. Pickup is that night or the next morning, as agreed. Delivery, setup, and collection within the City of San Diego are included.
+
+The photo booth is self-serve during your event. We confirm the arrangements with you before your booking is finalized.
 
 ## Add sound to your party {#party-speaker}
 
-**Party speaker with wireless microphone**, available as an optional extra, quoted separately. Request it with either photo booth package.
+**Party speaker with wireless microphone: $75**, available as an optional add-on to your photo booth rental. The photo booth and speaker together are **$375 total** before any credit card fee.
 
 - 650 watts maximum audio power
 - Bluetooth music playback and a wireless microphone
@@ -48,10 +49,19 @@ A photo strip is a narrow layout combining several photos into one design. Choos
 - Wired audio, microphone, and instrument connections
 - Mains power required
 
+## Payment options {#payment-options}
+
+Pay by **Zelle to pay@italianschoolsd.com with no additional fee**, or by **credit card with a 3% fee**.
+
+| Your rental | Zelle total | Credit card total |
+| --- | ---: | ---: |
+| Digital photo booth | $300 | $309 |
+| Digital photo booth with speaker | $375 | $386.25 |
+
+All totals include any applicable tax. Availability and event details are confirmed before booking; submitting an inquiry does not take payment.
+
 ## Request a rental quote {#request-a-quote}
 
-Tell us your event date, venue, and preferred package. You can also request the speaker and share your ideas for the photo-strip design and backdrop.
+Tell us your event date and venue. You can add the speaker and share your design ideas, backdrop preferences, or other requests.
 
-Package prices are totals, including any applicable tax, for up to four hours within the City of San Diego. Events outside the city, longer rentals, and the optional speaker are quoted separately.
-
-We will confirm availability and the final quote before your booking is confirmed.
+We will confirm availability, drop-off and pickup arrangements, and the final quote before your booking is confirmed. Events outside the City of San Diego are quoted separately.
