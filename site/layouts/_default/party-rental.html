@@ -3,9 +3,12 @@
   <header class="party-hero">
     <div class="party-wrap party-hero-grid">
       <div><p class="party-eyebrow">Italian School of San Diego</p><h1>{{ .Title }}</h1><p class="party-lead">Photos to share. Memories to keep.</p><p>{{ .Params.intro }}</p><a class="btn btn-cta" href="{{ .RelPermalink }}#photo-booth-packages">See the package</a></div>
-      <figure class="party-art" aria-label="Illustrative digital photo-strip design example">
-        <div class="party-strip" aria-hidden="true"><div class="party-frame"><span>✦</span><span>✧</span></div><div class="party-frame"><span>✧</span><span>✦</span></div><div class="party-frame"><span>✦</span><span>✧</span></div><p>Your celebration<br><small>Your custom design</small></p></div>
-        <figcaption>Digital photo-strip design example</figcaption>
+      <figure class="party-art">
+        {{ $image := resources.Get "img/party-rental-digital-photo-booth.jpeg" }}
+        {{ $large := $image.Resize "900x webp q85" }}
+        {{ $small := $image.Resize "450x webp q85" }}
+        <img src="{{ $large.RelPermalink }}" srcset="{{ $small.RelPermalink }} 450w, {{ $large.RelPermalink }} 900w" sizes="(max-width: 700px) calc(100vw - 48px), 440px" width="{{ $large.Width }}" height="{{ $large.Height }}" alt="Illustration of guests enjoying a digital photo booth, with props and a custom digital photo-strip design" fetchpriority="high" decoding="async">
+        <figcaption>Illustrative party scene with a custom digital photo-strip design</figcaption>
       </figure>
     </div>
   </header>

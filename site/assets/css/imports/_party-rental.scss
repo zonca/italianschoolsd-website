@@ -3,20 +3,14 @@
   color: #163049; background: #fff;
   .party-wrap { max-width: 1100px; margin: auto; padding: 0 24px; }
   .party-hero { background: linear-gradient(135deg,#edf7ff,#f9fcff 65%,#e8f3fa); padding: 72px 0; }
-  .party-hero-grid { display: grid; grid-template-columns: 1.5fr 1fr; align-items: center; gap: 64px; }
+  .party-hero-grid { display: grid; grid-template-columns: 1.2fr 1fr; align-items: center; gap: 48px; }
   h1 { font-size: clamp(2.4rem,5vw,4rem); font-weight: 700; line-height: 1.08; letter-spacing: -.035em; margin: 14px 0 24px; }
   p { line-height: 1.65; }
   .party-lead { font-size: 1.45rem; margin-bottom: 20px; }
   .party-eyebrow { font-size: .8rem; font-weight: 700; letter-spacing: .12em; text-transform: uppercase; color: #0064aa; }
   .btn { margin-top: 18px; white-space: normal; text-align: center; }
   .party-art { margin: 0; text-align: center; }
-  .party-strip { width: 190px; margin: 0 auto 22px; padding: 14px; background: white; transform: rotate(7deg); box-shadow: 0 16px 42px #16304924; border:8px solid #163049; border-radius:28px; }
-  .party-frame { height: 95px; margin-bottom: 10px; background: linear-gradient(140deg,#0064aa,#59b4ce); display:flex; align-items:center; justify-content:center; gap:16px; color:#fff; font-size:38px; }
-  .party-frame:nth-child(2) { background:linear-gradient(140deg,#e1a270,#f6d7ae); }
-  .party-frame:nth-child(3) { background:linear-gradient(140deg,#416b7f,#96c5b6); }
-  .party-strip:before { content:""; display:block; width:38px; height:5px; border-radius:5px; background:#163049; margin:0 auto 10px; }
-  .party-strip p { font-size:14px; margin:12px 0 4px; font-weight:700; }
-  .party-strip small { font-size:10px; font-weight:400; }
+  .party-art img { display:block; width:100%; max-width:440px; height:auto; margin:0 auto 16px; border-radius:24px; box-shadow:0 18px 48px #16304924; }
   figcaption { font-size:.78rem; color:#496477; }
   .party-packages { padding:64px 0 40px; }
   .party-packages h2 { font-size:2.15rem; margin:10px 0 16px; }
