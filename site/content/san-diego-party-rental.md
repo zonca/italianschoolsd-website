@@ -20,7 +20,8 @@ packages:
       - Photo props included
       - Digital album of your event photos afterward
       - Delivery, setup, and collection within the City of San Diego
-      - Afternoon drop-off; pickup that night or the next morning, as agreed
+      - Use for the full duration of your event, up to 8 hours
+      - Drop-off and pickup arranged around your event schedule
 ---
 
 ## Made for your celebration {#your-celebration}
@@ -33,7 +34,7 @@ A digital photo strip combines several photos into one design. Guests can receiv
 
 ## Drop-off and pickup {#drop-off-and-pickup}
 
-We deliver and set up the photo booth in the afternoon. Pickup is that night or the next morning, as agreed. Delivery, setup, and collection within the City of San Diego are included.
+Enjoy the photo booth for the full duration of your event, up to 8 hours. Drop-off, setup, and pickup are arranged around your event schedule. Delivery, setup, and collection within the City of San Diego are included.
 
 The photo booth is self-serve during your event. We confirm the arrangements with you before your booking is finalized.
 

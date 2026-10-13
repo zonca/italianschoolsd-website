@@ -18,7 +18,7 @@
       <div class="party-card-grid">{{ range .Params.packages }}
         <section class="party-card"><p class="party-label">Self-serve</p><h3>{{ .title }}</h3><p class="party-price">${{ .price }} <span>total</span></p><p class="party-tagline">{{ .tagline }}</p><ul>{{ range .features }}<li>{{ . }}</li>{{ end }}</ul><a class="btn btn-cta" href="https://italianschoolsd.secureform.dev/party-rental/?package={{ .key }}">Request this package</a></section>
       {{ end }}</div>
-      <p class="party-price-note">Afternoon drop-off; pickup that night or the next morning, as agreed. Prices include any applicable tax. Credit card payments add a 3% fee.</p>
+      <p class="party-price-note">Drop-off and pickup are arranged around your event schedule. Rental includes the full duration of your event, up to 8 hours. Prices include any applicable tax. Credit card payments add a 3% fee.</p>
     </section>
     <div class="party-details">{{ .Content }}</div>
     <div class="party-request"><a class="btn btn-cta" href="https://italianschoolsd.secureform.dev/party-rental/">Request a rental quote</a></div>
