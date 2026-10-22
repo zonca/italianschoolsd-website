@@ -58,7 +58,7 @@ Certified translations are available as secure PDFs. You can also request printe
 
 ## Translation examples {#examples}
 
-See how we preserve the numbered fields and structure of official documents in our [sample Italian marriage certificate translation]({{< ref "examples.md" >}}). The example features Giuseppe and Anita Garibaldi, with fictional administrative details and no client information.
+See how we preserve the numbered fields and structure of official documents in our [sample Italian marriage certificate translation]({{< relref "/translate/examples" >}}). The example features Giuseppe and Anita Garibaldi, with fictional administrative details and no client information.
 
 ## Submit a Request {#submit-request}
 
