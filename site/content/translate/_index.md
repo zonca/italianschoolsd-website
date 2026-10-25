@@ -58,7 +58,7 @@ Certified translations are available as secure PDFs. You can also request printe
 
 ## Sample translation {#sample}
 
-See a [sample marriage certificate translation]({{< ref "/translate/examples.md" >}}).
+See our [sample translations of a marriage certificate and a birth certificate]({{< ref "/translate/examples.md" >}}).
 
 ## Submit a Request {#submit-request}
 

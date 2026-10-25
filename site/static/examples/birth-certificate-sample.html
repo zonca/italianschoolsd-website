@@ -1,0 +1,365 @@
+<!doctype html>
+<html lang="it">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex,follow">
+<title>Sample translation - birth certificate, English to Italian</title>
+<style>
+  @page { size: A4; margin: 8mm; }
+  * { box-sizing: border-box; }
+  html, body { margin: 0; padding: 0; background: #fff; color: #000; }
+  body { font-family: Arial, Helvetica, sans-serif; font-size: 8.1pt; line-height: 1.08; }
+  .page {
+    width: 100%; height: 281mm; page-break-after: always; overflow: hidden;
+    border: 2px solid #000; padding: 6mm 6mm 5mm; position: relative;
+    background: #fff;
+  }
+  .page:last-child { page-break-after: auto; }
+  .scaled { position: static; width: auto; transform: none; }
+  .one .county, .two .county { margin-top: 2mm; }
+  .one .cert-title { margin-top: 4mm; }
+  .one .topnums, .two .topnums { margin-top: 1mm; }
+  .one table.form tr { height: 12mm !important; }
+  .one table.form tr:nth-child(7) { height: 14mm !important; }
+  .one table.form tr:nth-child(8), .one table.form tr:nth-child(9), .one table.form tr:nth-child(10) { height: 15mm !important; }
+  .one table.form td { padding: .7mm .8mm; }
+  .one .field-label { font-size: 5.5pt; }
+  .one .value { font-size: 8.5pt; margin-top: .7mm; }
+  .one .value.small { font-size: 7.2pt; }
+  .one .value.tiny { font-size: 6.4pt; }
+  .one .statement { font-size: 5.2pt; }
+  .one .footer-cert { margin-top: 3mm; padding: 0 4mm; }
+  .one .footer-grid { margin-top: 1.5mm; }
+  .one .validity { margin-top: 2mm; }
+  .one .code { margin-top: 1mm; }
+
+  .two .amend-title { margin-top: 3mm; font-size: 10pt; }
+  .two .warning { margin-top: 1mm; }
+  .two .instruction { margin-top: 1.5mm; padding: .7mm 0; }
+  .two .part { margin-top: .5mm; font-size: 8pt; }
+  .two .part .pnum, .two .part .ptitle { padding: .6mm; }
+  .two table.form { margin-top: .5mm; }
+  .two table.form tr { height: 11mm !important; }
+  .two table.form td { padding: .55mm .65mm; }
+  .two .field-label { font-size: 5.25pt; }
+  .two .value { font-size: 7.8pt; margin-top: .45mm; }
+  .two .value.small { font-size: 6.7pt; }
+  .two .side-block { font-size: 5.2pt; }
+  .two .affidavit, .two .registrar-cert { padding: 1mm; margin-top: .5mm; font-size: 5.8pt; }
+  .two .amend-footer { margin-top: 2mm; padding: 0 4mm; }
+  .two .footer-grid { margin-top: 1mm; }
+  .two .validity { margin-top: 1.5mm; }
+  .two .code { margin-top: .8mm; }
+
+  .state { text-align: center; font-size: 16pt; font-weight: 800; letter-spacing: .4pt; }
+  .vital { text-align: center; font-size: 9pt; font-weight: 700; letter-spacing: .8pt; margin-top: 1mm; }
+  .county { text-align: center; font-size: 18pt; font-weight: 800; margin-top: 5mm; }
+  .officer { text-align: center; font-size: 10pt; font-weight: 600; line-height: 1.05; }
+  .pagecount { text-align: center; font-size: 9pt; font-weight: 700; }
+  .cert-title { text-align: center; margin-top: 8mm; font-size: 13pt; font-weight: 800; line-height: 1.0; }
+  .cert-sub { text-align: center; font-size: 9pt; font-weight: 800; }
+  .topnums { display: grid; grid-template-columns: 1fr 1.25fr 1fr; gap: 5mm; align-items: end; margin-top: 2mm; }
+  .numline { border-bottom: 1.5px solid #000; text-align: center; min-height: 5mm; font-size: 11pt; font-weight: 700; }
+  .numlabel { text-align: center; font-size: 6.6pt; font-weight: 700; text-transform: uppercase; }
+  table.form { width: 100%; border-collapse: collapse; table-layout: fixed; margin-top: 2mm; }
+  table.form td { border: 1.2px solid #000; padding: 1.1mm 1.2mm; vertical-align: top; overflow: hidden; }
+  .field-label { font-size: 6.2pt; font-weight: 700; text-transform: uppercase; line-height: 1.02; }
+  .value { font-family: "Courier New", monospace; font-size: 10pt; font-weight: 700; margin-top: 1.3mm; line-height: 1.0; }
+  .value.small { font-size: 8.4pt; }
+  .value.tiny { font-size: 7.5pt; }
+  .vcell { width: 8mm; padding: 0 !important; position: relative; }
+  .vwrap { height: 100%; min-height: 17mm; display: flex; align-items: center; justify-content: center; overflow: hidden; }
+  .vtext { transform: rotate(-90deg); white-space: nowrap; font-size: 5.0pt; font-weight: 800; text-align: center; line-height: 1.02; }
+  .vtext.big { font-size: 8.5pt; letter-spacing: .5pt; }
+  .statement { font-size: 6.15pt; font-weight: 700; line-height: 1.08; }
+  .signature { font-size: 7pt; font-style: italic; margin-top: 1.5mm; }
+  .footer-cert { margin-top: 8mm; padding: 0 7mm; }
+  .certification-text { font-family: Georgia, "Times New Roman", serif; font-size: 8.3pt; font-weight: 700; line-height: 1.15; }
+  .footer-grid { display: grid; grid-template-columns: 1fr 1.5fr; gap: 8mm; margin-top: 3mm; align-items: end; }
+  .official-name { font-weight: 800; font-size: 8.5pt; }
+  .official-title { font-size: 7.4pt; }
+  .validity { font-family: Georgia, "Times New Roman", serif; font-size: 7.2pt; font-weight: 700; margin-top: 6mm; max-width: 72%; }
+  .code { text-align: center; font-family: "Courier New", monospace; font-size: 9pt; letter-spacing: 2pt; margin-top: 3mm; }
+  .void { position: absolute; bottom: 2.5mm; left: 0; right: 0; text-align: center; font-size: 7pt; font-weight: 800; }
+
+  /* pagina 2 */
+  .amend-title { text-align: center; margin-top: 8mm; font-size: 12pt; font-weight: 800; line-height: 1.03; }
+  .warning { text-align: center; margin-top: 3mm; font-size: 7.2pt; font-weight: 800; }
+  .instruction { border-top: 2px solid #000; border-bottom: 2px solid #000; text-align: center; font-size: 7.4pt; font-weight: 800; padding: 1.2mm 0; margin-top: 3mm; }
+  .part { display: flex; border-bottom: 2px solid #000; font-size: 9pt; font-weight: 800; margin-top: 1mm; }
+  .part .pnum { width: 17mm; padding: 1mm; }
+  .part .ptitle { flex: 1; padding: 1mm; }
+  .side-block { text-align: center; font-size: 6.2pt; font-weight: 800; line-height: 1.12; vertical-align: middle !important; }
+  .affidavit { border: 1.2px solid #000; padding: 2mm; font-size: 7.1pt; font-weight: 800; margin-top: 1mm; }
+  .registrar-cert { border: 1.2px solid #000; padding: 2mm; font-size: 6.8pt; font-weight: 800; margin-top: 1mm; }
+  .amend-footer { margin-top: 5mm; padding: 0 7mm; }
+
+.page::before { content:"ESEMPIO"; position:absolute; top:45%; left:50%; transform:translate(-50%,-50%) rotate(-30deg); font:700 120pt/1 Arial,sans-serif; letter-spacing:6pt; color:rgba(0,0,0,.045); pointer-events:none; white-space:nowrap; z-index:1; }
+.notice { position:absolute; top:2mm; left:3mm; width:26%; margin:0; font-family:Arial,sans-serif; font-size:6pt; line-height:1.25; color:#666; text-align:left; z-index:2; }
+.ourcert { break-before:page; page-break-before:always; font-family:Arial,sans-serif; color:#1a1a1a; font-size:10.5pt; line-height:1.45; padding-top:6mm; }
+.ourcert p { margin:0 0 8pt; }
+.ourcert .logo { width:1.12in; height:1.12in; }
+.ourcert h1 { font:700 17pt Georgia,serif; margin:14pt 0 12pt; }
+.ourcert a { color:inherit; text-decoration:none; }
+.ourcert .sigline { height:0.65in; margin:0; }
+@media screen {
+  html { background:#e9e9e9; }
+  body { padding:16px 0; }
+  .page, .ourcert { width:194mm; margin:0 auto 16px; box-shadow:0 1px 6px rgba(0,0,0,.18); }
+  .ourcert { background:#fff; padding:8mm 10mm; }
+}
+@media screen and (min-width:1150px) { body { zoom:1.35; } }
+@media screen and (max-width:859px) { body { zoom:.7; padding:8px 0; } }
+@media screen and (max-width:599px) { body { zoom:.45; } }
+</style>
+</head>
+<body>
+
+<section class="page"><p class="notice">Sample with invented names and numbers. Not a valid document.</p><div class="scaled one">
+  <div class="state">STATO DELLA CALIFORNIA</div>
+  <div class="vital">CERTIFICAZIONE DI ATTO DI STATO CIVILE</div>
+  <div class="county">CONTEA DI SAN DIEGO</div>
+  <div class="officer">DANIEL R. HOLLOWAY<br>ASSESSORE/CONSERVATORE DEI REGISTRI/CANCELLIERE DELLA CONTEA</div>
+  <div class="pagecount">1 DI 2</div>
+
+  <div class="cert-title">CERTIFICATO DI NASCITA (NATO VIVO)</div>
+  <div class="cert-sub">STATO DELLA CALIFORNIA<br>UTILIZZARE ESCLUSIVAMENTE INCHIOSTRO NERO</div>
+
+  <div class="topnums">
+    <div><div class="numline">&nbsp;</div><div class="numlabel">Numero di archivio statale</div></div>
+    <div></div>
+    <div><div class="numline">1201037004518</div><div class="numlabel">Numero di registrazione locale</div></div>
+  </div>
+
+  <table class="form">
+    <colgroup>
+      <col style="width:10mm"><col style="width:15%"><col style="width:13%"><col style="width:14%"><col style="width:14%"><col style="width:13%"><col style="width:12%"><col style="width:12%">
+    </colgroup>
+    <tr style="height:17mm">
+      <td class="vcell" rowspan="2"><div class="vwrap"><div class="vtext">LA BAMBINA</div></div></td>
+      <td colspan="3"><div class="field-label">1A. Nome della bambina - nome</div><div class="value">SOFIA</div></td>
+      <td colspan="2"><div class="field-label">1B. Secondo nome</div><div class="value">ROSE</div></td>
+      <td colspan="2"><div class="field-label">1C. Cognome</div><div class="value">MARINO</div></td>
+    </tr>
+    <tr style="height:17mm">
+      <td><div class="field-label">2. Sesso</div><div class="value">FEMMINA</div></td>
+      <td colspan="2"><div class="field-label">3A. Nascita singola, gemellare, ecc.</div><div class="value">SINGOLA</div></td>
+      <td colspan="2"><div class="field-label">3B. In caso di parto multiplo: 1a, 2a, ecc.</div><div class="value">-</div></td>
+      <td><div class="field-label">4A. Data di nascita</div><div class="value">12/02/2010</div></td>
+      <td><div class="field-label">4B. Ora - formato 24 ore</div><div class="value">0842</div></td>
+    </tr>
+    <tr style="height:17mm">
+      <td class="vcell" rowspan="2"><div class="vwrap"><div class="vtext">0712<br>LUOGO DI<br>NASCITA</div></div></td>
+      <td colspan="4"><div class="field-label">5A. Luogo di nascita - nome dell'ospedale o della struttura</div><div class="value small">SHARP MARY BIRCH HOSPITAL FOR WOMEN</div></td>
+      <td colspan="3"><div class="field-label">5B. Indirizzo - via e numero civico o ubicazione</div><div class="value small">3003 HEALTH CENTER DRIVE</div></td>
+    </tr>
+    <tr style="height:14mm">
+      <td colspan="4"><div class="field-label">5C. Città</div><div class="value">SAN DIEGO</div></td>
+      <td colspan="3"><div class="field-label">5D. Contea</div><div class="value">SAN DIEGO</div></td>
+    </tr>
+    <tr style="height:15mm">
+      <td class="vcell"><div class="vwrap"><div class="vtext">PADRE<br>GENITORE</div></div></td>
+      <td colspan="2"><div class="field-label">6A. Nome del padre/genitore - nome</div><div class="value">ANTHONY</div></td>
+      <td><div class="field-label">6B. Secondo nome</div><div class="value">JAMES</div></td>
+      <td colspan="2"><div class="field-label">6C. Cognome</div><div class="value">MARINO</div></td>
+      <td><div class="field-label">7. Luogo di nascita - Stato/Paese</div><div class="value small">NEW YORK</div></td>
+      <td><div class="field-label">8. Data di nascita</div><div class="value">23/10/1979</div></td>
+    </tr>
+    <tr style="height:15mm">
+      <td class="vcell"><div class="vwrap"><div class="vtext">MADRE<br>GENITORE</div></div></td>
+      <td colspan="2"><div class="field-label">9A. Nome della madre/genitore - nome</div><div class="value">ELENA</div></td>
+      <td><div class="field-label">9B. Secondo nome</div><div class="value">MARIA</div></td>
+      <td colspan="2"><div class="field-label">9C. Cognome alla nascita</div><div class="value">COSTA</div></td>
+      <td><div class="field-label">10. Luogo di nascita - Stato/Paese</div><div class="value small">ITALIA</div></td>
+      <td><div class="field-label">11. Data di nascita</div><div class="value">05/03/1982</div></td>
+    </tr>
+    <tr style="height:18mm">
+      <td class="vcell" rowspan="3"><div class="vwrap"><div class="vtext">DICHIARANTE<br>CERTIFICAZIONE<br>NASCITA</div></div></td>
+      <td colspan="2"><div class="statement">DICHIARO DI AVER ESAMINATO LE INFORMAZIONI SOPRA RIPORTATE E CHE, PER QUANTO A MIA CONOSCENZA, SONO VERE E CORRETTE.</div></td>
+      <td colspan="3"><div class="field-label">12A. Firma del genitore o di altro dichiarante</div><div class="signature">[firma manoscritta]</div></td>
+      <td><div class="field-label">12B. Rapporto con la bambina</div><div class="value tiny">MADRE</div></td>
+      <td><div class="field-label">12C. Data della firma</div><div class="value">14/02/2010</div></td>
+    </tr>
+    <tr style="height:20mm">
+      <td colspan="2"><div class="statement">DICHIARO CHE LA BAMBINA È NATA VIVA NELLA DATA, ALL'ORA E NEL LUOGO SOPRA INDICATI.</div></td>
+      <td colspan="3"><div class="field-label">13A. Firma dell'assistente al parto/certificatore e qualifica o titolo</div><div class="signature">[firma manoscritta]</div></td>
+      <td><div class="field-label">13B. Numero di licenza professionale</div><div class="value">G087412</div></td>
+      <td><div class="field-label">13C. Data della firma</div><div class="value">14/02/2010</div></td>
+    </tr>
+    <tr style="height:18mm">
+      <td colspan="5"><div class="field-label">13D. Nome dattiloscritto, qualifica e indirizzo postale dell'assistente al parto</div><div class="value small">R. PATEL, MD, 3003 HEALTH CENTER DRIVE, SAN DIEGO</div></td>
+      <td colspan="2"><div class="field-label">14. Nome dattiloscritto e qualifica del certificatore, se diverso dall'assistente al parto</div><div class="value tiny">L. CARTER, ADDETTA ALLA REGISTRAZIONE DELLE NASCITE</div></td>
+    </tr>
+    <tr style="height:15mm">
+      <td class="vcell"><div class="vwrap"><div class="vtext">UFFICIALE<br>LOCALE</div></div></td>
+      <td><div class="field-label">15A. Data del decesso</div><div class="value">&nbsp;</div></td>
+      <td colspan="2"><div class="field-label">15B. Numero di archivio statale - riservato allo Stato</div><div class="value">&nbsp;</div></td>
+      <td colspan="3"><div class="field-label">16. Firma dell'Ufficiale locale dello stato civile</div><div class="value small">M. HARRISON, MD&nbsp;&nbsp; [firma manoscritta]</div></td>
+      <td><div class="field-label">17. Data di accettazione ai fini della registrazione</div><div class="value">19/02/2010</div></td>
+    </tr>
+  </table>
+
+  <div class="footer-cert">
+    <div class="certification-text">La presente è una riproduzione fedele ed esatta del documento ufficialmente registrato e conservato presso l'ufficio del Conservatore dei registri/Cancelliere della Contea di San Diego.</div>
+    <div class="footer-grid">
+      <div><strong>12 agosto 2026</strong></div>
+      <div><div class="signature">[firma manoscritta]</div><div class="official-name">DANIEL R. HOLLOWAY</div><div class="official-title">Assessore/Conservatore dei registri/Cancelliere della Contea</div></div>
+    </div>
+    <div class="validity">La presente copia non è valida se non predisposta su un bordo inciso recante la data, il sigillo e la firma del Conservatore dei registri/Cancelliere della Contea.</div>
+    <div class="code">004918511</div>
+  </div>
+  </div>
+  <div class="void">QUALSIASI ALTERAZIONE O CANCELLAZIONE RENDE NULLO IL PRESENTE CERTIFICATO</div>
+</section>
+
+<section class="page"><div class="scaled two">
+  <div class="state">STATO DELLA CALIFORNIA</div>
+  <div class="vital">CERTIFICAZIONE DI ATTO DI STATO CIVILE</div>
+  <div class="county">CONTEA DI SAN DIEGO</div>
+  <div class="officer">DANIEL R. HOLLOWAY<br>ASSESSORE/CONSERVATORE DEI REGISTRI/CANCELLIERE DELLA CONTEA</div>
+  <div class="pagecount">2 DI 2</div>
+
+  <div class="amend-title">RETTIFICA DELL'ATTO DI NASCITA<br>PER DARE ATTO DEL CAMBIAMENTO DI NOME DISPOSTO CON PROVVEDIMENTO GIUDIZIARIO</div>
+  <div class="warning">NESSUNA CANCELLAZIONE, CORREZIONE CON BIANCHETTO, FOTOCOPIA O ALTERAZIONE</div>
+
+  <div class="topnums">
+    <div><div class="numline">0520101043287</div><div class="numlabel">Numero di archivio statale</div></div>
+    <div></div>
+    <div><div class="numline">1201037004518</div><div class="numlabel">Numero di registrazione locale</div></div>
+  </div>
+  <div class="instruction">SCRIVERE A MACCHINA O IN STAMPATELLO LEGGIBILE, ESCLUSIVAMENTE CON INCHIOSTRO NERO - LA PRESENTE RETTIFICA DIVIENE PARTE DELL'ATTO DI NASCITA UFFICIALE</div>
+
+  <div class="part"><div class="pnum">PARTE I</div><div class="ptitle">INFORMAZIONI PER L'INDIVIDUAZIONE DELL'ATTO</div></div>
+  <table class="form">
+    <colgroup>
+      <col style="width:14mm"><col style="width:17%"><col style="width:17%"><col style="width:19%"><col style="width:16%"><col style="width:16%">
+    </colgroup>
+    <tr style="height:18mm">
+      <td class="side-block" rowspan="4"><div style="font-size:12pt;margin-bottom:3mm">0203</div>INFORMAZIONI COME RIPORTATE NELL'ATTO DI NASCITA ORIGINARIO</td>
+      <td colspan="2"><div class="field-label">1A. Nome - nome</div><div class="value">SOFIA</div></td>
+      <td colspan="2"><div class="field-label">1B. Secondo nome</div><div class="value">ROSE</div></td>
+      <td><div class="field-label">1C. Cognome (alla nascita)</div><div class="value">MARINO</div></td>
+    </tr>
+    <tr style="height:17mm">
+      <td><div class="field-label">2. Sesso</div><div class="value">FEMMINA</div></td>
+      <td><div class="field-label">3. Data di nascita</div><div class="value">12/02/2010</div></td>
+      <td colspan="2"><div class="field-label">4A. Città di nascita</div><div class="value">SAN DIEGO</div></td>
+      <td><div class="field-label">4B. Contea di nascita</div><div class="value">SAN DIEGO</div></td>
+    </tr>
+    <tr style="height:17mm">
+      <td colspan="2"><div class="field-label">5A. Nome completo del padre/genitore - nome</div><div class="value">ANTHONY</div></td>
+      <td><div class="field-label">5B. Secondo nome</div><div class="value">JAMES</div></td>
+      <td colspan="2"><div class="field-label">5C. Cognome (alla nascita)</div><div class="value">MARINO</div></td>
+    </tr>
+    <tr style="height:17mm">
+      <td colspan="2"><div class="field-label">6A. Nome completo della madre/genitore - nome</div><div class="value">ELENA</div></td>
+      <td><div class="field-label">6B. Secondo nome</div><div class="value">MARIA</div></td>
+      <td colspan="2"><div class="field-label">6C. Cognome (alla nascita)</div><div class="value">COSTA</div></td>
+    </tr>
+  </table>
+
+  <div class="part"><div class="pnum">PARTE II</div><div class="ptitle">INFORMAZIONI SUL PROVVEDIMENTO GIUDIZIARIO</div></div>
+  <table class="form">
+    <colgroup><col style="width:18mm"><col style="width:24%"><col style="width:22%"><col style="width:18%"><col style="width:30%"></colgroup>
+    <tr style="height:18mm">
+      <td class="side-block" rowspan="2">INFORMAZIONI GENERALI</td>
+      <td colspan="2"><div class="field-label">7. Denominazione del tribunale</div><div class="value small">CORTE SUPERIORE DELLA CALIFORNIA</div></td>
+      <td colspan="2"><div class="field-label">8. Numero del procedimento giudiziario</div><div class="value small">37-2015-00021876-CU-PT-CTL</div></td>
+    </tr>
+    <tr style="height:17mm">
+      <td><div class="field-label">9. Contea</div><div class="value">SAN DIEGO</div></td>
+      <td><div class="field-label">10. Stato</div><div class="value">CALIFORNIA</div></td>
+      <td colspan="2"><div class="field-label">11. Data del provvedimento giudiziario</div><div class="value">15/06/2015</div></td>
+    </tr>
+    <tr style="height:19mm">
+      <td class="side-block">NUOVO NOME DELLA PERSONA COME MODIFICATO DAL PROVVEDIMENTO GIUDIZIARIO</td>
+      <td><div class="field-label">12A. Nome</div><div class="value">GIULIA</div></td>
+      <td><div class="field-label">12B. Secondo nome</div><div class="value">ROSE</div></td>
+      <td colspan="2"><div class="field-label">12C. Cognome</div><div class="value">MARINO</div></td>
+    </tr>
+  </table>
+
+  <div class="part"><div class="pnum">PARTE III</div><div class="ptitle">DICHIARAZIONE GIURATA E FIRMA</div></div>
+  <div class="affidavit">CON LA PRESENTE DICHIARO, SOTTO PENA DI SPERGIURO, CHE IL NOME DELLA PERSONA INDICATA NELLA PARTE I È STATO MODIFICATO CON PROVVEDIMENTO GIUDIZIARIO COME RIPORTATO NELLA PARTE II.</div>
+  <table class="form">
+    <colgroup><col style="width:18mm"><col style="width:29%"><col style="width:31%"><col style="width:25%"></colgroup>
+    <tr style="height:19mm">
+      <td class="side-block" rowspan="2">UTILIZZARE ESCLUSIVAMENTE INCHIOSTRO NERO</td>
+      <td><div class="field-label">13A. Firma del richiedente</div><div class="signature">[firma manoscritta]</div></td>
+      <td><div class="field-label">13B. Nome in stampatello</div><div class="value">ELENA MARINO</div></td>
+      <td><div class="field-label">13C. Data della firma</div><div class="value">02/09/2015</div></td>
+    </tr>
+    <tr style="height:19mm">
+      <td><div class="field-label">13D. Indirizzo - via e numero civico</div><div class="value">P.O. BOX 8412</div></td>
+      <td><div class="field-label">13E. Città</div><div class="value small">LA MESA</div></td>
+      <td><div class="field-label">13F. Stato &nbsp;&nbsp;&nbsp; 13G. Codice postale</div><div class="value small">CALIFORNIA &nbsp;&nbsp; 91944</div></td>
+    </tr>
+  </table>
+
+  <div class="registrar-cert">SI CERTIFICA CHE L'UFFICIO DEGLI ATTI DELLO STATO CIVILE HA ESAMINATO UNA COPIA AUTENTICA DEL PROVVEDIMENTO GIUDIZIARIO DESCRITTO NELLA PARTE II E HA ACCETTATO LA PRESENTE RETTIFICA DELL'ATTO DI NASCITA CONFORMEMENTE ALLA LEGGE.</div>
+  <table class="form">
+    <colgroup><col style="width:18mm"><col style="width:50%"><col style="width:50%"></colgroup>
+    <tr style="height:18mm">
+      <td class="side-block">RISERVATO ALL'UFFICIALE DELLO STATO CIVILE STATALE<br><br>KLM</td>
+      <td><div class="field-label">14. Ufficio degli atti dello stato civile</div><div class="value small">UFFICIO DEGLI ATTI DELLO STATO CIVILE</div></td>
+      <td><div class="field-label">15. Data di accettazione ai fini della registrazione</div><div class="value">21/09/2015</div></td>
+    </tr>
+  </table>
+
+  <div class="amend-footer">
+    <div class="certification-text">La presente è una riproduzione fedele ed esatta del documento ufficialmente registrato e conservato presso l'ufficio del Conservatore dei registri/Cancelliere della Contea di San Diego.</div>
+    <div class="footer-grid">
+      <div><strong>12 agosto 2026</strong></div>
+      <div><div class="signature">[firma manoscritta]</div><div class="official-name">DANIEL R. HOLLOWAY</div><div class="official-title">Assessore/Conservatore dei registri/Cancelliere della Contea</div></div>
+    </div>
+    <div class="validity">La presente copia non è valida se non predisposta su un bordo inciso recante la data, il sigillo e la firma del Conservatore dei registri/Cancelliere della Contea.</div>
+    <div class="code">004918512</div>
+  </div>
+  </div>
+  <div class="void">QUALSIASI ALTERAZIONE O CANCELLAZIONE RENDE NULLO IL PRESENTE CERTIFICATO</div>
+</section>
+
+
+<section class="ourcert" lang="en">
+<p><img class="logo" src="/img/italianschoolsd_logo_high_res.png" alt="Italian School of San Diego logo"></p>
+<p><strong>Italian school of San Diego LLC</strong><br />
+5062 Constitution Rd, San Diego, CA 92117<br />
+(619) 800-0797<br />
+<a href="https://www.italianschoolsd.com/translate">https://www.italianschoolsd.com/translate</a></p>
+
+<h1>Certification of Translation Accuracy</h1>
+<p>Document Title: Birth Certificate of Giulia Rose Marino</p>
+<p>Language Pair: From English to Italian</p>
+<p>I, Maura D'Andrea, Director of the Italian school of San Diego LLC, hereby certify that the attached translation was prepared by an experienced, qualified, and competent professional translator fluent in both source and target languages. To the best of our knowledge and professional judgment, the translated text accurately reflects the content, meaning, and style of the original document and constitutes a complete and faithful translation.</p>
+<p>Maura D'Andrea is a native Italian speaker who has lived in the United States since 2009 and holds dual citizenship in Italy and the United States. She earned her Master’s Degree in <em>Educational Science</em> from the Università Cattolica del Sacro Cuore in Milan, and a postgraduate degree in <em>Teaching Italian to Foreign Students</em> from the Università Ca’ Foscari in Venice.</p>
+<p>This certification attests only to the accuracy of the translation and does not make any claims or guarantees regarding the authenticity or content of the original document. The Italian school of San Diego LLC assumes no liability for the use of this translation by the client or any third party.</p>
+<p>Date: 1 October 2026</p>
+<p class="sigline"></p>
+<p>Maura D'Andrea, CEO and School Director<br />
+Italian school of San Diego LLC<br />
+<a href="mailto:info@italianschoolsd.com">info@italianschoolsd.com</a></p>
+
+</section>
+<section class="ourcert" lang="it">
+
+<p><img class="logo" src="/img/italianschoolsd_logo_high_res.png" alt="Italian School of San Diego logo"></p>
+<p><strong>Italian school of San Diego LLC</strong><br />
+5062 Constitution Rd, San Diego, CA 92117<br />
+(619) 800-0797<br />
+<a href="https://www.italianschoolsd.com/translate">https://www.italianschoolsd.com/translate</a></p>
+
+<h1>Certificato di Accuratezza della Traduzione</h1>
+<p>Titolo del Documento: Certificato di Nascita di Giulia Rose Marino</p>
+<p>Combinazione Linguistica: Dall’inglese all’italiano</p>
+<p>Io sottoscritta, Maura D'Andrea, in qualità di Direttrice della Italian school of San Diego LLC, con la presente certifico che la traduzione allegata è stata redatta da un traduttore professionista esperto, qualificato e competente, con eccellente padronanza sia della lingua di partenza che di quella di arrivo. Al meglio delle nostre conoscenze e del nostro giudizio professionale, il testo tradotto riflette fedelmente il contenuto, il significato e lo stile del documento originale e costituisce una traduzione completa e conforme.</p>
+<p>Maura D'Andrea è di madrelingua italiana, risiede negli Stati Uniti dal 2009 ed è in possesso della doppia cittadinanza italiana e statunitense. Ha conseguito la Laurea Magistrale in Scienze dell'Educazione presso l’Università Cattolica del Sacro Cuore di Milano e un master post-laurea in Didattica dell'Italiano a Stranieri (CEDILS/DITALS) presso l’Università Ca’ Foscari di Venezia.</p>
+<p>La presente certificazione attesta esclusivamente l'accuratezza della traduzione e non esprime alcun parere o garanzia circa l'autenticità o il contenuto del documento originale. La Italian school of San Diego LLC non si assume alcuna responsabilità per l'uso di questa traduzione da parte del cliente o di terzi.</p>
+<p>Data: 1 ottobre 2026</p>
+<p class="sigline"></p>
+<p>Maura D'Andrea, CEO e Direttrice Scolastica<br />
+Italian school of San Diego LLC<br />
+<a href="mailto:info@italianschoolsd.com">info@italianschoolsd.com</a></p>
+</section>
+</body>
+</html>
