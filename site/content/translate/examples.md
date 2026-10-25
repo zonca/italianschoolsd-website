@@ -2,6 +2,7 @@
 title: "Sample translations"
 description: "See what our certified Italian translations look like: a California marriage certificate and a birth certificate, each with its certification of translation accuracy."
 date: 2026-10-24T00:00:00-07:00
+image: /img/Decreto_Italia.jpg
 layout: single
 ---
 
