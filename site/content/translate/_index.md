@@ -56,6 +56,10 @@ If you need an apostille, it can be [requested from the California Secretary of 
 
 Certified translations are available as secure PDFs. You can also request printed originals with an original handwritten signature for pickup or mailing within the United States for an additional fee. Select your preferred delivery option in the translation request form.
 
+## Sample translation {#sample}
+
+See our [sample translations of a marriage certificate and a birth certificate]({{< ref "/translate/examples.md" >}}).
+
 ## Submit a Request {#submit-request}
 
 <a href="https://italianschoolsd.secureform.dev/translate" class="btn btn-cta">
