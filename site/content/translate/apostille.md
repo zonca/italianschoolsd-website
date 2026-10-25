@@ -2,6 +2,7 @@
 title: "Apostille & Notary Guide for Italian Translations"
 description: "Learn how the Italian Consulate in Los Angeles and Comuni in Italy handle certified translations, notary requirements, and Apostilles."
 date: 2026-05-29T20:22:48-07:00
+image: /img/Decreto_Italia.jpg
 ---
 
 When preparing US documents for legal recognition in Italy (such as for dual citizenship, marriage registration, or property purchase), understanding the requirements for **Apostilles** and **Notarizations** on your translations can be confusing. 
