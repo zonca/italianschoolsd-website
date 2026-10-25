@@ -4,13 +4,24 @@ date: 2025-07-09T00:00:00.000Z
 image: /img/Decreto_Italia.jpg
 aliases:
     - /news/2025/07/professional-italian-translation-services-in-san-diego/
-description: Italian to English and English to Italian translations in San Diego for legal, business, academic, and personal documents.
+description: Certified Italian to English and English to Italian translations in San Diego for the Italian Consulate in Los Angeles and for legal, business, academic, and personal documents.
 layout: single
 ---
 
 Italian School of San Diego LLC provides Italian to English and English to Italian translations for documents and written materials. All our translators are native (mother-tongue) Italian.
 
 We focus on clear, accurate translations that preserve meaning, tone, and cultural context. Italian includes regional nuances that are often missed by automated tools, especially in legal, academic, and formal documents.
+
+## Translations for the Italian Consulate in Los Angeles {#consulate-los-angeles}
+
+Many of our clients submit their translations to the Consulate General of Italy in Los Angeles, for citizenship by descent, to register a marriage, birth or divorce in Italy, or for other consular procedures. We have plenty of experience with consular translations, and the Italian School of San Diego is included in the list of translators published by the consulate.
+
+- **Formatting:** our translations are complete, typed and faithful to the original. We keep the field numbering and layout of the original document and write dates in the Italian format (day/month/year). See our [sample translations]({{< ref "/translate/examples.md" >}}).
+- **Certification:** every translation comes with a signed certification of translation accuracy, in English and Italian.
+- **What to send us:** a clear scan or PDF of the document is enough. We do not need the original paper document.
+- **Documents from other states:** we translate certificates issued in any US state, such as New York, Nevada or Arizona.
+- **Apostilles:** the consulate has confirmed to us that the apostille does not need to be translated, so we translate only the document itself. The translation does not need a notary or an apostille for the consulate. Details are in our [Apostille & Notary Guide]({{< ref "apostille.md" >}}).
+- **Which documents and pages to translate:** this is set by the consulate for each procedure (for example, whether a divorce judgment must be translated in full). Please check the consulate's document checklist for your case.
 
 ## Areas We Support {#areas}
 
@@ -41,7 +52,7 @@ We provide a certificate of accurate translation signed by our school director, 
 
 ## Apostilles, Notaries & Certified Translations {#apostilles}
 
-An Apostille authenticates public officials' signatures on documents to be used outside the United States of America. We do not issue apostilles, but we can translate them. Note that we have received guidance from the Italian Consulate in Los Angeles that apostilles do not need to be translated and can be submitted in English.
+An Apostille authenticates public officials' signatures on documents to be used outside the United States of America. We do not issue apostilles, but we can translate them. For consulate submissions, the apostille does not need to be translated (see [Translations for the Italian Consulate in Los Angeles](#consulate-los-angeles)).
 
 For detailed information on whether your translation itself needs an Apostille, how the Italian Consulate in Los Angeles differs from a Comune in Italy, and how to get your translation notarized/apostilled if required, please read our [Apostille & Notary Guide for Translations]({{< ref "apostille.md" >}}).
 
