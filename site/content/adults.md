@@ -92,7 +92,7 @@ Scan by day, then use the level guides below for full dates, tuition, holidays, 
     </div>
     <div class="adult-class-row">
       <div><strong>Intermediate</strong><span class="adult-format adult-format-online">Online</span></div>
-      <p><span>6:00–7:30 PM</span><small>Tania</small></p>
+      <p><span>6:00–7:30 PM</span><small>Glenda</small></p>
     </div>
   </article>
 

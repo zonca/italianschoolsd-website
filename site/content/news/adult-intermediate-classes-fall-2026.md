@@ -74,9 +74,9 @@ Learn Italian via Zoom from home with **Tania**.
 
 ## Tuesday Intermediate (Online) {#tue-int-online}
 
-Continuing intermediate class via Zoom with **Tania**.
+Continuing intermediate class via Zoom with **Glenda**.
 
-- **Teacher:** Tania
+- **Teacher:** Glenda
 - **Schedule:** Tuesdays, 6:00 PM – 7:30 PM Pacific Time, August 18 – December 8, 2026 (16 classes)
 - **Holidays (No Class):** November 24 (Thanksgiving Week)
 - **Tuition:** $544 for the full session (or 5 monthly payments of $119.68)
