@@ -1,0 +1,17 @@
+{{/* Static flyers also need small derivatives, while originals stay downloadable. */}}
+{{ $path := strings.TrimPrefix "/" . }}
+{{ $image := resources.Get $path }}
+{{ if and (not $image) (os.FileExists (printf "static/%s" $path)) }}
+  {{ $image = resources.FromString (printf "img/cards/%s" (path.Base $path)) (os.ReadFile (printf "static/%s" $path)) }}
+{{ end }}
+{{ with $image }}
+  {{ if eq .MediaType.SubType "svg" }}
+    {{ $viewBox := index (findRE `viewBox="[^"]+"` .Content 1) 0 }}
+    {{ $dimensions := split (strings.TrimSuffix `"` (strings.TrimPrefix `viewBox="` $viewBox)) " " }}
+    <img src="{{ .RelPermalink }}" width="{{ index $dimensions 2 }}" height="{{ index $dimensions 3 }}" alt="" class="center db mb3" style="width:240px" loading="lazy" decoding="async">
+  {{ else }}
+    {{ $small := .Resize "240x webp q80" }}
+    {{ $large := .Resize "480x webp q80" }}
+    <img src="{{ $small.RelPermalink }}" srcset="{{ $small.RelPermalink }} 240w, {{ $large.RelPermalink }} 480w" sizes="240px" width="{{ $small.Width }}" height="{{ $small.Height }}" alt="" class="center db mb3" style="width:240px" loading="lazy" decoding="async">
+  {{ end }}
+{{ end }}

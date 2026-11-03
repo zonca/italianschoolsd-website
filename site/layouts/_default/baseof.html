@@ -2,12 +2,15 @@
 <html lang="{{ $.Site.Language.Lang }}">
   {{ partial "head" . }}
   <body class="sans-serif">
+    <a class="skip-link" href="{{ .RelPermalink }}#main-content">Skip to main content</a>
 
     {{ partial "meta-pixel-noscript" . }}
 
     {{ block "header" . }}{{ partial "nav" . }}{{end}}
 
-    {{ block "main" . }}{{ end }}
+    <main id="main-content" tabindex="-1">
+      {{ block "main" . }}{{ end }}
+    </main>
 
     {{ block "footer" . }}{{ partial "footer" . }}{{end}}
 
@@ -33,7 +36,7 @@
           }
           if (loaded) return;
           loaded = true;
-          container.innerHTML = '';
+          trigger.textContent = 'Loading search...';
 
           // Load CSS only when needed.
           var css = document.createElement('link');
@@ -46,6 +49,7 @@
           s.async = true;
           s.onload = function () {
             if (!window.docsearch) return;
+            container.innerHTML = '';
             window.docsearch({
               appId: 'TPVVV4HW9C',
               apiKey: '38df777d1e1eca13019e565f693d7b2a',
@@ -76,22 +80,18 @@
               }
             }
           };
+          s.onerror = function () {
+            loaded = false;
+            trigger.textContent = 'Retry search';
+          };
           document.head.appendChild(s);
         }
 
-        container.addEventListener('pointerdown', function (event) {
-          if (!loaded) {
-            event.preventDefault();
-            loadDocSearch({ openOnReady: true });
-          }
-        }, { once: true });
-        container.addEventListener('focusin', loadDocSearch, { once: true });
-        container.addEventListener('keydown', function (event) {
-          if (event.key === 'Enter' || event.key === ' ') {
-            event.preventDefault();
-            loadDocSearch({ openOnReady: true });
-          }
-        }, { once: true });
+        // Native click activation covers Enter, Space, touch, and mouse.
+        var trigger = document.getElementById('search-trigger');
+        trigger.addEventListener('click', function () {
+          loadDocSearch({ openOnReady: true });
+        });
       })();
     </script>
   </body>

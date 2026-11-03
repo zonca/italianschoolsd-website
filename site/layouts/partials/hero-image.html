@@ -1,0 +1,10 @@
+{{/* Return the same responsive sources for the hero and its preload. */}}
+{{ $image := resources.Get (strings.TrimPrefix "/" .) }}
+{{ $result := dict }}
+{{ with $image }}
+  {{ $small := .Resize (printf "%dx webp q75" (int (math.Min 640 .Width))) }}
+  {{ $medium := .Resize (printf "%dx webp q75" (int (math.Min 1280 .Width))) }}
+  {{ $large := .Resize (printf "%dx webp q75" (int (math.Min 2000 .Width))) }}
+  {{ $result = dict "image" $large "srcset" (delimit (uniq (slice (printf "%s %dw" $small.RelPermalink $small.Width) (printf "%s %dw" $medium.RelPermalink $medium.Width) (printf "%s %dw" $large.RelPermalink $large.Width))) ", ") }}
+{{ end }}
+{{ return $result }}

@@ -3,10 +3,11 @@
   <div class="flex flex-wrap items-center justify-between pa3" style="gap:1rem;">
 	<!-- Logo -->
 	<a href="/" class="db h-100 w3 flex-none" style="min-width:80px;">
-	  <img src="/img/italianschoolsd_logo.png" alt="Italian school of San Diego LLC logo" class="br0 db mb0 w-100" decoding="async"/>
+	  <img src="{{ (partial "logo-image" .).RelPermalink }}" width="200" height="200" alt="Italian school of San Diego LLC logo" class="br0 db mb0 w-100" decoding="async"/>
 	</a>
 	<div class="flex flex-column items-center justify-center" style="min-width:140px;">
 	  <span style="font-size:0.95rem;color:#333;margin-bottom:0.25rem;">Translate:</span>
+	  <button type="button" id="translate-trigger" aria-controls="google_translate_element" style="min-height:44px;padding:0.25rem 0.5rem;border:1px solid #0064aa;border-radius:6px;background:#fff;color:#0064aa;cursor:pointer;">Choose language</button>
 	  <div id="google_translate_element" style="background:#f8f8f8;border-radius:6px;padding:0.25rem 0.5rem;min-width:120px;box-shadow:0 1px 4px rgba(0,0,0,0.04);"></div>
 	</div>
 		<div id="search" style="min-width:140px;max-width:100%;padding:0.5rem 1rem;box-sizing:border-box;">
@@ -28,6 +29,7 @@
 		function loadTranslate() {
 		  if (loaded) return;
 		  loaded = true;
+		  document.getElementById('translate-trigger').textContent = 'Loading languages...';
 
 		  window.googleTranslateElementInit = function () {
 			if (!window.google || !window.google.translate) return;
@@ -36,17 +38,35 @@
 			  includedLanguages: 'es,zh-CN,vi,tl,ko,ar,it,fr,de,ja',
 			  layout: window.google.translate.TranslateElement.InlineLayout.SIMPLE
 			}, 'google_translate_element');
+			function focusLanguageControl() {
+			  var control = el.querySelector('a, select');
+			  if (!control) return false;
+			  document.getElementById('translate-trigger').hidden = true;
+			  control.focus();
+			  return true;
+			}
+			// Google can insert its control after the initializer returns.
+			if (!focusLanguageControl()) {
+			  var observer = new MutationObserver(function () {
+				if (focusLanguageControl()) observer.disconnect();
+			  });
+			  observer.observe(el, { childList: true, subtree: true });
+			  setTimeout(function () { observer.disconnect(); }, 15000);
+			}
 		  };
 
 		  var s = document.createElement('script');
 		  s.src = 'https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit';
 		  s.async = true;
+		  s.onerror = function () {
+			loaded = false;
+			document.getElementById('translate-trigger').textContent = 'Retry language selection';
+		  };
 		  document.head.appendChild(s);
 		}
 
-		// Load only when a user is likely to use it.
-		el.addEventListener('pointerdown', loadTranslate, { once: true });
-		el.addEventListener('mouseover', loadTranslate, { once: true });
+		// Native button activation supports pointer and keyboard users.
+		document.getElementById('translate-trigger').addEventListener('click', loadTranslate);
 	  })();
 	</script>
   </div>

@@ -1,0 +1,2 @@
+{{ $logo := resources.FromString "img/school-logo.png" (os.ReadFile "static/img/italianschoolsd_logo.png") }}
+{{ return ($logo.Resize "200x webp q85") }}

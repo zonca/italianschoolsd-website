@@ -26,10 +26,8 @@
 
   {{/* Preload hero image on the homepage (LCP). */}}
   {{ if .IsHome }}
-    {{ $imgPath := replaceRE "^/" "" .Params.image }}
-    {{ with resources.Get $imgPath }}
-      {{ $hero := .Resize "2000x webp q80" }}
-      <link rel="preload" as="image" href="{{ $hero.RelPermalink }}" fetchpriority="high">
+    {{ with partial "hero-image" (.Params.image | default "") }}
+      <link rel="preload" as="image" href="{{ .image.RelPermalink }}" {{ printf "imagesrcset=%q" .srcset | safeHTMLAttr }} imagesizes="100vw" fetchpriority="high">
     {{ end }}
   {{ end }}
 

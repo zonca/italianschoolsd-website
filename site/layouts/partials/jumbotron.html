@@ -1,11 +1,9 @@
-{{ $imgPath := replaceRE "^/" "" .imageUrl }}
-{{ $bgUrl := .imageUrl }}
-{{ with resources.Get $imgPath }}
-  {{ $hero := .Resize "2000x webp q80" }}
-  {{ $bgUrl = $hero.RelPermalink }}
-{{ end }}
-<div class="pv5 pv6-l ph3 bg-center cover" style="background-image: url('{{ $bgUrl }}')">
-  <div class="mw8 center ph3">
+{{ $hero := partial "hero-image" (.imageUrl | default "") }}
+<div class="hero pv5 pv6-l ph3 bg-center cover"{{ if not $hero }} style="background-image: url('{{ .imageUrl }}')"{{ end }}>
+  {{ with $hero }}
+    <img class="hero-image" src="{{ .image.RelPermalink }}" srcset="{{ .srcset }}" sizes="100vw" width="{{ .image.Width }}" height="{{ .image.Height }}" alt="" fetchpriority="high" decoding="async">
+  {{ end }}
+  <div class="mw8 center ph3 relative">
     <div class="db mb3">
       <div class="mw8 relative bg-fix-primary mb3">
         <h1 class="f2 f1-l b ph1 di lh-title mb3 white mw7 bg-primary">
