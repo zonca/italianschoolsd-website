@@ -1,3 +1,4 @@
+const path = require("path");
 const purgecss = require("@fullhuman/postcss-purgecss");
 
 const isProd =
@@ -17,9 +18,9 @@ const plugins = [
 if (isProd) {
   plugins.push(purgecss({
     content: [
-      "./site/layouts/**/*.html",
-      "./site/content/**/*.md",
-      "./site/content/**/*.html"
+      path.join(__dirname, "site/layouts/**/*.html"),
+      path.join(__dirname, "site/content/**/*.md"),
+      path.join(__dirname, "site/content/**/*.html")
     ],
     // Keep dynamic/external classes and common utility patterns.
     safelist: [
@@ -71,4 +72,4 @@ if (isProd) {
   }));
 }
 
-module.exports = { plugins };
+module.exports = {plugins};
