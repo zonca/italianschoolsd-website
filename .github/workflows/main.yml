@@ -32,7 +32,7 @@ jobs:
         run: yarn test:functions
       
       - name: Build site with Hugo
-        run: hugo -d dist -s site
+        run: yarn build:hugo
       
       - name: Lychee Broken Link Checker
         uses: lycheeverse/lychee-action@v1
