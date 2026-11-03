@@ -36,7 +36,7 @@
           }
           if (loaded) return;
           loaded = true;
-          container.innerHTML = '';
+          trigger.textContent = 'Loading search...';
 
           // Load CSS only when needed.
           var css = document.createElement('link');
@@ -49,6 +49,7 @@
           s.async = true;
           s.onload = function () {
             if (!window.docsearch) return;
+            container.innerHTML = '';
             window.docsearch({
               appId: 'TPVVV4HW9C',
               apiKey: '38df777d1e1eca13019e565f693d7b2a',
@@ -78,6 +79,10 @@
                 }, 25);
               }
             }
+          };
+          s.onerror = function () {
+            loaded = false;
+            trigger.textContent = 'Retry search';
           };
           document.head.appendChild(s);
         }

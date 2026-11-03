@@ -27,7 +27,7 @@
   {{/* Preload hero image on the homepage (LCP). */}}
   {{ if .IsHome }}
     {{ with partial "hero-image" (.Params.image | default "") }}
-      <link rel="preload" as="image" href="{{ .image.RelPermalink }}" imagesrcset="{{ .srcset }}" imagesizes="100vw" fetchpriority="high">
+      <link rel="preload" as="image" href="{{ .image.RelPermalink }}" {{ printf "imagesrcset=%q" .srcset | safeHTMLAttr }} imagesizes="100vw" fetchpriority="high">
     {{ end }}
   {{ end }}
 

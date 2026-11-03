@@ -38,9 +38,21 @@
 			  includedLanguages: 'es,zh-CN,vi,tl,ko,ar,it,fr,de,ja',
 			  layout: window.google.translate.TranslateElement.InlineLayout.SIMPLE
 			}, 'google_translate_element');
-			document.getElementById('translate-trigger').hidden = true;
-			var languageControl = el.querySelector('a, select');
-			if (languageControl) languageControl.focus();
+			function focusLanguageControl() {
+			  var control = el.querySelector('a, select');
+			  if (!control) return false;
+			  document.getElementById('translate-trigger').hidden = true;
+			  control.focus();
+			  return true;
+			}
+			// Google can insert its control after the initializer returns.
+			if (!focusLanguageControl()) {
+			  var observer = new MutationObserver(function () {
+				if (focusLanguageControl()) observer.disconnect();
+			  });
+			  observer.observe(el, { childList: true, subtree: true });
+			  setTimeout(function () { observer.disconnect(); }, 15000);
+			}
 		  };
 
 		  var s = document.createElement('script');

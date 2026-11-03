@@ -46,18 +46,15 @@ Fall classes run from **August 17 to December 23, 2026**, depending on the secti
 <dl class="adult-session-facts">
   <div>
     <dt>Session</dt>
-    <dd>Varies by section</dd>
-    <span>See each class schedule</span>
+    <dd>Varies by section<span>See each class schedule</span></dd>
   </div>
   <div>
     <dt>Class length</dt>
-    <dd>40–90 minutes</dd>
-    <span>One or two classes each week</span>
+    <dd>40–90 minutes<span>One or two classes each week</span></dd>
   </div>
   <div>
     <dt>Formats</dt>
-    <dd>In person + online</dd>
-    <span>Native Italian instructors</span>
+    <dd>In person + online<span>Native Italian instructors</span></dd>
   </div>
 </dl>
 
