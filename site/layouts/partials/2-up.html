@@ -8,23 +8,7 @@
       <div class="ph2-ns w-50-ns raise">
       <a href="{{.link}}" class="program-card no-underline pa3 br1 mb2 db raise w-100">
 	    <h3 class="b lh-title mb2 text-center">{{.title}}</h3>
-        {{ $imgPath := replaceRE "^/" "" .image }}
-        {{ $lower := lower $imgPath }}
-        {{ if or (strings.HasSuffix $lower ".jpg") (strings.HasSuffix $lower ".jpeg") (strings.HasSuffix $lower ".png") }}
-          {{ with resources.Get $imgPath }}
-            {{ $smWebp := .Fit "320x320 webp q80" }}
-            {{ $mdWebp := .Fit "480x480 webp q80" }}
-            {{ $fallback := .Fit "480x480" }}
-            <picture>
-              <source type="image/webp" srcset="{{ $smWebp.RelPermalink }} 320w, {{ $mdWebp.RelPermalink }} 480w" sizes="(min-width: 40em) 240px, 70vw">
-              <img src="{{ $fallback.RelPermalink }}" srcset="{{ $fallback.RelPermalink }} 480w" sizes="(min-width: 40em) 240px, 70vw" width="{{ $fallback.Width }}" height="{{ $fallback.Height }}" alt="" class="center db mb3" style="width: 240px" loading="lazy" decoding="async">
-            </picture>
-          {{ else }}
-            <img src="{{.image}}" alt="" class="center db mb3" style="width: 240px" loading="lazy" decoding="async">
-          {{ end }}
-        {{ else }}
-          <img src="{{.image}}" alt="" class="center db mb3" style="width: 240px" loading="lazy" decoding="async">
-        {{ end }}
+        {{ partial "card-image" .image }}
         <p>{{.text}}</p>
 	<p class="program-card-cta link b dib black mb0">Learn more →</p>
       </a>
@@ -38,23 +22,7 @@
       <div class="ph2-ns {{ $products2Width }}">
       <a href="{{.link}}" class="program-card no-underline pa3 br1 mb2 db raise w-100">
 	    <h3 class="b lh-title mb2 text-center">{{.title}}</h3>
-        {{ $imgPath := replaceRE "^/" "" .image }}
-        {{ $lower := lower $imgPath }}
-        {{ if or (strings.HasSuffix $lower ".jpg") (strings.HasSuffix $lower ".jpeg") (strings.HasSuffix $lower ".png") }}
-          {{ with resources.Get $imgPath }}
-            {{ $smWebp := .Fit "320x320 webp q80" }}
-            {{ $mdWebp := .Fit "480x480 webp q80" }}
-            {{ $fallback := .Fit "480x480" }}
-            <picture>
-              <source type="image/webp" srcset="{{ $smWebp.RelPermalink }} 320w, {{ $mdWebp.RelPermalink }} 480w" sizes="(min-width: 40em) 240px, 70vw">
-              <img src="{{ $fallback.RelPermalink }}" srcset="{{ $fallback.RelPermalink }} 480w" sizes="(min-width: 40em) 240px, 70vw" width="{{ $fallback.Width }}" height="{{ $fallback.Height }}" alt="" class="center db mb3" style="width: 240px" loading="lazy" decoding="async">
-            </picture>
-          {{ else }}
-            <img src="{{.image}}" alt="" class="center db mb3" style="width: 240px" loading="lazy" decoding="async">
-          {{ end }}
-        {{ else }}
-          <img src="{{.image}}" alt="" class="center db mb3" style="width: 240px" loading="lazy" decoding="async">
-        {{ end }}
+        {{ partial "card-image" .image }}
         <p>{{.text}}</p>
 	<p class="program-card-cta link b dib black mb0">Learn more →</p>
       </a>
