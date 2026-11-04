@@ -145,6 +145,17 @@ const CLASSES = {
     monthlyInstallments: 4,
     bookId: 'project1b',
   },
+  'jan-2027-tue-spanish-beg': {
+    id: 'jan-2027-tue-spanish-beg',
+    name: 'Winter 2027 Spanish Class - Beginner Tuesday',
+    level: 'Beginner',
+    format: 'In person',
+    pagePath: '/news/2026/11/beginner-spanish-classes-adults-san-diego-january-2027/',
+    anchor: 'spanish-beg',
+    fullAmount: 38000,
+    monthlyAmount: 13940,
+    monthlyInstallments: 3,
+  },
 };
 
 module.exports = {

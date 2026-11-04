@@ -136,6 +136,38 @@ test('Wednesday Fall Beginner has a valid checkout catalog entry', () => {
   );
 });
 
+test('Winter 2027 Spanish Beginner has a valid checkout catalog entry', () => {
+  const spanish = CLASSES['jan-2027-tue-spanish-beg'];
+
+  assert.equal(spanish.name, 'Winter 2027 Spanish Class - Beginner Tuesday');
+  assert.equal(spanish.anchor, 'spanish-beg');
+  assert.equal(spanish.fullAmount, 38000);
+  assert.equal(spanish.monthlyAmount, 13940);
+  assert.equal(spanish.monthlyInstallments, 3);
+
+  const fullParams = _test.buildCheckoutParams({
+    selectedClass: spanish,
+    paymentType: 'full',
+    familyMemberCount: 1,
+    origin: ORIGIN,
+  });
+
+  assert.equal(
+    fullParams.get('success_url'),
+    `${ORIGIN}/news/2026/11/beginner-spanish-classes-adults-san-diego-january-2027/?checkout=success#spanish-beg`
+  );
+
+  const monthlyParams = _test.buildCheckoutParams({
+    selectedClass: spanish,
+    paymentType: 'monthly',
+    familyMemberCount: 1,
+    monthlyCommitmentAccepted: true,
+    origin: ORIGIN,
+  });
+
+  assert.equal(monthlyParams.get('metadata[installments_total]'), '3');
+});
+
 test('Tuesday World Languages classes did not open and no longer accept checkout', () => {
   assert.equal(CLASSES['oct-2026-tue-spanish-beg'], undefined);
   assert.equal(CLASSES['oct-2026-tue-german-beg'], undefined);
