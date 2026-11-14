@@ -163,3 +163,11 @@ if __name__ == "__main__":
 - Global template changes in `site/layouts/_default/single.html` affect many pages.
 - Global typography/list rules in `site/assets/css/imports/` affect the whole site.
 - Keep global CSS changes minimal and targeted.
+
+## Party rental
+
+- The canonical offering and current package totals live in `site/content/san-diego-party-rental.md`. Synchronize the rental form with this page when the offering changes.
+- Advertise fixed package totals without "from". Describe the digital package positively as self-serve. Offer one digital package with a custom photo-strip design, photo sharing by text/email/WhatsApp, a choice of available backdrops, backdrop support, props, and a final digital album. Explicitly state that there are no printed photos or strips. Do not advertise the former print package or a booth attendant. Use event-specific drop-off and pickup arrangements, suitable for events at any time of day. Read the current rental duration limit from the canonical page; do not reuse customer-specific afternoon or overnight arrangements as public terms. Read current package and speaker prices and payment terms from the canonical page. Keep the public page concise: no payment-recipient email addresses, calculated credit-card totals, or payment-comparison tables. State the card fee once as a percentage; payment instructions belong in private booking correspondence. Use grouped feature descriptions and verify the actual rendered desktop and mobile layout, including any tables, before reporting completion.
+- Keep one rental landing page. Use permanent `/party` redirects rather than a separate photo booth subpage.
+- Andrea has confirmed that the photo-strip example in `site/assets/img/party-rental-digital-photo-booth.jpeg` represents a digital design. Do not infer a printed-photo offering from its illustrated strip shape. Keep the digital-only package wording and describe the image as an illustrative scene with a custom digital photo-strip design.
+- The optional speaker's public name is "Party speaker with wireless microphone". Never publish its brand or model, or advertise equipment planned for future purchase.

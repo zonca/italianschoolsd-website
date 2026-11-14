@@ -1,0 +1,59 @@
+{{ define "main" }}
+<article class="party-rental">
+  <header class="party-hero">
+    <div class="party-wrap party-hero-grid">
+      <div class="party-hero-copy">
+        <p class="party-eyebrow">San Diego party rental</p>
+        <h1>{{ .Params.hero_title }}</h1>
+        <p class="party-lead">{{ .Params.intro }}</p>
+        <a class="btn btn-cta" href="https://italianschoolsd.secureform.dev/party-rental/">Request a rental quote</a>
+        <a class="party-secondary-link" href="#photo-booth-packages">See what's included</a>
+      </div>
+      <figure class="party-art">
+        {{ $image := resources.Get "img/party-rental-digital-photo-booth.jpeg" }}
+        {{ $large := $image.Resize "900x webp q85" }}
+        {{ $small := $image.Resize "450x webp q85" }}
+        <img src="{{ $large.RelPermalink }}" srcset="{{ $small.RelPermalink }} 450w, {{ $large.RelPermalink }} 900w" sizes="(max-width: 700px) calc(100vw - 48px), 440px" width="{{ $large.Width }}" height="{{ $large.Height }}" alt="Illustration of guests enjoying a digital photo booth, with props and a custom digital photo-strip design" fetchpriority="high" decoding="async">
+        <figcaption>Illustrative scene with a custom digital photo-strip design</figcaption>
+      </figure>
+    </div>
+  </header>
+  <div class="party-wrap">
+    <section class="party-packages" aria-labelledby="photo-booth-packages">
+      <h2 id="photo-booth-packages">One package. Everything ready.</h2>
+      {{ range .Params.packages }}
+      <div class="party-card">
+        <div class="party-package-summary">
+          <h3>{{ .title }}</h3>
+          <p class="party-price">${{ .price }}</p>
+          <p>{{ .tagline }}</p>
+          <p class="party-digital-note">Digital photos only.<br>No printed photos or photo strips.</p>
+        </div>
+        <ul class="party-feature-grid">{{ range .features }}
+          <li><h4>{{ .title }}</h4><p>{{ .detail }}</p></li>
+        {{ end }}</ul>
+      </div>
+      {{ end }}
+      <p class="party-logistics">Drop-off and pickup are arranged around your event schedule. Events outside the City of San Diego are quoted separately.</p>
+    </section>
+    <section class="party-speaker" aria-labelledby="party-speaker">
+      <div>
+        <p class="party-eyebrow">Optional add-on</p>
+        <h2 id="party-speaker">{{ .Params.speaker_title }}</h2>
+        <p>{{ .Params.speaker_description }}</p>
+        <p class="party-addon-price">+${{ .Params.speaker_price }}</p>
+      </div>
+      <ul>{{ range .Params.speaker_features }}<li>{{ . }}</li>{{ end }}</ul>
+    </section>
+    <div class="party-closing">
+      <div class="party-payment cms">{{ .Content }}</div>
+      <section class="party-request" aria-labelledby="request-a-quote">
+        <h2 id="request-a-quote">Tell us about your event</h2>
+        <p>Share your date, venue, and ideas. We will confirm availability and arrangements before your booking is finalized.</p>
+        <a class="btn btn-cta" href="https://italianschoolsd.secureform.dev/party-rental/">Request a rental quote</a>
+      </section>
+    </div>
+    <p class="party-school-note">{{ .Params.school_note }}</p>
+  </div>
+</article>
+{{ end }}
