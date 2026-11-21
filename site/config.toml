@@ -1,5 +1,5 @@
 baseurl = "https://www.italianschoolsd.com/"
-languageCode = "en-us"
+locale = "en-US"
 languageLang = "en"
 title = "Italian school of San Diego"
 copyright = 'This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.'
@@ -39,6 +39,10 @@ name = "Italian school of San Diego"
   mediaType = "application/json"
 
 [security]
+  [security.node.permissions]
+    # Hugo's source directory is site/, while PostCSS and its packages live
+    # in the repository root. Keep Node permissions enabled and allow that root.
+    allowRead = ['..']
   [security.funcs]
     getenv = ['^HUGO_', '^CI$', '^CONTEXT$', '^URL$', '^DEPLOY_PRIME_URL$']
 

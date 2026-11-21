@@ -1,4 +1,5 @@
 ---
+url: /news/2024/11/online-ap-italian-preparation-and-middle/high-school-italian-for-beginners/
 title: Online AP Italian preparation and Middle/High School Italian for Beginners
 date: 2024-11-28T00:00:00.000Z
 aliases:

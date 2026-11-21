@@ -1,4 +1,5 @@
 ---
+url: /news/2025/10/congratulations-to-our-student-violet-zonca-new-2025/2026-queen-of-the-united-italian-american-association/
 title: Congratulations to Our Student, Violet Zonca – New 2025/2026 Queen of the United Italian American Association!
 date: 2025-10-20T00:00:00.000Z
 ---
