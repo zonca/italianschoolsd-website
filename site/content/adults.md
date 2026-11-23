@@ -12,10 +12,10 @@ Weekly Italian classes in **Kearny Mesa**, **Encinitas**, and **online via Zoom*
 <div class="adult-page">
 
 <nav class="adult-jump-links" aria-label="Adult classes page sections">
-  <a href="#course-levels">Choose your level</a>
-  <a href="#weekly-schedule">Weekly schedule</a>
-  <a href="#private-custom">Private lessons</a>
-  <a href="#policies">Policies</a>
+  <a href='{{< relref "adults.md" >}}#course-levels'>Choose your level</a>
+  <a href='{{< relref "adults.md" >}}#weekly-schedule'>Weekly schedule</a>
+  <a href='{{< relref "adults.md" >}}#private-custom'>Private lessons</a>
+  <a href='{{< relref "adults.md" >}}#policies'>Policies</a>
 </nav>
 
 <div id="january-may-2027"></div>

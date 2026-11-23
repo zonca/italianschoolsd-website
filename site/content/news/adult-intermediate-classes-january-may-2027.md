@@ -14,7 +14,7 @@ Continue your Italian with beginner-intermediate, intermediate, and intermediate
 
 {{< adult-january-may-2027-rates group="intermediate" >}} Choose full payment or five monthly payments, including a 10% administrative fee. Textbooks are separate.
 
-<p class="session-billing-note"><strong>Billing starts January 2.</strong> Enroll earlier to save your card now; enroll on or after January 2 for an immediate charge. <a href="#payment-timing">Payment details</a></p>
+<p class="session-billing-note"><strong>Billing starts January 2.</strong> Enroll earlier to save your card now; enroll on or after January 2 for an immediate charge. <a href='{{< relref "news/adult-intermediate-classes-january-may-2027.md" >}}#payment-timing'>Payment details</a></p>
 
 <h2 class="sr-only" id="schedule">Schedule and enrollment</h2>
 
