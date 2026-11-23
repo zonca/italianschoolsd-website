@@ -4,7 +4,7 @@
   <article class="adult-day-card">
     <h3 id="january-{{ lower . }}">{{ . }}</h3>
     {{ $classes := where $session.classes "day" . }}
-    {{ range union (where $classes "format" "ne" "Online") (where $classes "format" "Online") }}
+    {{ range append (where $classes "format" "Online") (where $classes "format" "ne" "Online") }}
       {{ $class := . }}
       {{ $page := dict }}
       {{ range $session.pages }}{{ if in .levels $class.level }}{{ $page = . }}{{ end }}{{ end }}
