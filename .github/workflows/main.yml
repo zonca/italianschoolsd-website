@@ -30,6 +30,9 @@ jobs:
 
       - name: Test Netlify Functions
         run: yarn test:functions
+
+      - name: Test production styles
+        run: yarn test:styles
       
       - name: Build site with Hugo
         run: hugo -d dist -s site
