@@ -1,17 +1,4 @@
-const BOOKS = {
-  project1a: {
-    id: 'project1a',
-    name: 'The New Italian Project 1a',
-    amount: 4900,
-    imagePath: '/img/books/new-italian-project-1a.jpeg',
-  },
-  project1b: {
-    id: 'project1b',
-    name: 'The New Italian Project 1b',
-    amount: 4900,
-    imagePath: '/img/books/new-italian-project-1b.webp',
-  },
-};
+const BOOKS = require('../../../site/data/enrollment_books.json');
 
 const CLASSES = {
   'fall-2026-sat-beg': {
@@ -157,6 +144,30 @@ const CLASSES = {
     monthlyInstallments: 3,
   },
 };
+
+// The public schedule and checkout use the same dates and per-lesson rates.
+const springSession = require('../../../site/data/adult_january_may_2027.json');
+for (const section of springSession.classes) {
+  const page = Object.values(springSession.pages).find((entry) => entry.levels.includes(section.level));
+  if (!page) throw new Error(`No enrollment page for ${section.level}`);
+  const rate = springSession.rates[section.format === 'Online' ? 'online' : 'in_person'];
+  const fullAmount = section.dates.length * rate;
+  CLASSES[section.id] = {
+    id: section.id,
+    name: `${springSession.term} Italian Class - ${section.level} ${section.day} (${[section.location, section.teacher].filter(Boolean).join(', ')})`,
+    level: section.level,
+    format: section.format,
+    term: springSession.term,
+    chargeNotBefore: springSession.chargeNotBefore,
+    pagePath: page.pagePath,
+    anchor: section.anchor,
+    bookId: section.bookId,
+    bookPickupAddress: section.bookId ? springSession.bookPickupLocations[section.location] : undefined,
+    fullAmount,
+    monthlyAmount: Math.round(fullAmount * (100 + springSession.monthlyFeePercent) / (100 * springSession.monthlyInstallments)),
+    monthlyInstallments: springSession.monthlyInstallments,
+  };
+}
 
 module.exports = {
   BOOKS,
