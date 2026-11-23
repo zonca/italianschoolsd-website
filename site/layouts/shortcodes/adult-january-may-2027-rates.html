@@ -1,0 +1,2 @@
+{{- $rates := site.Data.adult_january_may_2027.rates -}}
+Tuition is <strong>{{ printf "$%.2f" (div (float $rates.online) 100.0) }} per online class</strong> or <strong>{{ printf "$%.2f" (div (float $rates.in_person) 100.0) }} per in-person class</strong>.

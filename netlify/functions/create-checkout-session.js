@@ -115,7 +115,7 @@ function buildCheckoutParams({
     class_id: selectedClass.id,
     class_level: selectedClass.level,
     class_format: selectedClass.format,
-    quarter: 'Fall 2026',
+    quarter: selectedClass.term || 'Fall 2026',
     payment_type: paymentType,
     family_member_count: String(familyMemberCount),
     book_quantity: String(bookQuantity),

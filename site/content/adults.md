@@ -19,6 +19,7 @@ subtitle: Italian classes in person across San Diego County and online via Zoom
 </section>
 
 <nav class="adult-jump-links" aria-label="Adult classes page sections">
+  <a href='{{< relref "adults.md" >}}#january-may-2027'>January-May 2027</a>
   <a href='{{< relref "adults.md" >}}#our-method'>Our method</a>
   <a href='{{< relref "adults.md" >}}#fall-2026'>Fall group classes</a>
   <a href='{{< relref "adults.md" >}}#course-levels'>Choose your level</a>
@@ -38,6 +39,14 @@ Grammar is introduced in manageable steps, generally one new concept at a time, 
 Teachers encourage participation and treat mistakes as a normal part of learning. Beginners receive more English support; Italian becomes a larger part of the lesson as students advance.
 
 Between lessons, we encourage about 20 minutes of daily review. Teachers aim to email a recap within a couple of days, with the material covered, suggested exercises, and videos or readings for further practice. Recaps also help students who missed a class keep up.
+
+## January-May 2027 group classes {#january-may-2027}
+
+Our next continuing session begins the week of **January 11, 2027** and finishes the week of **May 17**. Groups progress to the next level with the same teacher, in Kearny Mesa, Encinitas, and online.
+
+{{< adult-january-may-2027-rates >}} Each class lasts 90 minutes, with tuition based on the number of lessons in the section.
+
+<a href='{{< relref "news/adult-italian-classes-january-may-2027.md" >}}#schedule' class="btn btn-cta">January-May schedule, tuition, and enrollment</a>
 
 ## Fall 2026 group classes {#fall-2026}
 

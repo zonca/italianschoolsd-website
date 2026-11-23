@@ -158,6 +158,25 @@ const CLASSES = {
   },
 };
 
+// The public schedule and checkout use the same dates and per-lesson rates.
+const springSession = require('../../../site/data/adult_january_may_2027.json');
+for (const section of springSession.classes) {
+  const rate = springSession.rates[section.format === 'Online' ? 'online' : 'in_person'];
+  const fullAmount = section.dates.length * rate;
+  CLASSES[section.id] = {
+    id: section.id,
+    name: `${springSession.term} Italian Class - ${section.level} ${section.day} (${section.location}, ${section.teacher})`,
+    level: section.level,
+    format: section.format,
+    term: springSession.term,
+    pagePath: springSession.pagePath,
+    anchor: section.anchor,
+    fullAmount,
+    monthlyAmount: Math.round(fullAmount * (100 + springSession.monthlyFeePercent) / (100 * springSession.monthlyInstallments)),
+    monthlyInstallments: springSession.monthlyInstallments,
+  };
+}
+
 module.exports = {
   BOOKS,
   CLASSES,
