@@ -45,18 +45,6 @@
   force = true
 
 [[redirects]]
-  from = "/encinitas-adults"
-  to = "/italian-classes-encinitas/#adults"
-  status = 302
-  force = true
-
-[[redirects]]
-  from = "/encinitas-adults/"
-  to = "/italian-classes-encinitas/#adults"
-  status = 302
-  force = true
-
-[[redirects]]
   from = "/world"
   to = "/world-languages/"
   status = 301
