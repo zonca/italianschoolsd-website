@@ -6,7 +6,7 @@ description: Adult Italian classes in Kearny Mesa, Encinitas, and online, from J
 
 Continue your Italian with weekly, 90-minute group classes in **Kearny Mesa**, **Encinitas**, or **online via Zoom**. The session begins the week of **January 11, 2027** and finishes the week of **May 17**, alongside our regular children's programs.
 
-Returning groups generally continue with the same teacher and progress to the next level. Encinitas offers one **beginner** section with Daniela and one **beginner-intermediate** section with Laura. Additional **beginner sections online and in Kearny Mesa** are planned, with schedules and teachers to be confirmed. Students with prior Italian experience are welcome: [tell us about your background]({{< relref "contact.md" >}}) so we can help you find a suitable group. **Advanced conversation** is the proposed continuation of Ilana's conversation group.
+Returning groups generally continue with the same teacher and progress to the next level. Encinitas offers one **beginner** section with Daniela and one **beginner-intermediate** section with Laura. Additional **beginner sections online and in Kearny Mesa** are planned, with schedules and teachers to be confirmed. Students with prior Italian experience are welcome: [tell us about your background]({{< relref "contact.md" >}}) so we can help you find a suitable group. Ilana's group remains **Conversation**.
 
 ## Tuition and payment options {#tuition}
 
