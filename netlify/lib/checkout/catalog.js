@@ -165,7 +165,7 @@ for (const section of springSession.classes) {
   const fullAmount = section.dates.length * rate;
   CLASSES[section.id] = {
     id: section.id,
-    name: `${springSession.term} Italian Class - ${section.level} ${section.day} (${section.location}, ${section.teacher})`,
+    name: `${springSession.term} Italian Class - ${section.level} ${section.day} (${[section.location, section.teacher].filter(Boolean).join(', ')})`,
     level: section.level,
     format: section.format,
     term: springSession.term,

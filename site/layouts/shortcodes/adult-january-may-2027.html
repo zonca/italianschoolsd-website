@@ -1,21 +1,4 @@
 {{- $session := site.Data.adult_january_may_2027 -}}
-<div class="overflow-auto">
-<table>
-  <thead><tr><th>Day</th><th>Level</th><th>Location</th><th>Teacher</th><th>Time (Pacific)</th><th>Classes</th><th>Full tuition</th></tr></thead>
-  <tbody>
-  {{- range $session.classes -}}
-    {{- $rate := cond (eq .format "Online") $session.rates.online $session.rates.in_person -}}
-    {{- $total := mul (len .dates) $rate -}}
-    <tr>
-      <td>{{ .day }}</td><td><a href="#{{ .anchor }}">{{ .level }}</a></td><td>{{ .location }}</td><td>{{ .teacher }}</td>
-      <td>{{ time.Format "3:04 PM" (printf "2000-01-01T%s:00Z" .startTime) }} - {{ time.Format "3:04 PM" (printf "2000-01-01T%s:00Z" .endTime) }}</td>
-      <td>{{ len .dates }}</td><td>{{ printf "$%.2f" (div (float $total) 100.0) }}</td>
-    </tr>
-  {{- end -}}
-  </tbody>
-</table>
-</div>
-
 {{ range $session.classes }}
   {{- $rate := cond (eq .format "Online") $session.rates.online $session.rates.in_person -}}
   {{- $total := mul (len .dates) $rate -}}
@@ -23,7 +6,7 @@
   <section aria-labelledby="{{ .anchor }}">
     <h2 id="{{ .anchor }}">{{ .day }} {{ lower .level }} - {{ .location }}{{ if eq .location "Encinitas" }} ({{ .teacher }}){{ end }}</h2>
     <ul>
-      <li><strong>Teacher:</strong> {{ .teacher }}</li>
+      {{ if .teacher }}<li><strong>Teacher:</strong> {{ .teacher }}</li>{{ end }}
       <li><strong>Schedule:</strong> {{ .day }}, {{ time.Format "3:04 PM" (printf "2000-01-01T%s:00Z" .startTime) }} - {{ time.Format "3:04 PM" (printf "2000-01-01T%s:00Z" .endTime) }} Pacific Time, {{ time.Format "January 2" (index .dates 0) }} - {{ time.Format "January 2, 2006" (index .dates (sub (len .dates) 1)) }} ({{ len .dates }} classes)</li>
       <li><strong>Tuition:</strong> {{ printf "$%.2f" (div (float $total) 100.0) }} for the full session, based on {{ printf "$%.2f" (div (float $rate) 100.0) }} per 90-minute class.</li>
       <li><strong>Monthly plan:</strong> {{ $session.monthlyInstallments }} payments of {{ printf "$%.2f" (div (float $monthly) 100.0) }}, including the {{ $session.monthlyFeePercent }}% administrative fee.</li>

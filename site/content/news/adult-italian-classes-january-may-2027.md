@@ -6,7 +6,7 @@ description: Adult Italian classes in Kearny Mesa, Encinitas, and online, from J
 
 Continue your Italian with weekly, 90-minute group classes in **Kearny Mesa**, **Encinitas**, or **online via Zoom**. The session begins the week of **January 11, 2027** and finishes the week of **May 17**, alongside our regular children's programs.
 
-Returning groups generally continue with the same teacher and progress to the next level. Encinitas offers one **beginner** section with Daniela and one **beginner-intermediate** section with Laura. Additional **beginner sections online and in Kearny Mesa** are planned, with schedules and teachers to be confirmed. Students with prior Italian experience are welcome: [tell us about your background]({{< relref "contact.md" >}}) so we can help you find a suitable group. Ilana's group remains **Conversation**.
+Returning groups generally continue with the same teacher and progress to the next level. Encinitas offers one **beginner** section with Daniela and one **beginner-intermediate** section with Laura. New **beginner sections meet Wednesdays in Kearny Mesa and Thursdays online**. Students with prior Italian experience are welcome: [tell us about your background]({{< relref "contact.md" >}}) so we can help you find a suitable group. Ilana's group remains **Conversation**.
 
 ## Tuition and payment options {#tuition}
 
@@ -20,9 +20,8 @@ In-person classes meet at our [Kearny Mesa location]({{< relref "location.md" >}
 
 ## New beginner sections {#new-beginners}
 
-Start Italian from the beginning, with no prior experience required. In addition to the Friday beginner section in Encinitas listed below, we are planning these two new sections:
+Start Italian from the beginning, with no prior experience required. Choose [Wednesday in Kearny Mesa](#beg-kearny-mesa), [Thursday online](#beg-online), or [Friday in Encinitas](#fri-beg-int-encinitas-daniela). Each section below lists its schedule, tuition, and full-payment or monthly enrollment options.
 
-{{< adult-january-may-2027-beginners >}}
 
 ## Schedule and enrollment {#schedule}
 

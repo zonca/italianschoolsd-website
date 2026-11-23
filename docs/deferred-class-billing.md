@@ -4,7 +4,7 @@ January-May 2027 classes use the existing website enrollment forms and Checkout 
 
 Prices, lesson dates, and `chargeNotBefore` are maintained in `site/data/adult_january_may_2027.json`. The cutoff is January 2, 2027 at midnight Pacific Time. The catalog computes all tuition amounts from this data.
 
-The `plannedClasses` list holds the additional online and Kearny Mesa beginner offerings while their teachers and schedules are being determined. They show contact links, have no quoted session total, and are excluded from the checkout catalog. Once their calendars are confirmed, move them into `classes` with complete lesson dates before enabling payment. Encinitas retains its two Friday sections, with Daniela at beginner and Laura at beginner-intermediate; existing enrollment anchors remain stable.
+All 13 sections, including Wednesday in-person and Thursday online beginners, have complete lesson dates and use the same full/monthly enrollment forms. Public schedules follow the previous class pages' schedule, lesson-count, tuition, and enrollment pattern. New beginner teacher assignments remain in the planning sheet until confirmed; their public sections omit teacher names. Encinitas retains its two Friday sections, with Daniela at beginner and Laura at beginner-intermediate; existing enrollment anchors remain stable.
 
 ## Before the cutoff
 

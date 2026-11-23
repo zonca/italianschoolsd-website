@@ -1,9 +1,0 @@
-{{- $session := site.Data.adult_january_may_2027 -}}
-{{ range $session.plannedClasses }}
-  {{- $rate := cond (eq .format "Online") $session.rates.online $session.rates.in_person -}}
-  <section aria-labelledby="{{ .anchor }}">
-    <h3 id="{{ .anchor }}">Beginner Italian - {{ .location }}</h3>
-    <p>90-minute classes at {{ printf "$%.2f" (div (float $rate) 100.0) }} per lesson. Day, time, and teacher to be confirmed. Session tuition and payment options will be available once the schedule is set.</p>
-    <p><a href="{{ relref $.Page "contact.md" }}" class="btn btn-cta">Ask about the {{ if eq .format "Online" }}online{{ else }}Kearny Mesa{{ end }} beginner class</a></p>
-  </section>
-{{ end }}

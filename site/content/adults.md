@@ -42,7 +42,7 @@ Between lessons, we encourage about 20 minutes of daily review. Teachers aim to 
 
 ## January-May 2027 group classes {#january-may-2027}
 
-Our next session begins the week of **January 11, 2027** and finishes the week of **May 17**. Continuing groups generally progress to the next level with the same teacher. Encinitas offers one beginner and one beginner-intermediate section. Additional [beginner sections online and in Kearny Mesa]({{< relref "news/adult-italian-classes-january-may-2027.md" >}}#new-beginners) are planned, with schedules and teachers to be confirmed.
+Our next session begins the week of **January 11, 2027** and finishes the week of **May 17**. Continuing groups generally progress to the next level with the same teacher. Encinitas offers one beginner and one beginner-intermediate section. New [beginner sections]({{< relref "news/adult-italian-classes-january-may-2027.md" >}}#new-beginners) meet Wednesdays, **6:15-7:45 PM in Kearny Mesa**, and Thursdays, **6:00-7:30 PM online**.
 
 {{< adult-january-may-2027-rates >}} Each class lasts 90 minutes, with tuition based on the number of lessons in the section.
 
