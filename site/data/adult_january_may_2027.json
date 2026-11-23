@@ -305,7 +305,8 @@
         "2027-05-07",
         "2027-05-14",
         "2027-05-21"
-      ]
+      ],
+      "bookId": "project1a"
     },
     {
       "id": "spring-2027-sat-beg-int",
@@ -398,7 +399,8 @@
         "2027-05-05",
         "2027-05-12",
         "2027-05-19"
-      ]
+      ],
+      "bookId": "project1a"
     }
   ],
   "chargeNotBefore": "2027-01-02T00:00:00-08:00",
@@ -429,6 +431,22 @@
       ],
       "contentPath": "news/adult-advanced-classes-january-may-2027.md",
       "pagePath": "/news/2026/11/adult-advanced-classes-january-may-2027/"
+    }
+  },
+  "bookPickupLocations": {
+    "Kearny Mesa": {
+      "line1": "4550 Kearny Villa Rd, Suite 202",
+      "city": "San Diego",
+      "state": "CA",
+      "postal_code": "92123",
+      "country": "US"
+    },
+    "Encinitas": {
+      "line1": "170 Calle Magdalena",
+      "city": "Encinitas",
+      "state": "CA",
+      "postal_code": "92024",
+      "country": "US"
     }
   }
 }

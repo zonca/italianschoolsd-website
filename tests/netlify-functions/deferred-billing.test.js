@@ -30,6 +30,7 @@ function fakeStripe() {
       assert.equal(params.get('default_payment_method'), 'pm_saved');
       assert.ok(options.idempotencyKey);
       const invoice = { id: `in_${invoices.length}`, status: 'draft', amount_due: 0, lines: { data: [] },
+        automatic_tax: { enabled: params.get('automatic_tax[enabled]') === 'true', status: 'complete' },
         metadata: Object.fromEntries([...params].filter(([k]) => k.startsWith('metadata[')).map(([k, v]) => [k.slice(9, -1), v])) };
       invoices.push(invoice); return invoice;
     }
@@ -38,8 +39,13 @@ function fakeStripe() {
       assert.equal(params.get('customer'), 'cus_enrollment');
       assert.equal(params.get('currency'), 'usd');
       assert.ok(options.idempotencyKey);
-      invoice.lines.data.push({ amount: Number(params.get('amount')) });
-      invoice.amount_due = Number(params.get('amount'));
+      invoice.lines.data.push({ amount: Number(params.get('amount')),
+        metadata: Object.fromEntries([...params].filter(([k]) => k.startsWith('metadata[')).map(([k, v]) => [k.slice(9, -1), v])) });
+      invoice.amount_due = invoice.lines.data.reduce((sum, line) => sum + line.amount, 0);
+      if (invoice.automatic_tax.enabled) {
+        invoice.amount_due += invoice.lines.data.filter((line) => line.metadata.enrollment_component === 'book')
+          .reduce((tax, line) => tax + Math.round(line.amount * 0.0775), 0);
+      }
       return { id: 'ii_line' };
     }
     const invoice = invoices.find((i) => path.startsWith(`/invoices/${i.id}`));
@@ -162,5 +168,122 @@ test('the Checkout webhook schedules saved-card tuition through the Stripe HTTP 
     assert.equal(fake.calls.filter((c) => c.params?.has('automatically_finalizes_at')).length, 5);
   } finally {
     global.fetch = originalFetch;
+  }
+});
+
+const { quoteBook } = require('../../netlify/lib/checkout/book-tax');
+const bookClass = CLASSES['spring-2027-beg-kearny-mesa'];
+function bookSession(paymentType = 'monthly', familyMemberCount = 1, bookQuantity = 1) {
+  const subtotal = 4900 * bookQuantity;
+  const tax = Math.round(subtotal * 0.0775);
+  const params = _test.buildCheckoutParams({ selectedClass: bookClass, paymentType, familyMemberCount,
+    bookQuantity, bookQuote: { subtotal, tax, total: subtotal + tax, calculationId: 'taxcalc_quote' },
+    monthlyCommitmentAccepted: true, origin: 'https://www.italianschoolsd.com', now: start - 86400 });
+  return { id: 'cs_book_enrollment', mode: 'setup', customer: 'cus_enrollment', setup_intent: 'seti_enrollment',
+    metadata: Object.fromEntries([...params].filter(([k]) => k.startsWith('metadata[')).map(([k, v]) => [k.slice(9, -1), v])) };
+}
+
+test('book tax is quoted for classroom pickup and zero-tax quotes fail closed', async() => {
+  for (const id of ['spring-2027-beg-kearny-mesa', 'spring-2027-fri-beg-int-encinitas-daniela']) {
+    const result = await quoteBook(CLASSES[id], 2, async(path, params) => {
+      assert.equal(path, '/tax/calculations');
+      assert.equal(params.get('customer_details[address_source]'), 'shipping');
+      assert.equal(params.get('customer_details[address][postal_code]'), CLASSES[id].bookPickupAddress.postal_code);
+      assert.equal(params.get('line_items[0][amount]'), '9800');
+      assert.equal(params.get('line_items[0][tax_code]'), 'txcd_99999999');
+      return { id: 'taxcalc_quote', amount_total: 10560, tax_amount_exclusive: 760 };
+    });
+    assert.equal(result.total, 10560);
+  }
+  await assert.rejects(quoteBook(bookClass, 1, async() => ({ id: 'taxcalc_zero', amount_total: 4900, tax_amount_exclusive: 0 })), /sales tax/);
+});
+
+test('early card authorization quotes the book once, with tax and exact first payment', () => {
+  const subtotal = 4900;
+  const params = _test.buildCheckoutParams({ selectedClass: bookClass, paymentType: 'monthly',
+    bookQuantity: 1, bookQuote: { subtotal, tax: 380, total: 5280, calculationId: 'taxcalc_quote' },
+    origin: 'https://www.italianschoolsd.com', monthlyCommitmentAccepted: true, now: start - 1 });
+  assert.equal(params.get('billing_address_collection'), 'required');
+  assert.equal(params.get('metadata[scheduled_amount]'), '14652');
+  assert.equal(params.get('metadata[book_total]'), '5280');
+  assert.match(params.get('custom_text[submit][message]'), /\$199\.32.*\$52\.80.*4 monthly payments of \$146\.52/);
+  assert.throws(() => _test.buildCheckoutParams({ selectedClass: bookClass, paymentType: 'full',
+    bookQuantity: 1, now: start - 1, origin: 'https://www.italianschoolsd.com' }), /verified book tax quote/);
+});
+
+test('early monthly book combo taxes the book on invoice 1 only and preserves all five tuition payments', async() => {
+  const fake = fakeStripe();
+  const enrollment = bookSession();
+  await schedulePayments(enrollment, fake.request, start - 1);
+  assert.deepEqual(fake.invoices.map((i) => i.amount_due), [19932, 14652, 14652, 14652, 14652]);
+  assert.equal(fake.calls.filter((c) => c.params?.get('tax_code') === 'txcd_99999999').length, 1);
+  assert.equal(fake.calls.find((c) => c.path === '/invoices').params.get('shipping_details[address][postal_code]'), '92123');
+  await schedulePayments(enrollment, fake.request, start - 1);
+  assert.equal(fake.invoices.length, 5);
+  assert.equal(fake.calls.filter((c) => c.params?.get('metadata[enrollment_component]') === 'book').length, 1);
+});
+
+test('family full payment discounts tuition only and collects all books with sales tax on January 2', async() => {
+  const fake = fakeStripe();
+  await schedulePayments(bookSession('full', 2, 2), fake.request, start - 1);
+  assert.equal(fake.invoices.length, 1);
+  assert.equal(fake.invoices[0].amount_due, 137100);
+  assert.deepEqual(fake.invoices[0].lines.data.map((line) => line.amount), [126540, 9800]);
+  assert.equal(fake.calls.some((c) => c.path.endsWith('/pay')), false);
+});
+
+test('a book-line failure recovers without duplicating tuition or books', async() => {
+  const fake = fakeStripe();
+  const enrollment = bookSession('full');
+  await assert.rejects(schedulePayments(enrollment, async(path, params, options) => {
+    if (params?.get('metadata[enrollment_component]') === 'book') throw new Error('Interrupted book write');
+    return fake.request(path, params, options);
+  }, start - 1), /Interrupted/);
+  assert.equal(fake.invoices[0].lines.data.length, 1);
+  await schedulePayments(enrollment, fake.request, start - 1);
+  assert.equal(fake.invoices.length, 1);
+  assert.equal(fake.invoices[0].amount_due, 71880);
+  assert.equal(fake.invoices[0].lines.data.length, 2);
+});
+
+test('missing or changed book tax prevents scheduling or collecting an invoice', async() => {
+  const fake = fakeStripe();
+  await assert.rejects(schedulePayments(bookSession('full'), async(path, params, options) => {
+    const result = await fake.request(path, params, options);
+    if (options?.method === 'GET' && result.lines?.data?.length === 2) result.amount_due -= 380;
+    return result;
+  }, start - 1), /book sales tax/);
+  assert.equal(fake.calls.some((c) => c.params?.has('automatically_finalizes_at') || c.path.endsWith('/pay')), false);
+});
+
+test('a later book enrollment charges now and keeps the four remaining payments on enrollment anniversaries', async() => {
+  const now = Date.parse('2027-01-10T12:00:00-08:00') / 1000;
+  const params = _test.buildCheckoutParams({ selectedClass: bookClass, paymentType: 'monthly', bookQuantity: 1,
+    bookQuote: { subtotal: 4900, tax: 380, total: 5280, calculationId: 'taxcalc_quote' },
+    origin: 'https://www.italianschoolsd.com', monthlyCommitmentAccepted: true, now });
+  assert.equal(Number(params.get('metadata[charge_not_before]')), now);
+  assert.match(params.get('custom_text[submit][message]'), /\$199\.32 immediately.*4 monthly payments of \$146\.52/);
+  assert.doesNotMatch(params.get('custom_text[submit][message]'), /No tuition/);
+  const enrollment = bookSession();
+  enrollment.metadata.charge_not_before = String(now);
+  const fake = fakeStripe();
+  await schedulePayments(enrollment, fake.request, now);
+  assert.equal(fake.invoices[0].status, 'paid');
+  assert.equal(fake.invoices[0].amount_due, 19932);
+  assert.equal(fake.calls.filter((c) => c.path.endsWith('/pay')).length, 1);
+  assert.deepEqual(fake.calls.filter((c) => c.params?.has('automatically_finalizes_at'))
+    .map((c) => new Date(Number(c.params.get('automatically_finalizes_at')) * 1000).toISOString().slice(0, 10)),
+  ['2027-02-10', '2027-03-10', '2027-04-10', '2027-05-10']);
+});
+
+test('only the two in-person beginner sections offer the book combo', () => {
+  const sessionData = require('../../site/data/adult_january_may_2027.json');
+  const offered = sessionData.classes.filter((c) => CLASSES[c.id].bookId);
+  assert.deepEqual(offered.map((c) => c.id).sort(),
+    ['spring-2027-beg-kearny-mesa', 'spring-2027-fri-beg-int-encinitas-daniela']);
+  for (const sectionData of sessionData.classes) {
+    const selection = _test.validateSelection({ classId: sectionData.id, paymentType: 'full',
+      familyMemberCount: 1, bookQuantity: 1 });
+    assert.equal(selection.error?.statusCode, CLASSES[sectionData.id].bookId ? undefined : 400);
   }
 });

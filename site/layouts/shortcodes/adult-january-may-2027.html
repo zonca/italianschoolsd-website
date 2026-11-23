@@ -13,7 +13,18 @@
       <p class="session-class-time">{{ time.Format "3:04 PM" (printf "2000-01-01T%s:00Z" .startTime) }} - {{ time.Format "3:04 PM" (printf "2000-01-01T%s:00Z" .endTime) }} <span>Pacific Time</span></p>
       <p class="session-class-meta">{{ time.Format "January 2" (index .dates 0) }} - {{ time.Format "January 2" (index .dates (sub (len .dates) 1)) }} · {{ len .dates }} lessons{{ with .teacher }} · {{ . }}{{ end }}</p>
     </header>
-    {{ partial "stripe-checkout.html" (dict "class" .id "full" (printf "%.2f" (div (float $total) 100.0)) "monthly" (printf "%.2f" (div (float $monthly) 100.0)) "installments" $session.monthlyInstallments "compact" true) }}
+    {{ with .bookId }}
+      {{ $book := index site.Data.enrollment_books . }}
+      <div class="session-book">
+        <img src="{{ $book.imagePath }}" width="56" height="76" alt="{{ $book.name }} cover" loading="lazy">
+        <p><strong>{{ $book.name }}</strong><br>Optional book add-on, with classroom pickup. Books and sales tax are charged once with your full payment or first installment.</p>
+      </div>
+    {{ else }}
+      {{ if and (eq .level "Beginner") (eq .format "Online") }}
+      <p class="session-book-note"><strong>Textbook:</strong> New Italian Espresso (Beginner/Pre-Intermediate Updated Edition). Buy the <a href="https://a.co/d/0hAj20Up">textbook</a> and <a href="https://a.co/d/0fGK4Sfo">workbook</a> separately.</p>
+      {{ end }}
+    {{ end }}
+    {{ partial "stripe-checkout.html" (dict "class" .id "full" (printf "%.2f" (div (float $total) 100.0)) "monthly" (printf "%.2f" (div (float $monthly) 100.0)) "installments" $session.monthlyInstallments "compact" true "book" .bookId "bookLabel" "Textbook (optional)") }}
     <details class="session-dates"><summary>Lesson dates and holidays</summary>
       <p><strong>No class:</strong>
         {{- if eq .day "Monday" }} January 18, February 15, March 8, and March 29.

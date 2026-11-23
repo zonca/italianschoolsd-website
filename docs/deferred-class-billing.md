@@ -16,7 +16,7 @@ Invoices begin with automatic advancement disabled until the amount has been ver
 
 ## On or after the cutoff
 
-The existing immediate-payment and five-payment subscription flows apply. Full tuition or the first installment is charged in Checkout; subsequent subscription payments follow the enrollment date. Legacy class checkout behavior is preserved.
+Tuition-only selections use the existing immediate-payment and five-payment subscription flows. Full tuition or the first installment is charged in Checkout; subsequent subscription payments follow the enrollment date. Legacy class checkout behavior is preserved.
 
 ## Publication and operations
 
@@ -26,6 +26,12 @@ The school's existing live endpoint was checked as enabled for `checkout.session
 
 For an early enrollment, use `checkout_session_id` and `installment_number` invoice metadata in Stripe Dashboard to confirm the scheduled invoices and their amounts. Future automatic collections use Stripe's configured payment recovery settings; a saved card does not guarantee that a later charge succeeds. Do not also create a subscription for an early invoice-based enrollment, which would bill it twice.
 
-No textbooks are offered for these sections until materials are confirmed. Any future book purchase must use the existing taxable-book checkout flow.
+In-person Beginner sections offer The New Italian Project 1a, with pickup at the classroom. Book selectors are available in both full and monthly enrollment. Online Beginner keeps New Italian Espresso purchased separately, matching the previous session; other January-May levels have no book add-on.
+
+Book combos use the saved-card invoice flow before and after January 2. The checkout function obtains a positive Stripe Tax quote for the classroom pickup address and includes the exact taxed first payment in the authorization. The first invoice has tax-exempt tuition and a taxable physical-book line with Stripe Automatic Tax and the same pickup address. It must match the quoted total and positive book tax before it can advance. Remaining monthly invoices contain tuition only. A partial book-line write resumes idempotently.
+
+For book combos enrolled on/after January 2, the first invoice is collected immediately after the saved-card completion; the four remaining installments follow enrollment anniversaries. A zero or changed tax quote stops processing for review rather than collecting an untaxed book. Shared book metadata and prices are in `site/data/enrollment_books.json`.
+
+Live validation confirmed positive book tax and draft invoice totals for both pickup locations. Drafts were deleted without finalization or payment.
 
 Stripe references: [save payment details with Checkout](https://docs.stripe.com/payments/save-and-reuse?platform=web&ui=stripe-hosted), [schedule invoice finalization](https://docs.stripe.com/api/invoices/update#update_invoice-automatically_finalizes_at), [pay an invoice](https://docs.stripe.com/api/invoices/pay).

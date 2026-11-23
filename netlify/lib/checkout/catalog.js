@@ -1,17 +1,4 @@
-const BOOKS = {
-  project1a: {
-    id: 'project1a',
-    name: 'The New Italian Project 1a',
-    amount: 4900,
-    imagePath: '/img/books/new-italian-project-1a.jpeg',
-  },
-  project1b: {
-    id: 'project1b',
-    name: 'The New Italian Project 1b',
-    amount: 4900,
-    imagePath: '/img/books/new-italian-project-1b.webp',
-  },
-};
+const BOOKS = require('../../../site/data/enrollment_books.json');
 
 const CLASSES = {
   'fall-2026-sat-beg': {
@@ -174,6 +161,8 @@ for (const section of springSession.classes) {
     chargeNotBefore: springSession.chargeNotBefore,
     pagePath: page.pagePath,
     anchor: section.anchor,
+    bookId: section.bookId,
+    bookPickupAddress: section.bookId ? springSession.bookPickupLocations[section.location] : undefined,
     fullAmount,
     monthlyAmount: Math.round(fullAmount * (100 + springSession.monthlyFeePercent) / (100 * springSession.monthlyInstallments)),
     monthlyInstallments: springSession.monthlyInstallments,

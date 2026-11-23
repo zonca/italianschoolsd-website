@@ -139,6 +139,33 @@
   margin: 1.2rem 0;
 }
 
+.session-book {
+  align-items: center;
+  background: #f5f8fa;
+  border-radius: 0.4rem;
+  display: flex;
+  gap: 0.9rem;
+  margin-top: 1rem;
+  padding: 0.8rem;
+}
+
+.cms .session-book img {
+  flex: 0 0 56px;
+  height: auto;
+  margin: 0;
+  width: 56px;
+}
+
+.cms .session-book p,
+.cms .session-book-note {
+  color: var(--grey-3);
+  font-size: 0.85em;
+  line-height: 1.5;
+  margin: 0;
+}
+
+.cms .session-book-note { margin-top: 1rem; }
+
 .adult-session .checkout-card {
   box-shadow: none;
   display: flex;
