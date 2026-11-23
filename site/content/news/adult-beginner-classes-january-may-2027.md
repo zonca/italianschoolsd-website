@@ -8,7 +8,7 @@ weight: 1
 description: Beginner adult Italian class schedules, tuition, and full or monthly enrollment for January-May 2027.
 ---
 
-Start Italian with no prior experience required. Choose Wednesday evening in Kearny Mesa, Thursday online, or Friday in Encinitas.
+Start Italian with no prior experience required. Choose Wednesday evening in Kearny Mesa or online, or Friday in Encinitas.
 
 {{< adult-january-may-2027-facts >}}
 
