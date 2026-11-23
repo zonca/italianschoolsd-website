@@ -11,8 +11,15 @@ const BOOK_TAX_CODE = 'txcd_99999999';
 function baseUrl(event) {
   const host = event.headers.host || event.headers.Host;
   const proto = event.headers['x-forwarded-proto'] || 'https';
-  if (process.env.CONTEXT === 'production' && process.env.URL) return process.env.URL;
-  return process.env.DEPLOY_PRIME_URL || process.env.URL || `${proto}://${host}`;
+  // Netlify exposes SITE_NAME and URL at function runtime, but not the
+  // build-only deploy context variables. Trust only this site's preview hosts.
+  if (process.env.SITE_NAME && host) {
+    const suffix = `--${process.env.SITE_NAME}.netlify.app`;
+    if (host.endsWith(suffix) && /^[a-z0-9-]+$/.test(host.slice(0, -suffix.length))) {
+      return `https://${host}`;
+    }
+  }
+  return process.env.URL || process.env.DEPLOY_PRIME_URL || `${proto}://${host}`;
 }
 
 function parseBody(event) {

@@ -20,7 +20,7 @@ Tuition-only selections use the existing immediate-payment and five-payment subs
 
 Monthly dates use Stripe's UTC anchor convention and clamp to the last day of shorter months. For example, a January 31 enrollment continues on February 28, March 31, April 30, and May 31. Invoice scheduling and subscription cancellation share the same calculation to avoid skipping February or leaving a subscription active for an extra payment. See [Stripe's monthly billing anchor examples](https://docs.stripe.com/billing/subscriptions/billing-cycle).
 
-Checkout return URLs use the deployment's primary URL in preview contexts and the canonical site URL in production, following [Netlify's deployment URL variables](https://docs.netlify.com/build/configure-builds/environment-variables/).
+Checkout return URLs recognize preview hosts in the site's own `--SITE_NAME.netlify.app` namespace and otherwise use the canonical site URL. This uses [Netlify's runtime variables](https://docs.netlify.com/build/functions/environment-variables/), rather than assuming that build-only context variables are available to functions. Unrelated request hosts cannot override the canonical return URL.
 
 ## Publication and operations
 
