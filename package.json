@@ -15,6 +15,7 @@
     "build:hugo:preview": "npm run build:hugo -- -D -F",
     "test:functions": "node --test tests/netlify-functions/*.test.js",
     "test:styles": "node --test tests/styles/*.test.js",
+    "test:navigation": "node --test tests/navigation/*.test.js",
     "postbuild": "node algolia-indexer.js"
   },
   "author": "",
