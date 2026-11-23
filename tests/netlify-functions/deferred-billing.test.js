@@ -154,7 +154,10 @@ test('the Checkout webhook schedules saved-card tuition through the Stripe HTTP 
     return { ok: true, json: async() => result };
   };
   try {
-    await webhook.handleEvent({ type: 'checkout.session.completed', data: { object: session() } });
+    const enrollment = session();
+    // Keep this transport test in the future after the real term has ended.
+    enrollment.metadata.charge_not_before = String(Math.floor(Date.now() / 1000) + 86400);
+    await webhook.handleEvent({ type: 'checkout.session.completed', data: { object: enrollment } });
     assert.equal(fake.invoices.length, 5);
     assert.equal(fake.calls.filter((c) => c.params?.has('automatically_finalizes_at')).length, 5);
   } finally {
