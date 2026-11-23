@@ -281,7 +281,7 @@
       "id": "spring-2027-fri-beg-int-encinitas-daniela",
       "anchor": "fri-beg-int-encinitas-daniela",
       "day": "Friday",
-      "level": "Beginner-Intermediate",
+      "level": "Beginner",
       "teacher": "Daniela",
       "startTime": "18:00",
       "endTime": "19:30",
@@ -339,5 +339,21 @@
       ]
     }
   ],
-  "chargeNotBefore": "2027-01-02T00:00:00-08:00"
+  "chargeNotBefore": "2027-01-02T00:00:00-08:00",
+  "plannedClasses": [
+    {
+      "id": "spring-2027-beg-online",
+      "anchor": "beg-online",
+      "level": "Beginner",
+      "format": "Online",
+      "location": "Online via Zoom"
+    },
+    {
+      "id": "spring-2027-beg-kearny-mesa",
+      "anchor": "beg-kearny-mesa",
+      "level": "Beginner",
+      "format": "In person",
+      "location": "Kearny Mesa"
+    }
+  ]
 }

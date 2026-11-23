@@ -4,6 +4,8 @@ January-May 2027 classes use the existing website enrollment forms and Checkout 
 
 Prices, lesson dates, and `chargeNotBefore` are maintained in `site/data/adult_january_may_2027.json`. The cutoff is January 2, 2027 at midnight Pacific Time. The catalog computes all tuition amounts from this data.
 
+The `plannedClasses` list holds the additional online and Kearny Mesa beginner offerings while their teachers and schedules are being determined. They show contact links, have no quoted session total, and are excluded from the checkout catalog. Once their calendars are confirmed, move them into `classes` with complete lesson dates before enabling payment. Encinitas retains its two Friday sections, with Daniela at beginner and Laura at beginner-intermediate; existing enrollment anchors remain stable.
+
 ## Before the cutoff
 
 Checkout runs in setup mode and creates a customer when the student saves a card. The displayed authorization quotes the exact amount and payment dates. A signed `checkout.session.completed` webhook verifies the successful SetupIntent and customer before scheduling any tuition.

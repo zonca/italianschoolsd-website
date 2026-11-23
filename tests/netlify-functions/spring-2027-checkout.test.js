@@ -10,7 +10,7 @@ const weekdays = ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Frida
 const exclusions = new Set(['2027-01-18', '2027-02-12', '2027-02-15', '2027-03-08',
   '2027-03-29', '2027-03-30', '2027-03-31', '2027-04-01', '2027-04-02', '2027-04-03']);
 
-test('all 11 continuing sections match the agreed dates, weekdays, holidays and final week', () => {
+test('all 11 scheduled sections match the agreed dates, weekdays, holidays and final week', () => {
   assert.equal(session.classes.length, 11);
   assert.equal(session.classes.reduce((n, c) => n + c.dates.length, 0), 187);
   session.classes.forEach((section, i) => {
@@ -23,6 +23,26 @@ test('all 11 continuing sections match the agreed dates, weekdays, holidays and 
     }
     assert.ok(section.dates.at(-1) >= '2027-05-17');
   });
+});
+
+test('beginner offerings cover online, Kearny Mesa and Encinitas without billing unscheduled sections', () => {
+  const encinitas = session.classes.filter((section) => section.location === 'Encinitas');
+  assert.equal(encinitas.length, 2);
+  assert.deepEqual(encinitas.map((section) => [section.teacher, section.level]),
+    [['Laura', 'Beginner-Intermediate'], ['Daniela', 'Beginner']]);
+  const beginner = encinitas.find((section) => section.level === 'Beginner');
+  assert.equal(CLASSES[beginner.id].level, 'Beginner');
+  assert.match(CLASSES[beginner.id].name, /Class - Beginner Friday/);
+  assert.equal(CLASSES[beginner.id].fullAmount, 62900);
+  assert.deepEqual(session.plannedClasses.map((section) => [section.level, section.location]),
+    [['Beginner', 'Online via Zoom'], ['Beginner', 'Kearny Mesa']]);
+  for (const section of session.plannedClasses) {
+    for (const paymentType of ['full', 'monthly']) {
+      const selection = _test.validateSelection({ classId: section.id, paymentType,
+        familyMemberCount: 1, bookQuantity: 0, monthlyCommitmentAccepted: true });
+      assert.equal(selection.error.statusCode, 400);
+    }
+  }
 });
 
 test('full and monthly checkout charge the published rates and identify the new term', () => {
