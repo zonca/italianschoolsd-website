@@ -287,3 +287,16 @@ test('only the two in-person beginner sections offer the book combo', () => {
     assert.equal(selection.error?.statusCode, CLASSES[sectionData.id].bookId ? undefined : 400);
   }
 });
+
+test('January 31 book enrollment charges once now and schedules the other four payments in distinct months', async() => {
+  const now = Date.parse('2027-01-31T20:00:00Z') / 1000;
+  const enrollment = bookSession();
+  enrollment.metadata.charge_not_before = String(now);
+  const fake = fakeStripe();
+  await schedulePayments(enrollment, fake.request, now);
+  assert.equal(fake.invoices.length, 5);
+  assert.equal(fake.calls.filter((c) => c.path.endsWith('/pay')).length, 1);
+  assert.deepEqual(fake.calls.filter((c) => c.params?.has('automatically_finalizes_at'))
+    .map((c) => new Date(Number(c.params.get('automatically_finalizes_at')) * 1000).toISOString().slice(0, 10)),
+  ['2027-02-28', '2027-03-31', '2027-04-30', '2027-05-31']);
+});

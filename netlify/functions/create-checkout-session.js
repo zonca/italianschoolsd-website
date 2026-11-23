@@ -11,7 +11,8 @@ const BOOK_TAX_CODE = 'txcd_99999999';
 function baseUrl(event) {
   const host = event.headers.host || event.headers.Host;
   const proto = event.headers['x-forwarded-proto'] || 'https';
-  return process.env.URL || process.env.DEPLOY_PRIME_URL || `${proto}://${host}`;
+  if (process.env.CONTEXT === 'production' && process.env.URL) return process.env.URL;
+  return process.env.DEPLOY_PRIME_URL || process.env.URL || `${proto}://${host}`;
 }
 
 function parseBody(event) {
@@ -329,6 +330,7 @@ exports.handler = async function handler(event) {
 };
 
 exports._test = {
+  baseUrl,
   buildCheckoutParams,
   parseCount,
   validateSelection,

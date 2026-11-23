@@ -1,15 +1,10 @@
 const crypto = require('crypto');
 const { sendErrorAlert } = require('../lib/checkout/alerts');
 const { schedulePayments } = require('../lib/checkout/deferred-billing');
+const { addMonths } = require('../lib/checkout/billing-dates');
 
 const TOLERANCE_SECONDS = 300;
 const STRIPE_API_VERSION = '2026-02-25.clover';
-
-function addMonths(timestampSeconds, months) {
-  const date = new Date(timestampSeconds * 1000);
-  date.setUTCMonth(date.getUTCMonth() + months);
-  return Math.floor(date.getTime() / 1000);
-}
 
 function installmentCount(value) {
   const count = Number.parseInt(value || '5', 10);

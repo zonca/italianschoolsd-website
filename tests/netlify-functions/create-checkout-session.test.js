@@ -6,6 +6,28 @@ const { _test } = require('../../netlify/functions/create-checkout-session');
 
 const ORIGIN = 'https://www.italianschoolsd.com';
 
+test('Checkout return URLs stay in the deploy preview and use the canonical site in production', () => {
+  const keys = ['URL', 'DEPLOY_PRIME_URL', 'CONTEXT'];
+  const previous = Object.fromEntries(keys.map((key) => [key, process.env[key]]));
+  try {
+    process.env.URL = ORIGIN;
+    process.env.DEPLOY_PRIME_URL = 'https://deploy-preview-89--italianschoolsd.netlify.app';
+    process.env.CONTEXT = 'deploy-preview';
+    const origin = _test.baseUrl({ headers: {} });
+    const params = _test.buildCheckoutParams({ selectedClass: CLASSES['spring-2027-mon-adv'],
+      paymentType: 'full', origin });
+    assert.equal(new URL(params.get('cancel_url')).origin, process.env.DEPLOY_PRIME_URL);
+    assert.equal(new URL(params.get('success_url')).origin, process.env.DEPLOY_PRIME_URL);
+    process.env.CONTEXT = 'production';
+    assert.equal(_test.baseUrl({ headers: {} }), ORIGIN);
+  } finally {
+    for (const key of keys) {
+      if (previous[key] === undefined) delete process.env[key];
+      else process.env[key] = previous[key];
+    }
+  }
+});
+
 test('pay-in-full checkout does not include recurring data or manual promotion codes', () => {
   const selectedClass = CLASSES['fall-2026-wed-beg'];
   const params = _test.buildCheckoutParams({

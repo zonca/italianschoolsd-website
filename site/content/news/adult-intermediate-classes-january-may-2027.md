@@ -13,6 +13,15 @@ class_descriptions:
     Build your intermediate speaking and reading skills, deepen your vocabulary and grammar, and practise using Italian in conversation.
   Intermediate-Advanced: >-
     For students who have completed intermediate Italian and want to work on complex grammar, nuanced vocabulary, and more fluent expression.
+class_textbooks:
+  mon-int-online: espresso
+  mon-int-adv: project1b
+  tue-int-adv-online: espresso
+  wed-beg-int: project1a
+  thu-beg-int-online: espresso
+  thu-int: project1a
+  fri-beg-int-encinitas-laura: project1a
+  sat-beg-int: project1a
 ---
 
 Continue your Italian with beginner-intermediate, intermediate, and intermediate-advanced groups in Kearny Mesa, Encinitas, and online.

@@ -19,6 +19,27 @@ test('verifyStripeSignature accepts a valid signed payload', () => {
   });
 });
 
+test('month-end subscription stops at the sixth billing boundary without rolling into July', async() => {
+  const originalFetch = global.fetch;
+  const calls = [];
+  global.fetch = async(url, options) => {
+    calls.push({ url, options });
+    return { ok: true, json: async() => ({ id: 'sub_month_end' }) };
+  };
+  try {
+    await _test.handleEvent({ type: 'checkout.session.completed', data: { object: {
+      id: 'cs_month_end', mode: 'subscription', subscription: 'sub_month_end',
+      created: Date.parse('2027-01-31T20:00:00Z') / 1000,
+      metadata: { payment_type: 'monthly', installments_total: '5' },
+    } } });
+  } finally {
+    global.fetch = originalFetch;
+  }
+  assert.equal(calls.length, 1);
+  assert.equal(new Date(Number(calls[0].options.body.get('cancel_at')) * 1000).toISOString(),
+    '2027-06-30T20:00:00.000Z');
+});
+
 test('verifyStripeSignature rejects invalid and expired signatures', () => {
   const payload = JSON.stringify({ id: 'evt_test' });
   assert.throws(
@@ -31,11 +52,11 @@ test('verifyStripeSignature rejects invalid and expired signatures', () => {
   );
 });
 
-test('handleEvent updates monthly subscription cancel_at for five months later', async () => {
+test('handleEvent updates monthly subscription cancel_at for five months later', async() => {
   const calls = [];
   const originalFetch = global.fetch;
   process.env.STRIPE_SECRET_KEY = 'sk_test_unit';
-  global.fetch = async (url, options) => {
+  global.fetch = async(url, options) => {
     calls.push({ url, options });
     return {
       ok: true,
@@ -71,11 +92,11 @@ test('handleEvent updates monthly subscription cancel_at for five months later',
   assert.match(body.get('cancel_at'), /^[0-9]+$/);
 });
 
-test('handleEvent honors a four-payment subscription', async () => {
+test('handleEvent honors a four-payment subscription', async() => {
   const calls = [];
   const originalFetch = global.fetch;
   process.env.STRIPE_SECRET_KEY = 'sk_test_unit';
-  global.fetch = async (url, options) => {
+  global.fetch = async(url, options) => {
     calls.push({ url, options });
     return {
       ok: true,
@@ -110,7 +131,7 @@ test('handleEvent honors a four-payment subscription', async () => {
   assert.equal(body.get('cancel_at'), String(_test.addMonths(1782766000, 4)));
 });
 
-test('handleEvent rejects completed monthly sessions without subscription id', async () => {
+test('handleEvent rejects completed monthly sessions without subscription id', async() => {
   await assert.rejects(
     _test.handleEvent({
       type: 'checkout.session.completed',

@@ -11,6 +11,8 @@ class_descriptions:
     For students who have completed intermediate Italian and want to develop more fluent expression, richer vocabulary, and a deeper understanding of complex grammar. Practise speaking and reading through Italian culture, literature, and current topics.
   Conversation: >-
     A conversation-only class for students who can already hold a conversation in Italian. Discuss articles, blog posts, literature, and current topics, with grammar addressed when it helps the conversation. No written exercises or required textbook; Ilana provides the materials.
+class_textbooks:
+  mon-adv: project1b
 ---
 
 Deepen your Italian with Daniela's Monday advanced group or Ilana's Thursday Conversation class in Kearny Mesa.

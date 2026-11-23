@@ -1,4 +1,5 @@
 const { BOOKS, CLASSES } = require('./catalog');
+const { addMonths } = require('./billing-dates');
 
 function chargeStart(selectedClass) {
   return selectedClass.chargeNotBefore
@@ -8,12 +9,6 @@ function chargeStart(selectedClass) {
 function quoteAmount(selectedClass, paymentType, familyMemberCount = 1) {
   return paymentType === 'monthly' ? selectedClass.monthlyAmount
     : selectedClass.fullAmount + (familyMemberCount - 1) * Math.round(selectedClass.fullAmount * 0.9);
-}
-
-function addMonths(timestamp, months) {
-  const date = new Date(timestamp * 1000);
-  date.setUTCMonth(date.getUTCMonth() + months);
-  return Math.floor(date.getTime() / 1000);
 }
 
 // The signed Checkout webhook is the only caller. Stripe owns the future

@@ -26,6 +26,8 @@ Weekly Italian classes in **Kearny Mesa**, **Encinitas**, and **online via Zoom*
 
 {{< adult-january-may-2027-levels >}}
 
+Not sure which level fits? [Tell us about your experience and availability](https://forms.gle/LHR7Htpeb3mQzV838), and we can help you choose.
+
 {{< adult-january-may-2027-rates >}} Full-session and monthly payment options are listed with each class.
 
 ## Weekly schedule {#weekly-schedule}
@@ -104,7 +106,7 @@ Between lessons, we encourage about 20 minutes of daily review. Teachers aim to 
     <summary id="cancellation">Cancellation and refunds</summary>
     <ul>
       <li>Full refund if you cancel at least 15 days before the first class.</li>
-      <li>50% refund if you cancel after the first class but before the second class.</li>
+      <li>50% refund after the full-refund deadline and before the second class begins.</li>
       <li>No refunds after the start of the second class.</li>
     </ul>
     <p>To request a cancellation and refund, email <code>admin</code> at our <code>italianschoolsd.com</code> domain.</p>
@@ -113,6 +115,17 @@ Between lessons, we encourage about 20 minutes of daily review. Teachers aim to 
     <summary id="family-discount">Family discount</summary>
     <p>Additional family members enrolling together receive a 10% discount, applied automatically at checkout.</p>
   </details>
+</div>
+
+## Previous sessions {#previous-sessions}
+
+<div class="adult-archive-links">
+  <a href='{{< relref "news/adult-beginner-classes-fall-2026.md" >}}'>Fall 2026: Beginner</a>
+  <a href='{{< relref "news/adult-intermediate-classes-fall-2026.md" >}}'>Fall 2026: Intermediate</a>
+  <a href='{{< relref "news/adult-advanced-classes-fall-2026.md" >}}'>Fall 2026: Conversation</a>
+  <a href='{{< relref "news/adult-beginner-classes-summer-2026.md" >}}'>Summer 2026</a>
+  <a href='{{< relref "news/adult-beginner-classes-january-may-2026.md" >}}'>January-May 2026</a>
+  <a href='{{< relref "news/italian-adult-classes-fall-2025.md" >}}'>Fall 2025</a>
 </div>
 
 </div>

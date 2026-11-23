@@ -4,7 +4,7 @@ January-May 2027 classes use separate Beginner, Intermediate, and Advanced/Conve
 
 Prices, lesson dates, and `chargeNotBefore` are maintained in `site/data/adult_january_may_2027.json`. The cutoff is January 2, 2027 at midnight Pacific Time. The catalog computes all tuition amounts from this data.
 
-All 13 sections, including Wednesday in-person and Thursday online beginners, have complete lesson dates and use the same full/monthly enrollment forms. Public schedules follow the previous class pages' schedule, lesson-count, tuition, and enrollment pattern. New beginner teacher assignments remain in the planning sheet until confirmed; their public sections omit teacher names. Encinitas retains its two Friday sections, with Daniela at beginner and Laura at beginner-intermediate; existing enrollment anchors remain stable.
+All 13 sections, including Wednesday in-person and Wednesday online beginners, have complete lesson dates and use the same full/monthly enrollment forms. Public schedules follow the previous class pages' schedule, lesson-count, tuition, and enrollment pattern. New beginner teacher assignments remain in the planning sheet until confirmed; their public sections omit teacher names. Encinitas retains its two Friday sections, with Daniela at beginner and Laura at beginner-intermediate; existing enrollment anchors remain stable.
 
 ## Before the cutoff
 
@@ -17,6 +17,10 @@ Invoices begin with automatic advancement disabled until the amount has been ver
 ## On or after the cutoff
 
 Tuition-only selections use the existing immediate-payment and five-payment subscription flows. Full tuition or the first installment is charged in Checkout; subsequent subscription payments follow the enrollment date. Legacy class checkout behavior is preserved.
+
+Monthly dates use Stripe's UTC anchor convention and clamp to the last day of shorter months. For example, a January 31 enrollment continues on February 28, March 31, April 30, and May 31. Invoice scheduling and subscription cancellation share the same calculation to avoid skipping February or leaving a subscription active for an extra payment. See [Stripe's monthly billing anchor examples](https://docs.stripe.com/billing/subscriptions/billing-cycle).
+
+Checkout return URLs use the deployment's primary URL in preview contexts and the canonical site URL in production, following [Netlify's deployment URL variables](https://docs.netlify.com/build/configure-builds/environment-variables/).
 
 ## Publication and operations
 
