@@ -15,7 +15,7 @@ Compared the new enrollment pages with the Fall Beginner, Intermediate, Conversa
 ## Preserved behavior
 
 - Separate pages for each level, class descriptions before enrollment, online sections last, and links to individual class sections.
-- All scheduled sections and lesson dates, including the Wednesday online Beginner decision, remain in the shared schedule. The shared-Zoom overlap check still applies.
+- All scheduled sections and lesson dates, including the Wednesday online Beginner decision, remain in the shared schedule. The shared-Zoom overlap check still applies between adult sections. The later request for Wednesday Beginner at 6:00-7:30 PM overlaps the existing online teen class at 5:00-7:00 PM; the single-room conflict must be resolved before publication.
 - Tuition calculations, family discounts, installment counts, required monthly commitment, January first-charge cutoff, immediate later enrollment, and book tax remain covered by the function tests.
 - The existing Fall enrollment forms keep their published prices, book options, family selectors, and required monthly commitment.
 - Teachers for the new Beginner sections remain unconfirmed in the planning sheet; public pages do not invent assignments. The Saturday spring-break assumption remains documented in the planning sheet and PR.
