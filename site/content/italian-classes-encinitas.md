@@ -14,8 +14,8 @@ Several families in North County told us the same thing: the drive down to Kearn
 Children are grouped by age into two small classes, each led by its own native Italian teacher. **No previous knowledge of Italian is required.**
 
 <div class="tc">
-<a href="#enroll" class="btn raise">Pre-enroll your child</a>
-<a href="#adults" class="btn raise">Adult classes on Fridays</a>
+<a href='{{< relref "italian-classes-encinitas.md" >}}#enroll' class="btn raise">Pre-enroll your child</a>
+<a href='{{< relref "italian-classes-encinitas.md" >}}#adults' class="btn raise">Adult classes on Fridays</a>
 </div>
 
 Enrollment remains open through the first class on September 14, subject to availability.
@@ -63,7 +63,7 @@ Children are expected to be picked up promptly at the scheduled end of class. A 
 **San Dieguito United Methodist Church**
 [170 Calle Magdalena, Encinitas, CA 92024](https://maps.google.com/?q=170+Calle+Magdalena,+Encinitas,+CA+92024)
 
-The church hosts our classes in two classrooms of its education building. There is ample free parking on site, so drop-off and pick-up are quick even at 4:00 PM, and there is an enclosed outdoor area with a table where the children take their mid-class break. The [Friday evening adult classes](#adults) meet in the same two classrooms.
+The church hosts our classes in two classrooms of its education building. There is ample free parking on site, so drop-off and pick-up are quick even at 4:00 PM, and there is an enclosed outdoor area with a table where the children take their mid-class break. The [Friday evening adult classes]({{< relref "italian-classes-encinitas.md" >}}#adults) meet in the same two classrooms.
 
 Convenient for families and adults in Encinitas, Cardiff-by-the-Sea, Leucadia, Olivenhain, Solana Beach, Del Mar, Rancho Santa Fe, Carlsbad, and San Marcos.
 

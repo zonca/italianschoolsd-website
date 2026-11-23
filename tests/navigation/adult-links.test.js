@@ -25,3 +25,33 @@ test('adult section links stay on their page when the document has a site-root b
   }
   assert.equal(checked, 7);
 });
+
+test('every internal link on the adult enrollment pages has a built destination and anchor', () => {
+  const routes = ['/adults/', '/italian-classes-encinitas/',
+    '/news/2026/11/adult-italian-classes-january-may-2027/',
+    ...['beginner', 'intermediate', 'advanced']
+      .map((level) => `/news/2026/11/adult-${level}-classes-january-may-2027/`)];
+  const root = path.join(__dirname, '../../dist');
+  const documents = new Map();
+  function readDocument(route) {
+    if (!documents.has(route)) {
+      const filename = path.join(root, route, path.extname(route) ? '' : 'index.html');
+      assert.ok(fs.existsSync(filename), `Missing built destination: ${route}`);
+      documents.set(route, new JSDOM(fs.readFileSync(filename, 'utf8'), {
+        url: `https://www.italianschoolsd.com${route}`,
+      }).window.document);
+    }
+    return documents.get(route);
+  }
+  for (const route of routes) {
+    for (const link of readDocument(route).querySelectorAll('a[href]')) {
+      const destination = new URL(link.href);
+      if (destination.origin !== 'https://www.italianschoolsd.com') continue;
+      const target = readDocument(destination.pathname);
+      if (destination.hash) {
+        assert.ok(target.getElementById(decodeURIComponent(destination.hash.slice(1))),
+          `${route}: ${link.textContent.trim()} points to missing ${link.href}`);
+      }
+    }
+  }
+});
