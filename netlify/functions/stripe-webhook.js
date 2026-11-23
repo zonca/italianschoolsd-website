@@ -1,14 +1,10 @@
 const crypto = require('crypto');
 const { sendErrorAlert } = require('../lib/checkout/alerts');
+const { schedulePayments } = require('../lib/checkout/deferred-billing');
+const { addMonths } = require('../lib/checkout/billing-dates');
 
 const TOLERANCE_SECONDS = 300;
 const STRIPE_API_VERSION = '2026-02-25.clover';
-
-function addMonths(timestampSeconds, months) {
-  const date = new Date(timestampSeconds * 1000);
-  date.setUTCMonth(date.getUTCMonth() + months);
-  return Math.floor(date.getTime() / 1000);
-}
 
 function installmentCount(value) {
   const count = Number.parseInt(value || '5', 10);
@@ -56,6 +52,7 @@ function verifyStripeSignature(payload, signatureHeader, secret) {
 async function handleEvent(event) {
   if (event.type === 'checkout.session.completed') {
     const session = event.data.object;
+    await schedulePayments(session, stripeRequest);
     if (session.mode === 'subscription' && session.metadata?.payment_type === 'monthly' && !session.subscription) {
       throw new Error(`Completed monthly Checkout Session has no subscription: ${session.id}`);
     }
@@ -71,15 +68,16 @@ async function handleEvent(event) {
   }
 }
 
-async function stripeRequest(path, params) {
+async function stripeRequest(path, params, { method = 'POST', idempotencyKey } = {}) {
   const response = await fetch(`https://api.stripe.com/v1${path}`, {
-    method: 'POST',
+    method,
     headers: {
       Authorization: `Bearer ${process.env.STRIPE_SECRET_KEY}`,
       'Stripe-Version': STRIPE_API_VERSION,
       'Content-Type': 'application/x-www-form-urlencoded',
+      ...(idempotencyKey ? { 'Idempotency-Key': idempotencyKey } : {}),
     },
-    body: params,
+    ...(method === 'GET' ? {} : { body: params }),
   });
   const data = await response.json();
   if (!response.ok) {

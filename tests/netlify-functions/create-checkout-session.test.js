@@ -6,6 +6,32 @@ const { _test } = require('../../netlify/functions/create-checkout-session');
 
 const ORIGIN = 'https://www.italianschoolsd.com';
 
+test('Checkout return URLs stay in the deploy preview and use the canonical site in production', () => {
+  const keys = ['URL', 'DEPLOY_PRIME_URL', 'CONTEXT', 'SITE_NAME'];
+  const previous = Object.fromEntries(keys.map((key) => [key, process.env[key]]));
+  try {
+    process.env.URL = ORIGIN;
+    delete process.env.DEPLOY_PRIME_URL;
+    delete process.env.CONTEXT;
+    process.env.SITE_NAME = 'italianschoolsd';
+    const preview = 'https://deploy-preview-89--italianschoolsd.netlify.app';
+    const origin = _test.baseUrl({ headers: { host: new URL(preview).host } });
+    const params = _test.buildCheckoutParams({ selectedClass: CLASSES['spring-2027-mon-adv'],
+      paymentType: 'full', origin });
+    assert.equal(new URL(params.get('cancel_url')).origin, preview);
+    assert.equal(new URL(params.get('success_url')).origin, preview);
+    assert.equal(_test.baseUrl({ headers: { host: new URL(ORIGIN).host } }), ORIGIN);
+    assert.equal(_test.baseUrl({ headers: { host: 'attacker.example' } }), ORIGIN);
+    assert.equal(_test.baseUrl({ headers: { host: 'deploy-preview-89--another-site.netlify.app' } }), ORIGIN);
+    assert.equal(_test.baseUrl({ headers: { host: 'deploy-preview-89--italianschoolsd.netlify.app.attacker.example' } }), ORIGIN);
+  } finally {
+    for (const key of keys) {
+      if (previous[key] === undefined) delete process.env[key];
+      else process.env[key] = previous[key];
+    }
+  }
+});
+
 test('pay-in-full checkout does not include recurring data or manual promotion codes', () => {
   const selectedClass = CLASSES['fall-2026-wed-beg'];
   const params = _test.buildCheckoutParams({
