@@ -6,6 +6,9 @@ session_group: beginner
 display_title: Beginner Italian
 weight: 1
 description: Beginner adult Italian class schedules, tuition, and full or monthly enrollment for January-May 2027.
+class_descriptions:
+  Beginner: >-
+    Start Italian from the beginning, with no prior experience required. Build practical conversation skills, everyday vocabulary, pronunciation, and core grammar in a supportive, interactive class.
 ---
 
 Start Italian with no prior experience required. Choose Wednesday evening in Kearny Mesa or online, or Friday in Encinitas.

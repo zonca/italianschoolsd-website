@@ -6,6 +6,13 @@ session_group: intermediate
 display_title: Intermediate Italian
 weight: 2
 description: Intermediate adult Italian class schedules, tuition, and full or monthly enrollment for January-May 2027.
+class_descriptions:
+  Beginner-Intermediate: >-
+    For students who have studied basic Italian and are ready to build vocabulary, strengthen core grammar, and become more confident in conversation.
+  Intermediate: >-
+    Build your intermediate speaking and reading skills, deepen your vocabulary and grammar, and practise using Italian in conversation.
+  Intermediate-Advanced: >-
+    For students who have completed intermediate Italian and want to work on complex grammar, nuanced vocabulary, and more fluent expression.
 ---
 
 Continue your Italian with beginner-intermediate, intermediate, and intermediate-advanced groups in Kearny Mesa, Encinitas, and online.

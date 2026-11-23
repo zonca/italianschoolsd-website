@@ -14,6 +14,9 @@
       <p class="session-class-time">{{ time.Format "3:04 PM" (printf "2000-01-01T%s:00Z" .startTime) }} - {{ time.Format "3:04 PM" (printf "2000-01-01T%s:00Z" .endTime) }} <span>Pacific Time</span></p>
       <p class="session-class-meta">{{ time.Format "January 2" (index .dates 0) }} - {{ time.Format "January 2" (index .dates (sub (len .dates) 1)) }} · {{ len .dates }} lessons{{ with .teacher }} · {{ . }}{{ end }}</p>
     </header>
+    {{ with index $.Page.Params.class_descriptions .level }}
+    <p class="session-class-description">{{ . }}</p>
+    {{ end }}
     {{ with .bookId }}
       {{ $book := index site.Data.enrollment_books . }}
       <div class="session-book">
