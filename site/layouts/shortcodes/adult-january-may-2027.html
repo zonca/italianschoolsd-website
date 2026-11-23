@@ -2,6 +2,7 @@
 {{- $page := index $session.pages (.Get "group") -}}
 {{- $classes := where $session.classes "level" "in" $page.levels -}}
 {{ if eq (.Get "group") "beginner" }}{{ $classes = sort $classes "anchor" }}{{ end }}
+{{ $classes = union (where $classes "format" "ne" "Online") (where $classes "format" "Online") }}
 {{ range $classes }}
   {{- $rate := cond (eq .format "Online") $session.rates.online $session.rates.in_person -}}
   {{- $total := mul (len .dates) $rate -}}

@@ -3,7 +3,8 @@
 {{ range slice "Monday" "Tuesday" "Wednesday" "Thursday" "Friday" "Saturday" }}
   <article class="adult-day-card">
     <h3 id="january-{{ lower . }}">{{ . }}</h3>
-    {{ range where $session.classes "day" . }}
+    {{ $classes := where $session.classes "day" . }}
+    {{ range union (where $classes "format" "ne" "Online") (where $classes "format" "Online") }}
       {{ $class := . }}
       {{ $page := dict }}
       {{ range $session.pages }}{{ if in .levels $class.level }}{{ $page = . }}{{ end }}{{ end }}
