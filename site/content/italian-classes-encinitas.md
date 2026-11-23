@@ -7,7 +7,7 @@ aliases:
     - /north-county
 ---
 
-The Italian school of San Diego is opening a second in-person location in **Encinitas**, for the 2026-2027 academic year. The **NEW one-hour TK-2nd grade class meets Mondays, 4:00-5:00 PM**. The 3rd-5th grade class meets Mondays, 4:00-6:00 PM. Both run from September 14, 2026 through May 24, 2027. New for the fall, we also teach **adults on Fridays, 6:00-7:30 PM**.
+The Italian school of San Diego is opening a second in-person location in **Encinitas**, for the 2026-2027 academic year. The **NEW one-hour TK-2nd grade class meets Mondays, 4:00-5:00 PM**. The 3rd-5th grade class meets Mondays, 4:00-6:00 PM. Both run from September 14, 2026 through May 24, 2027. Adult Italian classes meet **Fridays, 6:00-7:30 PM**, with the next session running **January-May 2027**.
 
 Several families in North County told us the same thing: the drive down to Kearny Mesa was the only thing standing between them and Italian class. So we brought the class to them.
 
@@ -168,25 +168,11 @@ This class runs only if it reaches a minimum number of enrolled students. If we 
 
 **January-May 2027:** One **beginner** section with Daniela and one **beginner-intermediate** section with Laura are planned on Fridays, **6:00-7:30 PM**, January 15-May 21 (17 classes). See the [beginner schedule and enrollment]({{< relref "news/adult-beginner-classes-january-may-2027.md" >}}#fri-beg-int-encinitas-daniela) or [beginner-intermediate schedule and enrollment]({{< relref "news/adult-intermediate-classes-january-may-2027.md" >}}#fri-beg-int-encinitas-laura).
 
-Adults have their own evening classes in the same building, on **Fridays from 6:00 PM to 7:30 PM**.
-
-The beginner class starting **Friday, September 18, 2026** is **full** and enrollment is closed. The **intermediate** class did not reach the minimum enrollment and has been **canceled**.
-
-**We are opening a second beginner class**, on Fridays at the same time, starting **October 9, 2026**, with Daniela. It runs for 10 classes, from October 9 to December 18, 2026, with no class on November 27. Tuition is $380 in full, or four monthly payments of $104.50. Enrollment is open.
-
-<div class="tc">
-<a href='{{< relref "news/second-beginner-italian-class-adults-encinitas-october-2026.md" >}}' class="btn raise">New beginner class starting October 9: details and enrollment</a>
-</div>
-
 Adults looking for other days, levels, or online options will find the full program on our [adult classes page]({{< relref "adults.md" >}}).
 
 ## Private lessons in North County {#private}
 
 If the group classes do not fit your schedule, we also offer [private Italian lessons]({{< relref "italian-private-classes.md" >}}) in North County: online, in person at the church, or at your home. [Contact us]({{< relref "contact.md" >}}) to arrange one.
-
-## Please share our flyer {#flyer}
-
-Word of mouth is how most North County families find us. If you know someone who would enjoy Italian classes in Encinitas, please pass along our one-page flyer for kids and adults: [printable flyer (PDF)](/flyers/italianschoolsd-encinitas-fall-2026.pdf) or [image version for messages and social media](/flyers/italianschoolsd-encinitas-fall-2026.jpg).
 
 ## Questions {#questions}
 

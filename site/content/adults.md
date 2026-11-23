@@ -115,22 +115,4 @@ Between lessons, we encourage about 20 minutes of daily review. Teachers aim to 
   </details>
 </div>
 
-## Current and previous sessions {#previous-sessions}
-
-<details class="adult-current-session" id="fall-2026">
-  <summary>Current session: Fall 2026</summary>
-  <p>Find your current class details:</p>
-  <ul>
-    <li><a href='{{< relref "news/adult-beginner-classes-fall-2026.md" >}}'>Fall beginner classes</a></li>
-    <li><a href='{{< relref "news/adult-intermediate-classes-fall-2026.md" >}}'>Fall intermediate classes</a></li>
-    <li><a href='{{< relref "news/adult-advanced-classes-fall-2026.md" >}}'>Fall Conversation</a></li>
-  </ul>
-</details>
-
-<div class="adult-archive-links">
-  <a href='{{< relref "news/adult-beginner-classes-summer-2026.md" >}}'>Summer 2026</a>
-  <a href='{{< relref "news/adult-beginner-classes-january-may-2026.md" >}}'>January-May 2026</a>
-  <a href='{{< relref "news/italian-adult-classes-fall-2025.md" >}}'>Fall 2025</a>
-</div>
-
 </div>

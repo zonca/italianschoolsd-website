@@ -181,8 +181,7 @@
   padding-top: 0.85rem;
 }
 
-.session-dates summary,
-.adult-current-session summary {
+.session-dates summary {
   color: var(--primary);
   cursor: pointer;
   font-weight: 700;
@@ -205,11 +204,6 @@
   background: #f5f8fa;
   border-radius: 0.25rem;
   padding: 0.35rem 0.5rem;
-}
-
-.adult-current-session {
-  margin: 1rem 0;
-  padding: 1rem 0;
 }
 
 .adult-session .adult-level-grid .btn {
