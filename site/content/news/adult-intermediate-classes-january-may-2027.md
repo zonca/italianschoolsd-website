@@ -13,22 +13,13 @@ class_descriptions:
     Build your intermediate speaking and reading skills, deepen your vocabulary and grammar, and practise using Italian in conversation.
   Intermediate-Advanced: >-
     For students who have completed intermediate Italian and want to work on complex grammar, nuanced vocabulary, and more fluent expression.
-class_textbooks:
-  mon-int-online: espresso
-  mon-int-adv: project1b
-  tue-int-adv-online: espresso
-  wed-beg-int: project1a
-  thu-beg-int-online: espresso
-  thu-int: project1a
-  fri-beg-int-encinitas-laura: project1a
-  sat-beg-int: project1a
 ---
 
 Continue your Italian with beginner-intermediate, intermediate, and intermediate-advanced groups in Kearny Mesa, Encinitas, and online.
 
 {{< adult-january-may-2027-facts >}}
 
-{{< adult-january-may-2027-rates group="intermediate" >}} Choose full payment or five monthly payments, including a 10% administrative fee. Textbooks are separate.
+{{< adult-january-may-2027-rates group="intermediate" >}} Choose full payment or five monthly payments, including a 10% administrative fee.
 
 <p class="session-billing-note"><strong>Billing starts January 2.</strong> Enroll earlier to save your card now; enroll on or after January 2 for an immediate charge. <a href='{{< relref "news/adult-intermediate-classes-january-may-2027.md" >}}#payment-timing'>Payment details</a></p>
 

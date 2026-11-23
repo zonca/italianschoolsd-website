@@ -4,8 +4,7 @@ Compared the new enrollment pages with the Fall Beginner, Intermediate, Conversa
 
 ## Corrections
 
-- Restored continuing-class textbook information. Daniela's Monday group and Laura's Monday group retain The New Italian Project 1b; the groups progressing from Fall Beginner retain Project 1a. Continuing online groups retain the Espresso textbook and workbook links. Conversation retains teacher-provided materials and no required textbook.
-- Kept textbook identification separate from purchasing: only the two in-person Beginner classes have an enrollment book add-on, as requested. Restoring the other titles does not enable their book purchases.
+- Per the final book decision, only Beginner classes reference The New Italian Project 1a. Other levels have no book titles or purchasing links. Only the two in-person Beginner classes offer the enrollment book add-on; online Beginner has no pickup add-on.
 - Restored the existing level-placement form and previous-session links removed from the adult overview.
 - Clarified the adult refund wording to cover cancellation between the full-refund deadline and the first class, matching the previous class pages' 50% refund before the second class. The overview previously left that interval unspecified.
 - Corrected preview Checkout return URLs so canceling or completing enrollment stays on the preview instead of production. Production keeps its canonical URL.
@@ -22,6 +21,6 @@ Compared the new enrollment pages with the Fall Beginner, Intermediate, Conversa
 
 ## Validation and limits
 
-Function tests cover the new date and return-URL defects alongside existing billing behavior. Hugo build, navigation checks, production-style checks, and touched-JavaScript lint are run before delivery. Rendered HTML is compared against the old enrollment forms and checked for descriptions, materials, book add-ons, and both payment options in every new section. Desktop/mobile review checks the restored text and overview links.
+Function tests cover the new date and return-URL defects alongside existing billing behavior. Hugo build, navigation checks, production-style checks, and touched-JavaScript lint are run before delivery. Rendered HTML is compared against the old enrollment forms and checked for descriptions, the permitted Beginner book references, book add-ons, and both payment options in every new section. Desktop/mobile review checks the restored text and overview links.
 
 No enrollment or charge is submitted during this review. Prior temporary live Checkout and tax validation remains documented in `deferred-class-billing.md`; an actual saved-card enrollment and future charge still have not been exercised with a real card.

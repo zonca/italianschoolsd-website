@@ -30,7 +30,7 @@ The school's existing live endpoint was checked as enabled for `checkout.session
 
 For an early enrollment, use `checkout_session_id` and `installment_number` invoice metadata in Stripe Dashboard to confirm the scheduled invoices and their amounts. Future automatic collections use Stripe's configured payment recovery settings; a saved card does not guarantee that a later charge succeeds. Do not also create a subscription for an early invoice-based enrollment, which would bill it twice.
 
-In-person Beginner sections offer The New Italian Project 1a, with pickup at the classroom. Book selectors are available in both full and monthly enrollment. Online Beginner keeps New Italian Espresso purchased separately, matching the previous session; other January-May levels have no book add-on.
+In-person Beginner sections offer The New Italian Project 1a, with pickup at the classroom. Book selectors are available in both full and monthly enrollment. Online Beginner also references The New Italian Project 1a, without a book add-on. Other January-May levels omit book references.
 
 Book combos use the saved-card invoice flow before and after January 2. The checkout function obtains a positive Stripe Tax quote for the classroom pickup address and includes the exact taxed first payment in the authorization. The first invoice has tax-exempt tuition and a taxable physical-book line with Stripe Automatic Tax and the same pickup address. It must match the quoted total and positive book tax before it can advance. Remaining monthly invoices contain tuition only. A partial book-line write resumes idempotently.
 

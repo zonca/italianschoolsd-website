@@ -15,7 +15,7 @@ Start Italian with no prior experience required. Choose Wednesday evening in Kea
 
 {{< adult-january-may-2027-facts >}}
 
-{{< adult-january-may-2027-rates group="beginner" >}} Choose full payment or five monthly payments, including a 10% administrative fee. In-person classes offer the textbook as an optional enrollment add-on; online materials are purchased separately.
+{{< adult-january-may-2027-rates group="beginner" >}} Choose full payment or five monthly payments, including a 10% administrative fee. Beginner classes use The New Italian Project 1a. In-person classes offer it as an optional enrollment add-on with classroom pickup.
 
 <p class="session-billing-note"><strong>Billing starts January 2.</strong> Enroll earlier to save your card now; enroll on or after January 2 for an immediate charge. <a href='{{< relref "news/adult-beginner-classes-january-may-2027.md" >}}#payment-timing'>Payment details</a></p>
 

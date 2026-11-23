@@ -10,16 +10,14 @@ class_descriptions:
   Advanced: >-
     For students who have completed intermediate Italian and want to develop more fluent expression, richer vocabulary, and a deeper understanding of complex grammar. Practise speaking and reading through Italian culture, literature, and current topics.
   Conversation: >-
-    A conversation-only class for students who can already hold a conversation in Italian. Discuss articles, blog posts, literature, and current topics, with grammar addressed when it helps the conversation. No written exercises or required textbook; Ilana provides the materials.
-class_textbooks:
-  mon-adv: project1b
+    A conversation-only class for students who can already hold a conversation in Italian. Discuss articles, blog posts, literature, and current topics, with grammar addressed when it helps the conversation. No written exercises; Ilana provides the materials.
 ---
 
 Deepen your Italian with Daniela's Monday advanced group or Ilana's Thursday Conversation class in Kearny Mesa.
 
 {{< adult-january-may-2027-facts >}}
 
-{{< adult-january-may-2027-rates group="advanced" >}} Choose full payment or five monthly payments, including a 10% administrative fee. Ilana's Conversation class does not require a textbook.
+{{< adult-january-may-2027-rates group="advanced" >}} Choose full payment or five monthly payments, including a 10% administrative fee.
 
 <p class="session-billing-note"><strong>Billing starts January 2.</strong> Enroll earlier to save your card now; enroll on or after January 2 for an immediate charge. <a href='{{< relref "news/adult-advanced-classes-january-may-2027.md" >}}#payment-timing'>Payment details</a></p>
 

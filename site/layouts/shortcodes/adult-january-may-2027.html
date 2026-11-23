@@ -25,15 +25,8 @@
       </div>
     {{ else }}
       {{ if and (eq .level "Beginner") (eq .format "Online") }}
-      <p class="session-book-note"><strong>Textbook:</strong> New Italian Espresso (Beginner/Pre-Intermediate Updated Edition). Buy the <a href="https://a.co/d/0hAj20Up">textbook</a> and <a href="https://a.co/d/0fGK4Sfo">workbook</a> separately.</p>
+      <p class="session-book-note"><strong>Textbook:</strong> {{ (index site.Data.enrollment_books "project1a").name }}.</p>
       {{ end }}
-    {{ end }}
-    {{ with index ($.Page.Params.class_textbooks | default dict) .anchor }}
-    <p class="session-book-note"><strong>Textbook:</strong>
-      {{ if eq . "espresso" }}New Italian Espresso (Beginner/Pre-Intermediate Updated Edition). Buy the <a href="https://a.co/d/0hAj20Up">textbook</a> and <a href="https://a.co/d/0fGK4Sfo">workbook</a> separately.
-      {{ else }}{{ (index site.Data.enrollment_books .).name }} (purchased separately).
-      {{ end }}
-    </p>
     {{ end }}
     {{ partial "stripe-checkout.html" (dict "class" .id "full" (printf "%.2f" (div (float $total) 100.0)) "monthly" (printf "%.2f" (div (float $monthly) 100.0)) "installments" $session.monthlyInstallments "compact" true "book" .bookId "bookLabel" "Textbook (optional)") }}
     <details class="session-dates"><summary>Lesson dates and holidays</summary>
