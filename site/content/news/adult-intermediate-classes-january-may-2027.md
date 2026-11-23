@@ -1,25 +1,28 @@
 ---
 title: Adult intermediate classes January-May 2027
 date: 2026-11-22
+layout: adult-session
+session_group: intermediate
+display_title: Intermediate Italian
 weight: 2
 description: Intermediate adult Italian class schedules, tuition, and full or monthly enrollment for January-May 2027.
 ---
 
 Continue your Italian with beginner-intermediate, intermediate, and intermediate-advanced groups in Kearny Mesa, Encinitas, and online.
 
-All classes last **90 minutes**. The session begins the week of **January 11, 2027** and finishes the week of **May 17**. All times are **Pacific Time**.
+{{< adult-january-may-2027-facts >}}
 
-For other levels, see our [adult classes overview]({{< relref "adults.md" >}}#course-levels).
+{{< adult-january-may-2027-rates group="intermediate" >}} Choose full payment or five monthly payments, including a 10% administrative fee. Textbooks are separate.
 
-## Tuition and payment options {#tuition}
+<p class="session-billing-note"><strong>Billing starts January 2.</strong> Enroll earlier to save your card now; enroll on or after January 2 for an immediate charge. <a href="#payment-timing">Payment details</a></p>
 
-{{< adult-january-may-2027-rates >}} The total for each section and both enrollment options appear below.
-
-{{< adult-january-may-2027-payment >}}
-
-## Schedule and enrollment {#schedule}
+<h2 class="sr-only" id="schedule">Schedule and enrollment</h2>
 
 {{< adult-january-may-2027 group="intermediate" >}}
+
+## Payment timing {#payment-timing}
+
+{{< adult-january-may-2027-payment >}}
 
 ## Locations and policies {#policies}
 

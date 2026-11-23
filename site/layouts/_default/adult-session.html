@@ -1,0 +1,20 @@
+{{ define "main" }}
+<div class="adult-session">
+  <div class="session-shell">
+    <header class="session-page-header">
+      {{ if .Params.session_group }}<a class="session-back" href="{{ relref . "adults.md" }}">&larr; Adult Italian classes</a>{{ end }}
+      <p class="adult-eyebrow">{{ site.Data.adult_january_may_2027.term }}</p>
+      <h1>{{ .Params.display_title | default .Title }}</h1>
+      {{ with .Params.session_group }}
+      <nav class="session-level-nav" aria-label="Class levels">
+        {{ range slice "beginner" "intermediate" "advanced" }}
+          {{ $page := index site.Data.adult_january_may_2027.pages . }}
+          <a href="{{ relref $ $page.contentPath }}"{{ if eq . $.Params.session_group }} aria-current="page"{{ end }}>{{ $page.label }}</a>
+        {{ end }}
+      </nav>
+      {{ end }}
+    </header>
+    <div class="cms">{{ .Content }}</div>
+  </div>
+</div>
+{{ end }}

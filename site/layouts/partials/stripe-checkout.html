@@ -32,7 +32,7 @@
         </select>
       </div>
     {{- end -}}
-    <button type="submit" class="checkout-button"{{ if $disabled }} disabled style="opacity: 0.5; cursor: not-allowed;"{{ end }}><span>{{ if $es }}Pago completo{{ else }}Pay in Full{{ end }}</span><strong>${{ $full }}</strong></button>
+    <button type="submit" class="checkout-button"{{ if $disabled }} disabled style="opacity: 0.5; cursor: not-allowed;"{{ end }}><span>{{ if $es }}Pago completo{{ else if .compact }}Pay in full{{ else }}Pay in Full{{ end }}</span><strong>${{ $full }}</strong></button>
   </form>
   {{- if $monthly -}}
   <form id="enroll-{{ $class }}-monthly" class="checkout-card checkout-card-monthly" action="/.netlify/functions/create-checkout-session" method="POST">
@@ -49,12 +49,12 @@
     {{- end -}}
     <label class="checkout-commitment" for="commitment-{{ $class }}-monthly">
       <input id="commitment-{{ $class }}-monthly" type="checkbox" name="monthlyCommitmentAccepted" required>
-      <span>{{ if $es }}Entiendo que el plan mensual incluye un cargo administrativo del 10% y me compromete a realizar los {{ $installments }} pagos.{{ else }}I understand the monthly plan includes a 10% administrative fee and commits me to all {{ $installments }} payments.{{ end }}</span>
+      <span>{{ if $es }}Entiendo que el plan mensual incluye un cargo administrativo del 10% y me compromete a realizar los {{ $installments }} pagos.{{ else if .compact }}I agree to all {{ $installments }} payments, including the 10% administrative fee.{{ else }}I understand the monthly plan includes a 10% administrative fee and commits me to all {{ $installments }} payments.{{ end }}</span>
     </label>
-    <button type="submit" class="checkout-button"{{ if $disabled }} disabled style="opacity: 0.5; cursor: not-allowed;"{{ end }}><span>{{ if $es }}Plan mensual{{ else }}Monthly Plan{{ end }}</span><strong>{{ $installments }} x ${{ $monthly }}</strong><small>{{ if $es }}1 estudiante{{ else }}1 student{{ end }}</small></button>
+    <button type="submit" class="checkout-button"{{ if $disabled }} disabled style="opacity: 0.5; cursor: not-allowed;"{{ end }}><span>{{ if $es }}Plan mensual{{ else if .compact }}Monthly plan{{ else }}Monthly Plan{{ end }}</span><strong>{{ $installments }} x ${{ $monthly }}</strong><small>{{ if $es }}1 estudiante{{ else }}1 student{{ end }}</small></button>
   </form>
   {{- end -}}
-  <p class="checkout-note">
+  {{ if not .compact }}<p class="checkout-note">
     {{- if .chargeDate -}}
       Stripe confirms the amount and payment timing before you save your card or pay. Monthly checkout is for 1 student.
     {{- else if and $book $monthly -}}
@@ -66,5 +66,5 @@
     {{- else -}}
       Stripe will show the final line items before payment.
     {{- end -}}
-  </p>
+  </p>{{ end }}
 </div>

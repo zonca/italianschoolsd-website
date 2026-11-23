@@ -1,0 +1,11 @@
+{{- $starts := slice -}}{{- $ends := slice -}}
+{{- range site.Data.adult_january_may_2027.classes -}}
+  {{- $starts = $starts | append (index .dates 0) -}}
+  {{- $ends = $ends | append (index .dates (sub (len .dates) 1)) -}}
+{{- end -}}
+{{- $starts = sort $starts -}}{{- $ends = sort $ends -}}
+<dl class="session-facts">
+  <div><dt>Session</dt><dd>{{ time.Format "Jan 2" (index $starts 0) }}-{{ time.Format "Jan 2" (index $ends (sub (len $ends) 1)) }}</dd></div>
+  <div><dt>Each lesson</dt><dd>90 minutes</dd></div>
+  <div><dt>Schedule</dt><dd>Weekly · Pacific Time</dd></div>
+</dl>
