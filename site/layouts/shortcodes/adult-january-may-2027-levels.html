@@ -1,0 +1,9 @@
+<div class="adult-option-grid adult-level-grid">
+{{ range slice "beginner" "intermediate" "advanced" }}
+  {{- $page := index site.Data.adult_january_may_2027.pages . -}}
+  <article class="adult-option-card">
+    <h3 id="january-{{ . }}-classes">{{ $page.label }}</h3>
+    <a href="{{ relref $.Page $page.contentPath }}" class="btn btn-cta">{{ $page.label }} schedule and tuition</a>
+  </article>
+{{ end }}
+</div>

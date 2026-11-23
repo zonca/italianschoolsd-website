@@ -1,5 +1,7 @@
 {{- $session := site.Data.adult_january_may_2027 -}}
-{{ range $session.classes }}
+{{- $page := index $session.pages (.Get "group") -}}
+{{- $classes := where $session.classes "level" "in" $page.levels -}}
+{{ range $classes }}
   {{- $rate := cond (eq .format "Online") $session.rates.online $session.rates.in_person -}}
   {{- $total := mul (len .dates) $rate -}}
   {{- $monthly := math.Round (div (mul $total (add 100 $session.monthlyFeePercent)) (mul 100 $session.monthlyInstallments)) -}}

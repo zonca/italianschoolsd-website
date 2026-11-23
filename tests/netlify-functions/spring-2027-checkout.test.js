@@ -6,6 +6,8 @@ const { _test } = require('../../netlify/functions/create-checkout-session');
 
 const expectedCounts = [15, 15, 15, 18, 18, 18, 18, 18, 17, 17, 18, 18, 18];
 const expectedTotals = [55500, 51000, 55500, 61200, 66600, 61200, 66600, 66600, 62900, 62900, 66600, 61200, 66600];
+const expectedGroups = ['advanced', 'intermediate', 'intermediate', 'intermediate', 'intermediate',
+  'intermediate', 'intermediate', 'advanced', 'intermediate', 'beginner', 'intermediate', 'beginner', 'beginner'];
 const weekdays = ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'];
 const exclusions = new Set(['2027-01-18', '2027-02-12', '2027-02-15', '2027-03-08',
   '2027-03-29', '2027-03-30', '2027-03-31', '2027-04-01', '2027-04-02', '2027-04-03']);
@@ -52,6 +54,8 @@ test('all three beginner formats offer full and monthly enrollment with complete
 test('full and monthly checkout charge the published rates and identify the new term', () => {
   session.classes.forEach((section, i) => {
     const entry = CLASSES[section.id];
+    const expectedPath = `/news/2026/11/adult-${expectedGroups[i]}-classes-january-may-2027/`;
+    assert.equal(entry.pagePath, expectedPath);
     assert.equal(entry.fullAmount, expectedTotals[i]);
     assert.equal(entry.monthlyInstallments, 5);
     assert.equal(entry.monthlyAmount * 5, Math.round(entry.fullAmount * 110 / 100));
@@ -65,7 +69,8 @@ test('full and monthly checkout charge the published rates and identify the new 
       assert.equal(Number(params.get('line_items[0][price_data][unit_amount]')),
         paymentType === 'full' ? expectedTotals[i] : entry.monthlyAmount);
       assert.equal(params.get('line_items[0][price_data][product_data][metadata][quarter]'), 'January-May 2027');
-      assert.equal(params.get('cancel_url'), `https://www.italianschoolsd.com${session.pagePath}#${section.anchor}`);
+      assert.equal(params.get('cancel_url'), `https://www.italianschoolsd.com${expectedPath}#${section.anchor}`);
+      assert.equal(params.get('success_url'), `https://www.italianschoolsd.com${expectedPath}?checkout=success#${section.anchor}`);
       assert.equal(params.get('metadata[class_id]'), section.id);
       if (paymentType === 'monthly') assert.equal(params.get('metadata[installments_total]'), '5');
     }

@@ -166,7 +166,7 @@ This class runs only if it reaches a minimum number of enrolled students. If we 
 
 ## Italian classes for adults in Encinitas {#adults}
 
-**January-May 2027:** One **beginner** section with Daniela and one **beginner-intermediate** section with Laura are planned on Fridays, **6:00-7:30 PM**, January 15-May 21 (17 classes). See the [January-May schedule, tuition, and enrollment]({{< relref "news/adult-italian-classes-january-may-2027.md" >}}#schedule) for both sections.
+**January-May 2027:** One **beginner** section with Daniela and one **beginner-intermediate** section with Laura are planned on Fridays, **6:00-7:30 PM**, January 15-May 21 (17 classes). See the [beginner schedule and enrollment]({{< relref "news/adult-beginner-classes-january-may-2027.md" >}}#fri-beg-int-encinitas-daniela) or [beginner-intermediate schedule and enrollment]({{< relref "news/adult-intermediate-classes-january-may-2027.md" >}}#fri-beg-int-encinitas-laura).
 
 Adults have their own evening classes in the same building, on **Fridays from 6:00 PM to 7:30 PM**.
 

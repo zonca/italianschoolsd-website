@@ -161,6 +161,8 @@ const CLASSES = {
 // The public schedule and checkout use the same dates and per-lesson rates.
 const springSession = require('../../../site/data/adult_january_may_2027.json');
 for (const section of springSession.classes) {
+  const page = Object.values(springSession.pages).find((entry) => entry.levels.includes(section.level));
+  if (!page) throw new Error(`No enrollment page for ${section.level}`);
   const rate = springSession.rates[section.format === 'Online' ? 'online' : 'in_person'];
   const fullAmount = section.dates.length * rate;
   CLASSES[section.id] = {
@@ -170,7 +172,7 @@ for (const section of springSession.classes) {
     format: section.format,
     term: springSession.term,
     chargeNotBefore: springSession.chargeNotBefore,
-    pagePath: springSession.pagePath,
+    pagePath: page.pagePath,
     anchor: section.anchor,
     fullAmount,
     monthlyAmount: Math.round(fullAmount * (100 + springSession.monthlyFeePercent) / (100 * springSession.monthlyInstallments)),

@@ -1,6 +1,6 @@
 # Deferred class billing
 
-January-May 2027 classes use the existing website enrollment forms and Checkout function. Each section has full-payment and installment anchors, `#enroll-<class-id>-full` and `#enroll-<class-id>-monthly`. Stripe Checkout URLs are generated when a student submits the form, so shared enrollment links do not expire like individual Checkout Sessions.
+January-May 2027 classes use separate Beginner, Intermediate, and Advanced/Conversation pages, matching the previous quarter. The `pages` mapping in the shared data assigns each level to its canonical enrollment page. The public shortcodes and Checkout return URLs use that same mapping. Classes use the existing website enrollment forms and Checkout function. Each section has full-payment and installment anchors, `#enroll-<class-id>-full` and `#enroll-<class-id>-monthly`. Stripe Checkout URLs are generated when a student submits the form, so shared enrollment links do not expire like individual Checkout Sessions.
 
 Prices, lesson dates, and `chargeNotBefore` are maintained in `site/data/adult_january_may_2027.json`. The cutoff is January 2, 2027 at midnight Pacific Time. The catalog computes all tuition amounts from this data.
 

@@ -401,5 +401,34 @@
       ]
     }
   ],
-  "chargeNotBefore": "2027-01-02T00:00:00-08:00"
+  "chargeNotBefore": "2027-01-02T00:00:00-08:00",
+  "pages": {
+    "beginner": {
+      "label": "Beginner",
+      "levels": [
+        "Beginner"
+      ],
+      "contentPath": "news/adult-beginner-classes-january-may-2027.md",
+      "pagePath": "/news/2026/11/adult-beginner-classes-january-may-2027/"
+    },
+    "intermediate": {
+      "label": "Intermediate",
+      "levels": [
+        "Beginner-Intermediate",
+        "Intermediate",
+        "Intermediate-Advanced"
+      ],
+      "contentPath": "news/adult-intermediate-classes-january-may-2027.md",
+      "pagePath": "/news/2026/11/adult-intermediate-classes-january-may-2027/"
+    },
+    "advanced": {
+      "label": "Advanced and conversation",
+      "levels": [
+        "Advanced",
+        "Conversation"
+      ],
+      "contentPath": "news/adult-advanced-classes-january-may-2027.md",
+      "pagePath": "/news/2026/11/adult-advanced-classes-january-may-2027/"
+    }
+  }
 }

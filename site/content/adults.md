@@ -42,11 +42,11 @@ Between lessons, we encourage about 20 minutes of daily review. Teachers aim to 
 
 ## January-May 2027 group classes {#january-may-2027}
 
-Our next session begins the week of **January 11, 2027** and finishes the week of **May 17**. Continuing groups generally progress to the next level with the same teacher. Encinitas offers one beginner and one beginner-intermediate section. New [beginner sections]({{< relref "news/adult-italian-classes-january-may-2027.md" >}}#new-beginners) meet Wednesdays, **6:15-7:45 PM in Kearny Mesa**, and Thursdays, **6:00-7:30 PM online**.
+Our next session begins the week of **January 11, 2027** and finishes the week of **May 17**. Continuing groups generally progress to the next level with the same teacher. Encinitas offers one beginner and one beginner-intermediate section. New [beginner sections]({{< relref "news/adult-beginner-classes-january-may-2027.md" >}}#schedule) meet Wednesdays, **6:15-7:45 PM in Kearny Mesa**, and Thursdays, **6:00-7:30 PM online**.
 
 {{< adult-january-may-2027-rates >}} Each class lasts 90 minutes, with tuition based on the number of lessons in the section.
 
-<a href='{{< relref "news/adult-italian-classes-january-may-2027.md" >}}#schedule' class="btn btn-cta">January-May schedule, tuition, and enrollment</a>
+[Choose your level below](#course-levels) for January-May schedules, tuition, and enrollment.
 
 ## Fall 2026 group classes {#fall-2026}
 
@@ -166,21 +166,21 @@ Scan by day, then use the level guides below for full dates, tuition, holidays, 
     <p class="adult-card-kicker">Start here</p>
     <h3 id="beginner">Beginner</h3>
     <p>Build a foundation in practical conversation, vocabulary, grammar, and Italian culture. Choose Kearny Mesa, Encinitas, or online. No prior experience is required.</p>
-    <a href='{{< relref "news/adult-beginner-classes-fall-2026.md" >}}' class="btn btn-cta">Beginner schedule and tuition</a>
+    <a href='{{< relref "news/adult-beginner-classes-january-may-2027.md" >}}' class="btn btn-cta">Beginner schedule and tuition</a>
   </article>
 
   <article class="adult-option-card">
     <p class="adult-card-kicker">Keep progressing</p>
     <h3 id="intermediate">Intermediate</h3>
     <p>Expand your grammar, vocabulary, and conversational agility, with tracks from Beginner–Intermediate through Intermediate–Advanced in Kearny Mesa, Encinitas, or online.</p>
-    <a href='{{< relref "news/adult-intermediate-classes-fall-2026.md" >}}' class="btn btn-cta">Intermediate schedule and tuition</a>
+    <a href='{{< relref "news/adult-intermediate-classes-january-may-2027.md" >}}' class="btn btn-cta">Intermediate schedule and tuition</a>
   </article>
 
   <article class="adult-option-card">
     <p class="adult-card-kicker">Build fluency</p>
     <h3 id="advanced">Advanced and conversation</h3>
     <p>Refine your fluency and advanced grammar while discussing Italian literature, news, and culture in a collaborative setting.</p>
-    <a href='{{< relref "news/adult-advanced-classes-fall-2026.md" >}}' class="btn btn-cta">Advanced schedule and tuition</a>
+    <a href='{{< relref "news/adult-advanced-classes-january-may-2027.md" >}}' class="btn btn-cta">Advanced schedule and tuition</a>
   </article>
 </div>
 
