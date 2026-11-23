@@ -1,6 +1,7 @@
 const { URLSearchParams } = require('url');
 const { BOOKS, CLASSES } = require('../lib/checkout/catalog');
 const { sendErrorAlert } = require('../lib/checkout/alerts');
+const { chargeStart, quoteAmount } = require('../lib/checkout/deferred-billing');
 
 const STRIPE_API_VERSION = '2026-02-25.clover';
 const CLASS_TAX_CODE = 'txcd_00000000';
@@ -105,6 +106,7 @@ function buildCheckoutParams({
   familyMemberCount = 1,
   bookQuantity = 0,
   monthlyCommitmentAccepted = false,
+  now = Math.floor(Date.now() / 1000),
 }) {
   const returnPath = `${selectedClass.pagePath}?checkout=success#${selectedClass.anchor}`;
   const cancelPath = `${selectedClass.pagePath}#${selectedClass.anchor}`;
@@ -131,6 +133,33 @@ function buildCheckoutParams({
   params.append('metadata[family_member_count]', String(familyMemberCount));
   params.append('metadata[book_quantity]', String(bookQuantity));
   params.append('metadata[monthly_commitment_accepted]', metadata.monthly_commitment_accepted);
+
+  const deferredStart = chargeStart(selectedClass);
+  if (deferredStart > now) {
+    const amount = quoteAmount(selectedClass, paymentType, familyMemberCount);
+    const count = paymentType === 'monthly' ? monthlyInstallments : 1;
+    params.set('mode', 'setup');
+    params.set('currency', 'usd');
+    params.set('customer_creation', 'always');
+    params.set('payment_method_types[0]', 'card');
+    // Checkout setup mode creates an off-session SetupIntent by default.
+    params.set('metadata[deferred_billing]', 'true');
+    params.set('metadata[charge_not_before]', String(deferredStart));
+    params.set('metadata[scheduled_amount]', String(amount));
+    params.set('metadata[installments_total]', String(count));
+    params.set('metadata[enrollment_name]', selectedClass.name);
+    params.set('metadata[quarter]', selectedClass.term);
+    const date = new Date(deferredStart * 1000).toLocaleDateString('en-US', {
+      timeZone: 'America/Los_Angeles', year: 'numeric', month: 'long', day: 'numeric',
+    });
+    const total = (amount / 100).toFixed(2);
+    const terms = paymentType === 'monthly'
+      ? `Save your card for ${count} monthly payments of $${total}. The first payment is on ${date} (Pacific Time), then on the 2nd of each month.`
+      : `Save your card for one full-session payment of $${total} on ${date} (Pacific Time).`;
+    params.set('custom_text[submit][message]', `${terms} No tuition is charged when you save your card. `
+      + 'If enrollment is completed after that date, the first payment is charged immediately.');
+    return params;
+  }
 
   let lineIndex = 0;
   if (paymentType === 'full') {

@@ -7,7 +7,8 @@
 {{- $es := .es -}}
 {{- $disabled := .disabled -}}
 <div class="checkout-options" aria-label="Enrollment options">
-  <form class="checkout-card checkout-card-full" action="/.netlify/functions/create-checkout-session" method="POST">
+  {{ if .chargeDate }}<p class="checkout-note">Enroll before {{ .chargeDate }} to save your card now and have your first monthly payment or full tuition charged on that date (Pacific Time). Enroll on or after that date for an immediate charge.</p>{{ end }}
+  <form id="enroll-{{ $class }}-full" class="checkout-card checkout-card-full" action="/.netlify/functions/create-checkout-session" method="POST">
     <input type="hidden" name="classId" value="{{ $class }}">
     <input type="hidden" name="paymentType" value="full">
     <div class="checkout-field">
@@ -34,7 +35,7 @@
     <button type="submit" class="checkout-button"{{ if $disabled }} disabled style="opacity: 0.5; cursor: not-allowed;"{{ end }}><span>{{ if $es }}Pago completo{{ else }}Pay in Full{{ end }}</span><strong>${{ $full }}</strong></button>
   </form>
   {{- if $monthly -}}
-  <form class="checkout-card checkout-card-monthly" action="/.netlify/functions/create-checkout-session" method="POST">
+  <form id="enroll-{{ $class }}-monthly" class="checkout-card checkout-card-monthly" action="/.netlify/functions/create-checkout-session" method="POST">
     <input type="hidden" name="classId" value="{{ $class }}">
     <input type="hidden" name="paymentType" value="monthly">
     {{- if $book -}}
@@ -54,7 +55,9 @@
   </form>
   {{- end -}}
   <p class="checkout-note">
-    {{- if and $book $monthly -}}
+    {{- if .chargeDate -}}
+      Stripe confirms the amount and payment timing before you save your card or pay. Monthly checkout is for 1 student.
+    {{- else if and $book $monthly -}}
       Stripe will show the final line items. Monthly checkout is for 1 student and at most 1 book.
     {{- else if $book -}}
       Stripe will show the final line items, including any selected books.

@@ -169,6 +169,7 @@ for (const section of springSession.classes) {
     level: section.level,
     format: section.format,
     term: springSession.term,
+    chargeNotBefore: springSession.chargeNotBefore,
     pagePath: springSession.pagePath,
     anchor: section.anchor,
     fullAmount,

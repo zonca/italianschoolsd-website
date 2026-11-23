@@ -3,7 +3,7 @@
   "pagePath": "/news/2026/11/adult-italian-classes-january-may-2027/",
   "rates": {
     "online": 3400,
-    "in_person": 3600
+    "in_person": 3700
   },
   "monthlyInstallments": 5,
   "monthlyFeePercent": 10,
@@ -338,5 +338,6 @@
         "2027-05-22"
       ]
     }
-  ]
+  ],
+  "chargeNotBefore": "2027-01-02T00:00:00-08:00"
 }

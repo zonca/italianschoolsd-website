@@ -12,7 +12,9 @@ Returning groups continue with the same teacher and progress to the next level. 
 
 {{< adult-january-may-2027-rates >}} Enrollment covers the full session; the total depends on the number of lessons in your section, listed below. All classes last 90 minutes.
 
-You can pay in full or choose **five monthly payments**, including the existing **10% administrative fee**. The monthly plan is a commitment to the entire session. Textbooks are separate; your teacher will confirm the materials for your level.
+You can pay in full or choose **five monthly payments**, including the existing **10% administrative fee**. The monthly plan is a commitment to the entire session.
+
+**Payment starts January 2, 2027 (Pacific Time).** If you enroll earlier, Stripe securely saves your card and schedules either your full tuition or the first of five monthly payments for January 2. Monthly payments then follow on February 2, March 2, April 2, and May 2. If you enroll on or after January 2, your full tuition or first monthly payment is charged immediately; monthly payments then follow your enrollment date. Textbooks are separate; your teacher will confirm the materials for your level.
 
 In-person classes meet at our [Kearny Mesa location]({{< relref "location.md" >}}) or at [170 Calle Magdalena in Encinitas]({{< relref "italian-classes-encinitas.md" >}}#location). All times below are **Pacific Time**. The two Friday Encinitas sections have separate teachers and enrollment options.
 

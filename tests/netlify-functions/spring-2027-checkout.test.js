@@ -5,7 +5,7 @@ const { CLASSES } = require('../../netlify/lib/checkout/catalog');
 const { _test } = require('../../netlify/functions/create-checkout-session');
 
 const expectedCounts = [15, 15, 15, 18, 18, 18, 18, 18, 17, 17, 18];
-const expectedTotals = [54000, 51000, 54000, 61200, 64800, 61200, 64800, 64800, 61200, 61200, 64800];
+const expectedTotals = [55500, 51000, 55500, 61200, 66600, 61200, 66600, 66600, 62900, 62900, 66600];
 const weekdays = ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'];
 const exclusions = new Set(['2027-01-18', '2027-02-12', '2027-02-15', '2027-03-08',
   '2027-03-29', '2027-03-30', '2027-03-31', '2027-04-01', '2027-04-02', '2027-04-03']);
@@ -36,7 +36,8 @@ test('full and monthly checkout charge the published rates and identify the new 
         familyMemberCount: 1, bookQuantity: 0, monthlyCommitmentAccepted: true });
       assert.equal(selection.error, undefined);
       const params = _test.buildCheckoutParams({ selectedClass: entry, paymentType,
-        origin: 'https://www.italianschoolsd.com', monthlyCommitmentAccepted: true });
+        origin: 'https://www.italianschoolsd.com', monthlyCommitmentAccepted: true,
+        now: Date.parse('2027-01-02T00:00:00-08:00') / 1000 });
       assert.equal(Number(params.get('line_items[0][price_data][unit_amount]')),
         paymentType === 'full' ? expectedTotals[i] : entry.monthlyAmount);
       assert.equal(params.get('line_items[0][price_data][product_data][metadata][quarter]'), 'January-May 2027');

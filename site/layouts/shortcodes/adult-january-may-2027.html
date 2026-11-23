@@ -37,7 +37,7 @@
         {{- end -}}
       </li>
     </ul>
-    {{ partial "stripe-checkout.html" (dict "class" .id "full" (printf "%.2f" (div (float $total) 100.0)) "monthly" (printf "%.2f" (div (float $monthly) 100.0)) "installments" $session.monthlyInstallments) }}
+    {{ partial "stripe-checkout.html" (dict "class" .id "full" (printf "%.2f" (div (float $total) 100.0)) "monthly" (printf "%.2f" (div (float $monthly) 100.0)) "installments" $session.monthlyInstallments "chargeDate" "January 2, 2027") }}
     <details><summary>All {{ len .dates }} lesson dates</summary><ul>{{ range .dates }}<li>{{ time.Format "January 2, 2006" . }}</li>{{ end }}</ul></details>
   </section>
 {{ end }}
