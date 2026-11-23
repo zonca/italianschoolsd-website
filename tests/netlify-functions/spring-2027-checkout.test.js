@@ -51,6 +51,34 @@ test('all three beginner formats offer full and monthly enrollment with complete
   }
 });
 
+test('online classes share one Zoom room with at least 15 minutes between lessons', () => {
+  const byDate = new Map();
+  function minutes(value) {
+    assert.match(value, /^(?:[01]\d|2[0-3]):[0-5]\d$/);
+    const [hours, mins] = value.split(':').map(Number);
+    return hours * 60 + mins;
+  }
+  for (const section of session.classes.filter((entry) => entry.format === 'Online')) {
+    const start = minutes(section.startTime);
+    const end = minutes(section.endTime);
+    assert.equal(end - start, 90, section.id);
+    for (const date of section.dates) {
+      if (!byDate.has(date)) byDate.set(date, []);
+      byDate.get(date).push({ id: section.id, start, end });
+    }
+  }
+  assert.ok(byDate.size > 0);
+  for (const [date, lessons] of byDate) {
+    lessons.sort((a, b) => a.start - b.start);
+    for (let i = 1; i < lessons.length; i += 1) {
+      const previous = lessons[i - 1];
+      const current = lessons[i];
+      assert.ok(current.start >= previous.end + 15,
+        `${date}: ${previous.id} and ${current.id} need a 15-minute Zoom handover`);
+    }
+  }
+});
+
 test('full and monthly checkout charge the published rates and identify the new term', () => {
   session.classes.forEach((section, i) => {
     const entry = CLASSES[section.id];
