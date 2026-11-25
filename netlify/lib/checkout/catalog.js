@@ -143,6 +143,17 @@ const CLASSES = {
     monthlyAmount: 13940,
     monthlyInstallments: 3,
   },
+  'jan-2027-tue-german-beg': {
+    id: 'jan-2027-tue-german-beg',
+    name: 'Winter 2027 German Class - Beginner Tuesday',
+    level: 'Beginner',
+    format: 'In person',
+    pagePath: '/news/2026/11/beginner-german-classes-adults-san-diego-january-2027/',
+    anchor: 'german-beg',
+    fullAmount: 38000,
+    monthlyAmount: 13940,
+    monthlyInstallments: 3,
+  },
 };
 
 // The public schedule and checkout use the same dates and per-lesson rates.
