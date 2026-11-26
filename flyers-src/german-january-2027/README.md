@@ -20,9 +20,17 @@ Pacific School San Diego. Published at `site/static/flyers/german-january-2027.{
   Commons (https://commons.wikimedia.org/wiki/File:Berlin_-_0266_-_16052015_-_Brandenburger_Tor.jpg),
   licensed Creative Commons Attribution 4.0. The license requires the credit
   line printed on the photo; never remove it.
+- `christmas.jpg` is the Christmas market at the Römer in Frankfurt by Gerda Arendt,
+  from Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Frankfurt_Weihnachtsmarkt,_tree.jpg),
+  public domain (Creative Commons Zero). German Pacific School San Diego asked on
+  2026-10-02 for the Austrian and Swiss flags and an emotional image such as a
+  Christmas market; both are kept because the flyer is shared at German
+  Christmas markets during the holiday season.
 - The Germany, Austria and Switzerland flags are drawn in CSS in `flyer.html`.
-- `qr.png` points to https://www.italianschoolsd.com/german/ and was made with
-  `qrencode -o qr.png -s 12 -m 1 -l M "https://www.italianschoolsd.com/german/"`.
+- `qr.png` ("Scan to enroll") points straight to the enrollment section of the
+  news post and was made with
+  `qrencode -o qr.png -s 12 -m 1 -l M "https://www.italianschoolsd.com/news/2026/11/beginner-german-classes-adults-san-diego-january-2027/#german-beg"`.
+  The printed URL, `/german`, is the permanent German page.
 
 ## Rebuild
 
