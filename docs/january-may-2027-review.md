@@ -14,10 +14,11 @@ Compared the new enrollment pages with the Fall Beginner, Intermediate, Conversa
 ## Preserved behavior
 
 - Separate pages for each level, class descriptions before enrollment, online sections last, and links to individual class sections.
-- All scheduled sections and lesson dates, including the Wednesday online Beginner decision, remain in the shared schedule. The shared-Zoom overlap check still applies between adult sections. The later request for Wednesday Beginner at 6:00-7:30 PM overlaps the existing online teen class at 5:00-7:00 PM; the single-room conflict must be resolved before publication.
+- Andrea confirmed Thursday 6:30-8:00 PM for the in-person Beginner with Silvia on November 26. Its 18 dates now run January 14-May 20, excluding April 1; tuition and enrollment anchors are unchanged.
+- Online Beginner needs another day agreed with Glenda. Its Wednesday 6:00-7:30 PM dates are superseded draft data and must be replaced before publication. The preferred proposal is Saturday 10:15-11:45 AM (18 lessons, January 16-May 22, excluding April 3), with Friday 6:00-7:30 PM as an alternative (17 lessons, January 15-May 21, excluding February 12 and April 2). Neither proposal is teacher-confirmed. The school calendars were checked for the full term: Saturday allows at least 15 minutes after the existing online morning class; Friday evening has no online conflict. The adult-only Zoom regression check does not include children's calendar events.
 - Tuition calculations, family discounts, installment counts, required monthly commitment, January first-charge cutoff, immediate later enrollment, and book tax remain covered by the function tests.
 - The existing Fall enrollment forms keep their published prices, book options, family selectors, and required monthly commitment.
-- Teachers for the new Beginner sections remain unconfirmed in the planning sheet; public pages do not invent assignments. The Saturday spring-break assumption remains documented in the planning sheet and PR.
+- Silvia is assigned to the Thursday Beginner section. Glenda accepted the online course at the old Wednesday time; her availability for a replacement day remains to be confirmed. The Saturday spring-break assumption remains documented in the planning sheet and PR.
 
 ## Validation and limits
 

@@ -11,7 +11,7 @@ class_descriptions:
     Start Italian from the beginning, with no prior experience required. Build practical conversation skills, everyday vocabulary, pronunciation, and core grammar in a supportive, interactive class.
 ---
 
-Start Italian with no prior experience required. Choose Wednesday evening in Kearny Mesa or online, or Friday in Encinitas.
+Start Italian with no prior experience required. Choose Thursday evening in Kearny Mesa, Friday in Encinitas, or an online class.
 
 {{< adult-january-may-2027-facts >}}
 
