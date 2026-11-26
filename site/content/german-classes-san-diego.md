@@ -14,7 +14,7 @@ The group class meets in person once a week at [4550 Kearny Villa Rd, Suite 202,
 
 <div class="tc"><a href="/news/2026/11/beginner-german-classes-adults-san-diego-january-2027/#german-beg" class="btn raise">Current dates, tuition, and enrollment</a></div>
 
-## Your instructor {#instructor}
+## Developed with German Pacific School San Diego {#collaboration}
 
 The beginner class is the result of a collaboration between the Italian school of San Diego and [German Pacific School San Diego](#german-pacific-school), the nonprofit German language and cultural school founded in San Diego in 2013. For a decade, German Pacific School San Diego taught German to children, teens, and adults across the city, offered an Advanced Placement German class authorized by the College Board, and was recognized by the German government to administer the official German Language Diploma exams.
 
@@ -39,7 +39,7 @@ Along the way you build the foundations: pronunciation, essential vocabulary, an
 - **Work:** communicate with German-speaking colleagues, clients, and partners
 - **Culture:** start reading, listening to music, and watching films in the original language
 
-## German Pacific School San Diego {#german-pacific-school}
+## About German Pacific School San Diego {#german-pacific-school}
 
 <img src="/img/world-languages/german-pacific-school-san-diego-logo.png" alt="German Pacific School San Diego logo" width="84" height="120" loading="lazy">
 
