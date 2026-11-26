@@ -32,7 +32,7 @@ products2:
       link: /italian-classes-encinitas/
     - image: /img/illustrations-tutorials.svg
       title: "World languages for adults"
-      text: "In-person beginner German, Spanish, and English classes for adults on Tuesday evenings in Kearny Mesa, starting October 13, 2026. Private lessons online or in person."
+      text: "In-person beginner German and Spanish classes for adults on Tuesday evenings in Kearny Mesa, starting January 19, 2027. Private lessons online or in person."
       link: /world-languages/
 values:
     heading: About

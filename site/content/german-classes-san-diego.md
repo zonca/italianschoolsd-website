@@ -12,7 +12,13 @@ Learn German in a welcoming, structured class designed for adult beginners. Thro
 
 The group class meets in person once a week at [4550 Kearny Villa Rd, Suite 202, San Diego](/location/), in 90-minute classes. It is designed for adults with little or no prior knowledge of German, and is taught mostly in English, gradually adding more German as the course progresses. We launch new classes three times a year, in September, January, and June. The curriculum is developed with the support of the [German Pacific School San Diego](#german-pacific-school). The class is part of our [World Languages program](/world-languages/).
 
-<div class="tc"><a href="/news/2026/09/german-spanish-english-classes-adults-san-diego-october-2026/#german" class="btn raise">Current dates, tuition, and enrollment</a></div>
+<div class="tc"><a href="/news/2026/11/beginner-german-classes-adults-san-diego-january-2027/#german-beg" class="btn raise">Current dates, tuition, and enrollment</a></div>
+
+## Your instructor {#instructor}
+
+The beginner class is the result of a collaboration between the Italian school of San Diego and [German Pacific School San Diego](#german-pacific-school), the nonprofit German language and cultural school founded in San Diego in 2013. For a decade, German Pacific School San Diego taught German to children, teens, and adults across the city, offered an Advanced Placement German class authorized by the College Board, and was recognized by the German government to administer the official German Language Diploma exams.
+
+Through this collaboration, the class is taught by a native German speaker, and the curriculum is developed with the support of German Pacific School San Diego. The course follows *Schritte International Neu* from Hueber Verlag, a widely used textbook series for adult beginners.
 
 ## What you will learn {#course-content}
 
@@ -55,7 +61,7 @@ Mostly in English at first, gradually adding more German as the course progresse
 
 ### When do new classes start?
 
-Three times a year, in September, January, and June. The [current news post](/news/2026/09/german-spanish-english-classes-adults-san-diego-october-2026/#german) has the exact dates, tuition, and enrollment.
+Three times a year, in September, January, and June. The [current news post](/news/2026/11/beginner-german-classes-adults-san-diego-january-2027/#german-beg) has the exact dates, tuition, and enrollment.
 
 ### Can I take private lessons instead?
 
