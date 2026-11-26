@@ -1,7 +1,7 @@
 ---
 title: "World Languages program for adults in San Diego"
 description: German, Spanish, and English classes for adults at the Italian school of San Diego, with in-person group classes in Kearny Mesa and private lessons online or in person.
-image: /img/world-languages/german-classes-san-diego.webp
+image: /img/world-languages/world-languages-flags.webp
 aliases:
     - /languages/
     - /world/
@@ -18,15 +18,15 @@ The Italian school of San Diego has taught Italian to children, teens, and adult
 - **New classes three times a year**, in September, January, and June
 - **Private lessons** in every language, online or in person (see [below](#private-classes))
 
-Dates, tuition, and enrollment for the current classes are always in our latest news post.
+Our next classes start on Tuesday, January 19, 2027. Dates, tuition, and enrollment are on each class page:
 
-<div class="tc"><a href="/news/2026/09/german-spanish-english-classes-adults-san-diego-october-2026/" class="btn raise">Current classes, dates, and enrollment</a></div>
+<div class="tc"><a href="/news/2026/11/beginner-german-classes-adults-san-diego-january-2027/#german-beg" class="btn raise">Beginner German, January 2027</a> <a href="/news/2026/11/beginner-spanish-classes-adults-san-diego-january-2027/#spanish-beg" class="btn raise">Beginner Spanish, January 2027</a></div>
 
 ## Our languages {#languages}
 
 ### German {#german}
 
-A beginner course for adults, with a curriculum developed with the support of the German Pacific School San Diego. Classes are taught mostly in English, gradually adding more German as you progress. [Learn more about our German classes](/german-classes-san-diego/).
+A beginner course for adults, taught by a native German speaker through our collaboration with German Pacific School San Diego, which also supports the curriculum. Classes are taught mostly in English, gradually adding more German as you progress. [Learn more about our German classes](/german-classes-san-diego/).
 
 ### Spanish {#spanish}
 

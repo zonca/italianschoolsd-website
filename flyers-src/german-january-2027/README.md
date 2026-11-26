@@ -1,0 +1,41 @@
+# German January 2027 adult flyer, source
+
+Beginner German for adults, Tuesdays 6:00-7:30 PM, January 19 to March 23,
+2027, in Kearny Mesa. It highlights the curriculum collaboration with German
+Pacific School San Diego. Published at `site/static/flyers/german-january-2027.{png,pdf}`:
+
+- https://www.italianschoolsd.com/flyers/german-january-2027.png
+- https://www.italianschoolsd.com/flyers/german-january-2027.pdf
+
+## Files
+
+- `flyer.html` is the whole design: one 1080x1350 canvas (4:5, Facebook feed and
+  print), adapted from the German October 2026 flyer. Fonts load from Google
+  Fonts and cdnfonts, so the build needs network access. The `@page` rule keeps
+  the PDF on a single page.
+- `logo.png` is the school logo.
+- `gpssd-logo.png` is the German Pacific School San Diego logo, taken from
+  `site/static/img/world-languages/`.
+- `photo.jpg` is the Brandenburg Gate by Pierre-Selim Huard, from Wikimedia
+  Commons (https://commons.wikimedia.org/wiki/File:Berlin_-_0266_-_16052015_-_Brandenburger_Tor.jpg),
+  licensed Creative Commons Attribution 4.0. The license requires the credit
+  line printed on the photo; never remove it.
+- `christmas.jpg` is the Christmas market at the Römer in Frankfurt by Gerda Arendt,
+  from Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Frankfurt_Weihnachtsmarkt,_tree.jpg),
+  public domain (Creative Commons Zero). German Pacific School San Diego asked on
+  2026-10-02 for the Austrian and Swiss flags and an emotional image such as a
+  Christmas market; both are kept because the flyer is shared at German
+  Christmas markets during the holiday season.
+- The Germany, Austria and Switzerland flags are drawn in CSS in `flyer.html`.
+- `qr.png` ("Scan to enroll") points straight to the enrollment section of the
+  news post and was made with
+  `qrencode -o qr.png -s 12 -m 1 -l M "https://www.italianschoolsd.com/news/2026/11/beginner-german-classes-adults-san-diego-january-2027/#german-beg"`.
+  The printed URL, `/german`, is the permanent German page.
+
+## Rebuild
+
+Change the dates or copy in `flyer.html`, run `./build.sh`, inspect the PNG at
+full size and at 360 pixels wide, and commit the regenerated PNG and PDF with
+the source change. Keep the schedule consistent with the current news post
+(`site/content/news/adult-beginner-german-classes-san-diego-january-2027.md`).
+Do not print tuition on the flyer; the `/german` page links to current pricing.
