@@ -8,7 +8,7 @@ description: Enrollment for in-person beginner German classes for adults on Tues
 
 Our [World Languages program](/world-languages/) offers an in-person beginner German class for adults in Kearny Mesa starting on **Tuesday, January 19, 2027**.
 
-The class is designed for adults with little or no prior knowledge of German. It is taught mostly in English, gradually adding more German as the course progresses. The curriculum is developed with the support of [German Pacific School San Diego](/german-classes-san-diego/#german-pacific-school).
+The class is designed for adults with little or no prior knowledge of German. It is taught mostly in English, gradually adding more German as the course progresses. The class is the result of a collaboration with [German Pacific School San Diego](/german-classes-san-diego/#german-pacific-school), the nonprofit German language school founded in San Diego in 2013: it is taught by a native German speaker, with a curriculum developed with their support.
 
 It meets **Tuesdays from 6:00 PM to 7:30 PM**, January 19 to March 23, 2027. The course includes ten 90-minute classes. Tuition is $380 in full or three monthly payments of $139.40.
 

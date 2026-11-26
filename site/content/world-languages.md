@@ -26,7 +26,7 @@ Our next classes start on Tuesday, January 19, 2027. Dates, tuition, and enrollm
 
 ### German {#german}
 
-A beginner course for adults, with a curriculum developed with the support of the German Pacific School San Diego. Classes are taught mostly in English, gradually adding more German as you progress. [Learn more about our German classes](/german-classes-san-diego/).
+A beginner course for adults, taught by a native German speaker through our collaboration with German Pacific School San Diego, which also supports the curriculum. Classes are taught mostly in English, gradually adding more German as you progress. [Learn more about our German classes](/german-classes-san-diego/).
 
 ### Spanish {#spanish}
 
