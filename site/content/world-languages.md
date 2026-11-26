@@ -1,7 +1,7 @@
 ---
 title: "World Languages program for adults in San Diego"
 description: German, Spanish, and English classes for adults at the Italian school of San Diego, with in-person group classes in Kearny Mesa and private lessons online or in person.
-image: /img/world-languages/german-classes-san-diego.webp
+image: /img/world-languages/world-languages-flags.webp
 aliases:
     - /languages/
     - /world/

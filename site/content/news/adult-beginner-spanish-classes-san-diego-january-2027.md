@@ -27,6 +27,8 @@ Build a practical foundation in Spanish through conversation, listening, vocabul
 
 {{< stripe-checkout class="jan-2027-tue-spanish-beg" full="380" monthly="139.40" installments="3" >}}
 
+**Billing starts January 2, 2027.** Enroll now to save your card: full tuition or the first monthly payment is charged on January 2 (Pacific Time), and monthly plans then charge February 2 and March 2. If you enroll on or after January 2, the first payment is charged right away and later monthly payments follow your enrollment date.
+
 Learn more on the [adult Spanish classes in San Diego](/spanish-classes-san-diego/) page.
 
 ---
