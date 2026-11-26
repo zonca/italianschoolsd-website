@@ -1,0 +1,295 @@
+.adult-session {
+  background: #fafcfd;
+  color: var(--black);
+  font-size: 18px;
+  line-height: 1.6;
+}
+
+.session-shell {
+  margin: auto;
+  max-width: 980px;
+  padding: 1.75rem 1rem 4rem;
+}
+
+.session-page-header {
+  margin-bottom: 1.4rem;
+}
+
+.session-back {
+  color: var(--primary);
+  display: inline-block;
+  font-size: 0.9rem;
+  margin-bottom: 1rem;
+  text-decoration: none;
+}
+
+.session-page-header .adult-eyebrow {
+  color: #23634d;
+  margin-bottom: 0.6rem;
+}
+
+.session-page-header h1 {
+  font-size: clamp(2rem, 4vw, 2.75rem);
+  letter-spacing: -0.025em;
+  line-height: 1.1;
+  margin: 0;
+}
+
+.session-level-nav {
+  border-bottom: 1px solid #d9e3e8;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.3rem 1.25rem;
+  margin-top: 1rem;
+}
+
+.session-level-nav a {
+  border-bottom: 3px solid transparent;
+  color: var(--grey-3);
+  font-size: 0.92rem;
+  padding: 0.65rem 0;
+  text-decoration: none;
+}
+
+.session-level-nav a[aria-current="page"] {
+  border-color: var(--primary);
+  color: var(--primary);
+  font-weight: 800;
+}
+
+.adult-session .cms > h2,
+.adult-session .adult-page > h2 {
+  margin: 2.25rem 0 0.75rem;
+}
+
+.session-facts {
+  border-bottom: 1px solid #d9e3e8;
+  border-top: 1px solid #d9e3e8;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem 2rem;
+  margin: 1rem 0;
+  padding: 0.65rem 0;
+}
+
+.session-facts div {
+  flex: 1 1 10rem;
+}
+
+.session-facts dt {
+  color: var(--grey-3);
+  font-size: 0.78em;
+}
+
+.session-facts dd {
+  font-size: 0.95em;
+  font-weight: 800;
+  margin: 0.15rem 0 0;
+}
+
+.cms .session-billing-note {
+  background: #eaf4fa;
+  border-radius: 0.4rem;
+  font-size: 0.9em;
+  line-height: 1.55;
+  margin: 1.25rem 0;
+  padding: 0.9rem 1rem;
+}
+
+.session-class {
+  background: white;
+  border: 1px solid #d9e3e8;
+  border-radius: 0.7rem;
+  box-shadow: 0 3px 12px rgba(25, 65, 85, 0.035);
+  margin: 1.25rem 0;
+  padding: 1.25rem;
+  scroll-margin-top: 1.5rem;
+}
+
+.session-class-header .adult-format {
+  margin: 0 0 0.7rem;
+}
+
+.cms .session-class h2 {
+  font-size: 1.4rem;
+  margin: 0 0 0.5rem;
+}
+
+.cms .session-class-time {
+  font-size: 1.08rem;
+  font-weight: 800;
+  margin: 0;
+}
+
+.session-class-time span {
+  color: var(--grey-3);
+  font-size: 0.85rem;
+  font-weight: 400;
+}
+
+.cms .session-class-meta {
+  color: var(--grey-3);
+  font-size: 0.92em;
+  margin: 0.4rem 0 0;
+}
+
+.adult-session .checkout-options {
+  gap: 0.8rem;
+  grid-template-columns: minmax(0, 1fr);
+  margin: 1.2rem 0;
+}
+
+.session-book {
+  align-items: center;
+  background: #f5f8fa;
+  border-radius: 0.4rem;
+  display: flex;
+  gap: 0.9rem;
+  margin-top: 1rem;
+  padding: 0.8rem;
+}
+
+.cms .session-book img {
+  flex: 0 0 56px;
+  height: auto;
+  margin: 0;
+  width: 56px;
+}
+
+.cms .session-book p,
+.cms .session-book-note {
+  color: var(--grey-3);
+  font-size: 0.85em;
+  line-height: 1.5;
+  margin: 0;
+}
+
+.cms .session-book-note { margin-top: 1rem; }
+
+.adult-session .checkout-card {
+  box-shadow: none;
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  padding: 1rem;
+}
+
+.adult-session .checkout-card-full .checkout-field {
+  width: 100%;
+}
+
+.adult-session .checkout-button {
+  box-shadow: none;
+  margin-top: auto;
+  min-height: 4.25rem;
+  width: 100%;
+}
+
+.adult-session .checkout-button strong {
+  font-size: 1.25rem;
+}
+
+.adult-session .checkout-card-monthly .checkout-button {
+  background: #edf5fb;
+  box-shadow: inset 0 0 0 1px var(--primary);
+  color: var(--primary);
+}
+
+.adult-session .checkout-card-monthly .checkout-button:hover,
+.adult-session .checkout-card-monthly .checkout-button:focus {
+  background: var(--primary);
+  color: white;
+}
+
+.session-dates {
+  border-top: 1px solid #e4ebef;
+  color: var(--grey-3);
+  font-size: 0.9rem;
+  padding-top: 0.85rem;
+}
+
+.session-dates summary {
+  color: var(--primary);
+  cursor: pointer;
+  font-weight: 700;
+}
+
+.session-dates[open] summary {
+  margin-bottom: 0.75rem;
+}
+
+.cms .session-dates ul {
+  display: grid;
+  gap: 0.35rem;
+  grid-template-columns: repeat(auto-fit, minmax(8rem, 1fr));
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.session-dates li {
+  background: #f5f8fa;
+  border-radius: 0.25rem;
+  padding: 0.35rem 0.5rem;
+}
+
+.adult-session .adult-level-grid .btn {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  min-height: 3rem;
+}
+
+.adult-session a:focus-visible,
+.adult-session summary:focus-visible {
+  outline: 3px solid #0d9bff;
+  outline-offset: 4px;
+}
+
+@media (min-width: 38rem) {
+  .adult-session .checkout-options {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+@media (max-width: 30rem) {
+  .session-view > nav > div {
+    display: grid;
+    gap: 0.5rem !important;
+    grid-template-columns: 56px minmax(0, 1fr) minmax(0, 1fr);
+    padding: 12px;
+  }
+  .session-view > nav > div > a,
+  .session-view > nav > div > div {
+    min-width: 0 !important;
+  }
+  .session-view > nav > div > a { width: 56px; }
+  .session-view > nav > div > div > span { font-size: 12px !important; }
+  .session-view #search { padding: 0 !important; }
+  .session-view #search-trigger { font-size: 14px !important; }
+  .session-view #translate-trigger { font-size: 12px; }
+  .session-view #google_translate_element:empty { display: none; }
+  .session-view > nav > ul {
+    display: grid;
+    gap: 0 !important;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    padding: 4px 8px;
+  }
+  .session-view > nav > ul a {
+    align-items: center;
+    display: flex;
+    font-size: 14px;
+    justify-content: center;
+    line-height: 1.3;
+    min-height: 44px;
+    padding: 8px;
+    text-align: center;
+  }
+  .session-shell { padding-top: 1.5rem; }
+  .session-class { padding: 1rem; }
+  .session-facts { gap: 0.75rem; }
+  .session-facts div { flex-basis: calc(50% - 0.75rem); }
+  .session-facts div:last-child { display: none; }
+  .session-level-nav { gap: 0 1rem; }
+  .session-level-nav a { font-size: 0.82rem; }
+}

@@ -30,9 +30,15 @@ jobs:
 
       - name: Test Netlify Functions
         run: yarn test:functions
+
+      - name: Test production styles
+        run: yarn test:styles
       
       - name: Build site with Hugo
-        run: hugo -d dist -s site
+        run: yarn build:hugo
+
+      - name: Test rendered navigation
+        run: yarn test:navigation
       
       - name: Lychee Broken Link Checker
         uses: lycheeverse/lychee-action@v1

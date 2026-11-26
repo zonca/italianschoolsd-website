@@ -1,0 +1,8 @@
+{{- $session := site.Data.adult_january_may_2027 -}}
+{{- $classes := $session.classes -}}
+{{- with .Get "group" -}}
+  {{- $page := index $session.pages . -}}
+  {{- $classes = where $classes "level" "in" $page.levels -}}
+{{- end -}}
+{{- $formats := slice -}}{{- range $classes -}}{{- $formats = $formats | append .format -}}{{- end -}}
+Tuition is {{ if in $formats "Online" }}<strong>{{ printf "$%.2f" (div (float $session.rates.online) 100.0) }} per online class</strong>{{ if in $formats "In person" }} or {{ end }}{{ end }}{{ if in $formats "In person" }}<strong>{{ printf "$%.2f" (div (float $session.rates.in_person) 100.0) }} per in-person class</strong>{{ end }}.

@@ -1,0 +1,11 @@
+<div class="adult-option-grid adult-level-grid">
+{{ range slice "beginner" "intermediate" "advanced" }}
+  {{- $page := index site.Data.adult_january_may_2027.pages . -}}
+  <article class="adult-option-card">
+    <p class="adult-card-kicker">{{ if eq . "beginner" }}Start here{{ else if eq . "intermediate" }}Keep progressing{{ else }}Build fluency{{ end }}</p>
+    <h3 id="january-{{ . }}-classes">{{ $page.label }}</h3>
+    <p>{{ if eq . "beginner" }}No prior Italian needed. In-person and online options.{{ else if eq . "intermediate" }}From beginner-intermediate through intermediate-advanced.{{ else }}Advanced language practice and a dedicated Conversation group.{{ end }}</p>
+    <a href="{{ relref $.Page $page.contentPath }}" class="btn btn-cta" aria-label="View {{ lower $page.label }} classes">View classes</a>
+  </article>
+{{ end }}
+</div>

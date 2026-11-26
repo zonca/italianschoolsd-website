@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="{{ $.Site.Language.Lang }}">
   {{ partial "head" . }}
-  <body class="sans-serif">
+  <body class="sans-serif{{ if eq .Layout "adult-session" }} session-view{{ end }}">
     <a class="skip-link" href="{{ .RelPermalink }}#main-content">Skip to main content</a>
 
     {{ partial "meta-pixel-noscript" . }}

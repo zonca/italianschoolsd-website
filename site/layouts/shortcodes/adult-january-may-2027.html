@@ -1,0 +1,43 @@
+{{- $session := site.Data.adult_january_may_2027 -}}
+{{- $page := index $session.pages (.Get "group") -}}
+{{- $classes := where $session.classes "level" "in" $page.levels -}}
+{{ if eq (.Get "group") "beginner" }}{{ $classes = sort $classes "anchor" }}{{ end }}
+{{ $classes = append (where $classes "format" "Online") (where $classes "format" "ne" "Online") }}
+{{ range $classes }}
+  {{- $rate := cond (eq .format "Online") $session.rates.online $session.rates.in_person -}}
+  {{- $total := mul (len .dates) $rate -}}
+  {{- $monthly := math.Round (div (mul $total (add 100 $session.monthlyFeePercent)) (mul 100 $session.monthlyInstallments)) -}}
+  <section class="session-class" aria-labelledby="{{ .anchor }}">
+    <header class="session-class-header">
+      <span class="adult-format {{ if eq .format "Online" }}adult-format-online{{ else if eq .location "Encinitas" }}adult-format-encinitas{{ else }}adult-format-in-person{{ end }}">{{ .location }}</span>
+      <h2 id="{{ .anchor }}">{{ .day }} {{ lower .level }}</h2>
+      <p class="session-class-time">{{ time.Format "3:04 PM" (printf "2000-01-01T%s:00Z" .startTime) }} - {{ time.Format "3:04 PM" (printf "2000-01-01T%s:00Z" .endTime) }} <span>Pacific Time</span></p>
+      <p class="session-class-meta">{{ time.Format "January 2" (index .dates 0) }} - {{ time.Format "January 2" (index .dates (sub (len .dates) 1)) }} · {{ len .dates }} lessons{{ with .teacher }} · {{ . }}{{ end }}</p>
+    </header>
+    {{ with index $.Page.Params.class_descriptions .level }}
+    <p class="session-class-description">{{ . }}</p>
+    {{ end }}
+    {{ with .bookId }}
+      {{ $book := index site.Data.enrollment_books . }}
+      <div class="session-book">
+        <img src="{{ $book.imagePath }}" width="56" height="76" alt="{{ $book.name }} cover" loading="lazy">
+        <p><strong>{{ $book.name }}</strong><br>Optional book add-on, with classroom pickup. Books and sales tax are charged once with your full payment or first installment.</p>
+      </div>
+    {{ else }}
+      {{ if and (eq .level "Beginner") (eq .format "Online") }}
+      <p class="session-book-note"><strong>Textbook:</strong> {{ (index site.Data.enrollment_books "project1a").name }}.</p>
+      {{ end }}
+    {{ end }}
+    {{ partial "stripe-checkout.html" (dict "class" .id "full" (printf "%.2f" (div (float $total) 100.0)) "monthly" (printf "%.2f" (div (float $monthly) 100.0)) "installments" $session.monthlyInstallments "compact" true "book" .bookId "bookLabel" "Textbook (optional)") }}
+    <details class="session-dates"><summary>Lesson dates and holidays</summary>
+      <p><strong>No class:</strong>
+        {{- if eq .day "Monday" }} January 18, February 15, March 8, and March 29.
+        {{- else if eq .day "Tuesday" }} March 30.
+        {{- else if eq .day "Wednesday" }} March 31.
+        {{- else if eq .day "Thursday" }} April 1.
+        {{- else if eq .day "Friday" }} February 12 and April 2.
+        {{- else }} April 3 (spring break).
+        {{- end -}}
+      </p><ul>{{ range .dates }}<li>{{ time.Format "January 2, 2006" . }}</li>{{ end }}</ul></details>
+  </section>
+{{ end }}
