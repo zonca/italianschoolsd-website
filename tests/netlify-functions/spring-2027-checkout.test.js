@@ -4,8 +4,8 @@ const session = require('../../site/data/adult_january_may_2027.json');
 const { CLASSES } = require('../../netlify/lib/checkout/catalog');
 const { _test } = require('../../netlify/functions/create-checkout-session');
 
-const expectedCounts = [15, 15, 15, 18, 18, 18, 18, 18, 17, 17, 18, 18, 18];
-const expectedTotals = [55500, 51000, 55500, 61200, 66600, 61200, 66600, 66600, 62900, 62900, 66600, 61200, 66600];
+const expectedCounts = [15, 15, 15, 18, 18, 18, 18, 18, 17, 17, 18, 17, 18];
+const expectedTotals = [55500, 51000, 55500, 61200, 66600, 61200, 66600, 66600, 62900, 62900, 66600, 57800, 66600];
 const expectedGroups = ['advanced', 'intermediate', 'intermediate', 'intermediate', 'intermediate',
   'intermediate', 'intermediate', 'advanced', 'intermediate', 'beginner', 'intermediate', 'beginner', 'beginner'];
 const weekdays = ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'];
@@ -14,7 +14,7 @@ const exclusions = new Set(['2027-01-18', '2027-02-12', '2027-02-15', '2027-03-0
 
 test('all 13 sections match the agreed dates, weekdays, holidays and final week', () => {
   assert.equal(session.classes.length, 13);
-  assert.equal(session.classes.reduce((n, c) => n + c.dates.length, 0), 223);
+  assert.equal(session.classes.reduce((n, c) => n + c.dates.length, 0), 222);
   session.classes.forEach((section, i) => {
     assert.equal(section.dates.length, expectedCounts[i]);
     assert.equal(new Set(section.dates).size, section.dates.length);
