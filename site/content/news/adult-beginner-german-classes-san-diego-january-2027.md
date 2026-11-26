@@ -20,7 +20,7 @@ Build a practical foundation in German through conversation, listening, vocabula
 
 - **Schedule:** Tuesdays, 6:00 PM-7:30 PM
 - **Dates:** January 19 to March 23, 2027 (10 classes)
-- **Location:** [4550 Kearny Villa Rd, Suite 202, San Diego](/location/) (free on-site parking, easy access from I-805, SR-163, and SR-52)
+- **Location:** [4550 Kearny Villa Rd, Suite 202, San Diego](/location/) (free on-site parking, easy access from I-805 and SR-163)
 - **Tuition:** $380 in full or three monthly payments of $139.40
 - **Enroll by:** January 14, 2027
 - **Textbook:** *Schritte International Neu 1 (A1.1)*, Hueber Verlag (ISBN 978-3-19-361082-9)
