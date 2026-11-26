@@ -1,7 +1,7 @@
 ---
 title: "In-person adult German classes in San Diego"
 description: In-person beginner German classes for adults in Kearny Mesa, San Diego, focused on conversation and practical communication.
-image: /img/world-languages/german-classes-san-diego.webp
+image: /img/world-languages/german-classes-san-diego-brandenburg.webp
 aliases:
     - /german/
 ---
@@ -72,3 +72,5 @@ Yes, see [private German lessons](#private-lessons) below.
 We also offer private German lessons online, in person at our school in Kearny Mesa, or in person at other locations around San Diego. [Contact us](/contact/) with your goals and schedule.
 
 Questions about the course? [Contact us](/contact/) and we will help you decide whether it is a good fit.
+
+<p class="f6 gray">Header photo: Brandenburg Gate, Berlin, by Pierre-Selim Huard, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>, via <a href="https://commons.wikimedia.org/wiki/File:Berlin_-_0266_-_16052015_-_Brandenburger_Tor.jpg">Wikimedia Commons</a>.</p>
