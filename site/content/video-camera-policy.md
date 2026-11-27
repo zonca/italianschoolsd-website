@@ -1,6 +1,6 @@
 ---
 title: Video camera policy (draft)
-image: /img/firenze.jpg
+image: /img/naples_photographer_1890s.jpg
 subtitle: Cameras at our Kearny Mesa school, what they record and how footage is used
 ---
 
@@ -87,3 +87,7 @@ to resolve it or as required by law.
 Anyone may ask questions about this policy or raise a concern through our
 [contact form](/contact/). No one will be retaliated against for asking a
 question, raising a concern, or objecting to this policy.
+
+*Header photo: a street photographer and boys in Naples, 1890s, unknown
+photographer, public domain
+([Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Scugnizzi_(little_street_boys_of_Naples)_and_photographer_-_1890s.jpg)).*
