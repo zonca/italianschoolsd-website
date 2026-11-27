@@ -56,9 +56,8 @@ wages, hours or other working conditions with each other.
 ## Who can see footage
 
 Only Maura D'Andrea, Managing Member, and Andrea Zonca, Director of Operations,
-can view live or recorded video. A separate account managed by the Director of
-Operations is used only to check and change camera settings. Teachers,
-students and families do not have access to the cameras.
+can view live or recorded video. Teachers, students and families do not have
+access to the cameras.
 
 Footage is not posted, shared on social media, or given to anyone else, except:
 
