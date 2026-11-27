@@ -5,7 +5,7 @@ subtitle: Cameras at our Kearny Mesa school, what they record and how footage is
 ---
 
 Effective date: **January 11, 2027**. Until then, the cameras are switched off
-during classes. We welcome feedback on this policy: please share it through our
+during classes. Feedback on this policy may be submitted through our
 [contact form](/contact/).
 
 Italian school of San Diego LLC uses video cameras at its Kearny Mesa school to
