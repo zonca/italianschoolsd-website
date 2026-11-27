@@ -80,6 +80,6 @@ to resolve it or as required by law.
 
 ## Questions and concerns
 
-Anyone may ask questions about this policy or raise a concern by emailing
-**andrea@italianschoolsd.com**. No one will be retaliated against for asking a
+Anyone may ask questions about this policy or raise a concern through our
+[contact form](/contact/). No one will be retaliated against for asking a
 question, raising a concern, or objecting to this policy.
