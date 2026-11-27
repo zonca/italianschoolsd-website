@@ -1,13 +1,11 @@
 ---
-title: Video camera policy (draft)
+title: Video camera policy
 image: /img/firenze.jpg
 subtitle: Cameras at our Kearny Mesa school, what they record and how footage is used
 ---
 
-**Draft policy.** This policy is shared in advance so that teachers, families
-and staff can review it. If no concerns are raised, it takes effect on
-**January 11, 2027**. Until then, the cameras are switched off during classes. Questions and
-concerns can be sent through our [contact form](/contact/).
+Effective date: **January 11, 2027**. Until then, the cameras are switched off
+during classes.
 
 Italian school of San Diego LLC uses video cameras at its Kearny Mesa school to
 protect the safety and security of students, families, teachers, staff and
