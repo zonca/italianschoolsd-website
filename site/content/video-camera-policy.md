@@ -32,8 +32,9 @@ Policy; the request can be made in any way that policy allows.
 - **Video only.** The indoor cameras do not record sound, their microphones are
   switched off, and their speakers are switched off, so no one can listen to or
   talk into a room through them.
-- **Motion-triggered clips.** The cameras record short clips when they detect a
-  person, not continuous video.
+- **Continuous video during classes.** During scheduled class hours the cameras
+  record continuously. Outside class hours they record short clips only when
+  they detect a person.
 - **No face recognition.** Face recognition and other identification features
   are switched off.
 - **The doorbell** records video and sound only when someone rings the bell.
